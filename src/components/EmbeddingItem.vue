@@ -26,11 +26,9 @@ import {
     faClipboard,
     faThumbsDown,
     faThumbsUp,
-} from '@fortawesome/pro-light-svg-icons'
-import {
     faCloudArrowDown,
-    faImageSlash,
-} from '@fortawesome/pro-regular-svg-icons'
+    faImage as faImageSlash,
+} from '@fortawesome/free-solid-svg-icons'
 import type { Embedding } from '../types/data'
 import { useCartStore } from '../stores/cart'
 import ToggleableTag from './ToggleableTag.vue'

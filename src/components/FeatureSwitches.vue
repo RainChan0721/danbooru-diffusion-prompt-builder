@@ -25,11 +25,11 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import {
     faEye,
     faEyeSlash,
-    faLightbulbOn,
-    faLightbulbSlash,
-    faShieldCheck,
-    faShieldExclamation,
-} from '@fortawesome/pro-light-svg-icons'
+    faLightbulb as faLightbulbOn,
+    faLightbulb as faLightbulbSlash,
+    faShield as faShieldCheck,
+    faShieldHalved as faShieldExclamation,
+} from '@fortawesome/free-solid-svg-icons'
 import { useSettingsStore } from '../stores/settings'
 
 const settingsStore = useSettingsStore()

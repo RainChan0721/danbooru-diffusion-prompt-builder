@@ -3,9 +3,17 @@
 </p>
 <div align="center">
 
-# Danbooru 标签超市
+# Danbooru 标签超市 (全量增强版)
 
-https://tags.novelai.dev
+### 在线体验地址：[https://rainchan0721.github.io/danbooru-diffusion-prompt-builder/](https://rainchan0721.github.io/danbooru-diffusion-prompt-builder/)
+
+> 本仓库为 [wfjsw/danbooru-diffusion-prompt-builder](https://github.com/wfjsw/danbooru-diffusion-prompt-builder) 的全量扩充 Fork 版本。
+> 
+> **本次升级亮点：**
+> 1. **全量词库扩充**：将原版仅 3,366 个标签扩充至 **40,000+ 个结构化分类标签**与 **140,000+ 条 Danbooru 官方热度发帖统计**。
+> 2. **NSFW / 限制级 / 敏感内容全量覆盖**：全量补齐姿势、体位、情趣、成人限定、特殊玩法与各类限制级词汇，均已统一打上 `restricted: true` 标记。
+> 3. **全要素细化归类**：新增动作姿态、服饰装扮、身体特征、神态表情、构图光影、经典角色与热门作品版权等大量细分类目。
+> 4. **零配置部署 (CI/CD)**：移除原版对付费 Font Awesome Pro 的依赖，换用免费开源图标库；原生适配 GitHub Pages 自动化构建与发布。
 
 </div>
 

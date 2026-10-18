@@ -23,8 +23,8 @@ import { ElButton, ElCard, ElImage } from 'element-plus'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import {
     faCloudArrowDown,
-    faImageSlash,
-} from '@fortawesome/pro-regular-svg-icons'
+    faImage as faImageSlash,
+} from '@fortawesome/free-solid-svg-icons'
 import type { Hypernetwork } from '../types/data'
 import ToggleableTag from './ToggleableTag.vue'
 

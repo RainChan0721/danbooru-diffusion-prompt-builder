@@ -29,12 +29,12 @@ import {
 import type { Preset } from '../types/data'
 import { computed, ref } from 'vue'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faImageSlash } from '@fortawesome/pro-regular-svg-icons'
 import {
+    faImage as faImageSlash,
     faClipboard,
     faThumbsDown,
     faThumbsUp,
-} from '@fortawesome/pro-light-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import { useCartStore } from '../stores/cart'
 import { wrapParenByWeight } from '../prompt/serializer'
 import ToggleableTag from './ToggleableTag.vue'

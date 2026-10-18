@@ -30,7 +30,7 @@ import {
     faRepeat,
     faScaleUnbalanced,
     faScaleUnbalancedFlip,
-} from '@fortawesome/pro-regular-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import LiteralWeightIdentifier from './LiteralWeightIdentifier.vue'
 import { useCartStore } from '../stores/cart'
 import type { CartChildItem, CartItem, CartItemSimple } from '../types/cart'

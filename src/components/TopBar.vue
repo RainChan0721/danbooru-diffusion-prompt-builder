@@ -25,7 +25,7 @@ import {
     faBars,
     faCartShopping,
     faMagnifyingGlass,
-} from '@fortawesome/pro-regular-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import { Search as IconSearch } from '@element-plus/icons-vue'
 import ExtLinks from './ExtLinks.vue'
 import FeatureSwitches from './FeatureSwitches.vue'

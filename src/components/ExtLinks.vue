@@ -18,17 +18,16 @@
   ----------------------------------------------------------------------------->
 
 <script setup lang="ts">
-import { faGithub } from '@fortawesome/pro-brands-svg-icons'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import {
-    faMessageBot,
+    faCommentDots as faMessageBot,
     faMagnifyingGlassChart,
     faHouse,
-    faBookOpenCover,
-} from '@fortawesome/pro-solid-svg-icons'
+    faBookOpen as faBookOpenCover,
+} from '@fortawesome/free-solid-svg-icons'
 import { ElTooltip, ElButton } from 'element-plus'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 </script>
-D
 <template>
     <div class="links">
         <ElTooltip content="NovelAI.Dev" :show-after="750">
