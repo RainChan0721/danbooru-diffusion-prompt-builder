@@ -1,0 +1,1288 @@
+name: 自然风光与气候
+category:
+- 自然
+content:
+  star (symbol):
+    name: 星形
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_(symbol).html
+  tree:
+    name: 树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree.html
+    alias:
+    - trees
+  window:
+    name: 窗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/window.html
+  grass:
+    name: 草
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grass.html
+  tan:
+    name: 小麦色(皮肤)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tan.html
+    alias:
+    - suntan
+    - tanned
+    - tanned skin
+  crescent:
+    name: 月牙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crescent.html
+    alias:
+    - crescent moon symbol
+  wind:
+    name: 风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wind.html
+    alias:
+    - windy
+  snow:
+    name: 雪|雪原
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow.html
+  branch:
+    name: 分支
+    wikiURL: https://danbooru.donmai.us/wiki_pages/branch.html
+    alias:
+    - branches
+    - tree branch
+  palm tree:
+    name: 椰树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/palm_tree.html
+    alias:
+    - palm trees
+  beachball:
+    name: 沙滩球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beachball.html
+    alias:
+    - beach ball
+  wind lift:
+    name: 起风效果|上升气流
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wind_lift.html
+    alias:
+    - ecchi no kaze
+    - skirt blow
+    - windlift
+  star print:
+    name: 星形图案|星形印花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_print.html
+  snowflakes:
+    name: 雪花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflakes.html
+    alias:
+    - snowflake
+  christmas tree:
+    name: 圣诞树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/christmas_tree.html
+  lamppost:
+    name: 路灯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lamppost.html
+    alias:
+    - lamp-post
+    - lamp post
+    - street lamp
+    - streetlamp
+    - street light
+  bare tree:
+    name: 枯木
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bare_tree.html
+    alias:
+    - dead tree
+  mountainous horizon:
+    name: 山地地平线
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mountainous_horizon.html
+  star in eye:
+    name: 星星眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_in_eye.html
+    alias:
+    - stars in eye
+  falling leaves:
+    name: 落叶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/falling_leaves.html
+    alias:
+    - blowing leaves
+    - flying leaves
+    - leaves in wind
+  on grass:
+    name: 在草地上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_grass.html
+  autumn:
+    name: 秋天
+    wikiURL: https://danbooru.donmai.us/wiki_pages/autumn.html
+    alias:
+    - fall (season)
+  road sign:
+    name: 路标
+    wikiURL: https://danbooru.donmai.us/wiki_pages/road_sign.html
+    alias:
+    - roadsign
+    - street sign
+    - traffic sign
+  hose:
+    name: 软管
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hose.html
+    alias:
+    - water hose
+  snowman:
+    name: 雪人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowman.html
+  crescent pin:
+    name: 新月形别针
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crescent_pin.html
+    alias:
+    - crescent moon pin
+  afloat:
+    name: 漂浮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/afloat.html
+    alias:
+    - floating in water
+  in tree:
+    name: 在树上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/in_tree.html
+  star halo:
+    name: 星光环
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_halo.html
+  snowflake print:
+    name: 雪花印花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_print.html
+  beach towel:
+    name: 沙滩巾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beach_towel.html
+  tree shade:
+    name: 树荫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree_shade.html
+  industrial pipe:
+    name: 管道（工业）管道（管道）管道
+    wikiURL: https://danbooru.donmai.us/wiki_pages/industrial_pipe.html
+    alias:
+    - pipe (industrial)
+    - pipe (plumbing)
+    - pipes
+    - water pipe
+  shuriken:
+    name: 手里剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shuriken.html
+    alias:
+    - ninja star
+    - throwing stars
+  wind chime:
+    name: 风铃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wind_chime.html
+    alias:
+    - windchime
+  window blinds:
+    name: window blinds
+    wikiURL: https://danbooru.donmai.us/wiki_pages/window_blinds.html
+    alias:
+    - blinds
+  starter pokemon trio:
+    name: 三只宝可梦御三家
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starter_pokemon_trio.html
+  star facial mark:
+    name: 明星脸标
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_facial_mark.html
+  against tree:
+    name: 反对树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/against_tree.html
+  tree stump:
+    name: 树桩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree_stump.html
+  star sticker:
+    name: 星星贴纸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_sticker.html
+  pine tree:
+    name: 松树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pine_tree.html
+  star brooch:
+    name: 星星胸针
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_brooch.html
+  hydrokinesis:
+    name: 水魔法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hydrokinesis.html
+    alias:
+    - water magic
+    - water manipulation
+  blank stare:
+    name: 无主的眼神
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blank_stare.html
+  round window:
+    name: 圆窗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/round_window.html
+  star tattoo:
+    name: 明星纹身
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_tattoo.html
+  star ornament:
+    name: 明星饰品
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_ornament.html
+  screwdriver:
+    name: 螺丝刀
+    wikiURL: https://danbooru.donmai.us/wiki_pages/screwdriver.html
+    alias:
+    - screw driver
+  teruterubouzu:
+    name: 晴天娃娃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/teruterubouzu.html
+    alias:
+    - rain doll
+  snowball:
+    name: 雪球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowball.html
+  window (computing):
+    name: 弹出窗口
+    wikiURL: https://danbooru.donmai.us/wiki_pages/window_(computing).html
+    alias:
+    - pop-up window
+  pinwheel:
+    name: 风车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pinwheel.html
+    alias:
+    - paper windmill
+  stalk in mouth:
+    name: 嘴里有草 嘴里有稻草 嘴里有小树枝 嘴里有小麦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stalk_in_mouth.html
+    alias:
+    - grass in mouth
+    - straw in mouth
+    - twig in mouth
+    - wheat in mouth
+  star of david:
+    name: 六芒星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_of_david.html
+  lattice:
+    name: 格子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lattice.html
+    alias:
+    - chinese window
+  under tree:
+    name: 树下
+    wikiURL: https://danbooru.donmai.us/wiki_pages/under_tree.html
+  windowsill:
+    name: 窗台
+    wikiURL: https://danbooru.donmai.us/wiki_pages/windowsill.html
+    alias:
+    - window sill
+  character signature:
+    name: 含该角色的签名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_signature.html
+  track and field:
+    name: 田径场
+    wikiURL: https://danbooru.donmai.us/wiki_pages/track_and_field.html
+  broken window:
+    name: 破窗户
+    wikiURL: https://danbooru.donmai.us/wiki_pages/broken_window.html
+  joestar birthmark:
+    name: 乔斯达胎记
+    wikiURL: https://danbooru.donmai.us/wiki_pages/joestar_birthmark.html
+  telstar:
+    name: 泰事达牌足球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/telstar.html
+  star guardian (league of legends):
+    name: 星之守护者(英雄联盟)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_guardian_(league_of_legends).html
+  brain:
+    name: 脑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brain.html
+  coconut tree:
+    name: 椰子树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/coconut_tree.html
+  red star:
+    name: 红星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_star.html
+  beach mat:
+    name: 沙滩垫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beach_mat.html
+  wind turbine:
+    name: 风力涡轮机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wind_turbine.html
+  beach volleyball:
+    name: 沙滩排球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beach_volleyball.html
+  snow globe:
+    name: 雪球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_globe.html
+  windsock:
+    name: 风向带|鲤鱼旗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/windsock.html
+  subscribestar username:
+    name: subscribestar username
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subscribestar_username.html
+  drain (object):
+    name: 排水（对象）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drain_(object).html
+  starting future (umamusume):
+    name: 普通种族服装（umumusume）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starting_future_(umamusume).html
+    alias:
+    - common race outfit (umamusume)
+  suikawari:
+    name: 西瓜劈开游戏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/suikawari.html
+    alias:
+    - watermelon splitting game
+  xiangyun:
+    name: xiangyun
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xiangyun.html
+    alias:
+    - whorled clouds
+  ginkgo tree:
+    name: ginkgo tree
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ginkgo_tree.html
+    alias:
+    - gingko tree
+    - ginkgo
+  riverbank:
+    name: 河岸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riverbank.html
+  against window:
+    name: 靠窗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/against_window.html
+  tall grass:
+    name: 高草
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tall_grass.html
+  alpha signature:
+    name: 阿尔法签名(推特用)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alpha_signature.html
+  battlefield:
+    name: 战场
+    wikiURL: https://danbooru.donmai.us/wiki_pages/battlefield.html
+  snow on head:
+    name: 头上的雪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_on_head.html
+  snowboard:
+    name: 滑雪板
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowboard.html
+  'critter pick (honkai: star rail)':
+    name: 'critter pick (honkai: star rail)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/critter_pick_(honkai:_star_rail).html
+  starfighter:
+    name: 星际战斗机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starfighter.html
+  super star (mario):
+    name: super star (mario)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/super_star_(mario).html
+    alias:
+    - power star (mario)
+    - starman (mario)
+  energy barrier:
+    name: 力场
+    wikiURL: https://danbooru.donmai.us/wiki_pages/energy_barrier.html
+    alias:
+    - force field
+  grass root youkai network:
+    name: 草根妖怪网
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grass_root_youkai_network.html
+  snow leopard girl:
+    name: snow leopard girl
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_leopard_girl.html
+  starting block:
+    name: 起跑线
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starting_block.html
+  noctchill (idolmaster):
+    name: noctchill（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/noctchill_(idolmaster).html
+  star trail:
+    name: 星星轨迹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_trail.html
+    alias:
+    - star trailing
+    - star trails
+  stargazing:
+    name: 观星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stargazing.html
+  star balloon:
+    name: 星星气球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_balloon.html
+  grasslands:
+    name: 草原
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grasslands.html
+  fruit tree:
+    name: 果树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fruit_tree.html
+  snowball fight:
+    name: 雪球大战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowball_fight.html
+  star of life:
+    name: 生命之星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_of_life.html
+  shoshinsha mark:
+    name: 新手司机标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoshinsha_mark.html
+    alias:
+    - beginner driver mark
+    - new driver mark
+    - wakaba mark
+  star censor:
+    name: 星御史
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_censor.html
+  cherry tree:
+    name: 樱桃树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cherry_tree.html
+  brain freeze:
+    name: 大脑冻结
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brain_freeze.html
+    alias:
+    - brainfreeze
+  spoken star:
+    name: 口语明星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_star.html
+  through window:
+    name: 透过窗户
+    wikiURL: https://danbooru.donmai.us/wiki_pages/through_window.html
+  grasshopper:
+    name: 蚱蜢
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grasshopper.html
+    alias:
+    - grasshoppers
+  hand on window:
+    name: 手放在窗户上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_window.html
+    alias:
+    - hands on window
+  snow shelter:
+    name: 雪棚
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_shelter.html
+  drainpipe:
+    name: 排水管
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drainpipe.html
+  snow halation:
+    name: 雪光晕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_halation.html
+  lee-enfield:
+    name: 李恩菲尔德
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lee-enfield.html
+  giant tree:
+    name: 巨树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/giant_tree.html
+  sandstar:
+    name: 沙星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sandstar.html
+  star cutout:
+    name: 星星镂空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_cutout.html
+  maple tree:
+    name: 枫树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maple_tree.html
+  star bracelet:
+    name: 星星手链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_bracelet.html
+  energy drain:
+    name: 能量消耗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/energy_drain.html
+  l85:
+    name: l85
+    wikiURL: https://danbooru.donmai.us/wiki_pages/l85.html
+    alias:
+    - enfield sa-80
+  snowflake ornament:
+    name: 雪花装饰品
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_ornament.html
+  starpiece memories (idolmaster):
+    name: 明星回忆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starpiece_memories_(idolmaster).html
+    alias:
+    - starpiece memories
+  after rain:
+    name: 雨后
+    wikiURL: https://danbooru.donmai.us/wiki_pages/after_rain.html
+  window fog:
+    name: 窗雾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/window_fog.html
+  warp star:
+    name: 经星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/warp_star.html
+  anti-rain (girls' frontline):
+    name: 防雨（少女前线）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anti-rain_(girls'_frontline).html
+    alias:
+    - anti-rain (girls frontline)
+  susuki grass:
+    name: 薄草
+    wikiURL: https://danbooru.donmai.us/wiki_pages/susuki_grass.html
+  snow leopard:
+    name: 雪豹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_leopard.html
+  desire driver:
+    name: 欲望司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/desire_driver.html
+  ukrainian flag:
+    name: 乌克兰国旗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ukrainian_flag.html
+  snowboarding:
+    name: 单板滑雪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowboarding.html
+  russo-ukrainian war:
+    name: 俄乌战争
+    wikiURL: https://danbooru.donmai.us/wiki_pages/russo-ukrainian_war.html
+  fir tree:
+    name: 枞树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fir_tree.html
+  aerokinesis:
+    name: 风魔法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aerokinesis.html
+    alias:
+    - wind magic
+    - wind manipulation
+  falling star:
+    name: 流星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/falling_star.html
+  barred window:
+    name: 禁止窗口
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barred_window.html
+  star!! (idolmaster):
+    name: 星星！！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star!!_(idolmaster).html
+    alias:
+    - star!!
+  pokestar studios:
+    name: 扑克之星工作室
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pokestar_studios.html
+  snow sculpture:
+    name: 雪雕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_sculpture.html
+  misty lake:
+    name: 迷雾湖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/misty_lake.html
+  apple tree:
+    name: 苹果树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/apple_tree.html
+  behind tree:
+    name: 树后
+    wikiURL: https://danbooru.donmai.us/wiki_pages/behind_tree.html
+  star rod:
+    name: 星棒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_rod.html
+  tree print:
+    name: 树印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree_print.html
+  frozen lake:
+    name: 结冰的湖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frozen_lake.html
+  star pin:
+    name: 星针
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_pin.html
+  ukraine:
+    name: 乌克兰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ukraine.html
+  stare down:
+    name: 凝视
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stare_down.html
+  snow shovel:
+    name: 雪铲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_shovel.html
+  star of lakshmi:
+    name: 拉克什米之星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_of_lakshmi.html
+  fallen tree:
+    name: 倒下的树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fallen_tree.html
+  beach house:
+    name: 海景房
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beach_house.html
+  star and crescent:
+    name: 星星和新月
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_and_crescent.html
+  chinchilla girl:
+    name: 龙猫女孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chinchilla_girl.html
+  build driver:
+    name: 构建驱动程序
+    wikiURL: https://danbooru.donmai.us/wiki_pages/build_driver.html
+  sprain:
+    name: 扭伤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sprain.html
+  the star (tarot):
+    name: 星星（塔罗牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_star_(tarot).html
+  snowstorm:
+    name: 暴风雪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowstorm.html
+  climbing tree:
+    name: 爬树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/climbing_tree.html
+  revice driver:
+    name: 维修司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/revice_driver.html
+  star block:
+    name: 星块
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_block.html
+  starting brighty (idolmaster):
+    name: 开始明亮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starting_brighty_(idolmaster).html
+    alias:
+    - starting brighty
+  snowquill set (zelda):
+    name: 雪羽套装（塞尔达）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowquill_set_(zelda).html
+  shun goku satsu:
+    name: 即时地狱谋杀
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shun_goku_satsu.html
+    alias:
+    - instant hell murder
+    - raging demon (street fighter)
+  field radio:
+    name: 现场收音机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/field_radio.html
+  double driver:
+    name: 双司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/double_driver.html
+  storm drain:
+    name: 雨水渠
+    wikiURL: https://danbooru.donmai.us/wiki_pages/storm_drain.html
+  stargazy pie:
+    name: 观星派
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stargazy_pie.html
+  at field:
+    name: 在现场
+    wikiURL: https://danbooru.donmai.us/wiki_pages/at_field.html
+  star bit:
+    name: 星位
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_bit.html
+  snowman print:
+    name: 雪人打印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowman_print.html
+  gamer driver:
+    name: 玩家驱动程序
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gamer_driver.html
+  aim-9 sidewinder:
+    name: aim-9响尾蛇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aim-9_sidewinder.html
+  ukrainian text:
+    name: 乌克兰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ukrainian_text.html
+    alias:
+    - ukrainian
+  brain injection:
+    name: 脑部注射
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brain_injection.html
+  start:dash!!:
+    name: 开始：冲！！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/start:dash!!.html
+  orange tree:
+    name: 橘子树
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tree.html
+  ziku driver:
+    name: 子库驱动
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ziku_driver.html
+  death star:
+    name: 死星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/death_star.html
+  raining blood:
+    name: 血雨
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raining_blood.html
+  sanzu river:
+    name: 三足川
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sanzu_river.html
+  wind glider:
+    name: 滑翔机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wind_glider.html
+  bizarre rain:
+    name: 怪雨
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bizarre_rain.html
+  hanging from tree:
+    name: 挂在树上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanging_from_tree.html
+  decadriver:
+    name: 十驱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/decadriver.html
+  palm tree print:
+    name: 棕榈树打印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/palm_tree_print.html
+  boarded windows:
+    name: 登上窗户
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boarded_windows.html
+  lor starcutter:
+    name: 星际争霸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lor_starcutter.html
+  windbreaker:
+    name: 冲锋衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/windbreaker.html
+  green hill zone:
+    name: 青山地带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_hill_zone.html
+  windows logo:
+    name: 窗户标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/windows_logo.html
+  youkai mountain:
+    name: 妖怪山
+    wikiURL: https://danbooru.donmai.us/wiki_pages/youkai_mountain.html
+  mountaintop:
+    name: 山顶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mountaintop.html
+  family tree:
+    name: 家谱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/family_tree.html
+  piledriver (wrestling):
+    name: 打桩机（摔跤）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/piledriver_(wrestling).html
+  saint snow:
+    name: 圣雪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saint_snow.html
+  zero one driver:
+    name: 零一司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zero_one_driver.html
+  solitude rain (love live!):
+    name: 寂寞雨（love live！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/solitude_rain_(love_live!).html
+  pop star:
+    name: 明星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pop_star.html
+  pornstar:
+    name: 色情明星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pornstar.html
+  violetgrass:
+    name: 紫草
+    wikiURL: https://danbooru.donmai.us/wiki_pages/violetgrass.html
+  black star (module):
+    name: 黑星（模组）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_star_(module).html
+  yuru yuri's starting:
+    name: yuru yuri 的开始
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yuru_yuri's_starting.html
+  ghost driver:
+    name: 幽灵司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ghost_driver.html
+  blood on snow:
+    name: 雪上的血
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_snow.html
+  whirlwind:
+    name: 旋风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whirlwind.html
+  star destroyer:
+    name: 星际驱逐舰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_destroyer.html
+  two sidriver:
+    name: 两个侧翼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two_sidriver.html
+  snow angel:
+    name: 雪天使
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_angel.html
+  time signature:
+    name: 拍号
+    wikiURL: https://danbooru.donmai.us/wiki_pages/time_signature.html
+  snow print:
+    name: 雪印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_print.html
+  wizardriver:
+    name: 精灵河
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wizardriver.html
+  snow strawberry (idolmaster):
+    name: 雪草莓（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_strawberry_(idolmaster).html
+  start!! true dreams (love live!):
+    name: 开始！！真正的梦想（爱生活！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/start!!_true_dreams_(love_live!).html
+  hawker harrier:
+    name: 裴海鹞 裴海Harrier 裴海Harrier frs.mk.1 裴海Harrier frs.mk.2 Harrier 海Harrier 海Harrier frs.mk.1 海Harrier frs.mk.2
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hawker_harrier.html
+    alias:
+    - bae harrier
+    - bae sea harrier
+    - bae sea harrier frs.mk.1
+    - bae sea harrier frs.mk.2
+    - harrier
+  sengoku driver:
+    name: 战国司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sengoku_driver.html
+  demons driver:
+    name: 恶魔司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/demons_driver.html
+  ripple star:
+    name: 涟漪之星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ripple_star.html
+  window shopping:
+    name: 逛街
+    wikiURL: https://danbooru.donmai.us/wiki_pages/window_shopping.html
+  evol driver:
+    name: 进化驱动程序
+    wikiURL: https://danbooru.donmai.us/wiki_pages/evol_driver.html
+  mag (phantasy star):
+    name: mag（梦幻之星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mag_(phantasy_star).html
+  kickstarter:
+    name: 启动器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kickstarter.html
+  nameless hill:
+    name: 无名山
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nameless_hill.html
+  raindrop print:
+    name: 雨滴印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raindrop_print.html
+  windsurfing:
+    name: 风帆冲浪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/windsurfing.html
+  after the rain:
+    name: 雨后
+    wikiURL: https://danbooru.donmai.us/wiki_pages/after_the_rain.html
+  ghost (starcraft):
+    name: 幽灵（星际）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ghost_(starcraft).html
+  star voice (module):
+    name: 星之声（模组）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_voice_(module).html
+  f-104 starfighter:
+    name: f-104星际战斗机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/f-104_starfighter.html
+  zero two driver:
+    name: 零二司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zero_two_driver.html
+  kiraboshi (star driver):
+    name: kiraboshi （明星车手）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kiraboshi_(star_driver).html
+  lost driver:
+    name: 丢了司机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lost_driver.html
+  darksider (star wars):
+    name: 暗黑血统（星球大战）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/darksider_(star_wars).html
+  digital rain:
+    name: 数字雨
+    wikiURL: https://danbooru.donmai.us/wiki_pages/digital_rain.html
+  royal starlet (idolmaster):
+    name: 皇家小明星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/royal_starlet_(idolmaster).html
+    alias:
+    - royal starlet
+  telstar 18:
+    name: 电讯之星 18
+    wikiURL: https://danbooru.donmai.us/wiki_pages/telstar_18.html
+  grassy:
+    name: 长满草的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grassy.html
+  forever star (idolmaster):
+    name: 永远的明星（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/forever_star_(idolmaster).html
+  avalon (fate):
+    name: avalon (fate)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/avalon_(fate).html
+    alias:
+    - avalon (fate/stay night)
+  transformation brooch (sailor moon):
+    name: transformation brooch (sailor moon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/transformation_brooch_(sailor_moon).html
+  see-through raincoat:
+    name: see-through raincoat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_raincoat.html
+    alias:
+    - transparent raincoat
+  25-ji nightcord de. (project sekai):
+    name: 25-ji nightcord de. (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/25-ji_nightcord_de._(project_sekai).html
+    alias:
+    - 25-ji night code de. (project sekai)
+  sea slug ears:
+    name: sea slug ears
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sea_slug_ears.html
+  ea (fate):
+    name: ea (fate)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ea_(fate).html
+    alias:
+    - ea (fate/stay night)
+  white raincoat:
+    name: white raincoat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_raincoat.html
+  condenser unit:
+    name: condenser unit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/condenser_unit.html
+    alias:
+    - aircon condenser
+    - air conditioner condenser
+    - outdoor unit
+  desktop (computing):
+    name: desktop (computing)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/desktop_(computing).html
+    alias:
+    - windows desktop
+  sunshower (e.g.o):
+    name: sunshower (e.g.o)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sunshower_(e.g.o).html
+  2011 tohoku earthquake and tsunami:
+    name: 2011 tohoku earthquake and tsunami
+    wikiURL: https://danbooru.donmai.us/wiki_pages/2011_tohoku_earthquake_and_tsunami.html
+    alias:
+    - 2011 sendai earthquake and tsunami
+  moon stick (sailor moon):
+    name: moon stick (sailor moon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/moon_stick_(sailor_moon).html
+    alias:
+    - moon stick
+  seafloor:
+    name: seafloor
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seafloor.html
+    alias:
+    - ocean floor
+  faerie knights (fate):
+    name: faerie knights (fate)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/faerie_knights_(fate).html
+  snowscape:
+    name: snowscape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowscape.html
+  snow leopard boy:
+    name: snow leopard boy
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_leopard_boy.html
+  leaning out of window:
+    name: leaning out of window
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leaning_out_of_window.html
+  christmas star:
+    name: christmas star
+    wikiURL: https://danbooru.donmai.us/wiki_pages/christmas_star.html
+  'astral express (honkai: star rail)':
+    name: 'astral express (honkai: star rail)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/astral_express_(honkai:_star_rail).html
+  subscribestar logo:
+    name: subscribestar logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subscribestar_logo.html
+  window shutter:
+    name: window shutter
+    wikiURL: https://danbooru.donmai.us/wiki_pages/window_shutter.html
+  startend (hololive):
+    name: startend (hololive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/startend_(hololive).html
+  sefirot:
+    name: sefirot
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sefirot.html
+    alias:
+    - tree of life
+  high school girls posing for google street view (meme):
+    name: high school girls posing for google street view (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/high_school_girls_posing_for_google_street_view_(meme).html
+  sun-shaped pupils:
+    name: sun-shaped pupils
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sun-shaped_pupils.html
+  crisis moon compact:
+    name: crisis moon compact
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crisis_moon_compact.html
+  galactic empire (star wars):
+    name: galactic empire (star wars)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/galactic_empire_(star_wars).html
+  shooting star hair ornament:
+    name: shooting star hair ornament
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shooting_star_hair_ornament.html
+  valkyrie (ensemble stars!):
+    name: valkyrie (ensemble stars!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/valkyrie_(ensemble_stars!).html
+  negai wa itsuka asa wo koete (project sekai):
+    name: negai wa itsuka asa wo koete (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/negai_wa_itsuka_asa_wo_koete_(project_sekai).html
+    alias:
+    - hope will someday go beyond the morning (project sekai)
+    - someday this wish will transcend the morning sky (project sekai)
+  theater seating:
+    name: theater seating
+    wikiURL: https://danbooru.donmai.us/wiki_pages/theater_seating.html
+  tokyo skytree:
+    name: tokyo skytree
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tokyo_skytree.html
+  yunjian:
+    name: yunjian
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yunjian.html
+    alias:
+    - cloud collar
+  wink star:
+    name: wink star
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wink_star.html
+  distortion (project moon):
+    name: distortion (project moon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/distortion_(project_moon).html
+  donbei kitsune udon:
+    name: donbei kitsune udon
+    wikiURL: https://danbooru.donmai.us/wiki_pages/donbei_kitsune_udon.html
+  snowflake hat ornament:
+    name: snowflake hat ornament
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_hat_ornament.html
+  crystal star (sailor moon):
+    name: crystal star (sailor moon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crystal_star_(sailor_moon).html
+  sailor moon pose:
+    name: sailor moon pose
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_moon_pose.html
+  character snowman:
+    name: character snowman
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_snowman.html
+  on tree:
+    name: on tree
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_tree.html
+  splendor of tranquil waters (genshin impact):
+    name: splendor of tranquil waters (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/splendor_of_tranquil_waters_(genshin_impact).html
+  sunburst iris:
+    name: sunburst iris
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sunburst_iris.html
+  nissan skyline r34:
+    name: nissan skyline r34
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline_r34.html
+  rain poncho:
+    name: rain poncho
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rain_poncho.html
+  baseball field:
+    name: baseball field
+    wikiURL: https://danbooru.donmai.us/wiki_pages/baseball_field.html
+  arched window:
+    name: arched window
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arched_window.html
+  p14 enfield:
+    name: p14 enfield
+    wikiURL: https://danbooru.donmai.us/wiki_pages/p14_enfield.html
+  birch tree:
+    name: birch tree
+    wikiURL: https://danbooru.donmai.us/wiki_pages/birch_tree.html
+  star map:
+    name: star map
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_map.html
+  field cap:
+    name: field cap
+    wikiURL: https://danbooru.donmai.us/wiki_pages/field_cap.html
+    alias:
+    - patrol cap
+  shooting star (symbol):
+    name: shooting star (symbol)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shooting_star_(symbol).html
+  snow on tree:
+    name: snow on tree
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_on_tree.html
+  street snap:
+    name: street snap
+    wikiURL: https://danbooru.donmai.us/wiki_pages/street_snap.html
+  red ocean:
+    name: red ocean
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_ocean.html
+  beyond the bluesky (idolmaster):
+    name: beyond the bluesky (idolmaster)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beyond_the_bluesky_(idolmaster).html
+  ninjutsu research club (blue archive):
+    name: ninjutsu research club (blue archive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ninjutsu_research_club_(blue_archive).html
+  'trailblazer''s hat (honkai: star rail)':
+    name: 'trailblazer''s hat (honkai: star rail)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trailblazer's_hat_(honkai:_star_rail).html
+  starry skin:
+    name: starry skin
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_skin.html
+    alias:
+    - cosmic skin
+  star on cheek:
+    name: star on cheek
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_on_cheek.html
+  goku and vegeta in the rain (meme):
+    name: goku and vegeta in the rain (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/goku_and_vegeta_in_the_rain_(meme).html
+  sound of a star (e.g.o):
+    name: sound of a star (e.g.o)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sound_of_a_star_(e.g.o).html
+  gourmet research society (blue archive):
+    name: gourmet research society (blue archive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gourmet_research_society_(blue_archive).html
+  star button:
+    name: star button
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_button.html
+  bluesky logo:
+    name: bluesky logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bluesky_logo.html
+  sky mirage:
+    name: sky mirage
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_mirage.html
+  ardor blossom star (e.g.o):
+    name: ardor blossom star (e.g.o)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ardor_blossom_star_(e.g.o).html
+  type-moon heroines:
+    name: type-moon heroines
+    wikiURL: https://danbooru.donmai.us/wiki_pages/type-moon_heroines.html
+  tristar vision (idolmaster):
+    name: tristar vision (idolmaster)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tristar_vision_(idolmaster).html
+  looking through window:
+    name: looking through window
+    wikiURL: https://danbooru.donmai.us/wiki_pages/looking_through_window.html
+  gotcha driver:
+    name: gotcha driver
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gotcha_driver.html
+  nissan skyline r32:
+    name: nissan skyline r32
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline_r32.html
+  'oak cake roll (honkai: star rail)':
+    name: 'oak cake roll (honkai: star rail)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oak_cake_roll_(honkai:_star_rail).html
+  water drop hair ornament:
+    name: water drop hair ornament
+    wikiURL: https://danbooru.donmai.us/wiki_pages/water_drop_hair_ornament.html
+  blue clouds:
+    name: blue clouds
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_clouds.html
+  kitsune dance:
+    name: kitsune dance
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kitsune_dance.html
+  holding moon:
+    name: holding moon
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_moon.html
+  tree-topper:
+    name: tree-topper
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree-topper.html
+  breaking through window:
+    name: breaking through window
+    wikiURL: https://danbooru.donmai.us/wiki_pages/breaking_through_window.html
+  'star rail special pass (honkai: star rail)':
+    name: 'star rail special pass (honkai: star rail)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_rail_special_pass_(honkai:_star_rail).html
+  glowing windows:
+    name: glowing windows
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_windows.html
+  windwheel aster (genshin impact):
+    name: windwheel aster (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/windwheel_aster_(genshin_impact).html
+  enkephalin (project moon):
+    name: enkephalin (project moon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/enkephalin_(project_moon).html
+  crimson moon's semblance (genshin impact):
+    name: crimson moon's semblance (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crimson_moon's_semblance_(genshin_impact).html
+  vega (star):
+    name: vega (star)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vega_(star).html
+  lace-trimmed nightgown:
+    name: lace-trimmed nightgown
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_nightgown.html
+  glowing snowflake:
+    name: glowing snowflake
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_snowflake.html
+  yellow clouds:
+    name: yellow clouds
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_clouds.html
+  purple clouds:
+    name: purple clouds
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_clouds.html
+  night lords:
+    name: night lords
+    wikiURL: https://danbooru.donmai.us/wiki_pages/night_lords.html
+  perfect night (le sserafim):
+    name: perfect night (le sserafim)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/perfect_night_(le_sserafim).html
+  star harmony academy school uniform:
+    name: star harmony academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_harmony_academy_school_uniform.html
+    alias:
+    - star harmony academy uniform
+  holding wind chime:
+    name: holding wind chime
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_wind_chime.html
+  sea bream:
+    name: sea bream
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sea_bream.html
+  rebel alliance (star wars):
+    name: rebel alliance (star wars)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rebel_alliance_(star_wars).html
+  snow camouflage:
+    name: snow camouflage
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_camouflage.html
+    alias:
+    - arctic camouflage
+    - winter camouflage
+  google street view:
+    name: google street view
+    wikiURL: https://danbooru.donmai.us/wiki_pages/google_street_view.html
+  journey in the auspicious snow (girls' frontline):
+    name: journey in the auspicious snow (girls' frontline)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/journey_in_the_auspicious_snow_(girls'_frontline).html
+  holding grass:
+    name: holding grass
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_grass.html
+  thousand yard stare:
+    name: thousand yard stare
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thousand_yard_stare.html
+  altair (star):
+    name: altair (star)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/altair_(star).html
+  deneb (star):
+    name: deneb (star)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deneb_(star).html
+  sessyoin kiara (swimsuit mooncancer) (cosplay):
+    name: sessyoin kiara (swimsuit mooncancer) (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sessyoin_kiara_(swimsuit_mooncancer)_(cosplay).html
+  snow goggles:
+    name: snow goggles
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snow_goggles.html
+  stars we chase (love live!):
+    name: stars we chase (love live!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stars_we_chase_(love_live!).html
+  m1917 enfield:
+    name: m1917 enfield
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m1917_enfield.html
+  'honkai: star rail sticker redraw (meme)':
+    name: 'honkai: star rail sticker redraw (meme)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/honkai:_star_rail_sticker_redraw_(meme).html
+  light reflection (water):
+    name: light reflection (water)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/light_reflection_(water).html
+  kojitsunagi (pattern):
+    name: kojitsunagi (pattern)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kojitsunagi_(pattern).html
+  beacon of the reed sea (genshin impact):
+    name: beacon of the reed sea (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beacon_of_the_reed_sea_(genshin_impact).html
+  uproar (holostars):
+    name: uproar (holostars)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uproar_(holostars).html
+  parting water:
+    name: parting water
+    wikiURL: https://danbooru.donmai.us/wiki_pages/parting_water.html
+  night raven college gym uniform:
+    name: night raven college gym uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/night_raven_college_gym_uniform.html
+  moon (symbol):
+    name: moon (symbol)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/moon_(symbol).html
+  starting gate:
+    name: starting gate
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starting_gate.html
+  star-shaped cookie:
+    name: star-shaped cookie
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star-shaped_cookie.html
+  yellow star:
+    name: yellow star
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_star.html
+  snowflake brooch:
+    name: snowflake brooch
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_brooch.html
+  koi koi cafe (ensemble stars!):
+    name: koi koi cafe (ensemble stars!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koi_koi_cafe_(ensemble_stars!).html
+  holding seashell:
+    name: holding seashell
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_seashell.html
+  tree hollow:
+    name: tree hollow
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree_hollow.html
+    alias:
+    - tree hole
+  nissan skyline r33:
+    name: nissan skyline r33
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline_r33.html
+  'kafka (honkai: star rail) (cosplay)':
+    name: 'kafka (honkai: star rail) (cosplay)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kafka_(honkai:_star_rail)_(cosplay).html
+  red nightgown:
+    name: red nightgown
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_nightgown.html
+  tsunagaru connect (love live!):
+    name: tsunagaru connect (love live!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tsunagaru_connect_(love_live!).html
+  funamusea (style):
+    name: funamusea (style)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/funamusea_(style).html
+  mountain climbing:
+    name: mountain climbing
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mountain_climbing.html
+  adam (ensemble stars!):
+    name: adam (ensemble stars!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adam_(ensemble_stars!).html
+  bonito flakes:
+    name: bonito flakes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bonito_flakes.html
+  taito four seasons figure (vocaloid):
+    name: taito four seasons figure (vocaloid)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taito_four_seasons_figure_(vocaloid).html
+  ukrainian clothes:
+    name: ukrainian clothes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ukrainian_clothes.html
+  shell print:
+    name: shell print
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shell_print.html
+    alias:
+    - seashell print
+  christmas tree print:
+    name: christmas tree print
+    wikiURL: https://danbooru.donmai.us/wiki_pages/christmas_tree_print.html

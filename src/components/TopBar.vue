@@ -18,8 +18,8 @@
   ----------------------------------------------------------------------------->
 
 <script lang="ts" setup>
-import { ref, computed } from 'vue'
-import { ElButton, ElInput } from 'element-plus'
+import { ref, computed, watch } from 'vue'
+import { ElButton, ElInput, ElSelect, ElOption } from 'element-plus'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import {
     faBars,
@@ -30,16 +30,46 @@ import { Search as IconSearch } from '@element-plus/icons-vue'
 import ExtLinks from './ExtLinks.vue'
 import FeatureSwitches from './FeatureSwitches.vue'
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
     search: string
-}>()
-const emit = defineEmits(['update:search', 'expandCategory', 'expandCart'])
+    searchCategory?: string
+}>(), {
+    searchCategory: '',
+})
+const emit = defineEmits(['update:search', 'update:searchCategory', 'expandCategory', 'expandCart'])
 const mobileExpandSearch = ref(false)
 
-const searchTerms = computed({
-    get: () => props.search,
-    set: (value: string) => emit('update:search', value),
+const inputVal = ref(props.search)
+const selectedCategory = ref(props.searchCategory)
+let debounceTimer: any = null
+
+watch(() => props.search, (newVal) => {
+    if (newVal !== inputVal.value) {
+        inputVal.value = newVal
+    }
 })
+
+watch(() => props.searchCategory, (newVal) => {
+    if (newVal !== selectedCategory.value) {
+        selectedCategory.value = newVal
+    }
+})
+
+function onInput(val: string) {
+    if (debounceTimer) clearTimeout(debounceTimer)
+    debounceTimer = setTimeout(() => {
+        emit('update:search', val)
+    }, 150)
+}
+
+function onCategoryChange(val: string) {
+    emit('update:searchCategory', val)
+}
+
+function onClear() {
+    if (debounceTimer) clearTimeout(debounceTimer)
+    emit('update:search', '')
+}
 </script>
 
 <template>
@@ -58,10 +88,35 @@ const searchTerms = computed({
         </div>
         <div class="right split">
             <ElInput
-                v-model="searchTerms"
+                v-model="inputVal"
                 :prefix-icon="IconSearch"
                 class="search"
-                placeholder="搜索" />
+                placeholder="搜索标签、中文名、别名、画师..."
+                clearable
+                @input="onInput"
+                @clear="onClear">
+                <template #prepend>
+                    <ElSelect
+                        v-model="selectedCategory"
+                        placeholder="全部分类"
+                        class="category-select"
+                        style="width: 110px"
+                        @change="onCategoryChange">
+                        <ElOption label="全部分类" value="" />
+                        <ElOption label="🔞 限制级" value="限制级" />
+                        <ElOption label="动作姿态" value="姿势" />
+                        <ElOption label="服饰装扮" value="服饰" />
+                        <ElOption label="身体部位" value="人类" />
+                        <ElOption label="物品道具" value="物品" />
+                        <ElOption label="自然环境" value="自然" />
+                        <ElOption label="人文建筑" value="人文" />
+                        <ElOption label="角色" value="角色" />
+                        <ElOption label="作品版权" value="作品" />
+                        <ElOption label="热门画师" value="画师" />
+                        <ElOption label="负向/质量" value="元标签" />
+                    </ElSelect>
+                </template>
+            </ElInput>
             <div class="mobile-topbar-orig-el">
                 <FeatureSwitches class="switches" />
                 <ExtLinks class="extlinks" />
@@ -107,8 +162,8 @@ const searchTerms = computed({
 }
 
 .search {
-    max-width: 15rem;
-    min-width: 8rem;
+    max-width: 28rem;
+    min-width: 14rem;
 }
 
 @media (max-width: 768px) {

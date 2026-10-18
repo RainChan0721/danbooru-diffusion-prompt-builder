@@ -40,10 +40,12 @@ import { setSearch } from './injections/setSearch'
 const activeSelection = ref<string[]>(['aboutme'])
 
 const searchTerms = ref('')
+const searchCategory = ref('')
 
 function changeSelection(indexPath: string[]) {
     activeSelection.value = indexPath
     searchTerms.value = ''
+    searchCategory.value = ''
 }
 
 interface ComponentList {
@@ -84,6 +86,7 @@ provide(setSearch, setSearchImpl)
         <ElHeader class="bottom-bordered flex mobile-thin-padding">
             <TopBar
                 v-model:search="searchTerms"
+                v-model:search-category="searchCategory"
                 @expand-category="switchAsideExpanded('category')"
                 @expand-cart="switchAsideExpanded('cart')" />
         </ElHeader>
@@ -115,7 +118,11 @@ provide(setSearch, setSearchImpl)
                         :is="mainComponent[activeSelection[0]]"
                         :category="category" />
                 </KeepAlive>
-                <TagSearchShow v-else :search="searchTerms" />
+                <TagSearchShow
+                    v-else
+                    :search="searchTerms"
+                    :category-filter="searchCategory"
+                    @update:category-filter="searchCategory = $event" />
             </ElMain>
             <ElAside
                 :class="[

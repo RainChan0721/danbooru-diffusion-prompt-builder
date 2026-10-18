@@ -1,0 +1,836 @@
+name: 服饰与装扮风格
+category:
+- 人类
+content:
+  sneakers:
+    name: 运动鞋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sneakers.html
+    alias:
+    - tennis shoes
+  topless male:
+    name: 裸上身男性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/topless_male.html
+    alias:
+    - shirtless
+  breast pocket:
+    name: 乳袋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/breast_pocket.html
+    alias:
+    - chest pocket
+    - shirt pocket
+  tasuki:
+    name: 襷
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tasuki.html
+    alias:
+    - kimono sleeve ties
+  unworn clothes:
+    name: unworn clothes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_clothes.html
+    alias:
+    - clothes off
+    - clothes removed
+    - undressed
+  unconventional maid:
+    name: unconventional maid
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unconventional_maid.html
+  reverse outfit:
+    name: 对原款服装反向使用布料
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reverse_outfit.html
+  sideless outfit:
+    name: 侧面没有布料的服饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_outfit.html
+  matching outfits:
+    name: matching outfits
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matching_outfits.html
+    alias:
+    - matching outfit
+  clothes hanger:
+    name: 衣架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clothes_hanger.html
+    alias:
+    - coat hanger
+  fleeing:
+    name: 在逃跑的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fleeing.html
+    alias:
+    - escape
+    - escaping
+    - run away
+    - running away
+  wrestling outfit:
+    name: 摔角服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wrestling_outfit.html
+  millennium cheerleader outfit (blue archive):
+    name: millennium cheerleader outfit (blue archive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/millennium_cheerleader_outfit_(blue_archive).html
+  male maid:
+    name: male maid
+    wikiURL: https://danbooru.donmai.us/wiki_pages/male_maid.html
+  chest of drawers:
+    name: 抽屉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chest_of_drawers.html
+    alias:
+    - dresser
+  gladiator sandals:
+    name: 角斗士靴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gladiator_sandals.html
+    alias:
+    - gladiator boots
+  borrowed design:
+    name: 借鉴的设计
+    wikiURL: https://danbooru.donmai.us/wiki_pages/borrowed_design.html
+    alias:
+    - borrowed costume
+  prison clothes:
+    name: 囚服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/prison_clothes.html
+    alias:
+    - prisoner uniform
+    - prison uniform
+  sukajan:
+    name: 苏卡詹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sukajan.html
+    alias:
+    - souvenir jacket
+  jersey maid:
+    name: jersey maid
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jersey_maid.html
+  rash guard:
+    name: 泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rash_guard.html
+    alias:
+    - swim shirt
+  frontless outfit:
+    name: frontless outfit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frontless_outfit.html
+  victorian maid:
+    name: 维多利亚女佣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/victorian_maid.html
+  bell-bottoms:
+    name: 喇叭裤喇叭裤喇叭裤（裤子）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bell-bottoms.html
+    alias:
+    - bellbottoms
+    - flare pants
+    - flares (pants)
+    - wide-leg pants
+  christian louboutin (brand):
+    name: louboutin（鞋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/christian_louboutin_(brand).html
+    alias:
+    - louboutin (shoes)
+  gaze on me! outfit (umamusume):
+    name: 看着我！服装（umamusume）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gaze_on_me!_outfit_(umamusume).html
+  diamond clan outfit:
+    name: 钻石氏族装备
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_clan_outfit.html
+  adjusting shoe:
+    name: 调整鞋子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_shoe.html
+    alias:
+    - adjusting shoes
+  maid leotard:
+    name: 女仆紧身连衣裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maid_leotard.html
+  old maid:
+    name: 老处女
+    wikiURL: https://danbooru.donmai.us/wiki_pages/old_maid.html
+  qi maid:
+    name: 中国女佣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/qi_maid.html
+    alias:
+    - chinese maid
+  jika-tabi:
+    name: 地衣旅
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jika-tabi.html
+    alias:
+    - tabi boots
+  iron maiden:
+    name: 铁娘子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iron_maiden.html
+  adjusting sock:
+    name: 调整袜子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_sock.html
+    alias:
+    - adjusting socks
+  riding outfit:
+    name: 骑装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riding_outfit.html
+    alias:
+    - equestrian outfit
+  outfit connection:
+    name: 服装连接
+    wikiURL: https://danbooru.donmai.us/wiki_pages/outfit_connection.html
+  agatha chris q outfit (touhou):
+    name: agatha chris q outfit （东方）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/agatha_chris_q_outfit_(touhou).html
+  maid fairy tale (idolmaster):
+    name: 女仆童话
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maid_fairy_tale_(idolmaster).html
+    alias:
+    - maid fairy tale
+  glove cutout:
+    name: glove cutout
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glove_cutout.html
+    alias:
+    - cutout gloves
+  fold-over gloves:
+    name: fold-over gloves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fold-over_gloves.html
+  no cape:
+    name: no cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_cape.html
+    alias:
+    - no capelet
+    - no cloak
+  putting on footwear:
+    name: putting on footwear
+    wikiURL: https://danbooru.donmai.us/wiki_pages/putting_on_footwear.html
+    alias:
+    - putting on boots
+    - putting on shoes
+  backless shirt:
+    name: backless shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/backless_shirt.html
+  sweater guard:
+    name: sweater guard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_guard.html
+  shirt partially removed:
+    name: shirt partially removed
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_partially_removed.html
+  unworn kimono:
+    name: unworn kimono
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_kimono.html
+    alias:
+    - kimono removed
+  jester costume:
+    name: jester costume
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jester_costume.html
+  living doll uniform:
+    name: living doll uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/living_doll_uniform.html
+  unofficial precure costume:
+    name: unofficial precure costume
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unofficial_precure_costume.html
+  argyle socks:
+    name: argyle socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_socks.html
+  see-through bikini:
+    name: see-through bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_bikini.html
+  red slingshot swimsuit:
+    name: red slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_slingshot_swimsuit.html
+  jacket over hoodie:
+    name: jacket over hoodie
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jacket_over_hoodie.html
+  black headdress:
+    name: black headdress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_headdress.html
+  feather coat:
+    name: feather coat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/feather_coat.html
+  holding unworn skirt:
+    name: holding unworn skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_unworn_skirt.html
+    alias:
+    - holding skirt
+  glitter dress:
+    name: glitter dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glitter_dress.html
+  holding unworn dress:
+    name: holding unworn dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_unworn_dress.html
+    alias:
+    - holding dress
+  swimsuit hanger:
+    name: swimsuit hanger
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_hanger.html
+  akademiya uniform:
+    name: akademiya uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/akademiya_uniform.html
+  blue slingshot swimsuit:
+    name: blue slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_slingshot_swimsuit.html
+  asymmetrical dress:
+    name: asymmetrical dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_dress.html
+  two-tone capelet:
+    name: two-tone capelet
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_capelet.html
+  shirt under sweater:
+    name: shirt under sweater
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_under_sweater.html
+  two-sided gloves:
+    name: two-sided gloves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_gloves.html
+  untied bikini bottom:
+    name: untied bikini bottom
+    wikiURL: https://danbooru.donmai.us/wiki_pages/untied_bikini_bottom.html
+  zaft uniform:
+    name: zaft uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zaft_uniform.html
+  cross-laced one-piece swimsuit:
+    name: cross-laced one-piece swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_one-piece_swimsuit.html
+  pants lift:
+    name: pants lift
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pants_lift.html
+  see-through skirt layer:
+    name: see-through skirt layer
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_skirt_layer.html
+  purple slingshot swimsuit:
+    name: purple slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_slingshot_swimsuit.html
+  unofficial sailor senshi uniform:
+    name: unofficial sailor senshi uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unofficial_sailor_senshi_uniform.html
+    alias:
+    - sailor senshi costume
+  two-tone socks:
+    name: two-tone socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_socks.html
+  wing cape:
+    name: wing cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wing_cape.html
+  tuxedo shirt:
+    name: tuxedo shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tuxedo_shirt.html
+  unworn sweater:
+    name: unworn sweater
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_sweater.html
+    alias:
+    - sweater removed
+  tracen winter coat:
+    name: tracen winter coat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tracen_winter_coat.html
+  g-suit:
+    name: g-suit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/g-suit.html
+  uniform series (idolmaster):
+    name: uniform series (idolmaster)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uniform_series_(idolmaster).html
+  honnoji academy uniform:
+    name: honnoji academy uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/honnoji_academy_uniform.html
+  hololive summer 2022 swimsuit:
+    name: hololive summer 2022 swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hololive_summer_2022_swimsuit.html
+  mixed maids:
+    name: mixed maids
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mixed_maids.html
+  sweater under shirt:
+    name: sweater under shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_under_shirt.html
+  hebijo academy uniform:
+    name: hebijo academy uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hebijo_academy_uniform.html
+  mismatched socks:
+    name: mismatched socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_socks.html
+  santa capelet:
+    name: santa capelet
+    wikiURL: https://danbooru.donmai.us/wiki_pages/santa_capelet.html
+  see-through dress layer:
+    name: see-through dress layer
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_dress_layer.html
+  quilted jacket:
+    name: quilted jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/quilted_jacket.html
+  ooarai volleyball uniform:
+    name: ooarai volleyball uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ooarai_volleyball_uniform.html
+  floral print shirt:
+    name: floral print shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_shirt.html
+  kessoku band t-shirt:
+    name: kessoku band t-shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kessoku_band_t-shirt.html
+  polished shoes:
+    name: polished shoes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polished_shoes.html
+  mikumo squad's uniform:
+    name: mikumo squad's uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mikumo_squad's_uniform.html
+  pink slingshot swimsuit:
+    name: pink slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_slingshot_swimsuit.html
+  blue overskirt:
+    name: blue overskirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_overskirt.html
+  black overskirt:
+    name: black overskirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_overskirt.html
+  mischievous straight uniform (blue archive):
+    name: mischievous straight uniform (blue archive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mischievous_straight_uniform_(blue_archive).html
+    alias:
+    - aris (idol) (blue archive)
+    - aru (idol) (blue archive)
+    - hifumi (idol) (blue archive)
+    - yuuka (idol) (blue archive)
+  asymmetrical skirt:
+    name: asymmetrical skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_skirt.html
+  turtleneck one-piece swimsuit:
+    name: turtleneck one-piece swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/turtleneck_one-piece_swimsuit.html
+  unworn cloak:
+    name: unworn cloak
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_cloak.html
+    alias:
+    - cloak removed
+  unworn hoodie:
+    name: unworn hoodie
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hoodie.html
+    alias:
+    - hoodie removed
+  cross-laced jacket:
+    name: cross-laced jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_jacket.html
+  hanzou academy uniform:
+    name: hanzou academy uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanzou_academy_uniform.html
+  modakawa dress:
+    name: modakawa dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/modakawa_dress.html
+  floral print skirt:
+    name: floral print skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_skirt.html
+  single leg bodysuit:
+    name: single leg bodysuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_leg_bodysuit.html
+  spiked cape:
+    name: spiked cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_cape.html
+  black track suit:
+    name: black track suit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_track_suit.html
+  feather-trimmed dress:
+    name: feather-trimmed dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/feather-trimmed_dress.html
+  two-sided hoodie:
+    name: two-sided hoodie
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_hoodie.html
+  padded cloak:
+    name: padded cloak
+    wikiURL: https://danbooru.donmai.us/wiki_pages/padded_cloak.html
+  florida bikini:
+    name: florida bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/florida_bikini.html
+  marine uniform (one piece):
+    name: marine uniform (one piece)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marine_uniform_(one_piece).html
+  bikini bottom lift:
+    name: bikini bottom lift
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_bottom_lift.html
+  no-show socks:
+    name: no-show socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no-show_socks.html
+  lace shirt:
+    name: lace shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_shirt.html
+  unbuttoned jacket:
+    name: unbuttoned jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoned_jacket.html
+  leopard print bikini:
+    name: leopard print bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leopard_print_bikini.html
+  duffel jacket:
+    name: duffel jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/duffel_jacket.html
+  closed lab coat:
+    name: closed lab coat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/closed_lab_coat.html
+    alias:
+    - closed labcoat
+  bikini bottom around leg:
+    name: bikini bottom around leg
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_bottom_around_leg.html
+  liquid dress:
+    name: liquid dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/liquid_dress.html
+  tempura costume:
+    name: tempura costume
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tempura_costume.html
+  backless bodysuit:
+    name: backless bodysuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/backless_bodysuit.html
+  blue undershirt:
+    name: blue undershirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_undershirt.html
+  wet bikini:
+    name: wet bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wet_bikini.html
+  strapless kimono:
+    name: strapless kimono
+    wikiURL: https://danbooru.donmai.us/wiki_pages/strapless_kimono.html
+  green slingshot swimsuit:
+    name: green slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_slingshot_swimsuit.html
+  shirttail:
+    name: shirttail
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shirttail.html
+  pumpkin-shaped pants:
+    name: pumpkin-shaped pants
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pumpkin-shaped_pants.html
+  origami family's elite guard uniform:
+    name: origami family's elite guard uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/origami_family's_elite_guard_uniform.html
+  tactical maid:
+    name: tactical maid
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tactical_maid.html
+  yellow slingshot swimsuit:
+    name: yellow slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_slingshot_swimsuit.html
+  tracen ondo outfit (umamusume):
+    name: tracen ondo outfit (umamusume)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tracen_ondo_outfit_(umamusume).html
+  see-through capelet:
+    name: see-through capelet
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_capelet.html
+  button up skirt:
+    name: button up skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/button_up_skirt.html
+  compass uniform:
+    name: compass uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/compass_uniform.html
+  purple jumpsuit:
+    name: purple jumpsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_jumpsuit.html
+  polka dot socks:
+    name: polka dot socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_socks.html
+  miao clothes:
+    name: miao clothes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/miao_clothes.html
+    alias:
+    - hmong clothes
+    - miao dress
+  gokugetsu academy uniform:
+    name: gokugetsu academy uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gokugetsu_academy_uniform.html
+  gessen academy uniform:
+    name: gessen academy uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gessen_academy_uniform.html
+  gold cape:
+    name: gold cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_cape.html
+  grey undershirt:
+    name: grey undershirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_undershirt.html
+  excalibur academy uniform:
+    name: excalibur academy uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/excalibur_academy_uniform.html
+  lace-trimmed socks:
+    name: lace-trimmed socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_socks.html
+  leather dress:
+    name: leather dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leather_dress.html
+  hasu no sora gym uniform:
+    name: hasu no sora gym uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hasu_no_sora_gym_uniform.html
+  puffy coat:
+    name: puffy coat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_coat.html
+  anti-demon corps uniform:
+    name: anti-demon corps uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anti-demon_corps_uniform.html
+  orange sweater vest:
+    name: orange sweater vest
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sweater_vest.html
+  floral print pants:
+    name: floral print pants
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_pants.html
+  shell jacket:
+    name: shell jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shell_jacket.html
+  feather cape:
+    name: feather cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/feather_cape.html
+  oversized jacket:
+    name: oversized jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_jacket.html
+  wet socks:
+    name: wet socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wet_socks.html
+  pantyhose under pants:
+    name: pantyhose under pants
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pantyhose_under_pants.html
+    alias:
+    - pantyhose under trousers
+  purple undershirt:
+    name: purple undershirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_undershirt.html
+  tassel-trimmed capelet:
+    name: tassel-trimmed capelet
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tassel-trimmed_capelet.html
+  multicolored socks:
+    name: multicolored socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_socks.html
+  mindscape cinema (zenless zone zero):
+    name: mindscape cinema (zenless zone zero)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mindscape_cinema_(zenless_zone_zero).html
+  hev suit:
+    name: hev suit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hev_suit.html
+  red undershirt:
+    name: red undershirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_undershirt.html
+  gradient coat:
+    name: gradient coat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_coat.html
+  single-shoulder bikini:
+    name: single-shoulder bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single-shoulder_bikini.html
+  asymmetrical coat:
+    name: asymmetrical coat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_coat.html
+  polka dot one-piece swimsuit:
+    name: polka dot one-piece swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_one-piece_swimsuit.html
+  sweater under dress:
+    name: sweater under dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_under_dress.html
+  gravity suit (metroid):
+    name: gravity suit (metroid)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gravity_suit_(metroid).html
+    alias:
+    - gravity suit
+  ninomiya squad's uniform:
+    name: ninomiya squad's uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ninomiya_squad's_uniform.html
+  checkered socks:
+    name: checkered socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_socks.html
+  fingernail gloves:
+    name: fingernail gloves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fingernail_gloves.html
+  maid one-piece swimsuit:
+    name: maid one-piece swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maid_one-piece_swimsuit.html
+    alias:
+    - maid swimsuit
+  tent dress:
+    name: tent dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tent_dress.html
+  fur-trimmed hoodie:
+    name: fur-trimmed hoodie
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_hoodie.html
+  high-waist dress:
+    name: high-waist dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/high-waist_dress.html
+  nice knee socks day:
+    name: nice knee socks day
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nice_knee_socks_day.html
+  konohagakure anbu uniform:
+    name: konohagakure anbu uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/konohagakure_anbu_uniform.html
+  jacket over head:
+    name: jacket over head
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jacket_over_head.html
+  sweater partially tucked in:
+    name: sweater partially tucked in
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_partially_tucked_in.html
+  green undershirt:
+    name: green undershirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_undershirt.html
+  see-through socks:
+    name: see-through socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_socks.html
+  summer maid coord:
+    name: summer maid coord
+    wikiURL: https://danbooru.donmai.us/wiki_pages/summer_maid_coord.html
+  gold headdress:
+    name: gold headdress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_headdress.html
+  backless kimono:
+    name: backless kimono
+    wikiURL: https://danbooru.donmai.us/wiki_pages/backless_kimono.html
+  kimono partially removed:
+    name: kimono partially removed
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kimono_partially_removed.html
+  adjusting dress:
+    name: adjusting dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_dress.html
+  fur-trimmed jumpsuit:
+    name: fur-trimmed jumpsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_jumpsuit.html
+  silver bodysuit:
+    name: silver bodysuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_bodysuit.html
+  fur dress:
+    name: fur dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur_dress.html
+  dry suit:
+    name: dry suit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dry_suit.html
+  plaid one-piece swimsuit:
+    name: plaid one-piece swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_one-piece_swimsuit.html
+  ikoma squad's uniform:
+    name: ikoma squad's uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ikoma_squad's_uniform.html
+  holding cloak:
+    name: holding cloak
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_cloak.html
+  hobble skirt:
+    name: hobble skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hobble_skirt.html
+  gingham shirt:
+    name: gingham shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gingham_shirt.html
+  cape clasp:
+    name: cape clasp
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cape_clasp.html
+  argyle jacket:
+    name: argyle jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_jacket.html
+  arashiyama squad's uniform:
+    name: arashiyama squad's uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arashiyama_squad's_uniform.html
+  gold jacket:
+    name: gold jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_jacket.html
+  china tracksuit:
+    name: china tracksuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/china_tracksuit.html
+    alias:
+    - china jersey
+  tachikawa squad's uniform:
+    name: tachikawa squad's uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tachikawa_squad's_uniform.html
+  argyle pants:
+    name: argyle pants
+    wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_pants.html
+  bokutachi no seizon tousou (project sekai):
+    name: bokutachi no seizon tousou (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bokutachi_no_seizon_tousou_(project_sekai).html
+    alias:
+    - our escape for survival (project sekai)
+    - we escape to survive (project sekai)
+  lace socks:
+    name: lace socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_socks.html
+  nijisanji symphonia concert uniform:
+    name: nijisanji symphonia concert uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nijisanji_symphonia_concert_uniform.html
+  linked bikini:
+    name: linked bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/linked_bikini.html
+  aqua sweater vest:
+    name: aqua sweater vest
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_sweater_vest.html
+  completionist cape (runescape):
+    name: completionist cape (runescape)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/completionist_cape_(runescape).html
+  frayed skirt:
+    name: frayed skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frayed_skirt.html
+  maginot military uniform:
+    name: maginot military uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maginot_military_uniform.html
+  princess rosa costume:
+    name: princess rosa costume
+    wikiURL: https://danbooru.donmai.us/wiki_pages/princess_rosa_costume.html
+  dark signer uniform:
+    name: dark signer uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dark_signer_uniform.html
+  work boots:
+    name: work boots
+    wikiURL: https://danbooru.donmai.us/wiki_pages/work_boots.html
+  nijisanji fes t-shirt:
+    name: nijisanji fes t-shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nijisanji_fes_t-shirt.html
+  character costume:
+    name: character costume
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_costume.html
+  fur-trimmed socks:
+    name: fur-trimmed socks
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_socks.html
+  sleeveless turtleneck shirt:
+    name: sleeveless turtleneck shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck_shirt.html
+  gingham bikini:
+    name: gingham bikini
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gingham_bikini.html
+  blanket cape:
+    name: blanket cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blanket_cape.html
+  putting on jacket:
+    name: putting on jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/putting_on_jacket.html
+  elmo dormitory outfit:
+    name: elmo dormitory outfit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elmo_dormitory_outfit.html
+  sanbaka anniversary outfit:
+    name: sanbaka anniversary outfit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sanbaka_anniversary_outfit.html
+  ugly sweater:
+    name: ugly sweater
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ugly_sweater.html
+  flushed face emoji shirt (meme):
+    name: flushed face emoji shirt (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flushed_face_emoji_shirt_(meme).html
+  extended upshirt:
+    name: extended upshirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/extended_upshirt.html
+  aoba johsai volleyball uniform:
+    name: aoba johsai volleyball uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aoba_johsai_volleyball_uniform.html
+  orange suit:
+    name: orange suit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_suit.html
+  latex jacket:
+    name: latex jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/latex_jacket.html
+  lace-trimmed jacket:
+    name: lace-trimmed jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_jacket.html
+  blue surcoat:
+    name: blue surcoat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_surcoat.html
+  summer uniform series (idolmaster):
+    name: summer uniform series (idolmaster)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/summer_uniform_series_(idolmaster).html
+  bikini visible through clothes:
+    name: bikini visible through clothes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_visible_through_clothes.html
+  two-sided shirt:
+    name: two-sided shirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_shirt.html
+  shirt over dress:
+    name: shirt over dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_over_dress.html
+  kageura squad's uniform:
+    name: kageura squad's uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kageura_squad's_uniform.html
+  coat on head:
+    name: coat on head
+    wikiURL: https://danbooru.donmai.us/wiki_pages/coat_on_head.html
+  tres bien maid uniform:
+    name: tres bien maid uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tres_bien_maid_uniform.html
+  khaki pants:
+    name: khaki pants
+    wikiURL: https://danbooru.donmai.us/wiki_pages/khaki_pants.html
+  fur-lined gloves:
+    name: fur-lined gloves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-lined_gloves.html
+  frilled cloak:
+    name: frilled cloak
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_cloak.html
+  button dress:
+    name: button dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/button_dress.html
+  lace skirt:
+    name: lace skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_skirt.html
+  hand in another's pants:
+    name: hand in another's pants
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_another's_pants.html
+  gold slingshot swimsuit:
+    name: gold slingshot swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_slingshot_swimsuit.html

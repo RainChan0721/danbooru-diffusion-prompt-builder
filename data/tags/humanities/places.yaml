@@ -1,0 +1,1105 @@
+name: 场景建筑与设施
+category:
+- 人文
+content:
+  puffy long sleeves:
+    name: 蓬蓬的长袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_long_sleeves.html
+    alias:
+    - bishop sleeves
+    - long puffy sleeves
+  tabard:
+    name: 搭肩衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tabard.html
+  door:
+    name: 门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/door.html
+    alias:
+    - doors
+  school desk:
+    name: 课桌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_desk.html
+  bare back:
+    name: 裸背
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bare_back.html
+  torii:
+    name: 鸟居
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torii.html
+    alias:
+    - shrine gate
+    - torii (gate)
+    - torii gate
+  sliding doors:
+    name: 移动门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sliding_doors.html
+    alias:
+    - sliding door
+  barbell piercing:
+    name: 杠铃穿刺
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbell_piercing.html
+  doorway:
+    name: 玄关
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doorway.html
+  shouji:
+    name: 障子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shouji.html
+    alias:
+    - japanese sliding door
+    - screen door
+  bar (place):
+    name: 酒吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bar_(place).html
+    alias:
+    - pub
+  hallway:
+    name: 大厅
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hallway.html
+    alias:
+    - corridor
+    - school hall
+  balcony:
+    name: 阳台
+    wikiURL: https://danbooru.donmai.us/wiki_pages/balcony.html
+  pool ladder:
+    name: 泳池扶梯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pool_ladder.html
+  barcode tattoo:
+    name: 条形码纹身
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barcode_tattoo.html
+  barrel:
+    name: 桶子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barrel.html
+  health bar:
+    name: 血量槽|HP|血条
+    wikiURL: https://danbooru.donmai.us/wiki_pages/health_bar.html
+    alias:
+    - hp bar
+    - lifebar
+  electrokinesis:
+    name: 动电
+    wikiURL: https://danbooru.donmai.us/wiki_pages/electrokinesis.html
+    alias:
+    - electricity manipulation
+  school emblem:
+    name: 校徽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_emblem.html
+  pov doorway:
+    name: pov门口
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pov_doorway.html
+  blue tabard:
+    name: 蓝色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_tabard.html
+  school briefcase:
+    name: 学校公文包
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_briefcase.html
+  bar stool:
+    name: 酒吧椅子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bar_stool.html
+  traffic cone:
+    name: 路障
+    wikiURL: https://danbooru.donmai.us/wiki_pages/traffic_cone.html
+    alias:
+    - pylon (traffic)
+    - road cone
+    - traffic cones
+  bartender:
+    name: 酒保
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bartender.html
+  shopping:
+    name: 购物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shopping.html
+  pool of blood:
+    name: 血池
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pool_of_blood.html
+    alias:
+    - blood pool
+    - puddle of blood
+  hospital gown:
+    name: 病号服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hospital_gown.html
+  drum (container):
+    name: 桶(容器)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drum_(container).html
+    alias:
+    - metal drum
+    - oil barrel
+    - oil drum
+  grill:
+    name: 烤架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grill.html
+    alias:
+    - barbecue (object)
+    - bbq (object)
+  bishop (chess):
+    name: 主教(国际象棋)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishop_(chess).html
+  storefront:
+    name: 店面
+    wikiURL: https://danbooru.donmai.us/wiki_pages/storefront.html
+  sand castle:
+    name: 沙堡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sand_castle.html
+    alias:
+    - sandcastle
+  crowbar:
+    name: 撬棍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crowbar.html
+  single bare leg:
+    name: 单光腿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_bare_leg.html
+  hakurei shrine:
+    name: 博丽神社
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hakurei_shrine.html
+  gumroad username:
+    name: gumroad用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gumroad_username.html
+  red tabard:
+    name: 红色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_tabard.html
+  rei no pool:
+    name: 那个游泳池
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rei_no_pool.html
+    alias:
+    - hanazono room
+    - that pool
+    - the usual pool
+  single bare foot:
+    name: single bare foot
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_bare_foot.html
+    alias:
+    - single barefoot
+  bathhouse:
+    name: 公共浴室钱汤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bathhouse.html
+    alias:
+    - public bath
+    - sento
+  purple tabard:
+    name: 紫色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_tabard.html
+  grilling:
+    name: 烧烤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grilling.html
+    alias:
+    - barbecue (activity)
+    - bbq (activity)
+  doorknob:
+    name: 门把手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doorknob.html
+  transmission tower:
+    name: 电塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/transmission_tower.html
+    alias:
+    - electricity pylon
+  housewife:
+    name: 家庭主妇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/housewife.html
+    alias:
+    - house wife
+  bars:
+    name: 酒吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bars.html
+  barbell:
+    name: 杠铃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbell.html
+  barcode scanner:
+    name: 扫码机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barcode_scanner.html
+  cue stick:
+    name: 台球杆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cue_stick.html
+    alias:
+    - pool cue
+  shopping basket:
+    name: 购物篮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shopping_basket.html
+  kindergarten:
+    name: 幼儿园
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kindergarten.html
+    alias:
+    - preschool
+  board eraser:
+    name: 黑板擦教室橡皮擦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/board_eraser.html
+    alias:
+    - chalkboard eraser
+    - classroom eraser
+  boom barrier:
+    name: 围栏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boom_barrier.html
+  billiard ball:
+    name: 母球台球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/billiard_ball.html
+    alias:
+    - cue ball
+    - pool ball
+    - snooker ball
+  door handle:
+    name: 门把手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/door_handle.html
+  empty pool:
+    name: 空池
+    wikiURL: https://danbooru.donmai.us/wiki_pages/empty_pool.html
+  store clerk:
+    name: 店员
+    wikiURL: https://danbooru.donmai.us/wiki_pages/store_clerk.html
+  wooden door:
+    name: 木质门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_door.html
+  brick road:
+    name: 砖路
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brick_road.html
+  handlebar:
+    name: 车把
+    wikiURL: https://danbooru.donmai.us/wiki_pages/handlebar.html
+  spool:
+    name: 线轴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spool.html
+  computer tower:
+    name: 电脑塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/computer_tower.html
+  barista:
+    name: 咖啡师
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barista.html
+  stage connection:
+    name: 舞台连接
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stage_connection.html
+  stage curtains:
+    name: 舞台幕布
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stage_curtains.html
+  tokyo tower:
+    name: 东京塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tokyo_tower.html
+  postage stamp:
+    name: 邮票
+    wikiURL: https://danbooru.donmai.us/wiki_pages/postage_stamp.html
+  traffic barrier:
+    name: 交通障碍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/traffic_barrier.html
+  late for school:
+    name: 上学迟到
+    wikiURL: https://danbooru.donmai.us/wiki_pages/late_for_school.html
+  pink check school (idolmaster):
+    name: 粉色支票学校
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_check_school_(idolmaster).html
+    alias:
+    - pink check school
+  artstation username:
+    name: 艺术站用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artstation_username.html
+  space station:
+    name: 空间站
+    wikiURL: https://danbooru.donmai.us/wiki_pages/space_station.html
+  billiards:
+    name: 台球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/billiards.html
+    alias:
+    - pool (sport)
+    - snooker
+  barrett m82:
+    name: 巴雷特 m82a2 m-82a m82 m82a1
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barrett_m82.html
+    alias:
+    - barrett m107
+    - barrett m82a2
+    - m107
+    - m82
+    - m-82a
+  maid cafe:
+    name: 女仆咖啡厅
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maid_cafe.html
+  gumroad logo:
+    name: 口香糖路标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gumroad_logo.html
+  horizontal bar:
+    name: 引体向上杆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horizontal_bar.html
+    alias:
+    - chin-up bar
+  eiffel tower:
+    name: 埃菲尔铁塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eiffel_tower.html
+  shrine bell:
+    name: 神社钟
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shrine_bell.html
+  human tower:
+    name: 人塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/human_tower.html
+  railroad signal:
+    name: 铁路信号
+    wikiURL: https://danbooru.donmai.us/wiki_pages/railroad_signal.html
+    alias:
+    - railway signal
+  valley:
+    name: 谷
+    wikiURL: https://danbooru.donmai.us/wiki_pages/valley.html
+  rough time school (idolmaster):
+    name: 艰难的学校
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rough_time_school_(idolmaster).html
+    alias:
+    - rough time school
+  school nurse:
+    name: 学校护士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_nurse.html
+  ice cream bar:
+    name: 冰淇淋吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ice_cream_bar.html
+  against door:
+    name: 对着门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/against_door.html
+  orange tabard:
+    name: 橙色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tabard.html
+  bard:
+    name: 诗人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bard.html
+  subaru (brand):
+    name: 斯巴鲁（品牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_(brand).html
+  elizabeth tower:
+    name: 大本钟
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elizabeth_tower.html
+    alias:
+    - big ben
+  stationery:
+    name: 静止的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stationery.html
+  white tabard:
+    name: 白色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_tabard.html
+  bar soap:
+    name: 条皂
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bar_soap.html
+  mitsukoshi (department store):
+    name: 三越（百货店）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mitsukoshi_(department_store).html
+  candy bar:
+    name: 糖果条
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candy_bar.html
+  iron bars:
+    name: 铁棒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iron_bars.html
+  subway station:
+    name: 地铁站
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subway_station.html
+  gold bar:
+    name: 金条 金砖 金条 金锭
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_bar.html
+    alias:
+    - gold bars
+    - gold brick
+    - gold bullion
+    - gold ingot
+  barre:
+    name: 芭蕾吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barre.html
+    alias:
+    - ballet bar
+  bridgeless bra:
+    name: 无桥文胸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bridgeless_bra.html
+  pedestrian bridge:
+    name: 人行天桥
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pedestrian_bridge.html
+  bridge piercing:
+    name: 穿桥
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bridge_piercing.html
+  moriya shrine:
+    name: 守矢神社
+    wikiURL: https://danbooru.donmai.us/wiki_pages/moriya_shrine.html
+  barking:
+    name: 叫声
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barking.html
+  ganbare ganbare (itou life):
+    name: ganbare ganbare （itou life）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ganbare_ganbare_(itou_life).html
+  rebar:
+    name: 钢筋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rebar.html
+  elevator door:
+    name: 电梯门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elevator_door.html
+  doormat:
+    name: 擦鞋垫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doormat.html
+  m1918 bar:
+    name: m1918酒吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m1918_bar.html
+  barbarian:
+    name: 野蛮人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbarian.html
+  radio tower:
+    name: 无线电塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/radio_tower.html
+  closing door:
+    name: 关门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/closing_door.html
+  doorbell:
+    name: 门铃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doorbell.html
+  artstation logo:
+    name: 艺术站标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artstation_logo.html
+  akihabara (tokyo):
+    name: 秋叶原（东京）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/akihabara_(tokyo).html
+  kitchen hood:
+    name: 厨房抽油烟机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen_hood.html
+    alias:
+    - exhaust hood
+  clothes shop:
+    name: 服装店
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clothes_shop.html
+    alias:
+    - clothing store
+  progress bar:
+    name: 进度条
+    wikiURL: https://danbooru.donmai.us/wiki_pages/progress_bar.html
+  backstage:
+    name: 后台
+    wikiURL: https://danbooru.donmai.us/wiki_pages/backstage.html
+  adobe photoshop:
+    name: 土坯Photoshop
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adobe_photoshop.html
+  broken door:
+    name: 破门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/broken_door.html
+  under bridge:
+    name: 桥下
+    wikiURL: https://danbooru.donmai.us/wiki_pages/under_bridge.html
+  pool party (league of legends):
+    name: 泳池派对（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pool_party_(league_of_legends).html
+  ganbaruzoi:
+    name: ganbaruzoi
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ganbaruzoi.html
+  shining needle castle:
+    name: 闪亮的针城堡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shining_needle_castle.html
+  subaru impreza:
+    name: 斯巴鲁翼豹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_impreza.html
+  whammy bar:
+    name: 摇摇欲坠的酒吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whammy_bar.html
+  shopping district:
+    name: 商圈
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shopping_district.html
+  merchant:
+    name: 店主
+    wikiURL: https://danbooru.donmai.us/wiki_pages/merchant.html
+    alias:
+    - shopkeeper
+  barber pole:
+    name: 理发店招牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barber_pole.html
+  hostage:
+    name: 人质
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hostage.html
+  trap door:
+    name: 活板门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trap_door.html
+    alias:
+    - trapdoor
+  myouren temple:
+    name: 命莲寺
+    wikiURL: https://danbooru.donmai.us/wiki_pages/myouren_temple.html
+  whirlpool:
+    name: 漩涡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whirlpool.html
+  tabard lift:
+    name: 战袍电梯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tabard_lift.html
+  barricade:
+    name: 路障
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barricade.html
+  signal bar:
+    name: 信号栏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/signal_bar.html
+  model building:
+    name: 建筑模型
+    wikiURL: https://danbooru.donmai.us/wiki_pages/model_building.html
+  ooarai (ibaraki):
+    name: ooarai（茨木）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ooarai_(ibaraki).html
+  doll house:
+    name: 娃娃屋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doll_house.html
+    alias:
+    - dollhouse
+  handlebar mustache:
+    name: 车把小胡子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/handlebar_mustache.html
+  candy store:
+    name: 糖果店
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candy_store.html
+  barnacle:
+    name: 藤壶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barnacle.html
+  barn owl:
+    name: 谷仓猫头鹰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barn_owl.html
+  herbarium:
+    name: 植物标本馆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/herbarium.html
+  hyrule castle:
+    name: 海拉尔城堡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hyrule_castle.html
+  slamming door:
+    name: 关上门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/slamming_door.html
+  rocking school (idolmaster):
+    name: 摇滚学校
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rocking_school_(idolmaster).html
+    alias:
+    - rocking school
+  stage of magic (idolmaster):
+    name: 魔法阶段
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stage_of_magic_(idolmaster).html
+    alias:
+    - stage of magic
+  barber:
+    name: 理发师
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barber.html
+  barbarian set (zelda):
+    name: 野蛮人套装（塞尔达）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbarian_set_(zelda).html
+  princess peach's castle:
+    name: 桃子公主的城堡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/princess_peach's_castle.html
+  summary:
+    name: 简略
+    wikiURL: https://danbooru.donmai.us/wiki_pages/summary.html
+    alias:
+    - abridged
+  kame house:
+    name: 龟屋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kame_house.html
+  the tower (tarot):
+    name: 塔（塔罗牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_tower_(tarot).html
+  automatic door:
+    name: 自动门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/automatic_door.html
+  ooarai marine tower:
+    name: 大洗海洋塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ooarai_marine_tower.html
+  temple gate:
+    name: 庙门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/temple_gate.html
+  sake barrel:
+    name: 清酒桶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sake_barrel.html
+  overhead door:
+    name: 高架门
+    wikiURL: https://danbooru.donmai.us/wiki_pages/overhead_door.html
+  double barrels:
+    name: 双桶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/double_barrels.html
+  shanghai:
+    name: 上海（市）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shanghai.html
+    alias:
+    - shanghai (city)
+  status bar:
+    name: 状态栏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/status_bar.html
+  roundhouse kick:
+    name: 回旋踢
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roundhouse_kick.html
+  the best schoolmate (idolmaster):
+    name: 最好的同学
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_best_schoolmate_(idolmaster).html
+    alias:
+    - the best schoolmate
+  figure stage:
+    name: 图阶段
+    wikiURL: https://danbooru.donmai.us/wiki_pages/figure_stage.html
+  school connection:
+    name: 学校联系
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_connection.html
+  empire state building:
+    name: 帝国大厦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/empire_state_building.html
+  school festival:
+    name: 学园祭
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_festival.html
+  itsukushima shrine:
+    name: 严岛神社
+    wikiURL: https://danbooru.donmai.us/wiki_pages/itsukushima_shrine.html
+  church bell:
+    name: 教堂的钟声
+    wikiURL: https://danbooru.donmai.us/wiki_pages/church_bell.html
+  torn tabard:
+    name: 撕裂的战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_tabard.html
+    alias:
+    - ripped tabard
+  golden gate bridge:
+    name: 金门大桥
+    wikiURL: https://danbooru.donmai.us/wiki_pages/golden_gate_bridge.html
+  school yard:
+    name: 校园
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_yard.html
+  kyoto tower:
+    name: 京都塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kyoto_tower.html
+  hanging bridge:
+    name: 吊桥
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanging_bridge.html
+  kijiyama north high school:
+    name: 木治山北高中
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kijiyama_north_high_school.html
+  castle dedede:
+    name: 德德德城堡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/castle_dedede.html
+  oobari masami (style):
+    name: 大张正美（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oobari_masami_(style).html
+  schoolish girl (idolmaster):
+    name: 学生妹（idolmaster）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/schoolish_girl_(idolmaster).html
+  seiren academy school uniform:
+    name: seiren academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seiren_academy_school_uniform.html
+  trinity general school logo:
+    name: trinity general school logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trinity_general_school_logo.html
+  salt middle school uniform:
+    name: salt middle school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/salt_middle_school_uniform.html
+  rouman academy school uniform:
+    name: rouman academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rouman_academy_school_uniform.html
+    alias:
+    - rouman academy uniform
+  lydian academy school uniform:
+    name: lydian academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lydian_academy_school_uniform.html
+    alias:
+    - lydian academy uniform
+  academic test:
+    name: academic test
+    wikiURL: https://danbooru.donmai.us/wiki_pages/academic_test.html
+    alias:
+    - examination paper
+    - school test
+    - test
+  tohmi higashi high school uniform:
+    name: tohmi higashi high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tohmi_higashi_high_school_uniform.html
+  after-school sweets club (blue archive):
+    name: after-school sweets club (blue archive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/after-school_sweets_club_(blue_archive).html
+  selene girls school uniform:
+    name: selene girls school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/selene_girls_school_uniform.html
+  hoshinoumi academy school uniform:
+    name: hoshinoumi academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hoshinoumi_academy_school_uniform.html
+    alias:
+    - hoshinoumi academy uniform
+  shibahama high school uniform:
+    name: shibahama high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shibahama_high_school_uniform.html
+  'dancer (fire emblem: three houses)':
+    name: 'dancer (fire emblem: three houses)'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dancer_(fire_emblem:_three_houses).html
+    alias:
+    - dancer (three houses)
+  tape maebari:
+    name: tape maebari
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tape_maebari.html
+    alias:
+    - tape on pussy
+  rokubanchou school uniform:
+    name: rokubanchou school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rokubanchou_school_uniform.html
+  new york city:
+    name: new york city
+    wikiURL: https://danbooru.donmai.us/wiki_pages/new_york_city.html
+    alias:
+    - new york
+  saikai academy school uniform:
+    name: saikai academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saikai_academy_school_uniform.html
+    alias:
+    - saikai academy uniform
+  burning building:
+    name: burning building
+    wikiURL: https://danbooru.donmai.us/wiki_pages/burning_building.html
+  millennium science school logo:
+    name: millennium science school logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/millennium_science_school_logo.html
+  abydos high school swimsuit:
+    name: abydos high school swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abydos_high_school_swimsuit.html
+  national verbena academy school uniform:
+    name: national verbena academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/national_verbena_academy_school_uniform.html
+  raira academy school uniform:
+    name: raira academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raira_academy_school_uniform.html
+    alias:
+    - raira academy uniform
+  multi-lane road:
+    name: multi-lane road
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multi-lane_road.html
+  magic school uniform (mahou girls precure!):
+    name: magic school uniform (mahou girls precure!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magic_school_uniform_(mahou_girls_precure!).html
+  playstation logo:
+    name: playstation logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_logo.html
+  daito academy school uniform:
+    name: daito academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/daito_academy_school_uniform.html
+    alias:
+    - daito academy uniform
+    - daitou academy school uniform
+  seiyo academy school uniform:
+    name: seiyo academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seiyo_academy_school_uniform.html
+    alias:
+    - seiyo academy uniform
+  ranoa magic academy school uniform:
+    name: ranoa magic academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ranoa_magic_academy_school_uniform.html
+  karakura high school uniform:
+    name: karakura high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/karakura_high_school_uniform.html
+  playstation 1:
+    name: playstation 1
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_1.html
+    alias:
+    - ps1
+    - psx
+  atlas academy school uniform:
+    name: atlas academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/atlas_academy_school_uniform.html
+    alias:
+    - atlas academy uniform
+  kirigaoka girls' academy school uniform:
+    name: kirigaoka girls' academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kirigaoka_girls'_academy_school_uniform.html
+  cafe maid (love live!):
+    name: cafe maid (love live!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cafe_maid_(love_live!).html
+    alias:
+    - cafe maid (love live)
+  a certain high school gym uniform:
+    name: a certain high school gym uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/a_certain_high_school_gym_uniform.html
+  l'avenir academy school uniform:
+    name: l'avenir academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/l'avenir_academy_school_uniform.html
+    alias:
+    - l'avenir academy uniform
+  fuuka academy school uniform:
+    name: fuuka academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fuuka_academy_school_uniform.html
+    alias:
+    - fuuka academy uniform
+  habataki academy school uniform:
+    name: habataki academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/habataki_academy_school_uniform.html
+    alias:
+    - habataki academy uniform
+  red prison magic school uniform:
+    name: red prison magic school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_prison_magic_school_uniform.html
+  channel (caststation) (style):
+    name: channel (caststation) (style)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/channel_(caststation)_(style).html
+  soviet school uniform:
+    name: soviet school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/soviet_school_uniform.html
+  katagiri senior high school uniform:
+    name: katagiri senior high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/katagiri_senior_high_school_uniform.html
+  private misaki high school uniform:
+    name: private misaki high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/private_misaki_high_school_uniform.html
+  mazda mx-5:
+    name: mazda mx-5
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mazda_mx-5.html
+    alias:
+    - eunos roadster
+    - mazda miata
+  ame no kisaki academy school uniform:
+    name: ame no kisaki academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ame_no_kisaki_academy_school_uniform.html
+    alias:
+    - ame no kisaki academy uniform
+  fabarm fp6:
+    name: fabarm fp6
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fabarm_fp6.html
+    alias:
+    - fp-6
+  guilty gear strive x tower records:
+    name: guilty gear strive x tower records
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guilty_gear_strive_x_tower_records.html
+  thai school uniform:
+    name: thai school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thai_school_uniform.html
+  yotsuboshi academy school uniform:
+    name: yotsuboshi academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yotsuboshi_academy_school_uniform.html
+    alias:
+    - yotsuboshi academy uniform
+  holohoneygaoka high school uniform:
+    name: holohoneygaoka high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holohoneygaoka_high_school_uniform.html
+  themis legal academy school uniform:
+    name: themis legal academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/themis_legal_academy_school_uniform.html
+  pk academy school uniform:
+    name: pk academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pk_academy_school_uniform.html
+  chuo academy school uniform:
+    name: chuo academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chuo_academy_school_uniform.html
+    alias:
+    - chuo academy uniform
+    - chuuou academy school uniform
+  amanogawa high school uniform:
+    name: amanogawa high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/amanogawa_high_school_uniform.html
+  black tabard:
+    name: black tabard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_tabard.html
+  yokosuka girls marine high school swimsuit:
+    name: yokosuka girls marine high school swimsuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yokosuka_girls_marine_high_school_swimsuit.html
+  arch bridge:
+    name: arch bridge
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arch_bridge.html
+  black vinegar middle school uniform:
+    name: black vinegar middle school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_vinegar_middle_school_uniform.html
+  sjms school uniform:
+    name: sjms school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sjms_school_uniform.html
+  ryouran! victory road (love live!):
+    name: ryouran! victory road (love live!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ryouran!_victory_road_(love_live!).html
+    alias:
+    - ryouran! victory road (love live)
+  high schoolmate (idolmaster):
+    name: high schoolmate (idolmaster)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/high_schoolmate_(idolmaster).html
+  marehoshi academy school uniform:
+    name: marehoshi academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marehoshi_academy_school_uniform.html
+  saliva pool:
+    name: saliva pool
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saliva_pool.html
+  southern cross academy school uniform:
+    name: southern cross academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/southern_cross_academy_school_uniform.html
+    alias:
+    - southern cross academy uniform
+  jouin high school uniform:
+    name: jouin high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jouin_high_school_uniform.html
+  sonobeno high school uniform:
+    name: sonobeno high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sonobeno_high_school_uniform.html
+  kawakami academy school uniform:
+    name: kawakami academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kawakami_academy_school_uniform.html
+    alias:
+    - kawakami academy uniform
+  mihoshi academy school uniform:
+    name: mihoshi academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mihoshi_academy_school_uniform.html
+    alias:
+    - mihoshi academy uniform
+  junior high schoolmate (idolmaster):
+    name: junior high schoolmate (idolmaster)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/junior_high_schoolmate_(idolmaster).html
+  dream academy school uniform:
+    name: dream academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dream_academy_school_uniform.html
+    alias:
+    - dream academy uniform
+  green tabard:
+    name: green tabard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_tabard.html
+  dahlia academy boarding school uniform:
+    name: dahlia academy boarding school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dahlia_academy_boarding_school_uniform.html
+  osafune girls academy school uniform:
+    name: osafune girls academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/osafune_girls_academy_school_uniform.html
+    alias:
+    - osafune girls academy uniform
+  second wangan school uniform:
+    name: second wangan school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/second_wangan_school_uniform.html
+  school gateway:
+    name: school gateway
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_gateway.html
+  taskbar:
+    name: taskbar
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taskbar.html
+  ahnenerbe shop uniform:
+    name: ahnenerbe shop uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ahnenerbe_shop_uniform.html
+  kosho academy school uniform:
+    name: kosho academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kosho_academy_school_uniform.html
+    alias:
+    - koushou academy school uniform
+  nevermore academy school uniform:
+    name: nevermore academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nevermore_academy_school_uniform.html
+  mogeko (species):
+    name: mogeko (species)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mogeko_(species).html
+    alias:
+    - mogeko (mogeko castle)
+  hirasawa yui's middle school uniform:
+    name: hirasawa yui's middle school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hirasawa_yui's_middle_school_uniform.html
+  tsubame nishi high school uniform:
+    name: tsubame nishi high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tsubame_nishi_high_school_uniform.html
+  bellwall school uniform:
+    name: bellwall school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bellwall_school_uniform.html
+  on mushroom:
+    name: on mushroom
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_mushroom.html
+  seijou academy school uniform:
+    name: seijou academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seijou_academy_school_uniform.html
+    alias:
+    - seijou academy uniform
+  saint mary's academy school uniform:
+    name: saint mary's academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saint_mary's_academy_school_uniform.html
+    alias:
+    - saint mary's academy uniform
+  saotome academy school uniform:
+    name: saotome academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saotome_academy_school_uniform.html
+    alias:
+    - saotome academy uniform
+  barre chord:
+    name: barre chord
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barre_chord.html
+  indigo academy school uniform:
+    name: indigo academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/indigo_academy_school_uniform.html
+  seigetsu academy school uniform:
+    name: seigetsu academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seigetsu_academy_school_uniform.html
+    alias:
+    - seigetsu academy uniform
+  sitting on mushroom:
+    name: sitting on mushroom
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sitting_on_mushroom.html
+  roadblock:
+    name: roadblock
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roadblock.html
+  thors military academy school uniform:
+    name: thors military academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thors_military_academy_school_uniform.html
+    alias:
+    - thors military academy uniform
+  aramis high school uniform:
+    name: aramis high school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aramis_high_school_uniform.html
+  barber cape:
+    name: barber cape
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barber_cape.html
+  oozora subaru (cosplay):
+    name: oozora subaru (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oozora_subaru_(cosplay).html
+  sankyoin academy school uniform:
+    name: sankyoin academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sankyoin_academy_school_uniform.html
+    alias:
+    - sankyouin academy school uniform
+  mondstadt city:
+    name: mondstadt city
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mondstadt_city.html
+  scissor doors:
+    name: scissor doors
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scissor_doors.html
+  sorashido academy school uniform:
+    name: sorashido academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sorashido_academy_school_uniform.html
+  ototachibana academy school uniform:
+    name: ototachibana academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ototachibana_academy_school_uniform.html
+    alias:
+    - ototachibana academy uniform
+  print tabard:
+    name: print tabard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/print_tabard.html
+  wooden house:
+    name: wooden house
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_house.html
+  pink tabard:
+    name: pink tabard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_tabard.html
+  capybara ears:
+    name: capybara ears
+    wikiURL: https://danbooru.donmai.us/wiki_pages/capybara_ears.html
+  rome (city):
+    name: rome (city)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rome_(city).html
+  road of radiance (umamusume):
+    name: road of radiance (umamusume)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/road_of_radiance_(umamusume).html
+  tennomifune academy school uniform:
+    name: tennomifune academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tennomifune_academy_school_uniform.html
+    alias:
+    - tennomifune academy uniform
+  door chain:
+    name: door chain
+    wikiURL: https://danbooru.donmai.us/wiki_pages/door_chain.html
+  shinju-kan school uniform:
+    name: shinju-kan school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shinju-kan_school_uniform.html
+  subaru wrx:
+    name: subaru wrx
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_wrx.html
+  haunted house (attraction):
+    name: haunted house (attraction)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/haunted_house_(attraction).html
+  minaminagi liberty academy school uniform:
+    name: minaminagi liberty academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/minaminagi_liberty_academy_school_uniform.html
+  royal officer academy school uniform:
+    name: royal officer academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/royal_officer_academy_school_uniform.html
+  seio girls' academy school uniform:
+    name: seio girls' academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seio_girls'_academy_school_uniform.html
+    alias:
+    - seio girls' academy uniform
+  avocado academy school uniform:
+    name: avocado academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/avocado_academy_school_uniform.html
+  academy city:
+    name: academy city
+    wikiURL: https://danbooru.donmai.us/wiki_pages/academy_city.html
+  brown tabard:
+    name: brown tabard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_tabard.html
+  hanegasaki academy school uniform:
+    name: hanegasaki academy school uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanegasaki_academy_school_uniform.html
+    alias:
+    - hanegasaki academy uniform
+  barrel shroud:
+    name: barrel shroud
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barrel_shroud.html
+  kitchen range:
+    name: kitchen range
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen_range.html

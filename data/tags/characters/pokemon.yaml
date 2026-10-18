@@ -1,0 +1,1191 @@
+name: 宝可梦 (Pokemon)
+category:
+- 角色
+content:
+  dawn (pokemon):
+    name: hikari （口袋妖怪） platina （口袋妖怪） platina berlitz platinum （口袋妖怪） platinum berlitz
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dawn_(pokemon).html
+    alias:
+    - hikari (pokemon)
+    - platina berlitz
+    - platina (pokemon)
+    - platinum berlitz
+    - platinum (pokemon)
+  lillie (pokemon):
+    name: リーリエ(ポケモン)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lillie_(pokemon).html
+  may (pokemon):
+    name: haruka （口袋妖怪） odamaki 蓝宝石蓝宝石 （口袋妖怪） 蓝宝石桦木
+    wikiURL: https://danbooru.donmai.us/wiki_pages/may_(pokemon).html
+    alias:
+    - haruka (pokemon)
+    - odamaki sapphire
+    - sapphire birch
+    - sapphire (pokemon)
+  rosa (pokemon):
+    name: 女主角（精灵宝可梦 bw2） 女主角（精灵宝可梦 bw2） mei（精灵宝可梦） whi-two（精灵宝可梦） whitley（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rosa_(pokemon).html
+    alias:
+    - female protagonist (pokemon bw2)
+    - mei (pokemon)
+    - whitley (pokemon)
+    - whi-two (pokemon)
+  hilda (pokemon):
+    name: 女主角（pokemon b&w） 女主角（pokemon b&w） touko（pokemon） white（pokemon）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hilda_(pokemon).html
+    alias:
+    - female protagonist (pokemon b&w)
+    - touko (pokemon)
+    - white (pokemon)
+  marnie (pokemon):
+    name: 玛丽（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marnie_(pokemon).html
+    alias:
+    - mary (pokemon)
+  gloria (pokemon):
+    name: 凯西盾女主角（口袋妖怪swsh） 女主角（口袋妖怪swsh） 勇利（pokemon）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gloria_(pokemon).html
+    alias:
+    - casey shield
+    - female protagonist (pokemon swsh)
+    - yuuri (pokemon)
+  cynthia (pokemon):
+    name: shirona（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cynthia_(pokemon).html
+    alias:
+    - shirona (pokemon)
+  ash ketchum:
+    name: 小智（精灵宝可梦） 小智（精灵宝可梦） 聪（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ash_ketchum.html
+    alias:
+    - ash (pokemon)
+    - satoshi (pokemon)
+  red (pokemon):
+    name: 红色（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_(pokemon).html
+  serena (pokemon):
+    name: 女主角 （pokemon xy） y （pokemon） y na gaabena yvonne （pokemon） yvonne gabena
+    wikiURL: https://danbooru.donmai.us/wiki_pages/serena_(pokemon).html
+    alias:
+    - female protagonist (pokemon xy)
+    - y na gaabena
+    - y (pokemon)
+    - yvonne gabena
+    - yvonne (pokemon)
+  selene (pokemon):
+    name: 水木（口袋妖怪）月亮（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/selene_(pokemon).html
+    alias:
+    - mizuki (pokemon)
+    - moon (pokemon)
+  iono (pokemon):
+    name: iono（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iono_(pokemon).html
+  misty (pokemon):
+    name: kasumi （口袋妖怪） misty misty
+    wikiURL: https://danbooru.donmai.us/wiki_pages/misty_(pokemon).html
+    alias:
+    - kasumi (pokemon)
+    - misty
+  kieran (pokemon):
+    name: kieran (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kieran_(pokemon).html
+  leon (pokemon):
+    name: 丹德（口袋妖怪）里昂（口袋妖怪swsh）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leon_(pokemon).html
+    alias:
+    - dande (pokemon)
+    - leon (pokemon swsh)
+  raihan (pokemon):
+    name: kibana （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raihan_(pokemon).html
+    alias:
+    - kibana (pokemon)
+  nessa (pokemon):
+    name: 琉璃奈（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nessa_(pokemon).html
+    alias:
+    - rurina (pokemon)
+  akari (pokemon):
+    name: akari （精灵宝可梦传说：阿尔宙斯） 女主角 （精灵宝可梦传说：阿尔宙斯） shou （精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/akari_(pokemon).html
+    alias:
+    - 'akari (pokemon legends: arceus)'
+    - 'female protagonist (pokemon legends: arceus)'
+    - shou (pokemon)
+  bea (pokemon):
+    name: 斋藤（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bea_(pokemon).html
+    alias:
+    - saitou (pokemon)
+  ethan (pokemon):
+    name: 黄金 （口袋妖怪） hibiki （口袋妖怪） hibiki （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ethan_(pokemon).html
+    alias:
+    - gold (pokemon)
+    - hibiki (pokemon)
+  lana (pokemon):
+    name: 水莲（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lana_(pokemon).html
+    alias:
+    - suiren (pokemon)
+  hex maniac (pokemon):
+    name: 神秘的疯子（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hex_maniac_(pokemon).html
+    alias:
+    - occult maniac (pokemon)
+  blue oak:
+    name: green （口袋妖怪） green oak green oak ookido green
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_oak.html
+    alias:
+    - green oak
+    - green (pokemon)
+    - ookido green
+  juliana (pokemon):
+    name: 女主角（精灵宝可梦sv）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/juliana_(pokemon).html
+    alias:
+    - female protagonist (pokemon sv)
+  hilbert (pokemon):
+    name: 黑色 （口袋妖怪） 男主角 （口袋妖怪 b&w） 男主角 （口袋妖怪 b&w） touya （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hilbert_(pokemon).html
+    alias:
+    - black (pokemon)
+    - male protagonist (pokemon b&w)
+    - touya (pokemon)
+  rika (pokemon):
+    name: rika (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rika_(pokemon).html
+  sonia (pokemon):
+    name: 索尼娅（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sonia_(pokemon).html
+  lyra (pokemon):
+    name: 琴音（宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lyra_(pokemon).html
+    alias:
+    - kotone (pokemon)
+  brendan (pokemon):
+    name: ruby（口袋妖怪） yuuki（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brendan_(pokemon).html
+    alias:
+    - ruby (pokemon)
+    - yuuki (pokemon)
+  leaf (pokemon):
+    name: 叶（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leaf_(pokemon).html
+  n (pokemon):
+    name: （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/n_(pokemon).html
+  mallow (pokemon):
+    name: 毛（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mallow_(pokemon).html
+    alias:
+    - mao (pokemon)
+  skyla (pokemon):
+    name: 芙蓉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skyla_(pokemon).html
+    alias:
+    - fuuro (pokemon)
+  lusamine (pokemon):
+    name: lusamine（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lusamine_(pokemon).html
+  jessie (pokemon):
+    name: 武藏（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jessie_(pokemon).html
+    alias:
+    - musashi (pokemon)
+  silver (pokemon):
+    name: 心（口袋妖怪）灵魂（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_(pokemon).html
+    alias:
+    - heart (pokemon)
+    - soul (pokemon)
+  carmine (pokemon):
+    name: carmine (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carmine_(pokemon).html
+  elesa (pokemon):
+    name: kamitsure （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elesa_(pokemon).html
+    alias:
+    - kamitsure (pokemon)
+  florian (pokemon):
+    name: 男主角（精灵宝可梦sv）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/florian_(pokemon).html
+    alias:
+    - male protagonist (pokemon sv)
+  james (pokemon):
+    name: 小次郎（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/james_(pokemon).html
+    alias:
+    - kojirou (pokemon)
+  kris (pokemon):
+    name: 水晶（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kris_(pokemon).html
+    alias:
+    - crystal (pokemon)
+  irida (pokemon):
+    name: 虹膜（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/irida_(pokemon).html
+  bianca (pokemon):
+    name: 白露（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bianca_(pokemon).html
+    alias:
+    - bell (pokemon)
+    - bel (pokemon)
+  nemona (pokemon):
+    name: 尼莫（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nemona_(pokemon).html
+    alias:
+    - nemo (pokemon)
+  piers (pokemon):
+    name: nezu（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/piers_(pokemon).html
+    alias:
+    - nezu (pokemon)
+  elio (pokemon):
+    name: 太阳（口袋妖怪）你（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elio_(pokemon).html
+    alias:
+    - sun (pokemon)
+    - you (pokemon)
+  gladion (pokemon):
+    name: 角斗士（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gladion_(pokemon).html
+    alias:
+    - gladio (pokemon)
+  hop (pokemon):
+    name: 跳（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hop_(pokemon).html
+  iris (pokemon):
+    name: 鸢尾花（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iris_(pokemon).html
+  sabrina (pokemon):
+    name: 夏目（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sabrina_(pokemon).html
+    alias:
+    - natsume (pokemon)
+  victor (pokemon):
+    name: 亨利之剑 男主角 （pokemon swsh） 男主角 （pokemon swsh） masaru （pokemon）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/victor_(pokemon).html
+    alias:
+    - henry sword
+    - male protagonist (pokemon swsh)
+    - masaru (pokemon)
+  calem (pokemon):
+    name: callum （pokemon） calme （pokemon） 男主角 （pokemon xy） x （pokemon）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/calem_(pokemon).html
+    alias:
+    - callum (pokemon)
+    - calme (pokemon)
+    - male protagonist (pokemon xy)
+    - x (pokemon)
+  bede (pokemon):
+    name: 甜菜（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bede_(pokemon).html
+    alias:
+    - beet (pokemon)
+  lucas (pokemon):
+    name: 钻石 （口袋妖怪） kouki （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lucas_(pokemon).html
+    alias:
+    - diamond (pokemon)
+    - kouki (pokemon)
+  nate (pokemon):
+    name: blake （pokemon） kyouhei （pokemon） lack-two （pokemon） 男主角 （pokemon bw2） 男主角 （pokemon bw2）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nate_(pokemon).html
+    alias:
+    - blake (pokemon)
+    - kyouhei (pokemon)
+    - lack-two (pokemon)
+    - male protagonist (pokemon bw2)
+  grusha (pokemon):
+    name: 古莎（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grusha_(pokemon).html
+  ingo (pokemon):
+    name: nobori（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ingo_(pokemon).html
+    alias:
+    - nobori (pokemon)
+  steven stone:
+    name: daigo （口袋妖怪） daigo （口袋妖怪） steven （口袋妖怪） steven （口袋妖怪） tsuwabuki daigo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/steven_stone.html
+    alias:
+    - daigo (pokemon)
+    - steven (pokemon)
+    - tsuwabuki daigo
+  arven (pokemon):
+    name: arven (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arven_(pokemon).html
+  goh (pokemon):
+    name: 豪（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/goh_(pokemon).html
+    alias:
+    - gou (pokemon)
+  cheren (pokemon):
+    name: cheren （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cheren_(pokemon).html
+  liko (pokemon):
+    name: liko (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/liko_(pokemon).html
+    alias:
+    - riko (pokemon)
+  penny (pokemon):
+    name: 便士（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/penny_(pokemon).html
+  hau (pokemon):
+    name: 豪（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hau_(pokemon).html
+  acerola (pokemon):
+    name: 针叶樱桃（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/acerola_(pokemon).html
+  mew (pokemon):
+    name: mew (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mew_(pokemon).html
+    alias:
+    - mew
+  allister (pokemon):
+    name: 洋葱（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/allister_(pokemon).html
+    alias:
+    - onion (pokemon)
+  yellow (pokemon):
+    name: 黄色（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_(pokemon).html
+  lance (pokemon):
+    name: 兰斯（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lance_(pokemon).html
+  erika (pokemon):
+    name: 艾丽卡（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/erika_(pokemon).html
+  guzma (pokemon):
+    name: 古祖玛（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guzma_(pokemon).html
+    alias:
+    - guzuma (pokemon)
+  emmet (pokemon):
+    name: kudari （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/emmet_(pokemon).html
+    alias:
+    - kudari (pokemon)
+  volo (pokemon):
+    name: 沃罗（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/volo_(pokemon).html
+  rei (pokemon):
+    name: 男主角 （精灵宝可梦传说：阿尔宙斯） 丽 （精灵宝可梦传说：阿尔宙斯） teru （精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rei_(pokemon).html
+    alias:
+    - 'male protagonist (pokemon legends: arceus)'
+    - 'rei (pokemon legends: arceus)'
+    - teru (pokemon)
+  melony (pokemon):
+    name: 西瓜（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/melony_(pokemon).html
+    alias:
+    - melon (pokemon)
+  roxie (pokemon):
+    name: homika（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roxie_(pokemon).html
+    alias:
+    - homika (pokemon)
+  barry (pokemon):
+    name: jun （口袋妖怪） pearl （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barry_(pokemon).html
+    alias:
+    - jun (pokemon)
+    - pearl (pokemon)
+  adaman (pokemon):
+    name: 关（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adaman_(pokemon).html
+    alias:
+    - seki (pokemon)
+  lacey (pokemon):
+    name: lacey (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lacey_(pokemon).html
+  arezu (pokemon):
+    name: arezu hinatsu （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arezu_(pokemon).html
+    alias:
+    - arezu
+    - hinatsu (pokemon)
+  klara (pokemon):
+    name: 库拉拉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/klara_(pokemon).html
+    alias:
+    - kurara (pokemon)
+  jasmine (pokemon):
+    name: 蜜柑（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jasmine_(pokemon).html
+    alias:
+    - mikan (pokemon)
+  courtney (pokemon):
+    name: kagari （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/courtney_(pokemon).html
+    alias:
+    - kagari (pokemon)
+  lana's mother (pokemon):
+    name: 水莲的妈妈（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lana's_mother_(pokemon).html
+    alias:
+    - suiren's mother (pokemon)
+  brock (pokemon):
+    name: 布洛克武（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brock_(pokemon).html
+    alias:
+    - brock
+    - takeshi (pokemon)
+  geeta (pokemon):
+    name: geeta (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/geeta_(pokemon).html
+  lisia (pokemon):
+    name: 露西亚（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lisia_(pokemon).html
+    alias:
+    - lucia (pokemon)
+  grimsley (pokemon):
+    name: giima（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grimsley_(pokemon).html
+    alias:
+    - giima (pokemon)
+  poppy (pokemon):
+    name: poppy (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poppy_(pokemon).html
+  hugh (pokemon):
+    name: hue （口袋妖怪） 对手 （口袋妖怪 bw2） 对手 （口袋妖怪 bw2）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hugh_(pokemon).html
+    alias:
+    - hue (pokemon)
+    - rival (pokemon bw2)
+  whitney (pokemon):
+    name: 茜 （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whitney_(pokemon).html
+    alias:
+    - akane (pokemon)
+  caitlin (pokemon):
+    name: 卡特兰（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/caitlin_(pokemon).html
+    alias:
+    - cattleya (pokemon)
+  larry (pokemon):
+    name: larry (pokemon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/larry_(pokemon).html
+  morty (pokemon):
+    name: 松叶（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/morty_(pokemon).html
+    alias:
+    - matsuba (pokemon)
+  kabu (pokemon):
+    name: 卡布（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kabu_(pokemon).html
+  zinnia (pokemon):
+    name: higana（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zinnia_(pokemon).html
+    alias:
+    - higana (pokemon)
+  flannery (pokemon):
+    name: 亚丝娜（口袋妖怪）弗兰纳里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flannery_(pokemon).html
+    alias:
+    - asuna (pokemon)
+    - flannery
+  shauna (pokemon):
+    name: 萨那（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shauna_(pokemon).html
+    alias:
+    - sana (pokemon)
+  gardenia (pokemon):
+    name: natane （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gardenia_(pokemon).html
+    alias:
+    - natane (pokemon)
+  wicke (pokemon):
+    name: 维克（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wicke_(pokemon).html
+    alias:
+    - vicke (pokemon)
+  clair (pokemon):
+    name: 伊吹（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clair_(pokemon).html
+    alias:
+    - ibuki (pokemon)
+  archie (pokemon):
+    name: 青桐（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/archie_(pokemon).html
+    alias:
+    - aogiri (pokemon)
+  shauntal (pokemon):
+    name: Shikimi（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shauntal_(pokemon).html
+    alias:
+    - shikimi (pokemon)
+  roxanne (pokemon):
+    name: 辻（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roxanne_(pokemon).html
+    alias:
+    - tsutsuji (pokemon)
+  kiawe (pokemon):
+    name: 柿子（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kiawe_(pokemon).html
+    alias:
+    - kaki (pokemon)
+  giovanni (pokemon):
+    name: 坂木（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/giovanni_(pokemon).html
+    alias:
+    - sakaki (pokemon)
+  chloe (pokemon):
+    name: 樱木小春
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chloe_(pokemon).html
+    alias:
+    - sakuragi koharu
+  volkner (pokemon):
+    name: denji （口袋妖怪） denzi （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/volkner_(pokemon).html
+    alias:
+    - denji (pokemon)
+    - denzi (pokemon)
+  bonnie (pokemon):
+    name: 尤里卡（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bonnie_(pokemon).html
+    alias:
+    - eureka (pokemon)
+  clemont (pokemon):
+    name: 柚子（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clemont_(pokemon).html
+    alias:
+    - citron (pokemon)
+  cilan (pokemon):
+    name: 凹痕（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cilan_(pokemon).html
+    alias:
+    - dent (pokemon)
+  lass (pokemon):
+    name: 无名少女（精灵宝可梦swsh）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lass_(pokemon).html
+    alias:
+    - unnamed girl (pokemon swsh)
+  ace trainer (pokemon):
+    name: 王牌训练家（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ace_trainer_(pokemon).html
+    alias:
+    - cool trainer (pokemon)
+  candice (pokemon):
+    name: 铃菜（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candice_(pokemon).html
+    alias:
+    - suzuna (pokemon)
+  wallace (pokemon):
+    name: mikuri（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wallace_(pokemon).html
+    alias:
+    - mikuri (pokemon)
+  joy (pokemon):
+    name: 护士喜悦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/joy_(pokemon).html
+    alias:
+    - nurse joy
+  milo (pokemon):
+    name: 西洋蓍草（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/milo_(pokemon).html
+    alias:
+    - yarrow (pokemon)
+  wally (pokemon):
+    name: 满（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wally_(pokemon).html
+    alias:
+    - mitsuru (pokemon)
+  karen (pokemon):
+    name: 卡琳（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/karen_(pokemon).html
+    alias:
+    - karin (pokemon)
+  delia ketchum:
+    name: 迪莉娅（口袋妖怪）迪莉娅（口袋妖怪）花子（口袋妖怪）夫人。番茄酱夫人凯彻姆夫人 凯彻姆夫人 凯彻姆夫人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/delia_ketchum.html
+    alias:
+    - delia (pokemon)
+    - hanako (pokemon)
+    - mrs. ketchum
+    - mrs ketchum
+  falkner (pokemon):
+    name: 隼人（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/falkner_(pokemon).html
+    alias:
+    - hayato (pokemon)
+  diantha (pokemon):
+    name: 通行证（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diantha_(pokemon).html
+    alias:
+    - carnet (pokemon)
+  lorelei (pokemon):
+    name: 康纳（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lorelei_(pokemon).html
+    alias:
+    - kanna (pokemon)
+  lysandre (pokemon):
+    name: fleur-de-lis （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lysandre_(pokemon).html
+    alias:
+    - fleur-de-lis (pokemon)
+  oleana (pokemon):
+    name: 橄榄（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oleana_(pokemon).html
+    alias:
+    - olive (pokemon)
+  kukui (pokemon):
+    name: kukui（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kukui_(pokemon).html
+  anabel (pokemon):
+    name: 莉拉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anabel_(pokemon).html
+    alias:
+    - lila (pokemon)
+  mina (pokemon):
+    name: matsurika（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mina_(pokemon).html
+    alias:
+    - matsurika (pokemon)
+  ghetsis (pokemon):
+    name: g-cis harmonia gropius geechisu （口袋妖怪） ghetsis harmonia
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ghetsis_(pokemon).html
+    alias:
+    - g-cis harmonia gropius
+    - geechisu (pokemon)
+    - ghetsis harmonia
+  maxie (pokemon):
+    name: 松树（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maxie_(pokemon).html
+    alias:
+    - matsubusa (pokemon)
+  augustine sycamore:
+    name: platane （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/augustine_sycamore.html
+    alias:
+    - platane (pokemon)
+  maylene (pokemon):
+    name: 相扑（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maylene_(pokemon).html
+    alias:
+    - sumomo (pokemon)
+  cyrus (pokemon):
+    name: 赤城（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cyrus_(pokemon).html
+    alias:
+    - akagi (pokemon)
+  korrina (pokemon):
+    name: korinna （口袋妖怪） korinna （口袋妖怪） koruni （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/korrina_(pokemon).html
+    alias:
+    - korinna (pokemon)
+    - koruni (pokemon)
+  rose (pokemon):
+    name: 玫瑰（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rose_(pokemon).html
+  samuel oak:
+    name: 橡树（口袋妖怪） 橡树（口袋妖怪） ookido yukinari prof.橡树教授橡树教授 橡树教授 橡树教授 橡树教授
+    wikiURL: https://danbooru.donmai.us/wiki_pages/samuel_oak.html
+    alias:
+    - oak (pokemon)
+    - ookido yukinari
+    - professor oak
+    - prof. oak
+    - prof oak
+  phoebe (pokemon):
+    name: 芙蓉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/phoebe_(pokemon).html
+    alias:
+    - fuyou (pokemon)
+  poke kid (pokemon):
+    name: 戳小子（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poke_kid_(pokemon).html
+  elaine (pokemon):
+    name: 步美（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elaine_(pokemon).html
+    alias:
+    - ayumi (pokemon)
+  viola (pokemon):
+    name: 中提琴（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/viola_(pokemon).html
+  olivia (pokemon):
+    name: 荔枝（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/olivia_(pokemon).html
+    alias:
+    - lychee (pokemon)
+  roselia (pokemon):
+    name: 玫瑰花（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roselia_(pokemon).html
+  pika (pokemon):
+    name: 鼠兔（宠物小精灵）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pika_(pokemon).html
+  kahili (pokemon):
+    name: 卡希利（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kahili_(pokemon).html
+  gordie (pokemon):
+    name: 幕和（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gordie_(pokemon).html
+    alias:
+    - makuwa (pokemon)
+  gary oak:
+    name: 加里（口袋妖怪） 加里（口袋妖怪） ookido shigeru shigeru（口袋妖怪） shigeru（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gary_oak.html
+    alias:
+    - gary (pokemon)
+    - ookido shigeru
+    - shigeru (pokemon)
+  mela (pokemon):
+    name: 梅拉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mela_(pokemon).html
+  youngster (pokemon):
+    name: 少年（宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/youngster_(pokemon).html
+  sophocles (pokemon):
+    name: maamane （口袋妖怪） maamane （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sophocles_(pokemon).html
+    alias:
+    - maamane (pokemon)
+    - mamane (pokemon)
+  flint (pokemon):
+    name: 欧巴（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flint_(pokemon).html
+    alias:
+    - ooba (pokemon)
+  alder (pokemon):
+    name: adeku（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alder_(pokemon).html
+    alias:
+    - adeku (pokemon)
+  cogita (pokemon):
+    name: 我思（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cogita_(pokemon).html
+    alias:
+    - cogito (pokemon)
+  bugsy (pokemon):
+    name: 筑紫（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bugsy_(pokemon).html
+    alias:
+    - tsukushi (pokemon)
+  plumeria (pokemon):
+    name: 羽毛（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/plumeria_(pokemon).html
+    alias:
+    - plumeri (pokemon)
+  nanu (pokemon):
+    name: kuchinashi（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nanu_(pokemon).html
+    alias:
+    - kuchinashi (pokemon)
+  sada (pokemon):
+    name: olim（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sada_(pokemon).html
+    alias:
+    - olim (pokemon)
+  electrode (pokemon):
+    name: 电极（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/electrode_(pokemon).html
+  aurea juniper:
+    name: 阿良良木（口袋妖怪）杜松（口袋妖怪）杜松（口袋妖怪）教授。杜松教授杜松教授 杜松教授 杜松教授 杜松教授 杜松教授
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aurea_juniper.html
+    alias:
+    - araragi (pokemon)
+    - juniper (pokemon)
+    - professor juniper
+    - prof. juniper
+    - prof juniper
+  shelly (pokemon):
+    name: 泉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shelly_(pokemon).html
+    alias:
+    - izumi (pokemon)
+  spark (pokemon):
+    name: 火花（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spark_(pokemon).html
+  emerald (pokemon):
+    name: 翡翠（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/emerald_(pokemon).html
+  turo (pokemon):
+    name: 飞兔（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/turo_(pokemon).html
+    alias:
+    - futu (pokemon)
+  avery (pokemon):
+    name: 艾弗里（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/avery_(pokemon).html
+  siebold (pokemon):
+    name: 西博尔德（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/siebold_(pokemon).html
+  archer (pokemon):
+    name: 阿波罗（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/archer_(pokemon).html
+    alias:
+    - apollo (pokemon)
+  jenny (pokemon):
+    name: junsa (pokemon) junsaa (pokemon) 军官珍妮 军官珍妮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jenny_(pokemon).html
+    alias:
+    - junsaa (pokemon)
+    - junsa (pokemon)
+    - officer jenny
+  chuchu (pokemon):
+    name: 楚楚（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chuchu_(pokemon).html
+  opal (pokemon):
+    name: 白杨（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/opal_(pokemon).html
+    alias:
+    - poplar (pokemon)
+  paul (pokemon):
+    name: 保罗（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paul_(pokemon).html
+  surge (pokemon):
+    name: 浪涌中尉 浪涌中尉 浪涌中尉（口袋妖怪） 浪涌中尉（口袋妖怪） lt。浪涌湖浪涌湖浪涌（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/surge_(pokemon).html
+    alias:
+    - lieutenant surge
+    - lieutenant surge (pokemon)
+    - lt. surge
+    - lt surge
+    - lt. surge (pokemon)
+  sabi (pokemon):
+    name: 芥末（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sabi_(pokemon).html
+    alias:
+    - wasabi (pokemon)
+  bettie (pokemon):
+    name: yui（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bettie_(pokemon).html
+    alias:
+    - yui (pokemon)
+  red (sygna suit) (pokemon):
+    name: 红色（西格纳套装）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_(sygna_suit)_(pokemon).html
+  sina (pokemon):
+    name: 新浪（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sina_(pokemon).html
+  drew (pokemon):
+    name: 画（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drew_(pokemon).html
+  lenora (pokemon):
+    name: 芦荟（神奇宝贝）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lenora_(pokemon).html
+    alias:
+    - aloe (pokemon)
+  winona (pokemon):
+    name: 凪（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/winona_(pokemon).html
+    alias:
+    - nagi (pokemon)
+  hapu (pokemon):
+    name: hapu'u（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hapu_(pokemon).html
+    alias:
+    - hapu'u (pokemon)
+  will (pokemon):
+    name: 伊月（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/will_(pokemon).html
+    alias:
+    - itsuki (pokemon)
+  cheryl (pokemon):
+    name: 妈妈（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cheryl_(pokemon).html
+    alias:
+    - momi (pokemon)
+  janine (pokemon):
+    name: 安祖（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/janine_(pokemon).html
+    alias:
+    - anzu (pokemon)
+  bianca (pokemon heroes):
+    name: 比安卡（口袋妖怪m05）加农（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bianca_(pokemon_heroes).html
+    alias:
+    - bianca (pokemon m05)
+    - kanon (pokemon)
+  faba (pokemon):
+    name: sauboo（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/faba_(pokemon).html
+    alias:
+    - sauboo (pokemon)
+  eusine (pokemon):
+    name: 美奈基（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eusine_(pokemon).html
+    alias:
+    - minaki (pokemon)
+  valerie (pokemon):
+    name: 机甲（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/valerie_(pokemon).html
+    alias:
+    - mache (pokemon)
+  deino (pokemon):
+    name: deino（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deino_(pokemon).html
+  gloom (pokemon):
+    name: 忧郁（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gloom_(pokemon).html
+  riley (pokemon):
+    name: gen（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riley_(pokemon).html
+    alias:
+    - gen (pokemon)
+  koga (pokemon):
+    name: 京（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koga_(pokemon).html
+    alias:
+    - kyou (pokemon)
+  colress (pokemon):
+    name: 阿库罗马（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/colress_(pokemon).html
+    alias:
+    - akuroma (pokemon)
+  burgh (pokemon):
+    name: arti （口袋妖怪） arty （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/burgh_(pokemon).html
+    alias:
+    - arti (pokemon)
+    - arty (pokemon)
+  marley (pokemon):
+    name: 舞（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marley_(pokemon).html
+    alias:
+    - mai (pokemon)
+  matt (pokemon):
+    name: 马特（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matt_(pokemon).html
+  lillie (anniversary 2021) (pokemon):
+    name: 莉莉艾（2021 年周年纪念）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lillie_(anniversary_2021)_(pokemon).html
+  roark (pokemon):
+    name: hyouta （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roark_(pokemon).html
+    alias:
+    - hyouta (pokemon)
+  liza (pokemon):
+    name: 跑（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/liza_(pokemon).html
+    alias:
+    - ran (pokemon)
+  max (pokemon):
+    name: 最大（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/max_(pokemon).html
+  chase (pokemon):
+    name: kakeru （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chase_(pokemon).html
+    alias:
+    - kakeru (pokemon)
+  drayden (pokemon):
+    name: shaga（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drayden_(pokemon).html
+    alias:
+    - shaga (pokemon)
+  candela (pokemon):
+    name: 坎德拉（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candela_(pokemon).html
+  slurpuff:
+    name: 松饼（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/slurpuff.html
+    alias:
+    - slurpuff (pokemon)
+  dawn (palentine's 2021) (pokemon):
+    name: 黎明（帕伦汀的 2021）（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dawn_(palentine's_2021)_(pokemon).html
+  bruno (pokemon):
+    name: 柴犬（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bruno_(pokemon).html
+    alias:
+    - shiba (pokemon)
+  swimmer (pokemon):
+    name: 游泳者（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimmer_(pokemon).html
+  punk girl (pokemon):
+    name: 朋克少女（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/punk_girl_(pokemon).html
+  golem (pokemon):
+    name: 傀儡（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/golem_(pokemon).html
+  marnie (summer 2021) (pokemon):
+    name: 玛妮（2021 年夏季）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marnie_(summer_2021)_(pokemon).html
+  blanche (pokemon):
+    name: 布兰奇（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blanche_(pokemon).html
+  malva (pokemon):
+    name: 发财树（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/malva_(pokemon).html
+    alias:
+    - pachira (pokemon)
+  mars (pokemon):
+    name: 火星（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mars_(pokemon).html
+  cress (pokemon):
+    name: 玉米（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cress_(pokemon).html
+    alias:
+    - corn (pokemon)
+  cyllene (pokemon):
+    name: shimaboshi（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cyllene_(pokemon).html
+    alias:
+    - shimaboshi (pokemon)
+  hiker (pokemon):
+    name: 远足者（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hiker_(pokemon).html
+  leaf (sygna suit) (pokemon):
+    name: 叶子（西格纳套装）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leaf_(sygna_suit)_(pokemon).html
+  sightseer (pokemon):
+    name: 观光者（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sightseer_(pokemon).html
+  proton (pokemon):
+    name: 质子（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/proton_(pokemon).html
+  may (spring 2021) (pokemon):
+    name: 五月 （2021 年春季） （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/may_(spring_2021)_(pokemon).html
+  gloria (summer 2021) (pokemon):
+    name: 格洛丽亚（2021 年夏季）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gloria_(summer_2021)_(pokemon).html
+  philena ivy:
+    name: 打木户（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/philena_ivy.html
+    alias:
+    - ivy (pokemon)
+    - professor ivy
+    - uchikido (pokemon)
+  glacia (pokemon):
+    name: prim（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glacia_(pokemon).html
+    alias:
+    - prim (pokemon)
+  chili (pokemon):
+    name: 豆荚（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chili_(pokemon).html
+    alias:
+    - pod (pokemon)
+  serena (sygna suit) (pokemon):
+    name: 塞雷娜（西格纳套装）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/serena_(sygna_suit)_(pokemon).html
+  looker (pokemon):
+    name: 英俊（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/looker_(pokemon).html
+    alias:
+    - handsome (pokemon)
+  kabuto (pokemon):
+    name: 兜（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kabuto_(pokemon).html
+  scottie (pokemon):
+    name: kei （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scottie_(pokemon).html
+    alias:
+    - kei (pokemon)
+  saturn (pokemon):
+    name: 土星（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saturn_(pokemon).html
+  melli (pokemon):
+    name: 椿（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/melli_(pokemon).html
+    alias:
+    - tsubaki (pokemon)
+  marshal (pokemon):
+    name: 连布（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marshal_(pokemon).html
+    alias:
+    - renbu (pokemon)
+  tate (pokemon):
+    name: fuu （口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tate_(pokemon).html
+    alias:
+    - fuu (pokemon)
+  norman (pokemon):
+    name: 千里（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/norman_(pokemon).html
+    alias:
+    - senri (pokemon)
+  harper (pokemon):
+    name: 侯（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/harper_(pokemon).html
+    alias:
+    - hou (pokemon)
+  kris (sygna suit) (pokemon):
+    name: 克里斯（西格纳套装）（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kris_(sygna_suit)_(pokemon).html
+  agatha (pokemon):
+    name: 菊子（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/agatha_(pokemon).html
+    alias:
+    - kikuko (pokemon)
+  drasna (pokemon):
+    name: 龙血树（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drasna_(pokemon).html
+    alias:
+    - dracaena (pokemon)
+  alain (pokemon):
+    name: 艾伦（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alain_(pokemon).html
+    alias:
+    - alan (pokemon)
+  peony (pokemon):
+    name: 牡丹（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/peony_(pokemon).html
+  fantina (pokemon):
+    name: 梅丽莎（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantina_(pokemon).html
+    alias:
+    - melissa (pokemon)
+  lear (pokemon):
+    name: lyer（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lear_(pokemon).html
+    alias:
+    - lyer (pokemon)
+  sarah (pokemon):
+    name: 隋（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sarah_(pokemon).html
+    alias:
+    - sui (pokemon)
+  ilima (pokemon):
+    name: 伊利玛（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ilima_(pokemon).html
+  fennel (pokemon):
+    name: makomo（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fennel_(pokemon).html
+    alias:
+    - makomo (pokemon)
+  laventon (pokemon):
+    name: 薰衣草（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/laventon_(pokemon).html
+    alias:
+    - laven (pokemon)
+  furisode girl (pokemon):
+    name: 振袖少女（精灵宝可梦）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/furisode_girl_(pokemon).html
+  pokemon ranger (pokemon):
+    name: 口袋妖怪游侠（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pokemon_ranger_(pokemon).html
+  zygarde core:
+    name: 齐加德核心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zygarde_core.html
+    alias:
+    - puni (pokemon)
+    - squishy (pokemon)
+  tierno (pokemon):
+    name: 铁尔诺（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tierno_(pokemon).html
+  birch (pokemon):
+    name: 白桦（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/birch_(pokemon).html
+  beauty (pokemon):
+    name: 美女（宠物小精灵）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beauty_(pokemon).html
+  yancy (pokemon):
+    name: 琉璃（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yancy_(pokemon).html
+    alias:
+    - ruri (pokemon)
+  willow (pokemon):
+    name: 柳（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/willow_(pokemon).html
+  trevor (pokemon):
+    name: 托罗巴（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trevor_(pokemon).html
+    alias:
+    - toroba (pokemon)
+  gotcha! girl (pokemon):
+    name: 明白了！女孩（口袋妖怪）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gotcha!_girl_(pokemon).html

@@ -31,8 +31,18 @@ import type { Tag, Embedding, Hypernetwork } from '../types/data'
 import EmbeddingView from '../components/EmbeddingItem.vue'
 import HypernetworkView from '../components/HypernetworkItem.vue'
 
-const props = defineProps<{
-    search: string
+const props = withDefaults(
+    defineProps<{
+        search: string
+        categoryFilter?: string
+    }>(),
+    {
+        categoryFilter: '',
+    }
+)
+
+const emit = defineEmits<{
+    (e: 'update:categoryFilter', val: string): void
 }>()
 
 interface SearchResultTag {
@@ -66,14 +76,35 @@ const tagStore = useTagStore()
 const embeddingStore = useEmbeddingStore()
 const hypernetworkStore = useHypernetworkStore()
 
+const categories = [
+    { label: '全部', value: '' },
+    { label: '🔞 限制级', value: '限制级' },
+    { label: '动作姿态', value: '姿势' },
+    { label: '服饰装扮', value: '服饰' },
+    { label: '身体部位', value: '人类' },
+    { label: '物品道具', value: '物品' },
+    { label: '自然环境', value: '自然' },
+    { label: '人文建筑', value: '人文' },
+    { label: '角色', value: '角色' },
+    { label: '作品版权', value: '作品' },
+    { label: '热门画师', value: '画师' },
+    { label: '负向/质量', value: '元标签' },
+]
+
+function selectCategory(cat: string) {
+    emit('update:categoryFilter', cat)
+}
+
 const scrollRef: Ref<typeof ElScrollbar | null> = ref(null)
 const paginationSize = ref(12)
-const filteredTags = computed(() => tagStore.searchAll(props.search))
+const filteredTags = computed(() =>
+    tagStore.searchAll(props.search, props.categoryFilter)
+)
 const filteredEmbeddings = computed(() =>
-    embeddingStore.searchAll(props.search)
+    props.categoryFilter ? [] : embeddingStore.searchAll(props.search)
 )
 const filteredHypernetworks = computed(() =>
-    hypernetworkStore.searchAll(props.search)
+    props.categoryFilter ? [] : hypernetworkStore.searchAll(props.search)
 )
 
 const combinedResult = computed(() => {
@@ -113,14 +144,32 @@ function loadMore() {
         paginationSize.value += 20
     }
 }
-watch(toRef(props, 'search'), () => {
+watch([toRef(props, 'search'), toRef(props, 'categoryFilter')], () => {
     paginationSize.value = 12
     scrollRef.value?.scrollTo({ top: 0 })
 })
 </script>
 
 <template>
-    <h1>搜索结果</h1>
+    <div class="search-header">
+        <div class="search-title-row">
+            <h1 class="search-title">搜索结果</h1>
+            <span class="search-count">找到 {{ filteredLength }} 个匹配项</span>
+        </div>
+        <div class="search-category-pills">
+            <button
+                v-for="cat in categories"
+                :key="cat.value"
+                type="button"
+                :class="[
+                    'category-pill',
+                    { active: (props.categoryFilter || '') === cat.value },
+                ]"
+                @click="selectCategory(cat.value)">
+                {{ cat.label }}
+            </button>
+        </div>
+    </div>
     <ElScrollbar ref="scrollRef" class="scrollable">
         <ClientOnly>
             <Masonry
@@ -152,8 +201,55 @@ watch(toRef(props, 'search'), () => {
 </template>
 
 <style scoped>
+.search-header {
+    margin-bottom: 12px;
+}
+.search-title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+}
+.search-title {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.search-count {
+    font-size: 0.875rem;
+    color: var(--el-text-color-secondary);
+}
+.search-category-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+.category-pill {
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 0.8125rem;
+    background-color: var(--el-fill-color-light);
+    color: var(--el-text-color-regular);
+    border: 1px solid var(--el-border-color-lighter);
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+    outline: none;
+    user-select: none;
+}
+.category-pill:hover {
+    background-color: var(--el-fill-color);
+    color: var(--el-color-primary);
+    border-color: var(--el-color-primary-light-7);
+}
+.category-pill.active {
+    background-color: var(--el-color-primary);
+    color: #fff;
+    border-color: var(--el-color-primary);
+    font-weight: 500;
+    box-shadow: 0 2px 6px rgba(64, 158, 255, 0.35);
+}
 .scrollable {
-    height: calc(100vh - 64px - 20px - 10px - 1.17rem - 4rem);
+    height: calc(100vh - 64px - 20px - 10px - 1.17rem - 6.5rem);
     overflow-y: auto;
 }
 </style>

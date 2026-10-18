@@ -1,0 +1,1842 @@
+name: 载具交通工具
+category:
+- 物品
+content:
+  scar:
+    name: 伤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar.html
+    alias:
+    - scars
+  robot:
+    name: 机器人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot.html
+  motor vehicle:
+    name: 机动载具
+    wikiURL: https://danbooru.donmai.us/wiki_pages/motor_vehicle.html
+  mecha:
+    name: 机甲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mecha.html
+    alias:
+    - mech
+  abyssal ship:
+    name: 深海栖舰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abyssal_ship.html
+    alias:
+    - shinkaisei-kan
+  card:
+    name: 卡片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card.html
+    alias:
+    - cards
+  car:
+    name: 汽车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/car.html
+    alias:
+    - cars
+  ship turret:
+    name: ship turret
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship_turret.html
+  aircraft:
+    name: 飞行器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aircraft.html
+  bush:
+    name: 灌木
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bush.html
+    alias:
+    - bushes
+    - shrubbery
+  military vehicle:
+    name: 军用载具
+    wikiURL: https://danbooru.donmai.us/wiki_pages/military_vehicle.html
+  open cardigan:
+    name: 敞开的开襟衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/open_cardigan.html
+    alias:
+    - open sweater
+  id card:
+    name: 学生证|身份证
+    wikiURL: https://danbooru.donmai.us/wiki_pages/id_card.html
+  mechanical halo:
+    name: 机械式天使光环
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_halo.html
+  black tank top:
+    name: 黑色无袖紧身背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_tank_top.html
+  airplane:
+    name: 飞机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane.html
+    alias:
+    - aeroplane
+    - airplanes
+    - plane
+    - planes
+  white tank top:
+    name: 白色无袖紧身背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_tank_top.html
+  diamond (shape):
+    name: 菱形(形状)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_(shape).html
+    alias:
+    - diamonds (card suit)
+    - rhombus
+  planet:
+    name: 行星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/planet.html
+    alias:
+    - planets
+  motorcycle:
+    name: 摩托车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/motorcycle.html
+    alias:
+    - motorbike
+  tank:
+    name: 坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank.html
+    alias:
+    - main battle tank
+    - tanks
+  cardboard box:
+    name: 纸板箱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardboard_box.html
+    alias:
+    - danbooru
+  robot joints:
+    name: 机械关节
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_joints.html
+  demon boy:
+    name: 恶魔男孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/demon_boy.html
+    alias:
+    - incubus
+  train interior:
+    name: 列车内部|电车内部
+    wikiURL: https://danbooru.donmai.us/wiki_pages/train_interior.html
+    alias:
+    - inside train
+  scar on chest:
+    name: 胸膛的伤疤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_chest.html
+    alias:
+    - chest scar
+  grey cardigan:
+    name: 灰色开口衬衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_cardigan.html
+  pink cardigan:
+    name: 粉色开口衬衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_cardigan.html
+  bicycle:
+    name: 自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bicycle.html
+    alias:
+    - bike
+  ship:
+    name: 船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship.html
+    alias:
+    - ships
+  boat:
+    name: 船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boat.html
+  horror (theme):
+    name: 恐怖(主题)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horror_(theme).html
+    alias:
+    - creepy
+    - scary
+  trading card:
+    name: 集换卡片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trading_card.html
+    alias:
+    - trading cards
+  scar on nose:
+    name: 鼻子上的伤疤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_nose.html
+    alias:
+    - nose scar
+  reverse suspended congress:
+    name: 腿下握颈肛交
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reverse_suspended_congress.html
+    alias:
+    - reverse stand and carry
+  spacecraft:
+    name: 太空飞船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spacecraft.html
+    alias:
+    - space craft
+    - space ship
+    - spaceship
+  non-humanoid robot:
+    name: 非人形机器人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/non-humanoid_robot.html
+  yellow cardigan:
+    name: 黄色开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_cardigan.html
+  piggyback:
+    name: 驮着
+    wikiURL: https://danbooru.donmai.us/wiki_pages/piggyback.html
+    alias:
+    - carrying on back
+  humanoid robot:
+    name: 类人机器人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/humanoid_robot.html
+  burn scar:
+    name: 烧伤疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/burn_scar.html
+  train:
+    name: 列车|电车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/train.html
+  blue cardigan:
+    name: 蓝色开襟衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_cardigan.html
+  black cardigan:
+    name: 黑色开口衬衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_cardigan.html
+  spade (shape):
+    name: 黑桃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spade_(shape).html
+    alias:
+    - spades (card suit)
+  mascara:
+    name: 睫毛膏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mascara.html
+  white cardigan:
+    name: 白色开襟衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_cardigan.html
+  scar on forehead:
+    name: 额头疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_forehead.html
+    alias:
+    - forehead scar
+  carpet:
+    name: 地毯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carpet.html
+  mechabare:
+    name: mechabare
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechabare.html
+    alias:
+    - mechanical organs
+    - mechanical parts
+  car interior:
+    name: 汽车内饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/car_interior.html
+    alias:
+    - inside car
+  robot girl:
+    name: 机器人女孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_girl.html
+  enpera:
+    name: (围巾束成的)乌贼鳍发型
+    wikiURL: https://danbooru.donmai.us/wiki_pages/enpera.html
+    alias:
+    - hair in scarf
+  toon (style):
+    name: 卡通卡通
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toon_(style).html
+    alias:
+    - cartoon
+    - toon
+  scar on neck:
+    name: 颈部疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_neck.html
+    alias:
+    - neck scar
+  sports car:
+    name: 超级跑车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sports_car.html
+    alias:
+    - supercar
+  tarot:
+    name: 塔罗牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tarot.html
+    alias:
+    - tarot card
+    - tarot cards
+  super robot:
+    name: 超级机器人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/super_robot.html
+  warship:
+    name: 军舰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/warship.html
+  stationary restraints:
+    name: 用装置强行固定人体
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stationary_restraints.html
+  m4 carbine:
+    name: m4卡宾枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m4_carbine.html
+    alias:
+    - m4a1
+    - m4 sopmod ii
+    - mk 18 carbine
+  scar on stomach:
+    name: 肚子上的伤疤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_stomach.html
+  truck:
+    name: 货车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/truck.html
+    alias:
+    - lorry
+  multiple scars:
+    name: 多处疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_scars.html
+  tankini:
+    name: 坦基尼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tankini.html
+  scar on leg:
+    name: 腿疤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_leg.html
+    alias:
+    - leg scar
+  mechanical pencil:
+    name: 出芯笔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_pencil.html
+  red tank top:
+    name: 红色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_tank_top.html
+  helicopter:
+    name: 直升机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/helicopter.html
+  club (shape):
+    name: 梅花(扑克)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/club_(shape).html
+    alias:
+    - clubs (card suit)
+  scarlet devil mansion:
+    name: 红魔馆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scarlet_devil_mansion.html
+  salaryman:
+    name: 商人办公室人薪水人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/salaryman.html
+    alias:
+    - businessman
+    - office man
+    - salary man
+  scar on mouth:
+    name: 口腔疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_mouth.html
+    alias:
+    - mouth scar
+  grey tank top:
+    name: 灰色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_tank_top.html
+  race vehicle:
+    name: 赛车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/race_vehicle.html
+  blue tank top:
+    name: 蓝色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_tank_top.html
+  on motorcycle:
+    name: 在摩托车上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_motorcycle.html
+  mechanical eye:
+    name: 控制论之眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_eye.html
+    alias:
+    - cybernetic eye
+  robot animal:
+    name: 动物机器人机械动物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_animal.html
+    alias:
+    - animal robot
+    - mechanical animal
+  paper airplane:
+    name: 纸飞机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paper_airplane.html
+    alias:
+    - paper plane
+  hooded cardigan:
+    name: 连帽开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hooded_cardigan.html
+  on car:
+    name: on car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_car.html
+  spell card:
+    name: 魔咒卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spell_card.html
+    alias:
+    - spellcard
+  green tank top:
+    name: 绿色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_tank_top.html
+  racecar:
+    name: 赛车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/racecar.html
+  purple cardigan:
+    name: 紫色开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_cardigan.html
+  evangelion (mecha):
+    name: 新世纪福音战士（机甲）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/evangelion_(mecha).html
+  ink tank (splatoon):
+    name: 颜料罐(喷射战士)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ink_tank_(splatoon).html
+  yellow tank top:
+    name: 黄色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_tank_top.html
+  cartoon bone:
+    name: 卡通骨头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cartoon_bone.html
+  bus:
+    name: 公共汽车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bus.html
+  abuse:
+    name: 虐待
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abuse.html
+  bike shorts under shorts:
+    name: 短裤下的自行车短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bike_shorts_under_shorts.html
+  floating card:
+    name: 浮动卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floating_card.html
+    alias:
+    - falling card
+  riding bicycle:
+    name: 骑自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riding_bicycle.html
+  airship:
+    name: 飞艇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/airship.html
+    alias:
+    - airships
+    - flying ship
+  red cardigan:
+    name: 红色开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_cardigan.html
+  scar on hand:
+    name: 手上的伤疤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_hand.html
+  green cardigan:
+    name: 绿色开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_cardigan.html
+  bicycle basket:
+    name: 自行车篮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bicycle_basket.html
+  ball and chain restraint:
+    name: 球链约束
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ball_and_chain_restraint.html
+  cart:
+    name: 载货推车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cart.html
+  card parody:
+    name: 玩牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_parody.html
+  pink tank top:
+    name: 粉色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_tank_top.html
+  shopping cart:
+    name: 杂货车购物车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shopping_cart.html
+    alias:
+    - grocery cart
+    - shopping trolley
+  carapace:
+    name: 甲壳
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carapace.html
+  arrancar:
+    name: 破面(死神系列)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arrancar.html
+  police car:
+    name: 警车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/police_car.html
+  red carpet:
+    name: 红地毯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_carpet.html
+  carton:
+    name: 纸盒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carton.html
+  shippou (pattern):
+    name: 七宝（花纹）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shippou_(pattern).html
+  foot worship:
+    name: 足部崇拜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/foot_worship.html
+  battleship:
+    name: 战舰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/battleship.html
+  training corps (emblem):
+    name: 训练兵团徽章
+    wikiURL: https://danbooru.donmai.us/wiki_pages/training_corps_(emblem).html
+  fish tank:
+    name: 鱼缸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fish_tank.html
+    alias:
+    - fishtank
+  oar:
+    name: 桨
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oar.html
+    alias:
+    - boat paddle
+  vehicle and personification:
+    name: vehicle and personification
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vehicle_and_personification.html
+  mechanic:
+    name: 机械
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanic.html
+  cartridge:
+    name: 弹夹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cartridge.html
+  torn bike shorts:
+    name: 破自行车短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_bike_shorts.html
+    alias:
+    - ripped bike shorts
+  scar on back:
+    name: 背上的伤疤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_back.html
+  vehicle interior:
+    name: 车辆内饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vehicle_interior.html
+  on tank:
+    name: on tank
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_tank.html
+  single mechanical hand:
+    name: 机械手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_mechanical_hand.html
+    alias:
+    - mechanical hand
+  pocari sweat:
+    name: 宝矿力水汗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pocari_sweat.html
+  pickup truck:
+    name: 皮卡车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pickup_truck.html
+  cardiogram:
+    name: ekg心电图心脏监护仪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardiogram.html
+    alias:
+    - ekg
+    - electrocardiogram
+    - heart monitor
+  multiple unit train:
+    name: multiple unit train
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_unit_train.html
+  purple tank top:
+    name: 紫色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_tank_top.html
+  scars all over:
+    name: scars all over
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scars_all_over.html
+    alias:
+    - too many scars
+  clothed robot:
+    name: 穿衣服的机器人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_robot.html
+  bus interior:
+    name: 巴士内
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bus_interior.html
+    alias:
+    - inside bus
+  train station platform:
+    name: 火车站月台
+    wikiURL: https://danbooru.donmai.us/wiki_pages/train_station_platform.html
+  vehicle name:
+    name: 车辆名称
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vehicle_name.html
+  koinobori:
+    name: 鲤鱼旗锦鲤旗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koinobori.html
+    alias:
+    - carp streamer
+    - koi streamer
+  cartoonized:
+    name: 卡通化的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cartoonized.html
+  orange tank top:
+    name: 橙色背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tank_top.html
+  heavenly boat maanna:
+    name: 天舟玛娜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heavenly_boat_maanna.html
+  carrot print:
+    name: 胡萝卜印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_print.html
+  training:
+    name: 训练
+    wikiURL: https://danbooru.donmai.us/wiki_pages/training.html
+  bike jersey:
+    name: 自行车运动衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bike_jersey.html
+    alias:
+    - bicycle jersey
+  train conductor:
+    name: 列车长
+    wikiURL: https://danbooru.donmai.us/wiki_pages/train_conductor.html
+  canopy (aircraft):
+    name: 天篷
+    wikiURL: https://danbooru.donmai.us/wiki_pages/canopy_(aircraft).html
+    alias:
+    - canopy
+  grease (mechanical):
+    name: grease (mechanical)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grease_(mechanical).html
+  aircraft carrier:
+    name: 航空母舰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aircraft_carrier.html
+  saturn (planet):
+    name: 土星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saturn_(planet).html
+  clow card:
+    name: 小丑牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clow_card.html
+    alias:
+    - clow cards
+  tank shell:
+    name: 坦克外壳
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_shell.html
+  biplane:
+    name: 双翼飞机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/biplane.html
+  on boat:
+    name: on boat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_boat.html
+  alcohol carton:
+    name: alcohol carton
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alcohol_carton.html
+    alias:
+    - beer carton
+    - sake carton
+    - wine carton
+  tank turret:
+    name: 坦克炮塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_turret.html
+  rose bush:
+    name: 玫瑰花丛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rose_bush.html
+  ocarina:
+    name: 陶笛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ocarina.html
+  planetary ring:
+    name: 行星环
+    wikiURL: https://danbooru.donmai.us/wiki_pages/planetary_ring.html
+  sailboat:
+    name: 帆船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sailboat.html
+  bike shorts pull:
+    name: 自行车短裤拉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bike_shorts_pull.html
+  orange cardigan:
+    name: 橙色开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_cardigan.html
+  oxygen tank:
+    name: 氧气罐
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oxygen_tank.html
+  casino card table:
+    name: 赌场牌桌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/casino_card_table.html
+  dead animal:
+    name: 死动物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dead_animal.html
+    alias:
+    - carcass
+  carriage:
+    name: 运输
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carriage.html
+  ship's wheel:
+    name: 船轮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship's_wheel.html
+  sports utility vehicle:
+    name: 运动型多功能车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sports_utility_vehicle.html
+    alias:
+    - suv
+  credit card:
+    name: 信用卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/credit_card.html
+  airplane interior:
+    name: 飞机内部
+    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane_interior.html
+  single mechanical leg:
+    name: 机械腿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_mechanical_leg.html
+    alias:
+    - mechanical leg
+    - single robot leg
+  cinderella girls card parody:
+    name: 灰姑娘女孩卡模仿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cinderella_girls_card_parody.html
+  stasis tank:
+    name: 克隆槽 克隆槽 实验室槽 静滞管
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stasis_tank.html
+    alias:
+    - cloning tank
+    - cloning vat
+    - lab vat
+    - stasis tube
+  upright restraints:
+    name: 直立约束
+    wikiURL: https://danbooru.donmai.us/wiki_pages/upright_restraints.html
+  tankard:
+    name: 酒杯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tankard.html
+  ability card (touhou):
+    name: 能力卡（东方）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ability_card_(touhou).html
+  mechanical spine:
+    name: 机械骨干
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_spine.html
+    alias:
+    - mechanical backbone
+  m4 sherman:
+    name: 谢尔曼（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m4_sherman.html
+    alias:
+    - sherman (tank)
+  ball busting:
+    name: 爆球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ball_busting.html
+    alias:
+    - ballbusting
+    - tamakeri
+  cargo shorts:
+    name: 工装短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cargo_shorts.html
+  japari bus:
+    name: 日本巴士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/japari_bus.html
+  placard:
+    name: 标语牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/placard.html
+  stuffed carrot:
+    name: 酿胡萝卜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stuffed_carrot.html
+  scarecrow:
+    name: 稻草人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scarecrow.html
+  cardboard:
+    name: 纸板
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardboard.html
+  japanese tankery league (emblem):
+    name: 日本油轮联盟（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/japanese_tankery_league_(emblem).html
+  fn scar:
+    name: 疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fn_scar.html
+  molcar:
+    name: 摩尔卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/molcar.html
+  in shopping cart:
+    name: 在购物车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/in_shopping_cart.html
+  toy car:
+    name: 玩具车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toy_car.html
+    alias:
+    - model car
+  ribbed cardigan:
+    name: 罗纹开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ribbed_cardigan.html
+  game cartridge:
+    name: 游戏卡带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/game_cartridge.html
+  quimbaya airplane:
+    name: 金巴亚飞机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/quimbaya_airplane.html
+  shipwreck:
+    name: 沉船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shipwreck.html
+  pirate ship:
+    name: 海盗船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pirate_ship.html
+  rowboat:
+    name: 划船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rowboat.html
+  card game:
+    name: 纸牌游戏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_game.html
+  card in mouth:
+    name: 卡在嘴里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_in_mouth.html
+  hover bike:
+    name: 悬停自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hover_bike.html
+  caress:
+    name: 抚摸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/caress.html
+  shipping container:
+    name: 海运集装箱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shipping_container.html
+  globus cruciger:
+    name: 球形十字形
+    wikiURL: https://danbooru.donmai.us/wiki_pages/globus_cruciger.html
+  toy airplane:
+    name: 玩具飞机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toy_airplane.html
+    alias:
+    - toy plane
+  churchill (tank):
+    name: 丘吉尔（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/churchill_(tank).html
+  business casual:
+    name: 商务休闲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/business_casual.html
+  no scar:
+    name: 没有疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_scar.html
+  palanquin ship:
+    name: 轿船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/palanquin_ship.html
+  bust (sculpture):
+    name: 半身像（雕塑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bust_(sculpture).html
+  tank (container):
+    name: 罐（容器）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_(container).html
+  wood carving tool:
+    name: 木雕工具
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wood_carving_tool.html
+  cardigan lift:
+    name: 开襟羊毛衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardigan_lift.html
+  robot dog:
+    name: 机器狗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_dog.html
+  scuba tank:
+    name: 潜水气瓶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scuba_tank.html
+  carro veloce cv-33:
+    name: 卡罗速度 cv-33
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carro_veloce_cv-33.html
+  matryoshka doll:
+    name: 头巾娃娃 嵌套娃娃 俄罗斯嵌套娃娃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matryoshka_doll.html
+    alias:
+    - babushka doll
+    - nesting doll
+    - russian nesting doll
+  jupiter (planet):
+    name: 木星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jupiter_(planet).html
+  love train:
+    name: 爱情列车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/love_train.html
+  print tank top:
+    name: 印花背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/print_tank_top.html
+  mailman:
+    name: 邮递员邮递员邮递员
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mailman.html
+    alias:
+    - letter carrier
+    - mail carrier
+    - postman
+  aqua cardigan:
+    name: 水色开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_cardigan.html
+  gift card:
+    name: 礼物卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gift_card.html
+  awestruck:
+    name: 敬畏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/awestruck.html
+  rocket ship:
+    name: 火箭飞船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rocket_ship.html
+    alias:
+    - rocketship
+  semi truck:
+    name: 半卡车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/semi_truck.html
+  business card:
+    name: 名片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/business_card.html
+  cardboard cutout:
+    name: 纸板镂空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardboard_cutout.html
+  mars (planet):
+    name: 火星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mars_(planet).html
+  tank interior:
+    name: 坦克内部
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_interior.html
+  pokemon card:
+    name: 口袋妖怪卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pokemon_card.html
+  car crash:
+    name: 车祸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/car_crash.html
+  pullcart:
+    name: 拉车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pullcart.html
+  sailing ship:
+    name: 帆船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sailing_ship.html
+  energy tank:
+    name: e-can e-tank e 罐 e 坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/energy_tank.html
+    alias:
+    - e-can
+    - e can
+    - e-tank
+    - e tank
+  carrot pin:
+    name: 胡萝卜别针
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_pin.html
+  tank destroyer:
+    name: 坦克歼击车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_destroyer.html
+  totoro bus stop:
+    name: 龙猫巴士站
+    wikiURL: https://danbooru.donmai.us/wiki_pages/totoro_bus_stop.html
+  tank cupola:
+    name: 坦克冲天炉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_cupola.html
+  aircraft catapult:
+    name: 飞机弹射器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aircraft_catapult.html
+  carving:
+    name: 雕刻
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carving.html
+  torn tank top:
+    name: 撕裂的背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_tank_top.html
+    alias:
+    - ripped tank top
+  servant card (fate/grand order):
+    name: 从者卡（fate/grand order）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/servant_card_(fate/grand_order).html
+  carp:
+    name: 鲤鱼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carp.html
+  hover vehicle:
+    name: 悬浮车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hover_vehicle.html
+  kaneda shoutarou's bike:
+    name: kaneda shoutarou 的自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaneda_shoutarou's_bike.html
+  pushcart:
+    name: 手推车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pushcart.html
+  crusader (tank):
+    name: 十字军（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crusader_(tank).html
+  train (clothing):
+    name: 火车（服装）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/train_(clothing).html
+  food truck:
+    name: 冰淇淋卡车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/food_truck.html
+    alias:
+    - ice cream truck
+  toy train:
+    name: 玩具火车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toy_train.html
+  jagdpanzer 38(t):
+    name: 38歼击车（吨）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jagdpanzer_38(t).html
+    alias:
+    - hetzer (tank)
+  cargo net:
+    name: 货网
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cargo_net.html
+  deck of cards:
+    name: 一副纸牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deck_of_cards.html
+    alias:
+    - card deck
+  bus stop sign:
+    name: 巴士站牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bus_stop_sign.html
+  model ship:
+    name: 模型船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/model_ship.html
+  sidecar:
+    name: 边车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sidecar.html
+  venus (planet):
+    name: 金星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/venus_(planet).html
+  r-301 carbine:
+    name: r-301卡宾枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/r-301_carbine.html
+  on mecha:
+    name: 在机甲上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_mecha.html
+  kinniku buster:
+    name: 金肉克星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kinniku_buster.html
+  baby carrier:
+    name: 童车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/baby_carrier.html
+  fn scar 17:
+    name: fn疤痕17
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fn_scar_17.html
+  serving cart:
+    name: 服务推车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/serving_cart.html
+  yukkuri abuse:
+    name: yukkuri 滥用
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yukkuri_abuse.html
+  carabiner:
+    name: 登山扣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carabiner.html
+  model tank:
+    name: 模型坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/model_tank.html
+  ribbed tank top:
+    name: 罗纹背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ribbed_tank_top.html
+  zener card:
+    name: 齐纳卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zener_card.html
+  rally car:
+    name: 拉力赛车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rally_car.html
+  karuta (card game):
+    name: 纸牌游戏（纸牌游戏）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/karuta_(card_game).html
+  reincarnation:
+    name: 投胎
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reincarnation.html
+  ship deck:
+    name: 船甲板
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship_deck.html
+  carnivorous plant:
+    name: 食虫植物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carnivorous_plant.html
+  yamato (battleship):
+    name: 大和号（战列舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yamato_(battleship).html
+  centurion (tank):
+    name: 百夫长（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/centurion_(tank).html
+  calling card:
+    name: 电话卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/calling_card.html
+  paper boat:
+    name: 纸船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paper_boat.html
+  unconventional vehicle:
+    name: 非常规车辆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unconventional_vehicle.html
+  turretless tank:
+    name: 无炮塔坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/turretless_tank.html
+  vending cart:
+    name: 餐车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vending_cart.html
+    alias:
+    - food cart
+  camouflage tank top:
+    name: 迷彩背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_tank_top.html
+  aqua tank top:
+    name: 水族背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_tank_top.html
+  graphics card:
+    name: 显卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/graphics_card.html
+    alias:
+    - gpu
+    - video card
+  minecart:
+    name: 矿车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/minecart.html
+  toy robot:
+    name: 玩具机器人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toy_robot.html
+  neptune (planet):
+    name: 海王星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neptune_(planet).html
+  trainer wants to battle:
+    name: 教练想要战斗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trainer_wants_to_battle.html
+  carrier:
+    name: 载体
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrier.html
+  carnival:
+    name: 狂欢
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carnival.html
+  hayabusa (spacecraft):
+    name: 隼鸟号（飞船）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hayabusa_(spacecraft).html
+  platform truck:
+    name: 平台车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/platform_truck.html
+  house of cards:
+    name: 卡塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/house_of_cards.html
+    alias:
+    - card tower
+  car keys:
+    name: 车钥匙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/car_keys.html
+  medium tank:
+    name: 中型坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/medium_tank.html
+  mecha danshi:
+    name: 机甲弹石
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mecha_danshi.html
+  arquebus:
+    name: 火绳枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arquebus.html
+  uranus (planet):
+    name: 天王星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uranus_(planet).html
+  scarab:
+    name: 圣甲虫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scarab.html
+  magic carpet:
+    name: 魔毯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magic_carpet.html
+    alias:
+    - flying carpet
+  sakura card:
+    name: 樱花卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sakura_card.html
+  remote control vehicle:
+    name: 遥控车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/remote_control_vehicle.html
+  ship in a bottle:
+    name: 装在瓶子里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship_in_a_bottle.html
+  carbon roller (splatoon):
+    name: 碳素滚筒（splatoon）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carbon_roller_(splatoon).html
+  de lisle carbine:
+    name: 利尔卡宾枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/de_lisle_carbine.html
+  robot cat:
+    name: 机器猫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_cat.html
+  externally piloted mecha:
+    name: 外部驾驶机甲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/externally_piloted_mecha.html
+  nice boat (meme):
+    name: 漂亮的船（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nice_boat_(meme).html
+  egg carton:
+    name: 蛋盒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/egg_carton.html
+  strainer:
+    name: 过滤器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/strainer.html
+  fn scar 16:
+    name: fn疤痕16
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fn_scar_16.html
+  anomalocaris:
+    name: 奇虾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anomalocaris.html
+  cable car:
+    name: 缆车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cable_car.html
+  matrix of leadership:
+    name: 领导矩阵
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matrix_of_leadership.html
+  model airplane:
+    name: 模型飞机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/model_airplane.html
+  pushing cart:
+    name: 推车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pushing_cart.html
+  propane tank:
+    name: 丙烷罐
+    wikiURL: https://danbooru.donmai.us/wiki_pages/propane_tank.html
+  road bicycle:
+    name: 公路自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/road_bicycle.html
+  toy boat:
+    name: 玩具船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toy_boat.html
+  card with aura:
+    name: 有光环的卡片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_with_aura.html
+  scorecard:
+    name: 计分卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scorecard.html
+  folding bicycle:
+    name: 折叠自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/folding_bicycle.html
+  happy party train:
+    name: 快乐派对火车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/happy_party_train.html
+  police motorcycle:
+    name: 警用摩托车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/police_motorcycle.html
+  against vehicle:
+    name: 对车辆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/against_vehicle.html
+  mercury (planet):
+    name: 水星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mercury_(planet).html
+  scarlet macaw:
+    name: 猩红金刚鹦鹉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scarlet_macaw.html
+  test card:
+    name: 测试卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/test_card.html
+    alias:
+    - test pattern
+  carrot on stick:
+    name: 胡萝卜棒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_on_stick.html
+  mecha on girl:
+    name: 女孩身上的机甲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mecha_on_girl.html
+  fire truck:
+    name: 消防车救火车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_truck.html
+    alias:
+    - fire engine
+    - firetruck
+  exercise bike:
+    name: 运动自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/exercise_bike.html
+  minibike:
+    name: 小型自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/minibike.html
+  type 10 (tank):
+    name: 10式（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/type_10_(tank).html
+  sks:
+    name: skS
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sks.html
+    alias:
+    - type 56 carbine
+  mark iv tank:
+    name: 马克四号坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mark_iv_tank.html
+  double-decker bus:
+    name: 双层巴士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/double-decker_bus.html
+  carcano:
+    name: 卡尔卡诺
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carcano.html
+  blunderbuss:
+    name: 铳
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blunderbuss.html
+  parker-hale idw:
+    name: 丛林人idW
+    wikiURL: https://danbooru.donmai.us/wiki_pages/parker-hale_idw.html
+    alias:
+    - bushman idw
+  m1 carbine:
+    name: m1卡宾枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m1_carbine.html
+  card pendant:
+    name: 卡片挂件
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_pendant.html
+  carcinization:
+    name: 癌化
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carcinization.html
+    alias:
+    - carcinisation
+  matilda (tank):
+    name: 玛蒂尔达（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matilda_(tank).html
+  cruise ship:
+    name: 邮轮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cruise_ship.html
+  yamabushi tengu:
+    name: 山伏天狗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yamabushi_tengu.html
+  leopard 2:
+    name: 豹2（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leopard_2.html
+    alias:
+    - leopard 2 (tank)
+  ambush:
+    name: 伏击
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ambush.html
+  zanscare:
+    name: 赞斯卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zanscare.html
+  child abuse:
+    name: 虐待儿童
+    wikiURL: https://danbooru.donmai.us/wiki_pages/child_abuse.html
+  surgical scar:
+    name: 手术疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/surgical_scar.html
+  landship:
+    name: 登陆舰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/landship.html
+    alias:
+    - land battleship
+  f4f wildcat:
+    name: martlet（飞机）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/f4f_wildcat.html
+    alias:
+    - martlet (airplane)
+  removable censorship:
+    name: 可移除的审查
+    wikiURL: https://danbooru.donmai.us/wiki_pages/removable_censorship.html
+  train attendant:
+    name: 列车员
+    wikiURL: https://danbooru.donmai.us/wiki_pages/train_attendant.html
+  red card:
+    name: 红牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_card.html
+  ship interior:
+    name: 船舶内部
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship_interior.html
+  swan boat:
+    name: 天鹅船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swan_boat.html
+  blue card:
+    name: 蓝卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_card.html
+  kongou (battleship):
+    name: 金刚（战舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kongou_(battleship).html
+  tank truck:
+    name: 油罐车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_truck.html
+  shuffling cards:
+    name: 洗牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shuffling_cards.html
+  toy tank:
+    name: 玩具坦克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toy_tank.html
+  nagato (battleship):
+    name: 长门（战舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nagato_(battleship).html
+  yellow card:
+    name: 黄牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_card.html
+  school bus:
+    name: 校车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_bus.html
+  drop tank:
+    name: 副油箱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drop_tank.html
+  itunes card:
+    name: iTunes卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/itunes_card.html
+  super famicom cartridge:
+    name: 超级任天堂卡带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/super_famicom_cartridge.html
+  ki-43 hayabusa:
+    name: ki-43隼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ki-43_hayabusa.html
+  pet carrier:
+    name: 宠物笼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pet_carrier.html
+  no cardigan:
+    name: 没有开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_cardigan.html
+  league card:
+    name: 联赛卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/league_card.html
+  cardigan pull:
+    name: 开衫拉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardigan_pull.html
+  cargo pallet:
+    name: 托盘
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cargo_pallet.html
+    alias:
+    - pallet
+  jaguar (car):
+    name: 捷豹（汽车）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jaguar_(car).html
+  carnival mask:
+    name: 嘉年华面具
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carnival_mask.html
+  lada (car):
+    name: 拉达（轿车）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lada_(car).html
+  care label:
+    name: 护理标签
+    wikiURL: https://danbooru.donmai.us/wiki_pages/care_label.html
+  cromwell (tank):
+    name: 克伦威尔（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cromwell_(tank).html
+  famicom cartridge:
+    name: 红白卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/famicom_cartridge.html
+  flash cards:
+    name: 闪存卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flash_cards.html
+  gravy boat:
+    name: 肉汁船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gravy_boat.html
+  twin-bush disguise:
+    name: 双丛伪装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twin-bush_disguise.html
+  fenrir (vehicle):
+    name: 芬里尔（车辆）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fenrir_(vehicle).html
+  cartesian chart:
+    name: 笛卡尔图
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cartesian_chart.html
+  boat interior:
+    name: 船内部
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boat_interior.html
+  hand truck:
+    name: 手推车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hand_truck.html
+  bismarck (battleship):
+    name: 俾斯麦号（战列舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bismarck_(battleship).html
+  longship:
+    name: 德拉卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/longship.html
+    alias:
+    - drakkar
+  pluto (planet):
+    name: 冥王星（行星）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pluto_(planet).html
+  flower tank (touhou):
+    name: 花缸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flower_tank_(touhou).html
+    alias:
+    - flower tank
+  mountain bicycle:
+    name: 山地自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mountain_bicycle.html
+  shift car:
+    name: 换档车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shift_car.html
+  film cartridge:
+    name: 胶片盒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/film_cartridge.html
+  airplane ornament:
+    name: 飞机装饰品
+    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane_ornament.html
+  road closed to vehicles sign:
+    name: 禁止车辆通行的道路标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/road_closed_to_vehicles_sign.html
+  rabbit+tank form (black hazard):
+    name: 兔子+坦克形态（black hazard）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit+tank_form_(black_hazard).html
+  valentine (tank):
+    name: 情人节（坦克）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/valentine_(tank).html
+  tandem bicycle:
+    name: 双人自行车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tandem_bicycle.html
+  kaga (aircraft carrier):
+    name: 加贺号（航空母舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaga_(aircraft_carrier).html
+  akagi (aircraft carrier):
+    name: 赤城（航空母舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/akagi_(aircraft_carrier).html
+  training wheels:
+    name: 训练轮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/training_wheels.html
+  business:
+    name: 商业
+    wikiURL: https://danbooru.donmai.us/wiki_pages/business.html
+  object (vehicle):
+    name: 物体（车辆）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/object_(vehicle).html
+  kaga (battleship):
+    name: 加贺（战舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaga_(battleship).html
+  dunk tank:
+    name: 扣篮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dunk_tank.html
+  mikasa (battleship):
+    name: 三笠（战舰）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mikasa_(battleship).html
+  bird scarer:
+    name: 驱鸟器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bird_scarer.html
+  zenryoku batankyuu:
+    name: 全绿八旦球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zenryoku_batankyuu.html
+  mechanical bull:
+    name: 机械牛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_bull.html
+  card creature:
+    name: 卡片生物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_creature.html
+  chibikemo:
+    name: chibikemo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chibikemo.html
+  red car:
+    name: red car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_car.html
+  king (playing card):
+    name: king (playing card)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/king_(playing_card).html
+  box truck:
+    name: box truck
+    wikiURL: https://danbooru.donmai.us/wiki_pages/box_truck.html
+  robotic vacuum cleaner:
+    name: robotic vacuum cleaner
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robotic_vacuum_cleaner.html
+    alias:
+    - roomba
+  white car:
+    name: white car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_car.html
+  black bikesuit:
+    name: black bikesuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_bikesuit.html
+  blue car:
+    name: blue car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_car.html
+  gacha (game mechanic):
+    name: gacha (game mechanic)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gacha_(game_mechanic).html
+    alias:
+    - gacha
+  floatplane:
+    name: floatplane
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floatplane.html
+  armpit carry:
+    name: armpit carry
+    wikiURL: https://danbooru.donmai.us/wiki_pages/armpit_carry.html
+  carhop:
+    name: carhop
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carhop.html
+  kei truck:
+    name: kei truck
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kei_truck.html
+  robot dragon:
+    name: robot dragon
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_dragon.html
+    alias:
+    - mechanical dragon
+  jack (playing card):
+    name: jack (playing card)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jack_(playing_card).html
+  stance (vehicle):
+    name: stance (vehicle)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stance_(vehicle).html
+  attack helicopter:
+    name: attack helicopter
+    wikiURL: https://danbooru.donmai.us/wiki_pages/attack_helicopter.html
+  black car:
+    name: black car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_car.html
+  carrot-shaped pillow:
+    name: carrot-shaped pillow
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot-shaped_pillow.html
+    alias:
+    - carrot pillow
+  yellow car:
+    name: yellow car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_car.html
+  spicebush (e.g.o):
+    name: spicebush (e.g.o)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spicebush_(e.g.o).html
+  military truck:
+    name: military truck
+    wikiURL: https://danbooru.donmai.us/wiki_pages/military_truck.html
+  washing vehicle:
+    name: washing vehicle
+    wikiURL: https://danbooru.donmai.us/wiki_pages/washing_vehicle.html
+    alias:
+    - washing car
+    - washing tank
+  queen of hearts (playing card):
+    name: queen of hearts (playing card)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/queen_of_hearts_(playing_card).html
+    alias:
+    - queen of hearts (card)
+  on truck:
+    name: on truck
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_truck.html
+  shipping (fandom):
+    name: shipping (fandom)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shipping_(fandom).html
+    alias:
+    - relationshipping
+  transit bus:
+    name: transit bus
+    wikiURL: https://danbooru.donmai.us/wiki_pages/transit_bus.html
+  grey car:
+    name: grey car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_car.html
+    alias:
+    - gray car
+  scar on chin:
+    name: scar on chin
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_chin.html
+  battleship (eve online):
+    name: battleship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/battleship_(eve_online).html
+  cardigan partially removed:
+    name: cardigan partially removed
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardigan_partially_removed.html
+  unworn cardigan:
+    name: unworn cardigan
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_cardigan.html
+    alias:
+    - cardigan removed
+  scarf choker:
+    name: scarf choker
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scarf_choker.html
+  holding id card:
+    name: holding id card
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_id_card.html
+  white bustier:
+    name: white bustier
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_bustier.html
+  panther (tank):
+    name: panther (tank)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/panther_(tank).html
+    alias:
+    - panzerkampfwagen panther
+    - panzer v panther
+    - pzkpfw v panther
+  combat ship (eve online):
+    name: combat ship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/combat_ship_(eve_online).html
+  king of hearts (playing card):
+    name: king of hearts (playing card)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/king_of_hearts_(playing_card).html
+    alias:
+    - king of hearts (card)
+  reverse princess carry:
+    name: reverse princess carry
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reverse_princess_carry.html
+  kei car:
+    name: kei car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kei_car.html
+  carrot slice:
+    name: carrot slice
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_slice.html
+  cardigan on shoulders:
+    name: cardigan on shoulders
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardigan_on_shoulders.html
+  scar across eyebrow:
+    name: scar across eyebrow
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_across_eyebrow.html
+  mastectomy scar:
+    name: mastectomy scar
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mastectomy_scar.html
+    alias:
+    - top surgery scar
+  high-speed train:
+    name: high-speed train
+    wikiURL: https://danbooru.donmai.us/wiki_pages/high-speed_train.html
+  mechanical foot:
+    name: mechanical foot
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_foot.html
+  carrot in pocket:
+    name: carrot in pocket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_in_pocket.html
+  attack ship (eve online):
+    name: attack ship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/attack_ship_(eve_online).html
+  green car:
+    name: green car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_car.html
+  two-tone tank top:
+    name: two-tone tank top
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_tank_top.html
+  cartoon wings:
+    name: cartoon wings
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cartoon_wings.html
+  dirtbike:
+    name: dirtbike
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dirtbike.html
+  friendship club (princess connect!):
+    name: friendship club (princess connect!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/friendship_club_(princess_connect!).html
+  class card (prisma illya):
+    name: class card (prisma illya)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/class_card_(prisma_illya).html
+  robot fish:
+    name: robot fish
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_fish.html
+  robot bird:
+    name: robot bird
+    wikiURL: https://danbooru.donmai.us/wiki_pages/robot_bird.html
+    alias:
+    - mechanical bird
+  recreational vehicle:
+    name: recreational vehicle
+    wikiURL: https://danbooru.donmai.us/wiki_pages/recreational_vehicle.html
+    alias:
+    - rv
+    - rv (vehicle)
+  dragon boat festival:
+    name: dragon boat festival
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_boat_festival.html
+  scar on ear:
+    name: scar on ear
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_ear.html
+  advanced ship (eve online):
+    name: advanced ship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/advanced_ship_(eve_online).html
+  ship's wheel ornament:
+    name: ship's wheel ornament
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ship's_wheel_ornament.html
+  scar on head:
+    name: scar on head
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_head.html
+  sitting against vehicle:
+    name: sitting against vehicle
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sitting_against_vehicle.html
+  on ship:
+    name: on ship
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_ship.html
+  assisted carrying:
+    name: assisted carrying
+    wikiURL: https://danbooru.donmai.us/wiki_pages/assisted_carrying.html
+  candle no kaori wa omoide to tomo ni (project sekai):
+    name: candle no kaori wa omoide to tomo ni (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candle_no_kaori_wa_omoide_to_tomo_ni_(project_sekai).html
+    alias:
+    - memories carried by the scent of candles (project sekai)
+    - memories that come with the scent of candles (project sekai)
+  colt commando:
+    name: colt commando
+    wikiURL: https://danbooru.donmai.us/wiki_pages/colt_commando.html
+    alias:
+    - car-15
+  scar on hip:
+    name: scar on hip
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_hip.html
+  type 74 (tank):
+    name: type 74 (tank)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/type_74_(tank).html
+  implied cheating (relationship):
+    name: implied cheating (relationship)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/implied_cheating_(relationship).html
+  vehicle chase:
+    name: vehicle chase
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vehicle_chase.html
+    alias:
+    - car chase
+  circumcision scar:
+    name: circumcision scar
+    wikiURL: https://danbooru.donmai.us/wiki_pages/circumcision_scar.html
+  fake trading card:
+    name: fake trading card
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fake_trading_card.html
+  orange car:
+    name: orange car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_car.html
+  tanker jacket:
+    name: tanker jacket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tanker_jacket.html
+  eight of diamonds (playing card):
+    name: eight of diamonds (playing card)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eight_of_diamonds_(playing_card).html
+    alias:
+    - eight of diamonds (card)
+  maus (tank):
+    name: maus (tank)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maus_(tank).html
+    alias:
+    - panzerkampfwagen viii maus
+    - panzer viii maus
+    - pzkpfw viii maus
+  tonari ni tatsu yasashii anata e (project sekai):
+    name: tonari ni tatsu yasashii anata e (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tonari_ni_tatsu_yasashii_anata_e_(project_sekai).html
+    alias:
+    - standing next to the kind and gentle you (project sekai)
+    - to you my caring companion (project sekai)
+  open car hood:
+    name: open car hood
+    wikiURL: https://danbooru.donmai.us/wiki_pages/open_car_hood.html
+    alias:
+    - open hood
+  on train:
+    name: on train
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_train.html
+  biomechanical:
+    name: biomechanical
+    wikiURL: https://danbooru.donmai.us/wiki_pages/biomechanical.html
+  white headscarf:
+    name: white headscarf
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_headscarf.html
+  animal-themed vehicle:
+    name: animal-themed vehicle
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animal-themed_vehicle.html
+  pink car:
+    name: pink car
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_car.html
+  frilled bustier:
+    name: frilled bustier
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_bustier.html
+  unconventional emergency vehicle lighting:
+    name: unconventional emergency vehicle lighting
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unconventional_emergency_vehicle_lighting.html
+  heat stroke photoshoot (meme):
+    name: heat stroke photoshoot (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heat_stroke_photoshoot_(meme).html
+    alias:
+    - tank top heat stroke (meme)
+  freight train:
+    name: freight train
+    wikiURL: https://danbooru.donmai.us/wiki_pages/freight_train.html
+  support ship (eve online):
+    name: support ship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/support_ship_(eve_online).html
+  droneboat (eve online):
+    name: droneboat (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/droneboat_(eve_online).html
+  power crashes kobeni's car (meme):
+    name: power crashes kobeni's car (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/power_crashes_kobeni's_car_(meme).html
+  osawa rurino's cardboard box:
+    name: osawa rurino's cardboard box
+    wikiURL: https://danbooru.donmai.us/wiki_pages/osawa_rurino's_cardboard_box.html
+  on mini planet:
+    name: on mini planet
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_mini_planet.html
+  cats are scared of cucumbers (meme):
+    name: cats are scared of cucumbers (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cats_are_scared_of_cucumbers_(meme).html
+  e pluribus unum (fate/grand order):
+    name: e pluribus unum (fate/grand order)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/e_pluribus_unum_(fate/grand_order).html
+  kero (cardcaptor sakura) (cosplay):
+    name: kero (cardcaptor sakura) (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kero_(cardcaptor_sakura)_(cosplay).html
+  daiwa scarlet (umamusume) (cosplay):
+    name: daiwa scarlet (umamusume) (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/daiwa_scarlet_(umamusume)_(cosplay).html
+  alpine (carmaker):
+    name: alpine (carmaker)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alpine_(carmaker).html
+  red bustier:
+    name: red bustier
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_bustier.html
+  ghostbusters uniform:
+    name: ghostbusters uniform
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ghostbusters_uniform.html
+  scar on lip:
+    name: scar on lip
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_lip.html
+  capital ship (eve online):
+    name: capital ship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/capital_ship_(eve_online).html
+  cargo ship:
+    name: cargo ship
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cargo_ship.html
+  carrying multiple people:
+    name: carrying multiple people
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrying_multiple_people.html
+  fur-trimmed scarf:
+    name: fur-trimmed scarf
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_scarf.html
+  type 90 (tank):
+    name: type 90 (tank)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/type_90_(tank).html
+    alias:
+    - type 90 kyu-maru
+  training tap:
+    name: training tap
+    wikiURL: https://danbooru.donmai.us/wiki_pages/training_tap.html
+  choice scarf:
+    name: choice scarf
+    wikiURL: https://danbooru.donmai.us/wiki_pages/choice_scarf.html
+  tech 2 ship (eve online):
+    name: tech 2 ship (eve online)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tech_2_ship_(eve_online).html
+  card in hat:
+    name: card in hat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/card_in_hat.html
+  car part:
+    name: car part
+    wikiURL: https://danbooru.donmai.us/wiki_pages/car_part.html
+  golden bough (limbus company):
+    name: golden bough (limbus company)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/golden_bough_(limbus_company).html
+  kobeni's car (chainsaw man):
+    name: kobeni's car (chainsaw man)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kobeni's_car_(chainsaw_man).html
+  cargo aircraft:
+    name: cargo aircraft
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cargo_aircraft.html
+  sagittal plane cutting:
+    name: sagittal plane cutting
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sagittal_plane_cutting.html
+  carrot juice:
+    name: carrot juice
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_juice.html

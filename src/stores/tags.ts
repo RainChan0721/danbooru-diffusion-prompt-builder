@@ -159,11 +159,10 @@ export const useTagStore = defineStore('tags', {
                         (this.tagsPostCount[k1.key] ?? 0)
                 )
 
-            const lcQuery = query.toLowerCase()
+            const lcQuery = query.toLowerCase().trim()
             const normalizedLcQuery = lcQuery
                 .split(/_|\s/)
                 .filter((n) => !!n)
-                .sort((a, b) => b.length - a.length)
             const cacheKey = JSON.stringify([
                 'ByCategory',
                 category,
@@ -171,115 +170,159 @@ export const useTagStore = defineStore('tags', {
             ])
             const cached = searchCache.get(cacheKey)
             if (cached) return cached
-            const result = normalizedLcQuery
-                .reduce<(Tag & { score: number })[]>(
-                    (a, q) =>
-                        a
-                            .map((meta): Tag & { score: number } => {
-                                let score = meta.score
-                                if (meta.key.toLowerCase() === lcQuery)
-                                    score += 300
-                                if (meta.key.toLowerCase().includes(q))
-                                    score += 100
-                                if (meta.name.toLowerCase() === lcQuery)
-                                    score += 50
-                                if (meta.name.toLowerCase().includes(q))
-                                    score += 50
-                                if (
-                                    meta.alias?.some(
-                                        (a) => a.toLowerCase() === lcQuery
-                                    )
-                                )
-                                    score += 90
-                                if (
-                                    meta.alias?.some((a) =>
-                                        a.toLowerCase().includes(q)
-                                    )
-                                )
-                                    score += 70
-                                if (meta.description?.toLowerCase() === q)
-                                    score += 40
-                                if (meta.description?.toLowerCase().includes(q))
-                                    score += 25
-                                return { ...meta, score }
-                            })
-                            .filter((v) => v.score > 0),
-                    this.tags
-                        .filter(
-                            (v) =>
-                                v.category.join('/') === category.join('/') &&
-                                (settings.showRestricted || !v.restricted)
-                        )
-                        .map((v) => ({ ...v, score: 0 }))
-                )
-                .sort((va, vb) => vb.score - va.score)
-            searchCache.set(cacheKey, result)
-            return result
-        },
-        searchAll(query: string) {
-            const settings = useSettingsStore()
-            if (query === '') return []
 
-            const lcQuery = query.toLowerCase()
+            const catStr = category.join('/')
+            const candidates = this.tagsByCategory[catStr] || []
+            const results: (Tag & { score: number })[] = []
+
+            for (let i = 0; i < candidates.length; i++) {
+                const meta = candidates[i]
+                let score = 0
+                const tagKey = meta.key.toLowerCase()
+                const tagName = meta.name ? meta.name.toLowerCase() : ''
+
+                if (tagKey === lcQuery) score += 300
+                if (tagName === lcQuery) score += 250
+
+                let allMatched = true
+                for (let k = 0; k < normalizedLcQuery.length; k++) {
+                    const q = normalizedLcQuery[k]
+                    let matched = false
+                    if (tagKey.includes(q)) {
+                        score += 100
+                        matched = true
+                    }
+                    if (tagName.includes(q)) {
+                        score += 70
+                        matched = true
+                    }
+                    if (meta.alias) {
+                        for (let a = 0; a < meta.alias.length; a++) {
+                            const al = meta.alias[a].toLowerCase()
+                            if (al === lcQuery) score += 150
+                            if (al.includes(q)) {
+                                score += 50
+                                matched = true
+                            }
+                        }
+                    }
+                    if (meta.description && meta.description.toLowerCase().includes(q)) {
+                        score += 25
+                        matched = true
+                    }
+                    if (!matched) {
+                        allMatched = false
+                        break
+                    }
+                }
+                if (allMatched && score > 0) {
+                    const pc = this.tagsPostCount[meta.key] || 0
+                    if (pc > 0) score += Math.min(Math.log10(pc + 1) * 5, 30)
+                    results.push({ ...meta, score })
+                }
+            }
+
+            results.sort((a, b) => b.score - a.score)
+            searchCache.set(cacheKey, results)
+            return results
+        },
+        searchAll(query: string, categoryFilter?: string) {
+            const settings = useSettingsStore()
+            if (!query || !query.trim()) return []
+
+            const lcQuery = query.toLowerCase().trim()
             const normalizedLcQuery = lcQuery
                 .split(/_|\s/)
                 .filter((n) => !!n)
-                .sort((a, b) => b.length - a.length)
-            const cacheKey = JSON.stringify(['Global', normalizedLcQuery])
+            const cacheKey = JSON.stringify(['Global', normalizedLcQuery, categoryFilter || '', settings.showRestricted])
             const cached = searchCache.get(cacheKey)
             if (cached) return cached
-            const result = normalizedLcQuery
-                .reduce<(Tag & { score: number })[]>(
-                    (a, q) =>
-                        a
-                            .map((meta): Tag & { score: number } => {
-                                let score = meta.score
-                                if (meta.key.toLowerCase() === lcQuery)
-                                    score += 300
-                                if (meta.key.toLowerCase().includes(q))
-                                    score += 100
-                                if (meta.name.toLowerCase() === lcQuery)
-                                    score += 50
-                                if (meta.name.toLowerCase().includes(q))
-                                    score += 50
-                                if (
-                                    meta.alias?.some(
-                                        (a) => a.toLowerCase() === lcQuery
-                                    )
-                                )
-                                    score += 90
-                                if (
-                                    meta.alias?.some((a) =>
-                                        a.toLowerCase().includes(q)
-                                    )
-                                )
-                                    score += 70
-                                if (meta.description?.toLowerCase() === q)
-                                    score += 40
-                                if (meta.description?.toLowerCase().includes(q))
-                                    score += 25
-                                if (
-                                    meta.category?.some(
-                                        (c) => c.toLowerCase() === q
-                                    )
-                                )
-                                    score += 15
-                                if (
-                                    meta.category?.some((c) =>
-                                        c.toLowerCase().includes(q)
-                                    )
-                                )
-                                    score += 7
-                                return { ...meta, score }
-                            })
-                            .filter(({ score }) => score > 0),
-                    this.tags
-                        .filter((v) => settings.showRestricted || !v.restricted)
-                        .map((t) => ({ ...t, score: 0 }))
-                )
-                .sort(({ score: a }, { score: b }) => b - a)
-            searchCache.set(cacheKey, result)
-            return result
+
+            const tags = this.tags
+            const tagsCount = tags.length
+            const showRestricted = settings.showRestricted
+            const filterCat = categoryFilter ? categoryFilter.toLowerCase() : ''
+            const results: (Tag & { score: number })[] = []
+
+            for (let i = 0; i < tagsCount; i++) {
+                const meta = tags[i]
+                if (!showRestricted && meta.restricted && filterCat !== '限制级') continue
+
+                if (filterCat) {
+                    let matchCat = false
+                    if (meta.category) {
+                        for (let c = 0; c < meta.category.length; c++) {
+                            if (meta.category[c].toLowerCase().includes(filterCat)) {
+                                matchCat = true
+                                break
+                            }
+                        }
+                    }
+                    if (!matchCat) continue
+                }
+
+                let score = 0
+                const tagKey = meta.key.toLowerCase()
+                const tagName = meta.name ? meta.name.toLowerCase() : ''
+
+                if (tagKey === lcQuery) score += 400
+                if (tagName === lcQuery) score += 350
+
+                let allMatched = true
+                for (let k = 0; k < normalizedLcQuery.length; k++) {
+                    const q = normalizedLcQuery[k]
+                    let matched = false
+
+                    if (tagKey.includes(q)) {
+                        score += (tagKey === q ? 150 : 80)
+                        matched = true
+                    }
+                    if (tagName.includes(q)) {
+                        score += (tagName === q ? 120 : 60)
+                        matched = true
+                    }
+                    if (meta.alias) {
+                        for (let a = 0; a < meta.alias.length; a++) {
+                            const al = meta.alias[a].toLowerCase()
+                            if (al === lcQuery) score += 200
+                            if (al.includes(q)) {
+                                score += (al === q ? 100 : 50)
+                                matched = true
+                            }
+                        }
+                    }
+                    if (meta.description && meta.description.toLowerCase().includes(q)) {
+                        score += 25
+                        matched = true
+                    }
+                    if (meta.category) {
+                        for (let c = 0; c < meta.category.length; c++) {
+                            if (meta.category[c].toLowerCase().includes(q)) {
+                                score += 15
+                                matched = true
+                            }
+                        }
+                    }
+
+                    if (!matched) {
+                        allMatched = false
+                        break
+                    }
+                }
+
+                if (allMatched && score > 0) {
+                    const pc = this.tagsPostCount[meta.key] || 0
+                    if (pc > 0) {
+                        score += Math.min(Math.log10(pc + 1) * 5, 30)
+                    }
+                    results.push({ ...meta, score })
+                }
+            }
+
+            results.sort((a, b) => b.score - a.score)
+            const trimmed = results.slice(0, 200)
+            searchCache.set(cacheKey, trimmed)
+            return trimmed
         },
     },
 })

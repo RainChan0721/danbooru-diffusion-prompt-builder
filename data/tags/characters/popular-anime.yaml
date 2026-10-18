@@ -1,0 +1,1189 @@
+name: 热门动漫角色
+category:
+- 角色
+content:
+  gotoh hitori:
+    name: gotoh hitori
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gotoh_hitori.html
+    alias:
+    - bocchi (bocchi the rock!)
+    - gotou hitori
+  2b (nier:automata):
+    name: 2b (nier:automata)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/2b_(nier:automata).html
+    alias:
+    - 2b (nier)
+    - yorha no. 2 type b
+  rem (re:zero):
+    name: 雷姆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rem_(re:zero).html
+  makima (chainsaw man):
+    name: makima（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/makima_(chainsaw_man).html
+  pyra (xenoblade):
+    name: homura （异度神剑 2） pyra （异度神剑 2）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pyra_(xenoblade).html
+    alias:
+    - homura (xenoblade 2)
+    - pyra (xenoblade chronicles 2)
+  mythra (xenoblade):
+    name: hikari（异度神剑 2） mythra（异度神剑 2）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mythra_(xenoblade).html
+    alias:
+    - hikari (xenoblade 2)
+    - mythra (xenoblade chronicles 2)
+  nami (one piece):
+    name: 娜美（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nami_(one_piece).html
+  aqua (konosuba):
+    name: 阿库娅
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_(konosuba).html
+  anya (spy x family):
+    name: anya（间谍x家族）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anya_(spy_x_family).html
+  d.va (overwatch):
+    name: D.Va（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/d.va_(overwatch).html
+    alias:
+    - diva (overwatch)
+    - hana song
+    - song hana
+  power (chainsaw man):
+    name: 力量（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/power_(chainsaw_man).html
+  denji (chainsaw man):
+    name: denji（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/denji_(chainsaw_man).html
+  ahri (league of legends):
+    name: 阿狸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ahri_(league_of_legends).html
+  emilia (re:zero):
+    name: 艾米莉亚（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/emilia_(re:zero).html
+  mercy (overwatch):
+    name: 安吉拉齐格勒博士安吉拉齐格勒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mercy_(overwatch).html
+    alias:
+    - angela ziegler
+    - dr. angela ziegler
+  sanji (one piece):
+    name: 三吉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sanji_(one_piece).html
+    alias:
+    - sanji
+  twilight (spy x family):
+    name: 伪造者
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twilight_(spy_x_family).html
+    alias:
+    - loid forger
+  nagisa kaworu:
+    name: 渚カヲル
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nagisa_kaworu.html
+    alias:
+    - tabris (evangelion)
+  nia (xenoblade):
+    name: 尼亚
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nia_(xenoblade).html
+    alias:
+    - niyah
+  ram (re:zero):
+    name: 内存（回复：零）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ram_(re:zero).html
+  darkness (konosuba):
+    name: 黑暗（konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/darkness_(konosuba).html
+  jinx (league of legends):
+    name: 厄运（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jinx_(league_of_legends).html
+  makinami mari illustrious:
+    name: 真希波・マリ・イラストリアス
+    wikiURL: https://danbooru.donmai.us/wiki_pages/makinami_mari_illustrious.html
+    alias:
+    - mari (evangelion)
+  reze (chainsaw man):
+    name: reze（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reze_(chainsaw_man).html
+  9s (nier:automata):
+    name: 9s (nier:automata)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/9s_(nier:automata).html
+    alias:
+    - 9s (nier)
+    - yorha no. 9 type s
+  yoru (chainsaw man):
+    name: yoru（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yoru_(chainsaw_man).html
+  hayakawa aki:
+    name: 早川明（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hayakawa_aki.html
+    alias:
+    - hayakawa aki (chainsaw man)
+  tracer (overwatch):
+    name: 莉娜奥克斯顿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tracer_(overwatch).html
+    alias:
+    - lena oxton
+  kero (cardcaptor sakura):
+    name: kero (cardcaptor sakura)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kero_(cardcaptor_sakura).html
+    alias:
+    - kero
+  son gohan:
+    name: 孫悟飯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/son_gohan.html
+    alias:
+    - gohan (dragon ball)
+  mei (overwatch):
+    name: 周美玲周美玲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mei_(overwatch).html
+    alias:
+    - mei-ling zhou
+    - zhou mei-ling
+  yamato (one piece):
+    name: 大和（一张）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yamato_(one_piece).html
+  ryoumen sukuna (jujutsu kaisen):
+    name: ryoumen sukuna（柔术会战）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ryoumen_sukuna_(jujutsu_kaisen).html
+  widowmaker (overwatch):
+    name: 艾米莉·拉克鲁瓦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/widowmaker_(overwatch).html
+    alias:
+    - amelie lacroix
+  rex (xenoblade):
+    name: 霸王龙（异种神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rex_(xenoblade).html
+  pochita (chainsaw man):
+    name: pochita（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pochita_(chainsaw_man).html
+  himeno (chainsaw man):
+    name: 姬野（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/himeno_(chainsaw_man).html
+  chi-chi (dragon ball):
+    name: 嘻嘻
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chi-chi_(dragon_ball).html
+    alias:
+    - chichi
+  tsunade (naruto):
+    name: 纲手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tsunade_(naruto).html
+    alias:
+    - tsunade
+  monomi (danganronpa):
+    name: monomi（弹丸论破）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/monomi_(danganronpa).html
+    alias:
+    - monomi (dangan ronpa)
+  sona (league of legends):
+    name: 索纳布维尔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sona_(league_of_legends).html
+    alias:
+    - sona buvelle
+  white mage (final fantasy):
+    name: white mage (final fantasy)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_mage_(final_fantasy).html
+    alias:
+    - white mage
+  gwen (league of legends):
+    name: 格温（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gwen_(league_of_legends).html
+  portgas d. ace:
+    name: 波特加斯·达斯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/portgas_d._ace.html
+    alias:
+    - ace (one piece)
+    - portgas d ace
+  vi (league of legends):
+    name: vi（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vi_(league_of_legends).html
+  mio (xenoblade):
+    name: mio（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mio_(xenoblade).html
+  nia (blade) (xenoblade):
+    name: niyah（刀刃）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nia_(blade)_(xenoblade).html
+    alias:
+    - niyah (blade)
+  trunks (dragon ball):
+    name: 树干（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trunks_(dragon_ball).html
+    alias:
+    - trunks (dragonball)
+  a2 (nier:automata):
+    name: a2 (nier:automata)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/a2_(nier:automata).html
+    alias:
+    - a2 (nier)
+    - yorha type a no. 2
+  caitlyn (league of legends):
+    name: 凯特琳（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/caitlyn_(league_of_legends).html
+  yunyun (konosuba):
+    name: 韵韵（konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yunyun_(konosuba).html
+  lux (league of legends):
+    name: 拉克萨娜冠卫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lux_(league_of_legends).html
+    alias:
+    - luxanna crownguard
+  eunie (xenoblade):
+    name: 尤妮（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eunie_(xenoblade).html
+  pharah (overwatch):
+    name: 法瑞哈阿马里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pharah_(overwatch).html
+    alias:
+    - fareeha amari
+  yuna (ff10):
+    name: 尤娜（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yuna_(ff10).html
+    alias:
+    - yuna (final fantasy)
+  kaine (nier):
+    name: 凯恩（尼尔）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaine_(nier).html
+  lulu (league of legends):
+    name: 露璐
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lulu_(league_of_legends).html
+  pyra (pro swimmer) (xenoblade):
+    name: pyra （职业游泳运动员） （xenoblade）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pyra_(pro_swimmer)_(xenoblade).html
+  beatrice (re:zero):
+    name: 比阿特丽斯（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beatrice_(re:zero).html
+  pneuma (xenoblade):
+    name: pneuma（异种刀片）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pneuma_(xenoblade).html
+  soraka (league of legends):
+    name: 索拉卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/soraka_(league_of_legends).html
+    alias:
+    - soraka
+  quanxi (chainsaw man):
+    name: 全喜（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/quanxi_(chainsaw_man).html
+  pan (dragon ball):
+    name: 潘（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pan_(dragon_ball).html
+  wiz (konosuba):
+    name: wiz （konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wiz_(konosuba).html
+  uta (one piece):
+    name: 歌（一首）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uta_(one_piece).html
+  evelynn (league of legends):
+    name: 伊芙琳（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/evelynn_(league_of_legends).html
+  angel devil (chainsaw man):
+    name: 天使恶魔（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/angel_devil_(chainsaw_man).html
+  crocodile (one piece):
+    name: 鳄鱼先生
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crocodile_(one_piece).html
+    alias:
+    - sir crocodile
+  kindred (league of legends):
+    name: Kindred（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kindred_(league_of_legends).html
+  fami (chainsaw man):
+    name: fami (chainsaw man)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fami_(chainsaw_man).html
+    alias:
+    - famine devil (chainsaw man)
+  brook (one piece):
+    name: 溪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brook_(one_piece).html
+    alias:
+    - brook
+  sabo (one piece):
+    name: 萨博（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sabo_(one_piece).html
+  'soldier: 76 (overwatch)':
+    name: 杰克·莫里森 约翰·莫里森（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/soldier:_76_(overwatch).html
+    alias:
+    - jack morrison
+    - john morrison (overwatch)
+  katarina (league of legends):
+    name: 卡塔琳娜杜库托
+    wikiURL: https://danbooru.donmai.us/wiki_pages/katarina_(league_of_legends).html
+    alias:
+    - katarina du couteau
+  riven (league of legends):
+    name: riven（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riven_(league_of_legends).html
+  lamb (league of legends):
+    name: 羔羊（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lamb_(league_of_legends).html
+  franky (one piece):
+    name: 弗兰基
+    wikiURL: https://danbooru.donmai.us/wiki_pages/franky_(one_piece).html
+    alias:
+    - franky
+  toudou aoi (jujutsu kaisen):
+    name: 藤堂葵（柔术会战）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toudou_aoi_(jujutsu_kaisen).html
+    alias:
+    - todo aoi (jujutsu kaisen)
+  nayuta (chainsaw man):
+    name: 那由多（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nayuta_(chainsaw_man).html
+  bond (spy x family):
+    name: 邦德（间谍x家族）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bond_(spy_x_family).html
+  mythra (massive melee) (xenoblade):
+    name: mythra （大规模混战） （xenoblade）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mythra_(massive_melee)_(xenoblade).html
+  son goten:
+    name: 御殿（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/son_goten.html
+    alias:
+    - goten (dragon ball)
+  miss fortune (league of legends):
+    name: 莎拉财富
+    wikiURL: https://danbooru.donmai.us/wiki_pages/miss_fortune_(league_of_legends).html
+    alias:
+    - sarah fortune
+  shulk (xenoblade):
+    name: 修克（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shulk_(xenoblade).html
+  sombra (overwatch):
+    name: 黑影（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sombra_(overwatch).html
+  echidna (re:zero):
+    name: 针鼹（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/echidna_(re:zero).html
+  genji (overwatch):
+    name: 岛田源氏 岛田源氏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/genji_(overwatch).html
+    alias:
+    - genji shimada
+    - shimada genji
+  temari (naruto):
+    name: 手鞠
+    wikiURL: https://danbooru.donmai.us/wiki_pages/temari_(naruto).html
+    alias:
+    - temari
+  morag ladair (xenoblade):
+    name: meleph（异度神剑） morag（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/morag_ladair_(xenoblade).html
+    alias:
+    - meleph (xenoblade)
+    - morag (xenoblade)
+  elizabeth (persona):
+    name: 伊丽莎白（角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elizabeth_(persona).html
+  trunks (future) (dragon ball):
+    name: 未来的树干
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trunks_(future)_(dragon_ball).html
+    alias:
+    - future trunks
+  meowy (chainsaw man):
+    name: 喵喵（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/meowy_(chainsaw_man).html
+  black mage (final fantasy):
+    name: black mage (final fantasy)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_mage_(final_fantasy).html
+    alias:
+    - black mage
+  reaper (overwatch):
+    name: 加布里埃尔雷耶斯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reaper_(overwatch).html
+    alias:
+    - gabriel reyes
+  luna (sailor moon):
+    name: luna（美少女战士）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/luna_(sailor_moon).html
+  poppi (xenoblade):
+    name: 哈娜（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poppi_(xenoblade).html
+    alias:
+    - hana (xenoblade)
+  donquixote rocinante:
+    name: 科拉松（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/donquixote_rocinante.html
+    alias:
+    - corazon (one piece)
+  mythra (radiant beach) (xenoblade):
+    name: mythra（辐射海滩）（xenoblade）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mythra_(radiant_beach)_(xenoblade).html
+  cassidy (overwatch):
+    name: 科尔卡西迪杰西麦克里麦克里（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cassidy_(overwatch).html
+    alias:
+    - cole cassidy
+    - jesse mccree
+    - mccree (overwatch)
+  smoker (one piece):
+    name: 吸烟者（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/smoker_(one_piece).html
+  hanzo (overwatch):
+    name: 岛田半藏 岛田半藏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanzo_(overwatch).html
+    alias:
+    - hanzo shimada
+    - shimada hanzo
+  poppy (league of legends):
+    name: 罂粟
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poppy_(league_of_legends).html
+  shanks (one piece):
+    name: 小腿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shanks_(one_piece).html
+    alias:
+    - shanks
+  puck (re:zero):
+    name: 冰球（回复：零）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puck_(re:zero).html
+  naruko (naruto):
+    name: 鸣子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naruko_(naruto).html
+    alias:
+    - naruko
+  ulti (one piece):
+    name: ulti （一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ulti_(one_piece).html
+  annie (league of legends):
+    name: 安妮·哈斯塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/annie_(league_of_legends).html
+    alias:
+    - annie hastur
+  kiriko (overwatch):
+    name: 切子（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kiriko_(overwatch).html
+  jinbe (one piece):
+    name: 金杯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jinbe_(one_piece).html
+    alias:
+    - jimbei
+  ana (overwatch):
+    name: 安娜·阿马里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ana_(overwatch).html
+    alias:
+    - ana amari
+  fiora (xenoblade):
+    name: fiorung（xenoblade）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fiora_(xenoblade).html
+    alias:
+    - fiorung (xenoblade)
+  usami (danganronpa):
+    name: 宇佐美（弹丸论破）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/usami_(danganronpa).html
+  brighid (xenoblade):
+    name: kagutsuchi（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brighid_(xenoblade).html
+    alias:
+    - kagutsuchi (xenoblade)
+  paladin (final fantasy):
+    name: 圣骑士（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paladin_(final_fantasy).html
+  neeko (league of legends):
+    name: 妮蔻（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neeko_(league_of_legends).html
+  koromaru (persona):
+    name: 小丸（假面）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koromaru_(persona).html
+  noah (xenoblade):
+    name: 诺亚（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/noah_(xenoblade).html
+  sena (xenoblade):
+    name: 塞纳（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sena_(xenoblade).html
+  felix argyle:
+    name: 费里斯（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/felix_argyle.html
+    alias:
+    - ferris (re:zero)
+  dancer (final fantasy):
+    name: 舞者（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dancer_(final_fantasy).html
+  sett (league of legends):
+    name: 塞特（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sett_(league_of_legends).html
+  ashe (league of legends):
+    name: 阿什（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ashe_(league_of_legends).html
+  snowball (overwatch):
+    name: 雪球（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowball_(overwatch).html
+  kurumi (lycoris recoil):
+    name: kurumi（石蒜后坐力）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kurumi_(lycoris_recoil).html
+  choso (jujutsu kaisen):
+    name: 长草（柔术会战）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/choso_(jujutsu_kaisen).html
+  tenten (naruto):
+    name: 十十
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tenten_(naruto).html
+    alias:
+    - tenten
+  lunch (dragon ball):
+    name: 发射（龙珠） 午餐（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lunch_(dragon_ball).html
+    alias:
+    - launch (dragon ball)
+    - lunch (dragonball)
+  leona (league of legends):
+    name: 蕾欧娜（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leona_(league_of_legends).html
+  dark knight (final fantasy):
+    name: 黑暗骑士（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dark_knight_(final_fantasy).html
+  morgana (league of legends):
+    name: 莫甘娜（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/morgana_(league_of_legends).html
+  director chimera (spy x family):
+    name: 导演奇美拉（间谍x家族）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/director_chimera_(spy_x_family).html
+  servant (danganronpa):
+    name: 仆人（弹丸论破）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/servant_(danganronpa).html
+  mahito (jujutsu kaisen):
+    name: 真人（柔术会战）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mahito_(jujutsu_kaisen).html
+  cell (dragon ball):
+    name: 细胞（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cell_(dragon_ball).html
+    alias:
+    - cell (dragonball)
+  pandoria (xenoblade):
+    name: 赛加（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pandoria_(xenoblade).html
+    alias:
+    - saika (xenoblade)
+  graves (league of legends):
+    name: 马尔科姆坟墓
+    wikiURL: https://danbooru.donmai.us/wiki_pages/graves_(league_of_legends).html
+    alias:
+    - malcolm graves
+  kishibe (chainsaw man):
+    name: 岸边（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kishibe_(chainsaw_man).html
+  wolf (league of legends):
+    name: 狼（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wolf_(league_of_legends).html
+  carrot (one piece):
+    name: 胡萝卜（一根）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_(one_piece).html
+  zoe (league of legends):
+    name: 佐伊（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zoe_(league_of_legends).html
+  ninja (final fantasy):
+    name: 忍者（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ninja_(final_fantasy).html
+  symmetra (overwatch):
+    name: 萨蒂亚瓦斯瓦尼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/symmetra_(overwatch).html
+    alias:
+    - satya vaswani
+  zeke von genbu (xenoblade):
+    name: sieg b goku genbu zeke b arutimetto genbu zeke von genbu
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zeke_von_genbu_(xenoblade).html
+    alias:
+    - sieg b goku genbu
+    - zeke b arutimetto genbu
+    - zeke von genbu
+  dragoon (final fantasy):
+    name: 龙骑士（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragoon_(final_fantasy).html
+  brigitte (overwatch):
+    name: 布丽吉特·林德霍尔姆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brigitte_(overwatch).html
+    alias:
+    - brigitte lindholm
+  reinhardt (overwatch):
+    name: 莱因哈特·威廉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reinhardt_(overwatch).html
+    alias:
+    - reinhardt wilhelm
+  iris (konosuba):
+    name: 鸢尾花（konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iris_(konosuba).html
+  zarya (overwatch):
+    name: 亚历山德拉扎里亚诺娃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zarya_(overwatch).html
+    alias:
+    - aleksandra zaryanova
+  leblanc (league of legends):
+    name: 艾米莉亚勒布朗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leblanc_(league_of_legends).html
+    alias:
+    - emilia leblanc
+  thanatos (persona):
+    name: thanatos （角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thanatos_(persona).html
+  kaidou (one piece):
+    name: 凯豆（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaidou_(one_piece).html
+  ekko (league of legends):
+    name: ekko（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ekko_(league_of_legends).html
+  chris (konosuba):
+    name: 克里斯（konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chris_(konosuba).html
+  konan (naruto):
+    name: 小南（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/konan_(naruto).html
+  kefla (dragon ball):
+    name: 开芙拉（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kefla_(dragon_ball).html
+  salome (one piece):
+    name: 莎乐美（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/salome_(one_piece).html
+  emil (nier):
+    name: 不。 7（尼尔）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/emil_(nier).html
+    alias:
+    - no. 7 (nier)
+  poro (league of legends):
+    name: poro（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poro_(league_of_legends).html
+  seraphine (league of legends):
+    name: 塞拉芬（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seraphine_(league_of_legends).html
+  janna (league of legends):
+    name: 珍娜风力
+    wikiURL: https://danbooru.donmai.us/wiki_pages/janna_(league_of_legends).html
+    alias:
+    - janna windforce
+  lora (xenoblade):
+    name: 劳拉（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lora_(xenoblade).html
+  mei mei (jujutsu kaisen):
+    name: 美美（柔术会战）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mei_mei_(jujutsu_kaisen).html
+  scholar (final fantasy):
+    name: 书生（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scholar_(final_fantasy).html
+  artemis (sailor moon):
+    name: 阿尔忒弥斯（美少女战士）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artemis_(sailor_moon).html
+  lulu (ff10):
+    name: 露露（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lulu_(ff10).html
+    alias:
+    - lulu (final fantasy)
+  marco (one piece):
+    name: 马可（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marco_(one_piece).html
+  poppi qtpi (xenoblade):
+    name: 哈娜jd poppi qtpi
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poppi_qtpi_(xenoblade).html
+    alias:
+    - hana jd
+    - poppi qtpi
+  bra (dragon ball):
+    name: 文胸（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bra_(dragon_ball).html
+    alias:
+    - bra (dragonball)
+  junkrat (overwatch):
+    name: 贾米森福克斯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/junkrat_(overwatch).html
+    alias:
+    - jamison fawkes
+  thief (final fantasy):
+    name: 盗贼（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thief_(final_fantasy).html
+  kale (dragon ball):
+    name: 羽衣甘蓝（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kale_(dragon_ball).html
+  daki (kimetsu no yaiba):
+    name: daki （kimetsu no yaiba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/daki_(kimetsu_no_yaiba).html
+  garen (league of legends):
+    name: 盖伦皇冠卫士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/garen_(league_of_legends).html
+    alias:
+    - garen crownguard
+  nami (league of legends):
+    name: 娜美（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nami_(league_of_legends).html
+  taion (xenoblade):
+    name: 泰昂（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taion_(xenoblade).html
+  deidara (naruto):
+    name: 迪达拉（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deidara_(naruto).html
+  monk (final fantasy):
+    name: 和尚（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/monk_(final_fantasy).html
+  katana man (chainsaw man):
+    name: 武士刀男（电锯男）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/katana_man_(chainsaw_man).html
+    alias:
+    - samurai sword (chainsaw man)
+  pix (league of legends):
+    name: 像素
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pix_(league_of_legends).html
+    alias:
+    - pix
+  ethel (xenoblade):
+    name: 埃塞尔（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ethel_(xenoblade).html
+  felt (re:zero):
+    name: 毛毡（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/felt_(re:zero).html
+  douma (kimetsu no yaiba):
+    name: douma（kimetsu no yaiba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/douma_(kimetsu_no_yaiba).html
+  qiyana (league of legends):
+    name: 奇亚娜（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/qiyana_(league_of_legends).html
+  kayn (league of legends):
+    name: 凯隐（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kayn_(league_of_legends).html
+  fiora (league of legends):
+    name: 菲奥拉洛朗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fiora_(league_of_legends).html
+    alias:
+    - fiora laurent
+  ashe (overwatch):
+    name: 阿什（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ashe_(overwatch).html
+  yasuo (league of legends):
+    name: 亚索（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yasuo_(league_of_legends).html
+  vex (league of legends):
+    name: vex（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vex_(league_of_legends).html
+  darius (league of legends):
+    name: 大流士（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/darius_(league_of_legends).html
+  carbuncle (final fantasy):
+    name: 痈（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carbuncle_(final_fantasy).html
+  poppi alpha (xenoblade):
+    name: 哈娜 js poppi a
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poppi_alpha_(xenoblade).html
+    alias:
+    - hana js
+    - poppi a
+  shiva (final fantasy):
+    name: 湿婆（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shiva_(final_fantasy).html
+  jin (xenoblade):
+    name: shin（异刃）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jin_(xenoblade).html
+    alias:
+    - shin (xenoblade)
+  labrys (persona):
+    name: 实验室（角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/labrys_(persona).html
+  panda (jujutsu kaisen):
+    name: 熊猫（柔术回转）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/panda_(jujutsu_kaisen).html
+  lucio (overwatch):
+    name: 卢西奥·科雷亚·多斯桑托斯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lucio_(overwatch).html
+    alias:
+    - lucio correia dos santos
+  borsalino (kizaru):
+    name: 木猿（一张）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/borsalino_(kizaru).html
+    alias:
+    - kizaru (one piece)
+  gaara (naruto):
+    name: 我我爱罗（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gaara_(naruto).html
+  edward newgate:
+    name: 爱德华纽盖特
+    wikiURL: https://danbooru.donmai.us/wiki_pages/edward_newgate.html
+    alias:
+    - whitebeard (one piece)
+  kon (bleach):
+    name: kon （漂白剂）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kon_(bleach).html
+  sai (naruto):
+    name: 彩（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sai_(naruto).html
+  dromarch (xenoblade):
+    name: byakko（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dromarch_(xenoblade).html
+    alias:
+    - byakko (xenoblade)
+  koala (one piece):
+    name: 考拉（一只）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koala_(one_piece).html
+  king (one piece):
+    name: 大王（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/king_(one_piece).html
+  margaret (persona):
+    name: 玛格丽特（角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/margaret_(persona).html
+  rakan (league of legends):
+    name: 洛（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rakan_(league_of_legends).html
+  diana (league of legends):
+    name: 戴安娜（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diana_(league_of_legends).html
+  warrior (final fantasy):
+    name: 战士（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/warrior_(final_fantasy).html
+  eris (konosuba):
+    name: 阋神星（konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eris_(konosuba).html
+  bomb devil (chainsaw man):
+    name: 炸弹魔王（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bomb_devil_(chainsaw_man).html
+  kanzaki aoi (kimetsu no yaiba):
+    name: 神崎葵（kimetsu no yaiba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kanzaki_aoi_(kimetsu_no_yaiba).html
+  kayle (league of legends):
+    name: 凯尔（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kayle_(league_of_legends).html
+  roadhog (overwatch):
+    name: 马科拉特利奇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roadhog_(overwatch).html
+    alias:
+    - mako rutledge
+  samurai (final fantasy):
+    name: 武士（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/samurai_(final_fantasy).html
+  jiraiya (naruto):
+    name: 自来也（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jiraiya_(naruto).html
+  reaper (final fantasy):
+    name: 死神（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reaper_(final_fantasy).html
+  sasori (naruto):
+    name: sasori（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sasori_(naruto).html
+  theodore (persona):
+    name: teodor （角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/theodore_(persona).html
+    alias:
+    - teodor (persona)
+  vayne (league of legends):
+    name: 肖娜薇恩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vayne_(league_of_legends).html
+    alias:
+    - shauna vayne
+  rebecca (one piece):
+    name: 丽贝卡（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rebecca_(one_piece).html
+  shizune (naruto):
+    name: 静音（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shizune_(naruto).html
+  tayuya (naruto):
+    name: 多由也（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tayuya_(naruto).html
+  viego (league of legends):
+    name: viego（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/viego_(league_of_legends).html
+  viktor (league of legends):
+    name: 维克多（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/viktor_(league_of_legends).html
+  marshall d. teach:
+    name: 马歇尔 d 教
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marshall_d._teach.html
+    alias:
+    - blackbeard (one piece)
+    - marshall d teach
+  orochimaru (naruto):
+    name: 大蛇丸（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orochimaru_(naruto).html
+  thresh (league of legends):
+    name: 锤石（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thresh_(league_of_legends).html
+  monet (one piece):
+    name: 莫奈（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/monet_(one_piece).html
+  hidan (naruto):
+    name: 飞段（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hidan_(naruto).html
+  summoner (final fantasy):
+    name: 召唤师（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/summoner_(final_fantasy).html
+  kuzan (aokiji):
+    name: 青木寺（一张）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kuzan_(aokiji).html
+    alias:
+    - aokiji (one piece)
+  metis (persona):
+    name: 梅蒂斯（角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/metis_(persona).html
+  karin (naruto):
+    name: 卡琳（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/karin_(naruto).html
+  pantheon (league of legends):
+    name: 万神殿（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pantheon_(league_of_legends).html
+  zenyatta (overwatch):
+    name: 禅雅塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zenyatta_(overwatch).html
+    alias:
+    - tekhartha zenyatta
+  killer (one piece):
+    name: 杀手（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/killer_(one_piece).html
+    alias:
+    - hitokiri kamazo
+  akaza (kimetsu no yaiba):
+    name: akaza （kimetsu no yaiba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/akaza_(kimetsu_no_yaiba).html
+  sakazuki (akainu):
+    name: 赤犬（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sakazuki_(akainu).html
+    alias:
+    - akainu (one piece)
+  jayce (league of legends):
+    name: 杰斯（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jayce_(league_of_legends).html
+  lanz (xenoblade):
+    name: lanz（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lanz_(xenoblade).html
+  zac (league of legends):
+    name: zac（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zac_(league_of_legends).html
+  mai (dragon ball):
+    name: 舞（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mai_(dragon_ball).html
+    alias:
+    - mai (dragonball)
+  shen (league of legends):
+    name: 沉（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shen_(league_of_legends).html
+  zed (league of legends):
+    name: zed（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zed_(league_of_legends).html
+  bard (final fantasy):
+    name: 吟游诗人（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bard_(final_fantasy).html
+  winston (overwatch):
+    name: 温斯顿（守望先锋）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/winston_(overwatch).html
+  zeri (league of legends):
+    name: zeri（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zeri_(league_of_legends).html
+  pain (naruto):
+    name: 痛（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pain_(naruto).html
+  astrologian (final fantasy):
+    name: 占星家（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/astrologian_(final_fantasy).html
+  machine (nier):
+    name: 机（尼尔）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/machine_(nier).html
+  kaku (one piece):
+    name: 角（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaku_(one_piece).html
+  kikunojo (one piece):
+    name: 冲绳（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kikunojo_(one_piece).html
+    alias:
+    - okiku (one piece)
+  talon (league of legends):
+    name: 利爪（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/talon_(league_of_legends).html
+  beam (chainsaw man):
+    name: 梁（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beam_(chainsaw_man).html
+  riki (xenoblade):
+    name: riki（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riki_(xenoblade).html
+  cosmo (chainsaw man):
+    name: cosmo（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cosmo_(chainsaw_man).html
+  bahamut (final fantasy):
+    name: 巴哈姆特（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bahamut_(final_fantasy).html
+  karma (league of legends):
+    name: 因果报应（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/karma_(league_of_legends).html
+  luna (konosuba):
+    name: 露娜（konosuba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/luna_(konosuba).html
+  yue (cardcaptor sakura):
+    name: 悦（ccs）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yue_(cardcaptor_sakura).html
+    alias:
+    - yue (ccs)
+  kalifa (one piece):
+    name: 加州
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kalifa_(one_piece).html
+    alias:
+    - califa
+  tanaka (chainsaw man):
+    name: 田中（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tanaka_(chainsaw_man).html
+  lilith (evangelion):
+    name: 莉莉丝（新世纪福音战士）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lilith_(evangelion).html
+  lillia (league of legends):
+    name: 莉莉亚（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lillia_(league_of_legends).html
+  izanami (persona):
+    name: 伊邪那美（假面）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/izanami_(persona).html
+  octopus devil (chainsaw man):
+    name: 章鱼魔（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/octopus_devil_(chainsaw_man).html
+  orianna (league of legends):
+    name: 奥莉安娜·雷维克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orianna_(league_of_legends).html
+    alias:
+    - orianna reveck
+  gunner (final fantasy):
+    name: 枪手（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gunner_(final_fantasy).html
+  jarvan iv (league of legends):
+    name: 嘉文光盾 iv
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jarvan_iv_(league_of_legends).html
+    alias:
+    - jarvan lightshield iv
+  fox devil (chainsaw man):
+    name: 狐狸精（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fox_devil_(chainsaw_man).html
+  kakuzu (naruto):
+    name: kakuzu（火影忍者）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kakuzu_(naruto).html
+  yone (league of legends):
+    name: yone（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yone_(league_of_legends).html
+  elise (league of legends):
+    name: 伊莉丝（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elise_(league_of_legends).html
+  shaula (re:zero):
+    name: 肖拉（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shaula_(re:zero).html
+  gunbreaker (final fantasy):
+    name: 枪手（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gunbreaker_(final_fantasy).html
+  tobi (naruto):
+    name: 飞飞（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tobi_(naruto).html
+  malos (xenoblade):
+    name: metsu（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/malos_(xenoblade).html
+    alias:
+    - metsu (xenoblade)
+  helios (sailor moon):
+    name: helios（美少女战士）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/helios_(sailor_moon).html
+  penguin (one piece):
+    name: 企鹅（一只）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/penguin_(one_piece).html
+  santa claus (chainsaw man):
+    name: 圣诞老人（电锯人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/santa_claus_(chainsaw_man).html
+  finch (xenoblade):
+    name: 伊吹（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/finch_(xenoblade).html
+    alias:
+    - ibuki (xenoblade)
+  luna (sailor moon) (human):
+    name: luna （美少女战士） （人类）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/luna_(sailor_moon)_(human).html
+  hina (one piece):
+    name: 雏（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hina_(one_piece).html
+  cassiopeia (league of legends):
+    name: 仙后座杜库托
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cassiopeia_(league_of_legends).html
+    alias:
+    - cassiopeia du couteau
+  yuumi (league of legends):
+    name: 悠米（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yuumi_(league_of_legends).html
+  omega (final fantasy):
+    name: 欧米茄（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/omega_(final_fantasy).html
+  igor (persona):
+    name: 伊戈尔（角色）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/igor_(persona).html
+  sharla (xenoblade):
+    name: 卡纳（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sharla_(xenoblade).html
+    alias:
+    - carna (xenoblade)
+  shachi (one piece):
+    name: 沙尺（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shachi_(one_piece).html
+  marguerite (one piece):
+    name: 玛格丽特（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marguerite_(one_piece).html
+  bastion (overwatch):
+    name: sst实验室攻城机器人e54
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bastion_(overwatch).html
+    alias:
+    - sst laboratories siege automaton e54
+  seripa:
+    name: 法莎（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seripa.html
+    alias:
+    - fasha (dragon ball)
+  dunban (xenoblade):
+    name: 顿班（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dunban_(xenoblade).html
+  poppi qt (xenoblade):
+    name: 哈娜 jk poppi qt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poppi_qt_(xenoblade).html
+    alias:
+    - hana jk
+    - poppi qt
+  charlotte linlin:
+    name: 夏洛琳琳
+    wikiURL: https://danbooru.donmai.us/wiki_pages/charlotte_linlin.html
+    alias:
+    - big mom (one piece)
+  gyuutarou (kimetsu no yaiba):
+    name: gyuutarou（kimetsu no yaiba）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gyuutarou_(kimetsu_no_yaiba).html
+  shin-chan (evangelion):
+    name: 小新（福音战士）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shin-chan_(evangelion).html
+  kurama (naruto):
+    name: 鞍马（鸣人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kurama_(naruto).html
+  swain (league of legends):
+    name: 杰里科斯温
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swain_(league_of_legends).html
+    alias:
+    - jericho swain
+  ifrit (final fantasy):
+    name: ifrit（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ifrit_(final_fantasy).html
+  torbjorn (overwatch):
+    name: 托比昂·林德霍姆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torbjorn_(overwatch).html
+    alias:
+    - torbjorn lindholm
+  nia (fancy sundress) (xenoblade):
+    name: 尼亚（花式太阳裙）（异度神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nia_(fancy_sundress)_(xenoblade).html
+  pingtsi (chainsaw man):
+    name: 平仔（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pingtsi_(chainsaw_man).html
+  hattori (one piece):
+    name: 服部（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hattori_(one_piece).html
+  sage (final fantasy):
+    name: 贤者（最终幻想）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sage_(final_fantasy).html
+  izou (one piece):
+    name: izou（一张）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/izou_(one_piece).html
+  vex shadow (league of legends):
+    name: vex 影子（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vex_shadow_(league_of_legends).html
+  cooler (dragon ball):
+    name: 冷却器（龙珠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cooler_(dragon_ball).html
+    alias:
+    - cooler (dragonball)
+  zeus (one piece):
+    name: 宙斯（一件）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zeus_(one_piece).html
+  praxis (xenoblade):
+    name: mikumari（异种神剑）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/praxis_(xenoblade).html
+    alias:
+    - mikumari (xenoblade)
+  morag ladair (obligatory leave) (xenoblade):
+    name: morag ladair （强制休假） （xenoblade）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/morag_ladair_(obligatory_leave)_(xenoblade).html
+  pandora (re:zero):
+    name: 潘多拉（re:zero）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pandora_(re:zero).html
+  kishibe (young) (chainsaw man):
+    name: 岸部（少年）（电锯侠）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kishibe_(young)_(chainsaw_man).html

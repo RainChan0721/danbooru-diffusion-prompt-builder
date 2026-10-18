@@ -1,0 +1,527 @@
+name: 原神 (Genshin Impact)
+category:
+- 角色
+content:
+  ganyu (genshin impact):
+    name: 甘雨（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ganyu_(genshin_impact).html
+    alias:
+    - ganyu
+    - kan'u (genshin impact)
+  lumine (genshin impact):
+    name: 荧（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lumine_(genshin_impact).html
+    alias:
+    - female traveler (genshin impact)
+    - hotaru (genshin impact)
+    - ying (genshin impact)
+  raiden shogun:
+    name: 雷电将军
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raiden_shogun.html
+    alias:
+    - baal (genshin impact)
+    - raiden (genshin impact)
+    - raiden shogun (genshin impact)
+  hu tao (genshin impact):
+    name: 胡桃（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hu_tao_(genshin_impact).html
+    alias:
+    - hu tao
+  scaramouche (genshin impact):
+    name: 散兵（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scaramouche_(genshin_impact).html
+  yae miko:
+    name: 八重神子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yae_miko.html
+    alias:
+    - yae (genshin impact)
+  aether (genshin impact):
+    name: 旅行者（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aether_(genshin_impact).html
+    alias:
+    - kong (genshin impact)
+    - male traveler (genshin impact)
+    - sora (genshin impact)
+  furina (genshin impact):
+    name: furina (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/furina_(genshin_impact).html
+    alias:
+    - focalors (genshin impact)
+  zhongli (genshin impact):
+    name: 钟离（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zhongli_(genshin_impact).html
+    alias:
+    - shouri (genshin impact)
+  nahida (genshin impact):
+    name: kusanali（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nahida_(genshin_impact).html
+    alias:
+    - kusanali (genshin impact)
+  mona (genshin impact):
+    name: 莫娜（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mona_(genshin_impact).html
+    alias:
+    - mona megistus
+  keqing (genshin impact):
+    name: 刻晴（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/keqing_(genshin_impact).html
+    alias:
+    - keqing
+    - kokusei (genshin impact)
+  venti (genshin impact):
+    name: 温迪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/venti_(genshin_impact).html
+  kamisato ayaka:
+    name: 神里绫华
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kamisato_ayaka.html
+    alias:
+    - ayaka (genshin impact)
+    - kamisato ayaka (genshin impact)
+  paimon (genshin impact):
+    name: 派蒙（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paimon_(genshin_impact).html
+  wanderer (genshin impact):
+    name: wanderer (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wanderer_(genshin_impact).html
+    alias:
+    - scaramouche (wanderer) (genshin impact)
+  klee (genshin impact):
+    name: 克莱（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/klee_(genshin_impact).html
+  tartaglia (genshin impact):
+    name: 达达利亚（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tartaglia_(genshin_impact).html
+    alias:
+    - childe (genshin impact)
+  eula (genshin impact):
+    name: 优菈（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eula_(genshin_impact).html
+    alias:
+    - eula
+    - eula lawrence
+  shenhe (genshin impact):
+    name: 申鹤（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shenhe_(genshin_impact).html
+  xiao (genshin impact):
+    name: 魈_(原神冲击)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xiao_(genshin_impact).html
+    alias:
+    - shou (genshin impact)
+  boo tao (genshin impact):
+    name: boo tao（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boo_tao_(genshin_impact).html
+  nilou (genshin impact):
+    name: 妮露（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nilou_(genshin_impact).html
+  yelan (genshin impact):
+    name: 夜澜（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yelan_(genshin_impact).html
+  sangonomiya kokomi:
+    name: 珊瑚宫心海
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sangonomiya_kokomi.html
+    alias:
+    - kokomi (genshin impact)
+  arlecchino (genshin impact):
+    name: arlecchino（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arlecchino_(genshin_impact).html
+  fischl (genshin impact):
+    name: 菲谢尔（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fischl_(genshin_impact).html
+  kaedehara kazuha:
+    name: kazuha（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaedehara_kazuha.html
+    alias:
+    - kazuha (genshin impact)
+  barbara (genshin impact):
+    name: 芭芭拉（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbara_(genshin_impact).html
+    alias:
+    - barbara pegg
+  jean (genshin impact):
+    name: 琴（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jean_(genshin_impact).html
+    alias:
+    - jean gunnhildr
+    - jean gunnhildr (genshin impact)
+  yoimiya (genshin impact):
+    name: 宵宫(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yoimiya_(genshin_impact).html
+    alias:
+    - naganohara yoimiya
+  diluc (genshin impact):
+    name: 迪卢克（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diluc_(genshin_impact).html
+    alias:
+    - diluc ragnvindr
+  amber (genshin impact):
+    name: 安柏（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/amber_(genshin_impact).html
+  qiqi (genshin impact):
+    name: 七七（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/qiqi_(genshin_impact).html
+    alias:
+    - nana (genshin impact)
+    - qiqi
+  alhaitham (genshin impact):
+    name: al-haitham（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alhaitham_(genshin_impact).html
+    alias:
+    - al-haitham (genshin impact)
+  kaeya (genshin impact):
+    name: 凯亚(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaeya_(genshin_impact).html
+    alias:
+    - kaeya alberich
+  ningguang (genshin impact):
+    name: 凝光（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ningguang_(genshin_impact).html
+    alias:
+    - gyoukou (genshin impact)
+    - ningguang
+  dodoco (genshin impact):
+    name: 嘟嘟可（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dodoco_(genshin_impact).html
+  albedo (genshin impact):
+    name: 阿贝多（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/albedo_(genshin_impact).html
+  tighnari (genshin impact):
+    name: 提纳里（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tighnari_(genshin_impact).html
+  neuvillette (genshin impact):
+    name: neuvillette (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neuvillette_(genshin_impact).html
+  slime (genshin impact):
+    name: 史莱姆（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/slime_(genshin_impact).html
+  clorinde (genshin impact):
+    name: clorinde (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clorinde_(genshin_impact).html
+  kujou sara:
+    name: 九条萨拉（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kujou_sara.html
+    alias:
+    - kujou sara (genshin impact)
+  lisa (genshin impact):
+    name: 丽莎（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lisa_(genshin_impact).html
+    alias:
+    - lisa minci
+  kaveh (genshin impact):
+    name: kaveh (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaveh_(genshin_impact).html
+  yanfei (genshin impact):
+    name: 烟绯（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yanfei_(genshin_impact).html
+  cyno (genshin impact):
+    name: 赛诺（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cyno_(genshin_impact).html
+  navia (genshin impact):
+    name: navia (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/navia_(genshin_impact).html
+  beidou (genshin impact):
+    name: 北斗（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beidou_(genshin_impact).html
+    alias:
+    - hokuto (genshin impact)
+  lynette (genshin impact):
+    name: lynette (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lynette_(genshin_impact).html
+  noelle (genshin impact):
+    name: 诺艾尔（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/noelle_(genshin_impact).html
+  xingqiu (genshin impact):
+    name: 行秋（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xingqiu_(genshin_impact).html
+    alias:
+    - yukuaki (genshin impact)
+  chongyun (genshin impact):
+    name: 重云（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chongyun_(genshin_impact).html
+    alias:
+    - chouun (genshin impact)
+  dehya (genshin impact):
+    name: 迪希雅（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dehya_(genshin_impact).html
+  wriothesley (genshin impact):
+    name: wriothesley (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wriothesley_(genshin_impact).html
+  lyney (genshin impact):
+    name: lyney (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lyney_(genshin_impact).html
+  hilichurl (genshin impact):
+    name: 丘丘人(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hilichurl_(genshin_impact).html
+    alias:
+    - hilichurl
+  xiangling (genshin impact):
+    name: 香菱（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xiangling_(genshin_impact).html
+    alias:
+    - shanrin (genshin impact)
+  kirara (genshin impact):
+    name: kirara (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kirara_(genshin_impact).html
+  collei (genshin impact):
+    name: 柯莱（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/collei_(genshin_impact).html
+  rosaria (genshin impact):
+    name: 罗莎莉亚（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rosaria_(genshin_impact).html
+  aranara (genshin impact):
+    name: 阿拉纳拉（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aranara_(genshin_impact).html
+  sucrose (genshin impact):
+    name: 砂糖（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sucrose_(genshin_impact).html
+  arataki itto:
+    name: 一藤（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arataki_itto.html
+    alias:
+    - itto (genshin impact)
+  diona (genshin impact):
+    name: 迪奥娜_(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diona_(genshin_impact).html
+  crystalfly (genshin impact):
+    name: 晶蝶genshin
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crystalfly_(genshin_impact).html
+  thoma (genshin impact):
+    name: 托马（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thoma_(genshin_impact).html
+  gorou (genshin impact):
+    name: 五郎（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gorou_(genshin_impact).html
+  faruzan (genshin impact):
+    name: faruzan（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/faruzan_(genshin_impact).html
+  scaramouche (kabukimono) (genshin impact):
+    name: scaramouche (kabukimono) (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scaramouche_(kabukimono)_(genshin_impact).html
+  xianyun (genshin impact):
+    name: xianyun (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xianyun_(genshin_impact).html
+  chiori (genshin impact):
+    name: chiori (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chiori_(genshin_impact).html
+  sigewinne (genshin impact):
+    name: sigewinne (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sigewinne_(genshin_impact).html
+  mualani (genshin impact):
+    name: mualani (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mualani_(genshin_impact).html
+  mavuika (genshin impact):
+    name: mavuika (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mavuika_(genshin_impact).html
+  keqing (opulent splendor) (genshin impact):
+    name: 刻晴（富丽堂皇）（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/keqing_(opulent_splendor)_(genshin_impact).html
+  layla (genshin impact):
+    name: layla（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/layla_(genshin_impact).html
+  razor (genshin impact):
+    name: 雷泽（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/razor_(genshin_impact).html
+  citlali (genshin impact):
+    name: citlali (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/citlali_(genshin_impact).html
+  sayu (genshin impact):
+    name: 早柚（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sayu_(genshin_impact).html
+  guoba (genshin impact):
+    name: 锅巴（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guoba_(genshin_impact).html
+  freminet (genshin impact):
+    name: freminet (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/freminet_(genshin_impact).html
+  kinich (genshin impact):
+    name: kinich (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kinich_(genshin_impact).html
+  yun jin (genshin impact):
+    name: 云堇（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yun_jin_(genshin_impact).html
+    alias:
+    - yunjin (genshin impact)
+  scaramouche (cat) (genshin impact):
+    name: scaramouche (cat) (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scaramouche_(cat)_(genshin_impact).html
+  bennett (genshin impact):
+    name: 班尼特（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bennett_(genshin_impact).html
+  yaoyao (genshin impact):
+    name: yaoyao（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yaoyao_(genshin_impact).html
+  signora (genshin impact):
+    name: 女士(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/signora_(genshin_impact).html
+  baron bunny (genshin impact):
+    name: 兔兔伯爵（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/baron_bunny_(genshin_impact).html
+    alias:
+    - baron bunny
+  candace (genshin impact):
+    name: 坎迪斯（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candace_(genshin_impact).html
+  charlotte (genshin impact):
+    name: charlotte (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/charlotte_(genshin_impact).html
+  columbina (genshin impact):
+    name: 少女 （genshin impact） damslette （genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/columbina_(genshin_impact).html
+    alias:
+    - damselette (genshin impact)
+    - damslette (genshin impact)
+  oz (genshin impact):
+    name: 奥兹（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oz_(genshin_impact).html
+  venti (archon) (genshin impact):
+    name: venti (archon) (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/venti_(archon)_(genshin_impact).html
+  barbara (summertime sparkle) (genshin impact):
+    name: 芭芭拉（夏日闪耀）（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbara_(summertime_sparkle)_(genshin_impact).html
+  zhongli (archon) (genshin impact):
+    name: zhongli (archon) (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zhongli_(archon)_(genshin_impact).html
+  xinyan (genshin impact):
+    name: 辛焱（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xinyan_(genshin_impact).html
+  fungi (genshin impact):
+    name: 真菌（genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fungi_(genshin_impact).html
+  xilonen (genshin impact):
+    name: xilonen (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xilonen_(genshin_impact).html
+  seelie (genshin impact):
+    name: 仙灵（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seelie_(genshin_impact).html
+  rex lapis (genshin impact):
+    name: 岩王帝君(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rex_lapis_(genshin_impact).html
+  jean (sea breeze dandelion) (genshin impact):
+    name: 琴_(海风蒲公英)_(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jean_(sea_breeze_dandelion)_(genshin_impact).html
+  baizhu (genshin impact):
+    name: 百术（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/baizhu_(genshin_impact).html
+    alias:
+    - hyakujutsu (genshin impact)
+  fischl (ein immernachtstraum) (genshin impact):
+    name: 菲谢尔_(ein_immernachtstraum)_(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fischl_(ein_immernachtstraum)_(genshin_impact).html
+  rukkhadevata (genshin impact):
+    name: rukkhadevata（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rukkhadevata_(genshin_impact).html
+  capitano (genshin impact):
+    name: capitano（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/capitano_(genshin_impact).html
+  dainsleif (genshin impact):
+    name: 戴因斯雷布(genshin_Impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dainsleif_(genshin_impact).html
+  dottore (genshin impact):
+    name: dottore（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dottore_(genshin_impact).html
+  kazuha's friend (genshin impact):
+    name: 枫原万叶（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kazuha's_friend_(genshin_impact).html
+  ningguang (orchid's evening gown) (genshin impact):
+    name: 凝光（兰花的晚礼服）（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ningguang_(orchid's_evening_gown)_(genshin_impact).html
+  dori (genshin impact):
+    name: dori（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dori_(genshin_impact).html
+  cloud retainer (genshin impact):
+    name: 留云借风真君（genshin_Impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_retainer_(genshin_impact).html
+  makoto (genshin impact):
+    name: 诚（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/makoto_(genshin_impact).html
+  guizhong (genshin impact):
+    name: 贵中（genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guizhong_(genshin_impact).html
+  jean (gunnhildr's legacy) (genshin impact):
+    name: jean （gunnhildr 的遗产） （genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jean_(gunnhildr's_legacy)_(genshin_impact).html
+  mona (pact of stars and moon) (genshin impact):
+    name: 莫娜（星月之约）（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mona_(pact_of_stars_and_moon)_(genshin_impact).html
+  azhdaha (genshin impact):
+    name: 若陀龙王（原神影响）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/azhdaha_(genshin_impact).html
+  cicin mage (genshin impact):
+    name: cicin法师（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cicin_mage_(genshin_impact).html
+  barbatos (genshin impact):
+    name: barbatos（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbatos_(genshin_impact).html
+  taroumaru (genshin impact):
+    name: 芋丸（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taroumaru_(genshin_impact).html
+  dvalin (genshin impact):
+    name: dvalin（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dvalin_(genshin_impact).html
+  hina (genshin impact):
+    name: 希娜（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hina_(genshin_impact).html
+  keqing (lantern rite) (genshin impact):
+    name: 客卿 （灯笼仪式） （genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/keqing_(lantern_rite)_(genshin_impact).html
+  cuilein-anbar (genshin impact):
+    name: cuilein-anbar（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cuilein-anbar_(genshin_impact).html
+  teucer (genshin impact):
+    name: teucer（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/teucer_(genshin_impact).html
+  ganyu (china merchants bank) (genshin impact):
+    name: ganyu （招商银行） （genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ganyu_(china_merchants_bank)_(genshin_impact).html
+  abyss mage (genshin impact):
+    name: 深渊法师（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abyss_mage_(genshin_impact).html
+    alias:
+    - abyss mage
+  madame ping (genshin impact):
+    name: 平夫人（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/madame_ping_(genshin_impact).html
+  nameless bard (genshin impact):
+    name: 无名吟游诗人（原神）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nameless_bard_(genshin_impact).html
+  electro cicin mage (genshin impact):
+    name: 电子魔法师（genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/electro_cicin_mage_(genshin_impact).html
+  noelle (kfc) (genshin impact):
+    name: noelle （肯德基） （genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/noelle_(kfc)_(genshin_impact).html
+  mirror maiden (genshin impact):
+    name: 镜之少女（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mirror_maiden_(genshin_impact).html
+  arama (genshin impact):
+    name: 荒野（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arama_(genshin_impact).html
+  ruin guard (genshin impact):
+    name: 废墟守卫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ruin_guard_(genshin_impact).html
+    alias:
+    - ruin guard
+  diluc (red dead of night) (genshin impact):
+    name: 迪卢克（红色夜深人静）（genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diluc_(red_dead_of_night)_(genshin_impact).html
+  muji-muji daruma (genshin impact):
+    name: muji-muji daruma（genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muji-muji_daruma_(genshin_impact).html
+  sandrone (genshin impact):
+    name: sandrone（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sandrone_(genshin_impact).html
+  bonanus (genshin impact):
+    name: bonanus（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bonanus_(genshin_impact).html
+  crimson lotus moth (genshin impact):
+    name: 绯红莲蛾（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crimson_lotus_moth_(genshin_impact).html
+  pantalone (genshin impact):
+    name: 裤子（genshin impact）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pantalone_(genshin_impact).html
+  dunyarzad (genshin impact):
+    name: dunyarzad（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dunyarzad_(genshin_impact).html
+  kuronushi (genshin impact):
+    name: 黑主（原神冲击）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kuronushi_(genshin_impact).html

@@ -1,0 +1,597 @@
+name: 动漫影视版权
+category:
+- 作品
+content:
+  mahou shoujo madoka magica:
+    name: 魔法少女小圆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mahou_shoujo_madoka_magica.html
+    alias:
+    - madoka magica
+    - /msmm
+    - /pmmm
+    - puella magi madoka magica
+  mahou shoujo madoka magica (anime):
+    name: mahou shoujo madoka magica (anime)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mahou_shoujo_madoka_magica_(anime).html
+  gundam:
+    name: 高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam.html
+  jojo no kimyou na bouken:
+    name: jojo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jojo_no_kimyou_na_bouken.html
+    alias:
+    - /jjba
+    - /jjkb
+    - jojo's bizarre adventure
+  fate/stay night:
+    name: 命运之夜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fate/stay_night.html
+    alias:
+    - fate stay night
+    - /fsn
+  one piece:
+    name: 一拳超人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_piece.html
+  boku no hero academia:
+    name: 博库之英雄学院
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boku_no_hero_academia.html
+    alias:
+    - my hero academia
+  neon genesis evangelion:
+    name: 新世纪福音战士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neon_genesis_evangelion.html
+    alias:
+    - evangelion
+    - /nge
+    - shin seiki evangelion
+  k-on!:
+    name: 轻音少女
+    wikiURL: https://danbooru.donmai.us/wiki_pages/k-on!.html
+    alias:
+    - keion
+    - keion!
+    - k-on
+    - k-on!!
+    - kon!
+  chainsaw man:
+    name: 电锯人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chainsaw_man.html
+  suzumiya haruhi no yuuutsu:
+    name: 凉宫春日的忧郁
+    wikiURL: https://danbooru.donmai.us/wiki_pages/suzumiya_haruhi_no_yuuutsu.html
+    alias:
+    - /shny
+    - suzumiya haruhi no yuutsu
+    - the melancholy of haruhi suzumiya
+  toaru majutsu no index:
+    name: 魔法禁书目录
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_majutsu_no_index.html
+    alias:
+    - a certain magical index
+    - to aru majutsu no index
+  dragon ball:
+    name: 七龙珠
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball.html
+    alias:
+    - /db
+    - dragonball
+  bocchi the rock!:
+    name: bocchi 岩石！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bocchi_the_rock!.html
+  kono subarashii sekai ni shukufuku wo!:
+    name: 为美好的世界献上祝福
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kono_subarashii_sekai_ni_shukufuku_wo!.html
+    alias:
+    - konosuba
+    - 'konosuba: god''s blessing on this wonderful world!'
+    - kono subarashii sekai ni shukufuku o!
+  re:zero kara hajimeru isekai seikatsu:
+    name: re:0
+    wikiURL: https://danbooru.donmai.us/wiki_pages/re:zero_kara_hajimeru_isekai_seikatsu.html
+    alias:
+    - re:zero
+    - re zero
+    - re:zero - starting life in another world
+    - re:zero − starting life in another world
+  naruto (series):
+    name: 火影忍者（系列）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naruto_(series).html
+  sword art online:
+    name: 刀剑神域
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online.html
+    alias:
+    - /sao
+  monogatari (series):
+    name: 物语（系列）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/monogatari_(series).html
+  bishoujo senshi sailor moon:
+    name: 美少女战士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon.html
+    alias:
+    - /bssm
+  jujutsu kaisen:
+    name: 柔术会战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jujutsu_kaisen.html
+  toaru kagaku no railgun:
+    name: 某科学的超电磁炮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_kagaku_no_railgun.html
+    alias:
+    - a certain scientific railgun
+    - to aru kagaku no railgun
+  bleach:
+    name: 漂白
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bleach.html
+  lucky star:
+    name: 幸运星
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lucky_star.html
+    alias:
+    - /ls
+  kimetsu no yaiba:
+    name: 鬼灭
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kimetsu_no_yaiba.html
+    alias:
+    - demon slayer (series)
+  shingeki no kyojin:
+    name: 进击的巨人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shingeki_no_kyojin.html
+    alias:
+    - attack on titan
+  spy x family:
+    name: 间谍x家族
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spy_x_family.html
+  dragon ball z:
+    name: 龙珠Z
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_z.html
+    alias:
+    - /dbz
+    - dragonball z
+  rebuild of evangelion:
+    name: 新世纪福音战士的重建
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rebuild_of_evangelion.html
+  macross:
+    name: 超时空要塞
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross.html
+  'magia record: mahou shoujo madoka magica gaiden':
+    name: 魔法唱片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magia_record:_mahou_shoujo_madoka_magica_gaiden.html
+    alias:
+    - magia record
+  gundam suisei no majo:
+    name: 水星魔女高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_suisei_no_majo.html
+    alias:
+    - gundam the witch from mercury
+  naruto:
+    name: 火影忍者
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naruto.html
+  cardcaptor sakura:
+    name: 百变小樱魔术卡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardcaptor_sakura.html
+    alias:
+    - card captor sakura
+    - /ccs
+    - ccs
+  bakemonogatari:
+    name: 烤物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bakemonogatari.html
+  naruto shippuuden:
+    name: 火影忍者疾风传
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naruto_shippuuden.html
+    alias:
+    - naruto shippuden
+  clannad:
+    name: clannad
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clannad.html
+  macross frontier:
+    name: 超时空要塞
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_frontier.html
+    alias:
+    - macross f
+  gundam seed:
+    name: 高达种子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_seed.html
+  gundam 00:
+    name: 高达_00
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_00.html
+    alias:
+    - gundam00
+  'mahou shoujo madoka magica: hangyaku no monogatari':
+    name: 造反故事
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mahou_shoujo_madoka_magica:_hangyaku_no_monogatari.html
+    alias:
+    - rebellion story
+  dragon ball super:
+    name: 龙珠超
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_super.html
+  gundam build fighters:
+    name: 高达创战者
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_build_fighters.html
+  mobile suit gundam:
+    name: 机动战士高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mobile_suit_gundam.html
+    alias:
+    - kidou senshi gundam
+  'evangelion: 3.0 you can (not) redo':
+    name: 新世纪福音战士：3.0 你可以（不）重做
+    wikiURL: https://danbooru.donmai.us/wiki_pages/evangelion:_3.0_you_can_(not)_redo.html
+  gundam seed destiny:
+    name: 高达种子命运
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_seed_destiny.html
+  'evangelion: 2.0 you can (not) advance':
+    name: 新世纪福音战士：2.0 你可以（不）前进
+    wikiURL: https://danbooru.donmai.us/wiki_pages/evangelion:_2.0_you_can_(not)_advance.html
+  zeta gundam:
+    name: zeta高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zeta_gundam.html
+  dragon ball (classic):
+    name: 龙珠（经典）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_(classic).html
+  macross delta:
+    name: 三角洲
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_delta.html
+  nisemonogatari:
+    name: 二世物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nisemonogatari.html
+  'bleach: sennen kessen-hen':
+    name: 'bleach: sennen kessen-hen'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bleach:_sennen_kessen-hen.html
+    alias:
+    - 'bleach: the thousand-year blood war'
+  gundam build fighters try:
+    name: 高达创战者尝试
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_build_fighters_try.html
+  bishoujo senshi sailor moon s:
+    name: bishoujo senshi sailor moon s
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon_s.html
+  'sword art online: alicization':
+    name: 刀剑神域在线化
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online:_alicization.html
+    alias:
+    - sword art online alicization
+  'boruto: naruto next generations':
+    name: boruto：火影下一代
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boruto:_naruto_next_generations.html
+  gundam zz:
+    name: 高达zz
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_zz.html
+  gundam tekketsu no orphans:
+    name: 高达铁血孤儿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_tekketsu_no_orphans.html
+    alias:
+    - gundam iron-blooded orphans
+  gundam unicorn:
+    name: 高达独角兽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_unicorn.html
+  dragon ball fighterz:
+    name: 龙珠战士z
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_fighterz.html
+  'toaru majutsu no index: old testament':
+    name: 'toaru majutsu no index: old testament'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_majutsu_no_index:_old_testament.html
+  'evangelion: 3.0+1.0 thrice upon a time':
+    name: 新世纪福音战士：3.0+1.0 三次从前
+    wikiURL: https://danbooru.donmai.us/wiki_pages/evangelion:_3.0+1.0_thrice_upon_a_time.html
+  'sword art online: code register':
+    name: 刀剑神域：代码注册
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online:_code_register.html
+  dragon ball gt:
+    name: 龙珠GT
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_gt.html
+    alias:
+    - /dbgt
+    - dragonball gt
+  jojolion:
+    name: 乔乔利翁
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jojolion.html
+  gundam build divers:
+    name: 高达创形者
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_build_divers.html
+  g gundam:
+    name: g-高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/g_gundam.html
+    alias:
+    - g-gundam
+    - kidou butouden g gundam
+    - mobile fighter g gundam
+  'toaru majutsu no index: new testament':
+    name: 'to aru majutsu no index: new testament'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_majutsu_no_index:_new_testament.html
+    alias:
+    - 'to aru majutsu no index: new testament'
+  gundam wing:
+    name: 高达翼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_wing.html
+  bishoujo senshi sailor moon stars:
+    name: bishoujo senshi sailor moon stars
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon_stars.html
+  gundam seed freedom:
+    name: gundam seed freedom
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_seed_freedom.html
+  dragon ball super broly:
+    name: 龙珠超布罗利
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_super_broly.html
+  madou monogatari:
+    name: 麻豆物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/madou_monogatari.html
+  choujikuu yousai macross:
+    name: 超时空要塞macro
+    wikiURL: https://danbooru.donmai.us/wiki_pages/choujikuu_yousai_macross.html
+    alias:
+    - the super dimension fortress macross
+  sd gundam:
+    name: SD高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sd_gundam.html
+  nekomonogatari:
+    name: 猫物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nekomonogatari.html
+  one piece card game:
+    name: one piece card game
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_piece_card_game.html
+    alias:
+    - one piece tcg
+    - one piece trading card game
+  mahou shoujo madoka magica movie 1 & 2:
+    name: 魔法少女小圆魔法电影
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mahou_shoujo_madoka_magica_movie_1_&_2.html
+    alias:
+    - mahou shoujo madoka magica movie
+  bishoujo senshi sailor moon r:
+    name: bishoujo senshi sailor moon r
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon_r.html
+  'one piece film: red':
+    name: 单片：红色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_piece_film:_red.html
+  bishoujo senshi sailor moon (first season):
+    name: bishoujo senshi sailor moon (first season)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon_(first_season).html
+  turn a gundam:
+    name: 变身高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/turn_a_gundam.html
+  gundam hathaway's flash:
+    name: 高达海瑟薇的闪光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_hathaway's_flash.html
+  dragon ball heroes:
+    name: 龙珠英雄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_heroes.html
+  gundam build divers re:rise:
+    name: 高达创形者 Re:Rise
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_build_divers_re:rise.html
+  toaru kagaku no railgun t:
+    name: toaru kagaku no railgun t
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_kagaku_no_railgun_t.html
+  dragon ball super super hero:
+    name: 龙珠超超级英雄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_super_super_hero.html
+  kizumonogatari:
+    name: 鬼物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kizumonogatari.html
+  bishoujo senshi sailor moon supers:
+    name: bishoujo senshi sailor moon supers
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon_supers.html
+  toaru kagaku no mental out:
+    name: toaru kagaku no mental out
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_kagaku_no_mental_out.html
+  gundam 0083:
+    name: 高达0083
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_0083.html
+  macross 7:
+    name: 超时空要塞7
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_7.html
+  gundam g no reconguista:
+    name: g中的高达reconguista
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_g_no_reconguista.html
+    alias:
+    - gundam reconguista in g
+  cardcaptor sakura clear card arc:
+    name: cardcaptor sakura clear card arc
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardcaptor_sakura_clear_card_arc.html
+  gundam age:
+    name: 高达时代
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_age.html
+  toaru kagaku no railgun s:
+    name: to aru kagaku no railgun S
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_kagaku_no_railgun_s.html
+    alias:
+    - to aru kagaku no railgun s
+  'naruto: the last':
+    name: 火影忍者：最后
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naruto:_the_last.html
+  the tale of food:
+    name: the tale of food
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_tale_of_food.html
+    alias:
+    - shoku monogatari
+  gundam 0080:
+    name: 高达0080
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_0080.html
+  the end of evangelion:
+    name: the end of evangelion
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_end_of_evangelion.html
+    alias:
+    - end of evangelion
+  owarimonogatari:
+    name: 尾张物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/owarimonogatari.html
+  doukutsu monogatari:
+    name: 洞穴故事
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doukutsu_monogatari.html
+    alias:
+    - cave story
+  'sword art online alternative: gun gale online':
+    name: 刀剑神域替代品：Gun gale online
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online_alternative:_gun_gale_online.html
+  'macross: do you remember love?':
+    name: 超时空要塞
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross:_do_you_remember_love?.html
+    alias:
+    - macross dyrl
+  'sword art online: alicization - war of underworld':
+    name: 刀剑神域在线化-冥界之战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online:_alicization_-_war_of_underworld.html
+    alias:
+    - sword art online alicization - war of underworld
+  gundam 08th ms team:
+    name: 高达第08MS小队
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_08th_ms_team.html
+  victory gundam:
+    name: 胜利高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/victory_gundam.html
+  after war gundam x:
+    name: 战后高达x
+    wikiURL: https://danbooru.donmai.us/wiki_pages/after_war_gundam_x.html
+    alias:
+    - kidou shinseiki gundam x
+  k-on! movie:
+    name: eiga k-on！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/k-on!_movie.html
+    alias:
+    - eiga k-on!
+  bokujou monogatari:
+    name: 收获的月亮 1 四季的故事
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bokujou_monogatari.html
+    alias:
+    - harvest moon 1
+    - story of seasons
+  'sword art online: memory defrag':
+    name: 刀剑神域：内存碎片整理
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online:_memory_defrag.html
+  sword art online progressive:
+    name: 刀剑神域进步
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online_progressive.html
+  'macross frontier: itsuwari no utahime':
+    name: 超时空要塞：五张歌姬 超时空要塞：假天后 超时空要塞：假歌姬
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_frontier:_itsuwari_no_utahime.html
+    alias:
+    - 'macross  frontier: itsuwari no utahime'
+    - 'macross frontier: the false diva'
+    - 'macross frontier: the false songstress'
+  gundam f91:
+    name: 高达f91
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_f91.html
+  'macross frontier: sayonara no tsubasa':
+    name: 超时空要塞：告别之翼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_frontier:_sayonara_no_tsubasa.html
+    alias:
+    - 'macross frontier: the wings of farewell'
+  dragon ball xenoverse:
+    name: 龙珠宇宙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_xenoverse.html
+  gundam sentinel:
+    name: 高达哨兵
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_sentinel.html
+  bishoujo senshi sailor moon crystal:
+    name: 美少女战士水手月亮水晶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishoujo_senshi_sailor_moon_crystal.html
+    alias:
+    - /bssmc
+  gundam arsenal base:
+    name: 高达兵工厂基地
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_arsenal_base.html
+  gundam msv:
+    name: 高达MSV
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_msv.html
+  gundam narrative:
+    name: 高达叙事
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_narrative.html
+  crossbone gundam:
+    name: 交叉骨高达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossbone_gundam.html
+  mahou shoujo madoka magica plus:
+    name: 魔法少女小圆 magica pluS
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mahou_shoujo_madoka_magica_plus.html
+  'boruto: naruto the movie':
+    name: boruto：电影火影忍者
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boruto:_naruto_the_movie.html
+  gundam 00 a wakening of the trailblazer:
+    name: 高达00开拓者的觉醒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_00_a_wakening_of_the_trailblazer.html
+  'sword art online the movie: ordinal scale':
+    name: 刀剑神域剧场版：序号
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online_the_movie:_ordinal_scale.html
+  'one piece: strong world':
+    name: 单曲：强大的世界
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_piece:_strong_world.html
+  umi monogatari:
+    name: 海物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/umi_monogatari.html
+  uta macross sumaho deculture:
+    name: 歌 超时空要塞 sumaho deculture
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uta_macross_sumaho_deculture.html
+  'macross delta: zettai live!!!!!!':
+    name: '超时空要塞 delta: zettai live!!!!!!'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_delta:_zettai_live!!!!!!.html
+  macross plus:
+    name: 超时空要塞
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_plus.html
+  'one piece: stampede':
+    name: 一件：踩踏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_piece:_stampede.html
+  gundam thunderbolt:
+    name: 高达霹雳
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_thunderbolt.html
+  dragon ball minus:
+    name: 龙珠负
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ball_minus.html
+  gundam card builder:
+    name: 高达卡片生成器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_card_builder.html
+  mobile suit gundam the origin:
+    name: 机动战士高达起源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mobile_suit_gundam_the_origin.html
+  'toaru majutsu no index: endymion no kiseki':
+    name: 'to aru majutsu no index: endymion no kiseki to aru majutsu no index 电影'
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_majutsu_no_index:_endymion_no_kiseki.html
+    alias:
+    - 'to aru majutsu no index: endymion no kiseki'
+    - to aru majutsu no index movie
+  sd gundam g-generation:
+    name: SD高达G世代
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sd_gundam_g-generation.html
+  koimonogatari:
+    name: 恋物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koimonogatari.html
+  tsukimonogatari:
+    name: 月物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tsukimonogatari.html
+  'one piece film: gold':
+    name: 单片：金
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_piece_film:_gold.html
+  macross zero:
+    name: 超时空要塞
+    wikiURL: https://danbooru.donmai.us/wiki_pages/macross_zero.html
+  'sword art online: hollow fragment':
+    name: 刀剑神域：空心碎片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_art_online:_hollow_fragment.html
+  full service (mazjojo):
+    name: 全方位服务（mazjojo）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/full_service_(mazjojo).html
+  monogatari series puc puc:
+    name: 物语系列 puc puc
+    wikiURL: https://danbooru.donmai.us/wiki_pages/monogatari_series_puc_puc.html
+  gundam seed astray:
+    name: 高达seed误入歧途
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_seed_astray.html
+  neon genesis evangelion gakuen datenroku:
+    name: 新世纪福音战士：校园启示录
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neon_genesis_evangelion_gakuen_datenroku.html
+    alias:
+    - 'neon genesis evangelion: campus apocalypse'
+  toaru kagaku no accelerator:
+    name: to aru kagaku 没有加速器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toaru_kagaku_no_accelerator.html
+    alias:
+    - to aru kagaku no accelerator
+  hanamonogatari:
+    name: 花物语
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanamonogatari.html
+  gundam exa:
+    name: 高达exa
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_exa.html
+  'jojo no kimyou na bouken: eyes of heaven':
+    name: jojo no kimyou na bouken：天堂之眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jojo_no_kimyou_na_bouken:_eyes_of_heaven.html
+  taketori monogatari:
+    name: 竹刀的故事
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taketori_monogatari.html
+    alias:
+    - the tale of the bamboo cutter

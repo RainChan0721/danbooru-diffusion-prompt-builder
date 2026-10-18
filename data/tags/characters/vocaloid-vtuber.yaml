@@ -1,0 +1,165 @@
+name: Vocaloid / 虚拟主播
+category:
+- 角色
+content:
+  kaito (vocaloid):
+    name: 快斗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kaito_(vocaloid).html
+    alias:
+    - kaito
+  meiko (vocaloid):
+    name: 明子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/meiko_(vocaloid).html
+    alias:
+    - meiko
+  irys (hololive):
+    name: 爱丽丝（hololive）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/irys_(hololive).html
+  ia (vocaloid):
+    name: ia（元音）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ia_(vocaloid).html
+  shigure ui (vtuber):
+    name: 时雨ui（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shigure_ui_(vtuber).html
+  azki (hololive):
+    name: azki（hololive）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/azki_(hololive).html
+  kuzuha (nijisanji):
+    name: kuzuha（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kuzuha_(nijisanji).html
+  rabbit yukine:
+    name: yukine（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_yukine.html
+    alias:
+    - yukine (vocaloid)
+  kanae (nijisanji):
+    name: 佳苗（二字山治）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kanae_(nijisanji).html
+  flower (vocaloid):
+    name: v花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flower_(vocaloid).html
+    alias:
+    - v flower
+  a-chan (hololive):
+    name: yuujin a （hololive） yuujin a （tokino sora 频道）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/a-chan_(hololive).html
+    alias:
+    - yuujin a (hololive)
+    - yuujin a (tokino sora channel)
+  dokibird (vtuber):
+    name: dokibird (vtuber)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dokibird_(vtuber).html
+  tachibana hinano (vtuber):
+    name: 立花日乃（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tachibana_hinano_(vtuber).html
+  sf-a2 miki:
+    name: SF-A2
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sf-a2_miki.html
+    alias:
+    - miki
+    - miki (vocaloid)
+  master (vocaloid):
+    name: 大师（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/master_(vocaloid).html
+  irys (irys 1.0) (hololive):
+    name: irys (irys 1.0) (hololive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/irys_(irys_1.0)_(hololive).html
+    alias:
+    - irys (old design) (hololive)
+  shigure ui (vtuber) (1st costume):
+    name: shigure ui (vtuber) (1st costume)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shigure_ui_(vtuber)_(1st_costume).html
+    alias:
+    - shigure ui (1st costume) (vtuber)
+  lily (vocaloid):
+    name: 百合（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lily_(vocaloid).html
+  irys (irys 2.0) (hololive):
+    name: irys (irys 2.0) (hololive)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/irys_(irys_2.0)_(hololive).html
+    alias:
+    - irys (1st costume) (hololive)
+  vei (vtuber):
+    name: 维贝
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vei_(vtuber).html
+    alias:
+    - veibae
+  one (cevio):
+    name: 一个（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_(cevio).html
+    alias:
+    - one (vocaloid)
+  dola (nijisanji):
+    name: 朵拉（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dola_(nijisanji).html
+  bao (vtuber):
+    name: 包（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bao_(vtuber).html
+  shoto (vtuber):
+    name: shoto（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoto_(vtuber).html
+  mayu (vocaloid):
+    name: mayu（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mayu_(vocaloid).html
+  ponpoko (vtuber):
+    name: ponpoko（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ponpoko_(vtuber).html
+  elu (nijisanji):
+    name: elu（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/elu_(nijisanji).html
+  xingchen:
+    name: 星尘（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xingchen.html
+    alias:
+    - stardust (vocaloid)
+  oliver (vocaloid):
+    name: 奥利弗（vocaloid）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oliver_(vocaloid).html
+  kisaragi ren (vtuber):
+    name: 如月恋（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kisaragi_ren_(vtuber).html
+  fumi (nijisanji):
+    name: fumi（二吉三吉）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fumi_(nijisanji).html
+  snuffy (vtuber):
+    name: 鼻涕虫（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snuffy_(vtuber).html
+  moira (nijisanji):
+    name: 莫伊拉（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/moira_(nijisanji).html
+  amano nene (vtuber):
+    name: 天野宁宁（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/amano_nene_(vtuber).html
+  kushizaki (vtuber):
+    name: 串崎（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kushizaki_(vtuber).html
+  ibrahim (nijisanji):
+    name: 易卜拉欣（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ibrahim_(nijisanji).html
+  saruei (vtuber):
+    name: saruei（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saruei_(vtuber).html
+  mizuki (vtuber):
+    name: 水木（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mizuki_(vtuber).html
+  pochimaru (vtuber):
+    name: pochimaru（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pochimaru_(vtuber).html
+  vienna (vtuber):
+    name: 维也纳（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vienna_(vtuber).html
+  naraka (nijisanji):
+    name: 奈良（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naraka_(nijisanji).html
+  juniper actias:
+    name: 杜松（egocider） 杜松（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/juniper_actias.html
+    alias:
+    - juniper (egocider)
+    - juniper (vtuber)
+  ine (vtuber):
+    name: 我（vtuber）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ine_(vtuber).html
+  asahina akane (nijisanji):
+    name: 朝比奈茜（nijisanji）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/asahina_akane_(nijisanji).html

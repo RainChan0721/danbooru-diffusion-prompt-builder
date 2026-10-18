@@ -1,0 +1,631 @@
+name: 视觉元素与特效
+category:
+- 画面构图
+content:
+  speech bubble:
+    name: 对话框|会话气泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/speech_bubble.html
+    alias:
+    - speech balloon
+    - text bubble
+    - word bubble
+  fire:
+    name: 火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire.html
+    alias:
+    - flame
+    - flames
+  smoke:
+    name: 烟
+    wikiURL: https://danbooru.donmai.us/wiki_pages/smoke.html
+  reflection:
+    name: 反射|倒映
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reflection.html
+  bubble:
+    name: 泡泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bubble.html
+    alias:
+    - bubbles
+  thought bubble:
+    name: 体现内心想法的会话气泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thought_bubble.html
+    alias:
+    - thought balloon
+  magic:
+    name: 魔法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magic.html
+  air bubble:
+    name: 气泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/air_bubble.html
+  aura:
+    name: 灵气
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aura.html
+    alias:
+    - ki
+  fireworks:
+    name: 烟花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fireworks.html
+    alias:
+    - firework
+  explosion:
+    name: 爆炸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/explosion.html
+  blue fire:
+    name: 蓝色的火焰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_fire.html
+    alias:
+    - blue flame
+  squeans:
+    name: squeans
+    wikiURL: https://danbooru.donmai.us/wiki_pages/squeans.html
+    alias:
+    - sleep bubble
+  soap bubbles:
+    name: 泡泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/soap_bubbles.html
+    alias:
+    - suds
+  smokestack:
+    name: 烟囱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/smokestack.html
+  aerial fireworks:
+    name: 空中烟火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aerial_fireworks.html
+  burning:
+    name: 燃烧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/burning.html
+    alias:
+    - on fire
+  nose bubble:
+    name: 鼻涕泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nose_bubble.html
+    alias:
+    - snot bubble
+  different reflection:
+    name: 映出的另一面
+    wikiURL: https://danbooru.donmai.us/wiki_pages/different_reflection.html
+  pyrokinesis:
+    name: 火魔法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pyrokinesis.html
+    alias:
+    - fire magic
+    - fire manipulation
+    - pyromancy
+  flame print:
+    name: 火焰图案
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flame_print.html
+    alias:
+    - fire print
+  sparkler:
+    name: 烟火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkler.html
+    alias:
+    - sparklers
+  breathing fire:
+    name: 喷火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/breathing_fire.html
+    alias:
+    - fire spit
+    - spitting fire
+  magical musket:
+    name: 魔能枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magical_musket.html
+  purple fire:
+    name: 紫色火焰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_fire.html
+    alias:
+    - purple flame
+  dark aura:
+    name: 黑暗的光环|黑暗的气场
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dark_aura.html
+  blank speech bubble:
+    name: 空话泡泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blank_speech_bubble.html
+    alias:
+    - blank thought bubble
+    - blank word balloon
+    - blank word bubble
+    - empty speech bubble
+    - empty word bubble
+  fireplace:
+    name: 壁炉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fireplace.html
+  campfire:
+    name: 营火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/campfire.html
+  flashback:
+    name: 回忆场景
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flashback.html
+  smoke trail:
+    name: 烟迹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/smoke_trail.html
+  sparkle print:
+    name: 闪光印花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkle_print.html
+  shared speech bubble:
+    name: 共享气泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shared_speech_bubble.html
+  sparkling aura:
+    name: sparkling aura
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkling_aura.html
+  aurora:
+    name: 北极光北极光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aurora.html
+    alias:
+    - aurora borealis
+    - northern lights
+  falchion (fire emblem):
+    name: 法尔西昂(火焰之纹章)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/falchion_(fire_emblem).html
+  muzzle flash:
+    name: 枪口火光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muzzle_flash.html
+  magical boy:
+    name: 魔法少年
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magical_boy.html
+  firelock:
+    name: 火锁
+    wikiURL: https://danbooru.donmai.us/wiki_pages/firelock.html
+  happy aura:
+    name: happy aura
+    wikiURL: https://danbooru.donmai.us/wiki_pages/happy_aura.html
+  magician:
+    name: 魔术师
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magician.html
+  green fire:
+    name: 绿火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_fire.html
+  colored speech bubble:
+    name: colored speech bubble
+    wikiURL: https://danbooru.donmai.us/wiki_pages/colored_speech_bubble.html
+    alias:
+    - colored thought bubble
+  flamethrower:
+    name: 喷火器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flamethrower.html
+  fireball:
+    name: 火球火球（火）火球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fireball.html
+    alias:
+    - fire ball
+    - fireball (fire)
+    - fireballs
+  flaming hand:
+    name: 燃烧的手 燃烧的手 火热的手 火热的手 火拳 火拳
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flaming_hand.html
+    alias:
+    - burning hand
+    - burning hands
+    - fiery hand
+    - fire fist
+  loving aura:
+    name: loving aura
+    wikiURL: https://danbooru.donmai.us/wiki_pages/loving_aura.html
+  pink fire:
+    name: 粉红色的火焰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_fire.html
+    alias:
+    - pink flame
+  bubble bath:
+    name: 泡泡浴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_bath.html
+  oil lamp:
+    name: 魔灯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oil_lamp.html
+    alias:
+    - magic lamp
+  fire extinguisher:
+    name: 灭火器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_extinguisher.html
+  firefighter:
+    name: 消防队员
+    wikiURL: https://danbooru.donmai.us/wiki_pages/firefighter.html
+    alias:
+    - fireman
+  bishie sparkle:
+    name: bishie sparkle
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishie_sparkle.html
+    alias:
+    - shoujo bubble
+  hemokinesis:
+    name: 血魔法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hemokinesis.html
+    alias:
+    - blood magic
+    - blood manipulation
+  torso flash:
+    name: 躯干闪光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torso_flash.html
+  bubble pipe:
+    name: 气泡管
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_pipe.html
+  bonfire:
+    name: 篝火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bonfire.html
+  non-circular lens flare:
+    name: 非圆形镜头光晕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/non-circular_lens_flare.html
+  newtype flash:
+    name: 新型闪光灯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/newtype_flash.html
+    alias:
+    - realization flash
+  shared thought bubble:
+    name: 共享思想泡泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shared_thought_bubble.html
+  colored smoke:
+    name: 彩色烟雾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/colored_smoke.html
+    alias:
+    - blue smoke
+    - green smoke
+    - pink smoke
+    - red smoke
+  magic trick:
+    name: 魔术技巧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magic_trick.html
+  firecrackers:
+    name: 鞭炮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/firecrackers.html
+    alias:
+    - firecracker
+  geokinesis:
+    name: 地动学
+    wikiURL: https://danbooru.donmai.us/wiki_pages/geokinesis.html
+    alias:
+    - earth magic
+    - earth manipulation
+  firewood:
+    name: 柴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/firewood.html
+  black fire:
+    name: 黑火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_fire.html
+    alias:
+    - black flame
+  flashbang:
+    name: 闪光弹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flashbang.html
+  fire hydrant:
+    name: 消防栓
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_hydrant.html
+  spoken sparkle:
+    name: 口语火花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_sparkle.html
+    alias:
+    - spoken sparkles
+  bad reflection:
+    name: 不好的反映
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bad_reflection.html
+  magic circuit:
+    name: 魔术电路
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magic_circuit.html
+  in bubble:
+    name: 内气泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/in_bubble.html
+    alias:
+    - inside bubble
+  red fire:
+    name: 红火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_fire.html
+  aymr (fire emblem):
+    name: aymr（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aymr_(fire_emblem).html
+  flamel symbol:
+    name: 火焰符号
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flamel_symbol.html
+  the magician (tarot):
+    name: 魔术师（塔罗牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_magician_(tarot).html
+  photokinesis:
+    name: 光动力
+    wikiURL: https://danbooru.donmai.us/wiki_pages/photokinesis.html
+    alias:
+    - light magic
+    - light manipulation
+  disembodied tongue:
+    name: 魔舌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/disembodied_tongue.html
+    alias:
+    - magic tongue
+  yato (fire emblem):
+    name: yato（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yato_(fire_emblem).html
+  bonfire (dark souls):
+    name: 篝火（黑暗之魂）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bonfire_(dark_souls).html
+  areadbhar (fire emblem):
+    name: areadbhar （火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/areadbhar_(fire_emblem).html
+  fireworks print:
+    name: 烟花打印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fireworks_print.html
+  supermarine spitfire:
+    name: 喷火战斗机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/supermarine_spitfire.html
+  fujin yumi (fire emblem):
+    name: fujin yumi（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fujin_yumi_(fire_emblem).html
+  tyrfing (fire emblem):
+    name: 提尔锋（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tyrfing_(fire_emblem).html
+  flamenco:
+    name: 弗拉门戈
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flamenco.html
+  under fire:
+    name: 受到攻击
+    wikiURL: https://danbooru.donmai.us/wiki_pages/under_fire.html
+  durandal (fire emblem):
+    name: 杜兰朵（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/durandal_(fire_emblem).html
+  fire stone:
+    name: 火石
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_stone.html
+  grabber tool:
+    name: 魔术手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grabber_tool.html
+    alias:
+    - magic hand
+  raijinto (fire emblem):
+    name: raijinto（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raijinto_(fire_emblem).html
+  bubble wrap:
+    name: 泡沫包装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_wrap.html
+  failnaught (fire emblem):
+    name: failnaught（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/failnaught_(fire_emblem).html
+  blazefire saber:
+    name: 烈火军刀
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blazefire_saber.html
+  wonderful magic (idolmaster):
+    name: 奇妙的魔法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wonderful_magic_(idolmaster).html
+    alias:
+    - wonderful magic
+  fire bomber:
+    name: 火焰轰炸机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_bomber.html
+  fire poker:
+    name: 火扑克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_poker.html
+  twitter sparkles:
+    name: 推特闪闪发光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_sparkles.html
+  thyrsus (fire emblem):
+    name: thyrsus（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thyrsus_(fire_emblem).html
+  crack of light:
+    name: crack of light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crack_of_light.html
+  convenient skirt:
+    name: convenient skirt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/convenient_skirt.html
+    alias:
+    - magic skirt
+    - teppeki skirt
+  red light:
+    name: red light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_light.html
+  andon (lighting):
+    name: andon (lighting)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/andon_(lighting).html
+  glowing halo:
+    name: glowing halo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_halo.html
+  muzzle device:
+    name: muzzle device
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muzzle_device.html
+    alias:
+    - flash hider
+    - flash suppressor
+    - muzzle brake
+  aura bullying (meme):
+    name: aura bullying (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aura_bullying_(meme).html
+  holding flamethrower:
+    name: holding flamethrower
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_flamethrower.html
+  laguz (fire emblem):
+    name: laguz (fire emblem)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/laguz_(fire_emblem).html
+  umbrakinesis:
+    name: umbrakinesis
+    wikiURL: https://danbooru.donmai.us/wiki_pages/umbrakinesis.html
+    alias:
+    - dark magic
+    - darkness manipulation
+  pop-up headlights:
+    name: pop-up headlights
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pop-up_headlights.html
+  red lightsaber:
+    name: red lightsaber
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_lightsaber.html
+  flight suit:
+    name: flight suit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flight_suit.html
+  face in shadow:
+    name: face in shadow
+    wikiURL: https://danbooru.donmai.us/wiki_pages/face_in_shadow.html
+  single flame:
+    name: single flame
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_flame.html
+  hands clasped in delight:
+    name: hands clasped in delight
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hands_clasped_in_delight.html
+  glowing gem:
+    name: glowing gem
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_gem.html
+  green light:
+    name: green light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_light.html
+  light-skinned palms:
+    name: light-skinned palms
+    wikiURL: https://danbooru.donmai.us/wiki_pages/light-skinned_palms.html
+  light-skinned soles:
+    name: light-skinned soles
+    wikiURL: https://danbooru.donmai.us/wiki_pages/light-skinned_soles.html
+  image in thought bubble:
+    name: image in thought bubble
+    wikiURL: https://danbooru.donmai.us/wiki_pages/image_in_thought_bubble.html
+  headlight beam:
+    name: headlight beam
+    wikiURL: https://danbooru.donmai.us/wiki_pages/headlight_beam.html
+  glowing pupils:
+    name: glowing pupils
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_pupils.html
+  twilight (e.g.o):
+    name: twilight (e.g.o)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twilight_(e.g.o).html
+  blue lightsaber:
+    name: blue lightsaber
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_lightsaber.html
+  fire elemental:
+    name: fire elemental
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_elemental.html
+  looking at reflection:
+    name: looking at reflection
+    wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_reflection.html
+  red aura:
+    name: red aura
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_aura.html
+  white fire:
+    name: white fire
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_fire.html
+  lightning bolt-shaped pupils:
+    name: lightning bolt-shaped pupils
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lightning_bolt-shaped_pupils.html
+  light bulb hair ornament:
+    name: light bulb hair ornament
+    wikiURL: https://danbooru.donmai.us/wiki_pages/light_bulb_hair_ornament.html
+  bonbori (lighting):
+    name: bonbori (lighting)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bonbori_(lighting).html
+  glowing bodysuit:
+    name: glowing bodysuit
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_bodysuit.html
+  pink light:
+    name: pink light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_light.html
+  image in speech bubble:
+    name: image in speech bubble
+    wikiURL: https://danbooru.donmai.us/wiki_pages/image_in_speech_bubble.html
+  colored lights:
+    name: colored lights
+    wikiURL: https://danbooru.donmai.us/wiki_pages/colored_lights.html
+  purple lightning:
+    name: purple lightning
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_lightning.html
+  holding lightning bolt:
+    name: holding lightning bolt
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_lightning_bolt.html
+  miyu edelfelt (magical girl) (cosplay):
+    name: miyu edelfelt (magical girl) (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/miyu_edelfelt_(magical_girl)_(cosplay).html
+  one eye in shadow:
+    name: one eye in shadow
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_eye_in_shadow.html
+  green lightsaber:
+    name: green lightsaber
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_lightsaber.html
+  4th match flame (e.g.o):
+    name: 4th match flame (e.g.o)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/4th_match_flame_(e.g.o).html
+  glowing body fluid:
+    name: glowing body fluid
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_body_fluid.html
+  glowing ears:
+    name: glowing ears
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_ears.html
+  fire light:
+    name: fire light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_light.html
+  fire hair ornament:
+    name: fire hair ornament
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fire_hair_ornament.html
+  glowing hat:
+    name: glowing hat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_hat.html
+  long shadow:
+    name: long shadow
+    wikiURL: https://danbooru.donmai.us/wiki_pages/long_shadow.html
+  nuclear explosion:
+    name: nuclear explosion
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nuclear_explosion.html
+  uwasa (madoka magica):
+    name: uwasa (madoka magica)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uwasa_(madoka_magica).html
+    alias:
+    - uwasa (magia record)
+  marquee lights:
+    name: marquee lights
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marquee_lights.html
+  kono matsuri ni yuuyami iro mo (project sekai):
+    name: kono matsuri ni yuuyami iro mo (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kono_matsuri_ni_yuuyami_iro_mo_(project_sekai).html
+    alias:
+    - at this festival bathed in twilight (project sekai)
+    - at this festival tinged with twilight (project sekai)
+  yellow light:
+    name: yellow light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_light.html
+  rgb lights:
+    name: rgb lights
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rgb_lights.html
+  purple light:
+    name: purple light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_light.html
+  wonder magical showtime! (project sekai):
+    name: wonder magical showtime! (project sekai)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wonder_magical_showtime!_(project_sekai).html
+  fiery aura:
+    name: fiery aura
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fiery_aura.html
+  black lightning:
+    name: black lightning
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_lightning.html
+  orange fire:
+    name: orange fire
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_fire.html
+  firefight:
+    name: firefight
+    wikiURL: https://danbooru.donmai.us/wiki_pages/firefight.html
+  blue aura:
+    name: blue aura
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_aura.html
+  stadium lights:
+    name: stadium lights
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stadium_lights.html
+  reflection in the mirror (love live!):
+    name: reflection in the mirror (love live!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reflection_in_the_mirror_(love_live!).html
+  shadow hands:
+    name: shadow hands
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shadow_hands.html
+  lightstick:
+    name: lightstick
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lightstick.html
+  m202 flash:
+    name: m202 flash
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m202_flash.html
+  tiki (young) (fire emblem) (cosplay):
+    name: tiki (young) (fire emblem) (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tiki_(young)_(fire_emblem)_(cosplay).html
+  flame tattoo:
+    name: flame tattoo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flame_tattoo.html
+  surgical light:
+    name: surgical light
+    wikiURL: https://danbooru.donmai.us/wiki_pages/surgical_light.html
+  dressed shadow (meme):
+    name: dressed shadow (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dressed_shadow_(meme).html
+  eyeshadow under eye:
+    name: eyeshadow under eye
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eyeshadow_under_eye.html
+  corrin (female) (fire emblem) (cosplay):
+    name: corrin (female) (fire emblem) (cosplay)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/corrin_(female)_(fire_emblem)_(cosplay).html
+  speech bubble censor:
+    name: speech bubble censor
+    wikiURL: https://danbooru.donmai.us/wiki_pages/speech_bubble_censor.html
