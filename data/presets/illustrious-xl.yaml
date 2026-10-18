@@ -1,0 +1,78 @@
+name: Illustrious-XL
+category: []
+description: Illustrious-XL (illxl) 官方推荐的标准画质与负向提示词预设
+content:
+  官方推荐高画质 (Standard Quality):
+    description: Illustrious-XL 官方推荐的通用高质量正向起手式画质标签
+    content:
+      - masterpiece
+      - best quality
+      - very aesthetic
+      - absurdres
+  最新画风强化 (Newest Aesthetic):
+    description: 强化二次元现代精致画风与 2023-2024 最新作画特征
+    content:
+      - masterpiece
+      - best quality
+      - very aesthetic
+      - absurdres
+      - newest
+  推荐标准负向 (Standard Negative):
+    description: 过滤肢体崩坏、畸形多指、低分辨率与文字水印噪点
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - extra digits
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - blurry
+      - text
+      - watermark
+      - signature
+      - artist name
+      - twitter username
+  强力净化负向 (Heavy Clean Negative):
+    description: 深度抑制低俗涂鸦、Patreon水印、画质劣化与构图杂乱
+    content:
+      - lowres
+      - bad anatomy
+      - bad proportions
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - twitter username
+      - patreon
+      - worst aesthetic
+      - bad aesthetic
+  全年龄分级起手 (SFW Safe Rating):
+    description: 锁定全年龄向安全分级，避免意外露点或擦边
+    content:
+      - general
+      - masterpiece
+      - best quality
+      - very aesthetic
+  限制级成人起手 (NSFW Explicit):
+    description: 激活模型完整 R18 / 成年限定细节与表现力
+    content:
+      - explicit
+      - masterpiece
+      - best quality
+      - very aesthetic

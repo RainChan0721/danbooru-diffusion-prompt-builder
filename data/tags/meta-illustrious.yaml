@@ -1,0 +1,45 @@
+name: Illustrious-XL专用
+category:
+  - 元标签
+restricted: false
+content:
+  very aesthetic:
+    name: 极佳审美
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aesthetic.html
+    alias:
+      - high aesthetic
+  aesthetic:
+    name: 艺术美感
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aesthetic.html
+  newest:
+    name: 最新作画风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/newest.html
+    alias:
+      - newest style
+  year 2024:
+    name: 2024年画风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/2024.html
+  year 2023:
+    name: 2023年画风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/2023.html
+  worst aesthetic:
+    name: 极差审美 (反向)
+    description: 抑制低质粗糙审美
+  bad aesthetic:
+    name: 低劣审美 (反向)
+    description: 抑制平庸失真构图
+  patreon:
+    name: Patreon水印 (反向)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/patreon.html
+  rating:general:
+    name: 全年龄分级 (SFW)
+    alias:
+      - sfw rating
+  rating:sensitive:
+    name: 轻度敏感分级
+  rating:questionable:
+    name: 擦边可疑分级
+  rating:explicit:
+    name: 限制级成人分级 (NSFW)
+    alias:
+      - nsfw rating
