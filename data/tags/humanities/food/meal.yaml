@@ -1,7 +1,7 @@
 name: 主食
 category:
-  - 人文景观
-  - 食物
+- 人文
+- 食物
 content:
   canned food:
     name: 罐头食品
@@ -24,13 +24,13 @@ content:
     name: 饺子
     wikiURL: https://danbooru.donmai.us/wiki_pages/dumpling.html
     alias:
-      - dumplings
+    - dumplings
   jiaozi:
     name: 饺子
     wikiURL: https://danbooru.donmai.us/wiki_pages/jiaozi.html
     alias:
-      - gyoza
-      - gyouza
+    - gyoza
+    - gyouza
   shumai:
     name: 烧卖
     wikiURL: https://danbooru.donmai.us/wiki_pages/shumai.html
@@ -63,8 +63,8 @@ content:
     name: 汉堡包
     wikiURL: https://danbooru.donmai.us/wiki_pages/burger.html
     alias:
-      - hamburger
-      - cheeseburger
+    - hamburger
+    - cheeseburger
     image: 49b6bbe64a79434d5426c8c49a3c895b0d9013c52471a9467881a6bc9b17c49f
   megamac:
     name: 超级汉堡
@@ -73,12 +73,12 @@ content:
     name: 热狗
     wikiURL: https://danbooru.donmai.us/wiki_pages/hot_dog.html
     alias:
-      - hotdog
+    - hotdog
   corn dog:
     name: 玉米热狗
     wikiURL: https://danbooru.donmai.us/wiki_pages/corn_dog.html
     alias:
-      - corndog
+    - corndog
   katsu:
     name: 日式炸鸡排
   katsudon:
@@ -113,11 +113,11 @@ content:
     image: b8f5ca877762149bba69342184a5352706db55e34d9de5c472dfb583aa49a032
     wikiURL: https://danbooru.donmai.us/wiki_pages/bento.html
     alias:
-      - obentou
-      - bento-box
-      - obento
-      - bentou
-      - bento box
+    - obentou
+    - bento-box
+    - obento
+    - bentou
+    - bento box
   okosama lunch:
     name: okosama 儿童餐
     wikiURL: https://danbooru.donmai.us/wiki_pages/okosama_lunch.html
@@ -134,12 +134,12 @@ content:
     name: 包子
     wikiURL: https://danbooru.donmai.us/wiki_pages/baozi.html
     alias:
-      - pork bun
-      - nikuman
-      - porkbun
-      - meat bun
-      - meatbun
-      - manjuu
+    - pork bun
+    - nikuman
+    - porkbun
+    - meat bun
+    - meatbun
+    - manjuu
   nabe:
     name: 火锅
     wikiURL: https://danbooru.donmai.us/wiki_pages/nabe.html
@@ -153,7 +153,7 @@ content:
     name: 鸣门卷
     wikiURL: https://danbooru.donmai.us/wiki_pages/narutomaki.html
     alias:
-      - naruto (food)
+    - naruto (food)
   okonomiyaki:
     name: 什锦煎饼
     wikiURL: https://danbooru.donmai.us/wiki_pages/okonomiyaki.html
@@ -161,7 +161,7 @@ content:
     name: 煎蛋卷
     wikiURL: https://danbooru.donmai.us/wiki_pages/omelet.html
     alias:
-      - omelette
+    - omelette
   pizza:
     name: 披萨
     wikiURL: https://danbooru.donmai.us/wiki_pages/pizza.html
@@ -181,7 +181,7 @@ content:
     name: 切下的一块比萨
     wikiURL: https://danbooru.donmai.us/wiki_pages/pizza_slice.html
     alias:
-      - slice of pizza
+    - slice of pizza
   ribs (food):
     name: 排骨
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribs_(food).html
@@ -197,7 +197,7 @@ content:
     name: 三明治
     wikiURL: https://danbooru.donmai.us/wiki_pages/sandwich.html
     alias:
-      - sandwiches
+    - sandwiches
     image: 2cfa8546d3e14c596fdcfbd603180d114d8fa0de9f8082e22f223e3a57632b10
   soup:
     name: 汤
@@ -211,7 +211,7 @@ content:
     name: 日式烩年糕
     wikiURL: https://danbooru.donmai.us/wiki_pages/zouni_soup.html
     alias:
-      - zoni soup
+    - zoni soup
   sushi:
     name: 寿司
     wikiURL: https://danbooru.donmai.us/wiki_pages/sushi.html
@@ -261,14 +261,14 @@ content:
     name: 油炸豆腐
     wikiURL: https://danbooru.donmai.us/wiki_pages/aburaage.html
     alias:
-      - aburage
+    - aburage
   mapo tofu:
     name: 麻婆豆腐
     wikiURL: https://danbooru.donmai.us/wiki_pages/mapo_tofu.html
     alias:
-      - mapo doufu
-      - maabou doufu
-      - mapotofu
+    - mapo doufu
+    - maabou doufu
+    - mapotofu
   stinky tofu:
     name: 臭豆腐
     wikiURL: https://danbooru.donmai.us/wiki_pages/stinky_tofu.html
@@ -284,4 +284,4 @@ content:
     name: 粽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/zongzi.html
     alias:
-      - chimaki
+    - chimaki

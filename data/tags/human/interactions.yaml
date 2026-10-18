@@ -1,0 +1,72 @@
+name: 关系与互动姿态
+category:
+- 人物
+content:
+  hetero:
+    name: 异性恋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hetero.html
+  miko embrace:
+    name: 巫女拥抱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/miko_embrace.html
+  heterochromatic eyewear:
+    name: heterochromatic eyewear
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heterochromatic_eyewear.html
+  no heterochromia:
+    name: no heterochromia
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_heterochromia.html
+  frieren blowing a kiss:
+    name: frieren blowing a kiss
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frieren_blowing_a_kiss.html
+    alias:
+    - frieren blowing a kiss (meme)
+  japan-korea yuri (meme):
+    name: japan-korea yuri (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/japan-korea_yuri_(meme).html
+  kissing head:
+    name: kissing head
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kissing_head.html
+    alias:
+    - head kiss
+  yurie mouth:
+    name: yurie mouth
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yurie_mouth.html
+  rejected kiss:
+    name: rejected kiss
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rejected_kiss.html
+    alias:
+    - blocked kiss
+    - blocking kiss
+    - kiss attempt
+  yaoi (object):
+    name: yaoi (object)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yaoi_(object).html
+  humpty lock (shugo chara!):
+    name: humpty lock (shugo chara!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/humpty_lock_(shugo_chara!).html
+  forced hug:
+    name: forced hug
+    wikiURL: https://danbooru.donmai.us/wiki_pages/forced_hug.html
+  surprise hug:
+    name: surprise hug
+    wikiURL: https://danbooru.donmai.us/wiki_pages/surprise_hug.html
+  kiss from behind:
+    name: kiss from behind
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kiss_from_behind.html
+  yuri (object):
+    name: yuri (object)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yuri_(object).html
+  huge claws:
+    name: huge claws
+    wikiURL: https://danbooru.donmai.us/wiki_pages/huge_claws.html
+  killkiss (bang dream!):
+    name: killkiss (bang dream!)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/killkiss_(bang_dream!).html
+  hug invitation:
+    name: hug invitation
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hug_invitation.html
+  happy shijo shugi!:
+    name: happy shijo shugi!
+    wikiURL: https://danbooru.donmai.us/wiki_pages/happy_shijo_shugi!.html
+  dolls kissing:
+    name: dolls kissing
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dolls_kissing.html

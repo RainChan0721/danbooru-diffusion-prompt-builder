@@ -1,6 +1,6 @@
 name: 城市
 category:
-  - 人文景观
+- 人文
 content:
   skyscrapers:
     name: 摩天大楼
@@ -21,4 +21,4 @@ content:
     image: 52df4d3ae48d24b7478a7db440aa05be547a24d8972aea2a7f1eb1afc394ba56
     wikiURL: https://danbooru.donmai.us/wiki_pages/building.html
     alias:
-      - buildings
+    - buildings

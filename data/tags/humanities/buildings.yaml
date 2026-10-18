@@ -1,7 +1,7 @@
 name: 建筑物
 category:
-  - 人文景观
-  - 位置
+- 人文
+- 位置
 content:
   airport:
     name: 飞机场
@@ -42,7 +42,7 @@ content:
     name: 公交车站
     wikiURL: https://danbooru.donmai.us/wiki_pages/bus_stop.html
     alias:
-      - busstop
+    - busstop
     image: 3df32b21800543f7bb11c7a15416b96579b40d38ee4e9764b349a961178cd68b
   bowling alley:
     name: 保龄球馆
@@ -53,7 +53,7 @@ content:
     image: 7e2c8afd7754ee04c931b51a36965672c75133cdf033d46df023fe933c6f7ef0
     wikiURL: https://danbooru.donmai.us/wiki_pages/cafe.html
     alias:
-      - coffee shop
+    - coffee shop
   casino:
     name: 赌场
     wikiURL: https://danbooru.donmai.us/wiki_pages/casino.html
@@ -98,7 +98,7 @@ content:
     name: 房子
     wikiURL: https://danbooru.donmai.us/wiki_pages/house.html
     alias:
-      - houses
+    - houses
     image: 6855fc4b55928d3d55475b1b72532ff8ca0dc2f091ae8ad368a2e14259dbc822
   hotel:
     name: 酒店
@@ -143,7 +143,7 @@ content:
     name: 轨道电梯
     wikiURL: https://danbooru.donmai.us/wiki_pages/space_elevator.html
     alias:
-      - orbital elevator
+    - orbital elevator
     image: 8d99deec1653db62b0f4f0601d1501be5dca4725194b85e64ff205d0034dd807
   military base:
     name: 军事基地
@@ -164,9 +164,9 @@ content:
     name: 温泉
     wikiURL: https://danbooru.donmai.us/wiki_pages/onsen.html
     alias:
-      - hotspring
-      - hot spring
-      - hot springs
+    - hotspring
+    - hot spring
+    - hot springs
   pagoda:
     name: 宝塔
     wikiURL: https://danbooru.donmai.us/wiki_pages/pagoda.html
@@ -178,7 +178,7 @@ content:
     name: 监狱
     wikiURL: https://danbooru.donmai.us/wiki_pages/prison.html
     alias:
-      - jail
+    - jail
     image: 4b4840c0c502245e405cc71f14d84dfae75a5960e5246ddb739da2c1758bd4bb
   restaurant:
     name: 餐厅
@@ -189,13 +189,13 @@ content:
     image: 47653c7522cc115811051ed34d5e3528d74583842a9f4af9c239c5ec1fd43a37
     wikiURL: https://danbooru.donmai.us/wiki_pages/rooftop.html
     alias:
-      - roof
+    - roof
   ruins:
     name: 废墟
     image: d0ac8230b72eb5ca708c17cce3cedeb9f3077de3e575add20e269dbd845e7911
     wikiURL: https://danbooru.donmai.us/wiki_pages/ruins.html
     alias:
-      - ruin
+    - ruin
   school:
     name: 学校竞赛泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/school.html
@@ -210,14 +210,14 @@ content:
     name: 神社
     wikiURL: https://danbooru.donmai.us/wiki_pages/shrine.html
     alias:
-      - jinja
+    - jinja
   shop:
     name: 商店
     image: debd82c0e4471b658f2880bf4fbb5e3ca8198f1b250ce29054625cb50d3ef2a0
     wikiURL: https://danbooru.donmai.us/wiki_pages/shop.html
     alias:
-      - shops
-      - store
+    - shops
+    - store
   bakery:
     name: 面包店
     wikiURL: https://danbooru.donmai.us/wiki_pages/bakery.html
@@ -275,7 +275,7 @@ content:
     name: 电影院
     wikiURL: https://danbooru.donmai.us/wiki_pages/movie_theater.html
     alias:
-      - cinema
+    - cinema
     image: 0f1f895fb39c8c4f25a1f76d007ae3f53446ca169c754d5d1972e38c8337029d
   tower:
     name: 塔
@@ -306,11 +306,11 @@ content:
     name: 风车
     wikiURL: https://danbooru.donmai.us/wiki_pages/windmill.html
     alias:
-      - windmills
+    - windmills
     image: 9779f076d3350056f715d81f693c00f70d09438eb8cac5f58c9a5af00dfa3327
   pool:
     name: 水池
     wikiURL: https://danbooru.donmai.us/wiki_pages/pool.html
     alias:
-      - swimming pool
+    - swimming pool
     image: aceeebbd5e15ed69efaec6f4f598f41f368dd64a5f0516c2a978bf1687aeb01f

@@ -164,7 +164,7 @@ content:
     - that pool
     - the usual pool
   single bare foot:
-    name: single bare foot
+    name: 单脚赤脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_bare_foot.html
     alias:
     - single barefoot
@@ -411,7 +411,7 @@ content:
     name: 叫声
     wikiURL: https://danbooru.donmai.us/wiki_pages/barking.html
   ganbare ganbare (itou life):
-    name: ganbare ganbare （itou life）
+    name: ganbare ganbare（伊东生活）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ganbare_ganbare_(itou_life).html
   rebar:
     name: 钢筋
@@ -472,7 +472,7 @@ content:
     name: 泳池派对（英雄联盟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/pool_party_(league_of_legends).html
   ganbaruzoi:
-    name: ganbaruzoi
+    name: 甘巴鲁佐伊
     wikiURL: https://danbooru.donmai.us/wiki_pages/ganbaruzoi.html
   shining needle castle:
     name: 闪亮的针城堡
@@ -661,445 +661,445 @@ content:
     name: 学生妹（idolmaster）
     wikiURL: https://danbooru.donmai.us/wiki_pages/schoolish_girl_(idolmaster).html
   seiren academy school uniform:
-    name: seiren academy school uniform
+    name: 青莲学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/seiren_academy_school_uniform.html
   trinity general school logo:
-    name: trinity general school logo
+    name: 三一普通学校标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/trinity_general_school_logo.html
   salt middle school uniform:
-    name: salt middle school uniform
+    name: 盐中学制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/salt_middle_school_uniform.html
   rouman academy school uniform:
-    name: rouman academy school uniform
+    name: 鲁曼学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/rouman_academy_school_uniform.html
     alias:
     - rouman academy uniform
   lydian academy school uniform:
-    name: lydian academy school uniform
+    name: 利迪亚学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/lydian_academy_school_uniform.html
     alias:
     - lydian academy uniform
   academic test:
-    name: academic test
+    name: 学术测试
     wikiURL: https://danbooru.donmai.us/wiki_pages/academic_test.html
     alias:
     - examination paper
     - school test
     - test
   tohmi higashi high school uniform:
-    name: tohmi higashi high school uniform
+    name: 东美高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tohmi_higashi_high_school_uniform.html
   after-school sweets club (blue archive):
-    name: after-school sweets club (blue archive)
+    name: 课后糖果俱乐部（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/after-school_sweets_club_(blue_archive).html
   selene girls school uniform:
-    name: selene girls school uniform
+    name: 塞琳娜女校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/selene_girls_school_uniform.html
   hoshinoumi academy school uniform:
-    name: hoshinoumi academy school uniform
+    name: 星之海学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hoshinoumi_academy_school_uniform.html
     alias:
     - hoshinoumi academy uniform
   shibahama high school uniform:
-    name: shibahama high school uniform
+    name: 芝滨高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/shibahama_high_school_uniform.html
   'dancer (fire emblem: three houses)':
-    name: 'dancer (fire emblem: three houses)'
+    name: 舞者（火焰纹章：三宫）
     wikiURL: https://danbooru.donmai.us/wiki_pages/dancer_(fire_emblem:_three_houses).html
     alias:
     - dancer (three houses)
   tape maebari:
-    name: tape maebari
+    name: 前张磁带
     wikiURL: https://danbooru.donmai.us/wiki_pages/tape_maebari.html
     alias:
     - tape on pussy
   rokubanchou school uniform:
-    name: rokubanchou school uniform
+    name: 六番长校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/rokubanchou_school_uniform.html
   new york city:
-    name: new york city
+    name: 纽约市
     wikiURL: https://danbooru.donmai.us/wiki_pages/new_york_city.html
     alias:
     - new york
   saikai academy school uniform:
-    name: saikai academy school uniform
+    name: 西海学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/saikai_academy_school_uniform.html
     alias:
     - saikai academy uniform
   burning building:
-    name: burning building
+    name: 燃烧的建筑物
     wikiURL: https://danbooru.donmai.us/wiki_pages/burning_building.html
   millennium science school logo:
-    name: millennium science school logo
+    name: 千年科学学校标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/millennium_science_school_logo.html
   abydos high school swimsuit:
-    name: abydos high school swimsuit
+    name: 阿比多斯高中泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/abydos_high_school_swimsuit.html
   national verbena academy school uniform:
-    name: national verbena academy school uniform
+    name: 国立马鞭草学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/national_verbena_academy_school_uniform.html
   raira academy school uniform:
-    name: raira academy school uniform
+    name: 莱拉学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/raira_academy_school_uniform.html
     alias:
     - raira academy uniform
   multi-lane road:
-    name: multi-lane road
+    name: 多车道道路
     wikiURL: https://danbooru.donmai.us/wiki_pages/multi-lane_road.html
   magic school uniform (mahou girls precure!):
-    name: magic school uniform (mahou girls precure!)
+    name: 魔法校服（魔法少女光之美少女！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/magic_school_uniform_(mahou_girls_precure!).html
   playstation logo:
-    name: playstation logo
+    name: 游戏机标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_logo.html
   daito academy school uniform:
-    name: daito academy school uniform
+    name: 大东学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/daito_academy_school_uniform.html
     alias:
     - daito academy uniform
     - daitou academy school uniform
   seiyo academy school uniform:
-    name: seiyo academy school uniform
+    name: 圣阳学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/seiyo_academy_school_uniform.html
     alias:
     - seiyo academy uniform
   ranoa magic academy school uniform:
-    name: ranoa magic academy school uniform
+    name: 拉诺阿魔法学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ranoa_magic_academy_school_uniform.html
   karakura high school uniform:
-    name: karakura high school uniform
+    name: 唐仓高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/karakura_high_school_uniform.html
   playstation 1:
-    name: playstation 1
+    name: 游戏机1
     wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_1.html
     alias:
     - ps1
     - psx
   atlas academy school uniform:
-    name: atlas academy school uniform
+    name: 阿特拉斯学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/atlas_academy_school_uniform.html
     alias:
     - atlas academy uniform
   kirigaoka girls' academy school uniform:
-    name: kirigaoka girls' academy school uniform
+    name: 桐冈女子学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/kirigaoka_girls'_academy_school_uniform.html
   cafe maid (love live!):
-    name: cafe maid (love live!)
+    name: 咖啡厅女仆（爱情现场！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/cafe_maid_(love_live!).html
     alias:
     - cafe maid (love live)
   a certain high school gym uniform:
-    name: a certain high school gym uniform
+    name: 某高中体操服
     wikiURL: https://danbooru.donmai.us/wiki_pages/a_certain_high_school_gym_uniform.html
   l'avenir academy school uniform:
-    name: l'avenir academy school uniform
+    name: 拉文尼尔学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/l'avenir_academy_school_uniform.html
     alias:
     - l'avenir academy uniform
   fuuka academy school uniform:
-    name: fuuka academy school uniform
+    name: 风花学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/fuuka_academy_school_uniform.html
     alias:
     - fuuka academy uniform
   habataki academy school uniform:
-    name: habataki academy school uniform
+    name: 哈巴塔克学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/habataki_academy_school_uniform.html
     alias:
     - habataki academy uniform
   red prison magic school uniform:
-    name: red prison magic school uniform
+    name: 红色监狱魔法校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_prison_magic_school_uniform.html
   channel (caststation) (style):
-    name: channel (caststation) (style)
+    name: 频道（caststation）（风格）
     wikiURL: https://danbooru.donmai.us/wiki_pages/channel_(caststation)_(style).html
   soviet school uniform:
-    name: soviet school uniform
+    name: 苏联校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/soviet_school_uniform.html
   katagiri senior high school uniform:
-    name: katagiri senior high school uniform
+    name: 片桐高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/katagiri_senior_high_school_uniform.html
   private misaki high school uniform:
-    name: private misaki high school uniform
+    name: 私立美咲高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/private_misaki_high_school_uniform.html
   mazda mx-5:
-    name: mazda mx-5
+    name: 马自达MX-5
     wikiURL: https://danbooru.donmai.us/wiki_pages/mazda_mx-5.html
     alias:
     - eunos roadster
     - mazda miata
   ame no kisaki academy school uniform:
-    name: ame no kisaki academy school uniform
+    name: 天之崎学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ame_no_kisaki_academy_school_uniform.html
     alias:
     - ame no kisaki academy uniform
   fabarm fp6:
-    name: fabarm fp6
+    name: 法巴姆 fp6
     wikiURL: https://danbooru.donmai.us/wiki_pages/fabarm_fp6.html
     alias:
     - fp-6
   guilty gear strive x tower records:
-    name: guilty gear strive x tower records
+    name: 有罪齿轮奋斗 x 塔记录
     wikiURL: https://danbooru.donmai.us/wiki_pages/guilty_gear_strive_x_tower_records.html
   thai school uniform:
-    name: thai school uniform
+    name: 泰国校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/thai_school_uniform.html
   yotsuboshi academy school uniform:
-    name: yotsuboshi academy school uniform
+    name: 四星学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/yotsuboshi_academy_school_uniform.html
     alias:
     - yotsuboshi academy uniform
   holohoneygaoka high school uniform:
-    name: holohoneygaoka high school uniform
+    name: Holohoneygaoka 高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/holohoneygaoka_high_school_uniform.html
   themis legal academy school uniform:
-    name: themis legal academy school uniform
+    name: 忒弥斯法学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/themis_legal_academy_school_uniform.html
   pk academy school uniform:
-    name: pk academy school uniform
+    name: pk学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/pk_academy_school_uniform.html
   chuo academy school uniform:
-    name: chuo academy school uniform
+    name: 中央学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/chuo_academy_school_uniform.html
     alias:
     - chuo academy uniform
     - chuuou academy school uniform
   amanogawa high school uniform:
-    name: amanogawa high school uniform
+    name: 天之川高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/amanogawa_high_school_uniform.html
   black tabard:
-    name: black tabard
+    name: 黑色战袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_tabard.html
   yokosuka girls marine high school swimsuit:
-    name: yokosuka girls marine high school swimsuit
+    name: 横须贺女子海洋高中泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/yokosuka_girls_marine_high_school_swimsuit.html
   arch bridge:
-    name: arch bridge
+    name: 拱桥
     wikiURL: https://danbooru.donmai.us/wiki_pages/arch_bridge.html
   black vinegar middle school uniform:
-    name: black vinegar middle school uniform
+    name: 黑醋中学制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_vinegar_middle_school_uniform.html
   sjms school uniform:
-    name: sjms school uniform
+    name: 澳体育校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sjms_school_uniform.html
   ryouran! victory road (love live!):
-    name: ryouran! victory road (love live!)
+    name: 凉兰！胜利之路（爱生活！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ryouran!_victory_road_(love_live!).html
     alias:
     - ryouran! victory road (love live)
   high schoolmate (idolmaster):
-    name: high schoolmate (idolmaster)
+    name: 高中同学（偶像大师）
     wikiURL: https://danbooru.donmai.us/wiki_pages/high_schoolmate_(idolmaster).html
   marehoshi academy school uniform:
-    name: marehoshi academy school uniform
+    name: 丸星学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/marehoshi_academy_school_uniform.html
   saliva pool:
-    name: saliva pool
+    name: 唾液池
     wikiURL: https://danbooru.donmai.us/wiki_pages/saliva_pool.html
   southern cross academy school uniform:
-    name: southern cross academy school uniform
+    name: 南十字星学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/southern_cross_academy_school_uniform.html
     alias:
     - southern cross academy uniform
   jouin high school uniform:
-    name: jouin high school uniform
+    name: 上院高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/jouin_high_school_uniform.html
   sonobeno high school uniform:
-    name: sonobeno high school uniform
+    name: 园野野高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sonobeno_high_school_uniform.html
   kawakami academy school uniform:
-    name: kawakami academy school uniform
+    name: 川上学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/kawakami_academy_school_uniform.html
     alias:
     - kawakami academy uniform
   mihoshi academy school uniform:
-    name: mihoshi academy school uniform
+    name: 三星学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/mihoshi_academy_school_uniform.html
     alias:
     - mihoshi academy uniform
   junior high schoolmate (idolmaster):
-    name: junior high schoolmate (idolmaster)
+    name: 初中同学（偶像大师）
     wikiURL: https://danbooru.donmai.us/wiki_pages/junior_high_schoolmate_(idolmaster).html
   dream academy school uniform:
-    name: dream academy school uniform
+    name: 梦想学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/dream_academy_school_uniform.html
     alias:
     - dream academy uniform
   green tabard:
-    name: green tabard
+    name: 绿色战袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_tabard.html
   dahlia academy boarding school uniform:
-    name: dahlia academy boarding school uniform
+    name: 大丽花学院寄宿校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/dahlia_academy_boarding_school_uniform.html
   osafune girls academy school uniform:
-    name: osafune girls academy school uniform
+    name: 大船女子学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/osafune_girls_academy_school_uniform.html
     alias:
     - osafune girls academy uniform
   second wangan school uniform:
-    name: second wangan school uniform
+    name: 第二湾安校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/second_wangan_school_uniform.html
   school gateway:
-    name: school gateway
+    name: 学校网关
     wikiURL: https://danbooru.donmai.us/wiki_pages/school_gateway.html
   taskbar:
-    name: taskbar
+    name: 任务栏
     wikiURL: https://danbooru.donmai.us/wiki_pages/taskbar.html
   ahnenerbe shop uniform:
-    name: ahnenerbe shop uniform
+    name: ahnerbe店制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ahnenerbe_shop_uniform.html
   kosho academy school uniform:
-    name: kosho academy school uniform
+    name: 工商学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/kosho_academy_school_uniform.html
     alias:
     - koushou academy school uniform
   nevermore academy school uniform:
-    name: nevermore academy school uniform
+    name: 永莫学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/nevermore_academy_school_uniform.html
   mogeko (species):
-    name: mogeko (species)
+    name: 莫盖科（种）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mogeko_(species).html
     alias:
     - mogeko (mogeko castle)
   hirasawa yui's middle school uniform:
-    name: hirasawa yui's middle school uniform
+    name: 平泽由衣的中学制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hirasawa_yui's_middle_school_uniform.html
   tsubame nishi high school uniform:
-    name: tsubame nishi high school uniform
+    name: 西燕高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tsubame_nishi_high_school_uniform.html
   bellwall school uniform:
-    name: bellwall school uniform
+    name: 钟墙校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/bellwall_school_uniform.html
   on mushroom:
-    name: on mushroom
+    name: 在蘑菇上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_mushroom.html
   seijou academy school uniform:
-    name: seijou academy school uniform
+    name: 圣城学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/seijou_academy_school_uniform.html
     alias:
     - seijou academy uniform
   saint mary's academy school uniform:
-    name: saint mary's academy school uniform
+    name: 圣玛丽学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/saint_mary's_academy_school_uniform.html
     alias:
     - saint mary's academy uniform
   saotome academy school uniform:
-    name: saotome academy school uniform
+    name: 早乙女学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/saotome_academy_school_uniform.html
     alias:
     - saotome academy uniform
   barre chord:
-    name: barre chord
+    name: 巴利和弦
     wikiURL: https://danbooru.donmai.us/wiki_pages/barre_chord.html
   indigo academy school uniform:
-    name: indigo academy school uniform
+    name: 靛蓝学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/indigo_academy_school_uniform.html
   seigetsu academy school uniform:
-    name: seigetsu academy school uniform
+    name: 青月学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/seigetsu_academy_school_uniform.html
     alias:
     - seigetsu academy uniform
   sitting on mushroom:
-    name: sitting on mushroom
+    name: 坐在蘑菇上
     wikiURL: https://danbooru.donmai.us/wiki_pages/sitting_on_mushroom.html
   roadblock:
-    name: roadblock
+    name: 路障
     wikiURL: https://danbooru.donmai.us/wiki_pages/roadblock.html
   thors military academy school uniform:
-    name: thors military academy school uniform
+    name: 托斯军事学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/thors_military_academy_school_uniform.html
     alias:
     - thors military academy uniform
   aramis high school uniform:
-    name: aramis high school uniform
+    name: 阿拉米斯高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/aramis_high_school_uniform.html
   barber cape:
-    name: barber cape
+    name: 理发师斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/barber_cape.html
   oozora subaru (cosplay):
-    name: oozora subaru (cosplay)
+    name: 大空昴 (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/oozora_subaru_(cosplay).html
   sankyoin academy school uniform:
-    name: sankyoin academy school uniform
+    name: 三共院学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sankyoin_academy_school_uniform.html
     alias:
     - sankyouin academy school uniform
   mondstadt city:
-    name: mondstadt city
+    name: 蒙施塔特市
     wikiURL: https://danbooru.donmai.us/wiki_pages/mondstadt_city.html
   scissor doors:
-    name: scissor doors
+    name: 剪刀门
     wikiURL: https://danbooru.donmai.us/wiki_pages/scissor_doors.html
   sorashido academy school uniform:
-    name: sorashido academy school uniform
+    name: 空志堂学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sorashido_academy_school_uniform.html
   ototachibana academy school uniform:
-    name: ototachibana academy school uniform
+    name: 乙橘学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ototachibana_academy_school_uniform.html
     alias:
     - ototachibana academy uniform
   print tabard:
-    name: print tabard
+    name: 印花战袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_tabard.html
   wooden house:
-    name: wooden house
+    name: 木房子
     wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_house.html
   pink tabard:
-    name: pink tabard
+    name: 粉红色战袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_tabard.html
   capybara ears:
-    name: capybara ears
+    name: 水豚耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/capybara_ears.html
   rome (city):
-    name: rome (city)
+    name: 罗马（城市）
     wikiURL: https://danbooru.donmai.us/wiki_pages/rome_(city).html
   road of radiance (umamusume):
-    name: road of radiance (umamusume)
+    name: 光辉之路（umamusume）
     wikiURL: https://danbooru.donmai.us/wiki_pages/road_of_radiance_(umamusume).html
   tennomifune academy school uniform:
-    name: tennomifune academy school uniform
+    name: 天王船学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tennomifune_academy_school_uniform.html
     alias:
     - tennomifune academy uniform
   door chain:
-    name: door chain
+    name: 门链
     wikiURL: https://danbooru.donmai.us/wiki_pages/door_chain.html
   shinju-kan school uniform:
-    name: shinju-kan school uniform
+    name: 新住馆校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/shinju-kan_school_uniform.html
   subaru wrx:
-    name: subaru wrx
+    name: 斯巴鲁wrx
     wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_wrx.html
   haunted house (attraction):
-    name: haunted house (attraction)
+    name: 鬼屋（景点）
     wikiURL: https://danbooru.donmai.us/wiki_pages/haunted_house_(attraction).html
   minaminagi liberty academy school uniform:
-    name: minaminagi liberty academy school uniform
+    name: 南无自由学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/minaminagi_liberty_academy_school_uniform.html
   royal officer academy school uniform:
-    name: royal officer academy school uniform
+    name: 皇家军官学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/royal_officer_academy_school_uniform.html
   seio girls' academy school uniform:
-    name: seio girls' academy school uniform
+    name: 圣王女子学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/seio_girls'_academy_school_uniform.html
     alias:
     - seio girls' academy uniform
   avocado academy school uniform:
-    name: avocado academy school uniform
+    name: 鳄梨学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/avocado_academy_school_uniform.html
   academy city:
-    name: academy city
+    name: 学园都市
     wikiURL: https://danbooru.donmai.us/wiki_pages/academy_city.html
   brown tabard:
-    name: brown tabard
+    name: 棕色战袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_tabard.html
   hanegasaki academy school uniform:
-    name: hanegasaki academy school uniform
+    name: 羽崎学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanegasaki_academy_school_uniform.html
     alias:
     - hanegasaki academy uniform
   barrel shroud:
-    name: barrel shroud
+    name: 桶形护罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/barrel_shroud.html
   kitchen range:
-    name: kitchen range
+    name: 厨房范围
     wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen_range.html

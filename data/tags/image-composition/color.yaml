@@ -1,6 +1,6 @@
 name: 色彩
 category:
-  - 构图
+- 画面构图
 content:
   aqua theme:
     name: 水蓝色
@@ -24,7 +24,7 @@ content:
     name: 灰色
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_theme.html
     alias:
-      - gray theme
+    - gray theme
     image: 22f93dc0e71f14d59bc05227f1f7eab1cd6bfc6a781ff4638d5bf381f553c6d2
   orange theme:
     name: 橙色
@@ -69,18 +69,18 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/inverted_colors.html
   limited palette:
     alias:
-      - restricted palette
+    - restricted palette
     name: 色块风格
     wikiURL: https://danbooru.donmai.us/wiki_pages/limited_palette.html
   monochrome:
     name: 单色画
     wikiURL: https://danbooru.donmai.us/wiki_pages/monochrome.html
     alias:
-      - monochromatic
+    - monochromatic
   greyscale:
     alias:
-      - black and white
-      - grayscale
+    - black and white
+    - grayscale
     image: 974f2cfc50469b7141b547736492688b7619b22be9623999946fe9695bc97fc3
     name: 纯黑白色/黑白照片化/灰度
     wikiURL: https://danbooru.donmai.us/wiki_pages/greyscale.html
@@ -90,14 +90,14 @@ content:
     name: 有色角色与黑白背景
   partially colored:
     alias:
-      - partially monochrome
+    - partially monochrome
     name: 部分上色
     wikiURL: https://danbooru.donmai.us/wiki_pages/partially_colored.html
   muted color:
     name: 哑光
     wikiURL: https://danbooru.donmai.us/wiki_pages/muted_color.html
     alias:
-      - muted colors
+    - muted colors
   neon palette:
     name: 霓虹色彩
     wikiURL: https://danbooru.donmai.us/wiki_pages/neon_palette.html
@@ -105,7 +105,7 @@ content:
     name: 苍白的颜色
     wikiURL: https://danbooru.donmai.us/wiki_pages/pale_color.html
     alias:
-      - pale colors
+    - pale colors
   pastel colors:
     name: 柔和色彩
     wikiURL: https://danbooru.donmai.us/wiki_pages/pastel_colors.html
@@ -113,7 +113,7 @@ content:
     name: 彩虹
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow.html
     alias:
-      - rainbows
+    - rainbows
   rainbow order:
     name: 彩虹色序排列
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_order.html
@@ -132,6 +132,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/colorful.html
   spot color:
     alias:
-      - spot colors
+    - spot colors
     name: 黑白画中的少量颜色
     wikiURL: https://danbooru.donmai.us/wiki_pages/spot_color.html

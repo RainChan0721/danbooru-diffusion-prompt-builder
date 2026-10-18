@@ -1,7 +1,7 @@
 name: 肉类与海鲜
 category:
-  - 人文景观
-  - 食物
+- 人文
+- 食物
 content:
   bacon:
     name: 培根
@@ -10,12 +10,12 @@ content:
     name: 圆柱形带骨肉
     wikiURL: https://danbooru.donmai.us/wiki_pages/boned_meat.html
     alias:
-      - manga meat
+    - manga meat
   chicken:
     name: 鸡
     wikiURL: https://danbooru.donmai.us/wiki_pages/chicken.html
     alias:
-      - chickens
+    - chickens
     image: a0b27653bb82fd07eb20f858873c5d4b5e015c172cf44c659d05a85fca8482c1
   chicken leg:
     name: 鸡腿
@@ -34,13 +34,13 @@ content:
     name: 螃蟹
     wikiURL: https://danbooru.donmai.us/wiki_pages/crab.html
     alias:
-      - crabs
+    - crabs
     image: 3e1660505a3647c37ae6b79c195f910d3a8a23a482de396ab95b7c8f77cf33f5
   egg:
     name: 蛋
     wikiURL: https://danbooru.donmai.us/wiki_pages/egg.html
     alias:
-      - eggs
+    - eggs
     image: d54b5ad1913dcdb161afc430b40bffaed9825610ff574771dac93682ed4e5ee0
   broken egg:
     name: 破碎的蛋
@@ -49,13 +49,13 @@ content:
     name: 产卵
     wikiURL: https://danbooru.donmai.us/wiki_pages/egg_laying.html
     alias:
-      - oviposition
-      - egglaying
+    - oviposition
+    - egglaying
   egg yolk:
     name: 蛋黄
     wikiURL: https://danbooru.donmai.us/wiki_pages/egg_yolk.html
     alias:
-      - yolk
+    - yolk
     image: 9afa5afd95abf3eb631d5dfd4f2c74ad7c73d8225b5ab82c96fa1c701b1a8e4c
   eggshell:
     name: 蛋壳
@@ -67,7 +67,7 @@ content:
     name: 煎鸡蛋
     wikiURL: https://danbooru.donmai.us/wiki_pages/fried_egg.html
     alias:
-      - sunny side up egg
+    - sunny side up egg
     image: 20065de4766ef90cdc4341022d38c9f982804f5c77249e59aa4612ff89b9f03d
   century egg (food):
     name: 皮蛋
@@ -76,7 +76,7 @@ content:
     name: 水煮蛋
     wikiURL: https://danbooru.donmai.us/wiki_pages/hardboiled_egg.html
     alias:
-      - hard-boiled egg
+    - hard-boiled egg
     image: 7d1ca55384551b8e38fe9e3f0f6379035d40cc6f0a928f3923aa2597cd25a47d
   scrambled egg:
     name: 炒鸡蛋
@@ -98,9 +98,9 @@ content:
     name: 鱼骨
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_bone.html
     alias:
-      - fishbone
-      - fish bones
-      - fishbones
+    - fishbone
+    - fish bones
+    - fishbones
   sashimi:
     name: 生鱼片
     wikiURL: https://danbooru.donmai.us/wiki_pages/sashimi.html
@@ -144,7 +144,7 @@ content:
     name: 虾类
     wikiURL: https://danbooru.donmai.us/wiki_pages/shrimp.html
     alias:
-      - prawn
+    - prawn
   steak:
     name: 牛排
     wikiURL: https://danbooru.donmai.us/wiki_pages/steak.html
@@ -153,7 +153,7 @@ content:
     name: 章鱼状的香肠
     wikiURL: https://danbooru.donmai.us/wiki_pages/tako-san_wiener.html
     alias:
-      - octopus wiener
+    - octopus wiener
   kani-san wiener:
     name: 蟹状的香肠
     wikiURL: https://danbooru.donmai.us/wiki_pages/kani-san_wiener.html

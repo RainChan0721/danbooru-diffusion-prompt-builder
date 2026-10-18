@@ -1,0 +1,137 @@
+name: 人数与主体规模
+category:
+- 画面构图
+content:
+  multiple girls:
+    name: 多个女孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_girls.html
+    alias:
+    - /ngirls
+  multiple boys:
+    name: 多个男孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_boys.html
+    alias:
+    - /nboys
+  3girls:
+    name: 3个女性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/3girls.html
+    alias:
+    - 3girl
+  4girls:
+    name: 4个女性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/4girls.html
+    alias:
+    - 4girl
+  6+girls:
+    name: 6个以上的女性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/6+girls.html
+    alias:
+    - 6+girl
+    - 6girl
+    - 6girls
+    - 7girls
+    - 8girls
+  3boys:
+    name: 3个男性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/3boys.html
+    alias:
+    - 3boy
+  couple:
+    name: 情侣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/couple.html
+    alias:
+    - romance
+  5girls:
+    name: 5个女性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/5girls.html
+    alias:
+    - 5girl
+  4boys:
+    name: 4个男性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/4boys.html
+    alias:
+    - 4boy
+  multiple others:
+    name: 多个性别模糊的角色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_others.html
+  5boys:
+    name: 5个男性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/5boys.html
+    alias:
+    - 5boy
+  multiple persona:
+    name: 多重形象的角色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_persona.html
+    alias:
+    - quadruple persona
+    - quintuple persona
+    - triple persona
+  2others:
+    name: 2个非人类
+    wikiURL: https://danbooru.donmai.us/wiki_pages/2others.html
+  multiple moles:
+    name: 多颗痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_moles.html
+  3others:
+    name: 3其他
+    wikiURL: https://danbooru.donmai.us/wiki_pages/3others.html
+  multiple piercings:
+    name: 多个穿孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_piercings.html
+  multiple bracelets:
+    name: 多个手镯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_bracelets.html
+  multiple heads:
+    name: 多头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_heads.html
+    alias:
+    - extra heads
+  4others:
+    name: 其他4人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/4others.html
+  multiple torii:
+    name: 多个牌坊
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_torii.html
+  multiple riders:
+    name: 多人骑着车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_riders.html
+    alias:
+    - riding double
+  5others:
+    name: 5人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/5others.html
+  multiple monitors:
+    name: 多个显示器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_monitors.html
+  multiple halos:
+    name: 多重光晕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_halos.html
+  multiple fusions:
+    name: 多重融合
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_fusions.html
+  multiple style parody:
+    name: 风格拼贴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_style_parody.html
+    alias:
+    - style collage
+  multiple wielding:
+    name: 多持
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_wielding.html
+  multiple shikishi:
+    name: 多重式
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_shikishi.html
+  multiple pov:
+    name: multiple pov
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_pov.html
+  multiple tattoos:
+    name: multiple tattoos
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_tattoos.html
+  multiple tongues:
+    name: multiple tongues
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_tongues.html
+  multiple forms:
+    name: multiple forms
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_forms.html
+  multiple anklets:
+    name: multiple anklets
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_anklets.html

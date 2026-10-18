@@ -1,7 +1,7 @@
 name: 室外
 category:
-  - 人文景观
-  - 位置
+- 人文
+- 位置
 content:
   airfield:
     name: 飞机场
@@ -18,8 +18,8 @@ content:
     name: 旋转木马
     wikiURL: https://danbooru.donmai.us/wiki_pages/carousel.html
     alias:
-      - merry-go-round
-      - merry go round
+    - merry-go-round
+    - merry go round
     image: 6aac85b0f4fae2b086f3f773129dd4ddba3146b6366cbb1e5911ae3970c77d8f
   ferris wheel:
     name: 摩天轮
@@ -80,7 +80,7 @@ content:
     name: 墓地
     wikiURL: https://danbooru.donmai.us/wiki_pages/graveyard.html
     alias:
-      - cemetery
+    - cemetery
     image: 4c7863ac152abc6446a1a07d340b01efa1b10e75535460c8d2382aa58478f1d4
   jetty:
     name: 码头/栈桥
@@ -92,7 +92,7 @@ content:
     name: 稻田
     wikiURL: https://danbooru.donmai.us/wiki_pages/rice_paddy.html
     alias:
-      - rice field
+    - rice field
     image: 65f4809c0cff303462005c087a3c6c2a491f2c6a6f084a877f22b00fcd84df42
   wheat field:
     name: 麦田
@@ -105,13 +105,13 @@ content:
     name: 港口
     wikiURL: https://danbooru.donmai.us/wiki_pages/harbor.html
     alias:
-      - harbour
+    - harbour
     image: e903b041049c9cba838e9155f58dd66fc42ad61c09e9c1fb9d6cec8218f10327
   market:
     name: 市场
     wikiURL: https://danbooru.donmai.us/wiki_pages/market.html
     alias:
-      - marketplace
+    - marketplace
   market stall:
     name: 市场摊位
     wikiURL: https://danbooru.donmai.us/wiki_pages/market_stall.html
@@ -123,8 +123,8 @@ content:
     name: 电话亭
     wikiURL: https://danbooru.donmai.us/wiki_pages/phone_booth.html
     alias:
-      - phonebooth
-      - telephone booth
+    - phonebooth
+    - telephone booth
     image: 230126359e145c9ff8720ae06f95b052a8af213133824045088fde094b1ac260
   poolside:
     name: 泳池边
@@ -136,16 +136,16 @@ content:
     name: 铁轨
     wikiURL: https://danbooru.donmai.us/wiki_pages/railroad_tracks.html
     alias:
-      - train tracks
-      - railway tracks
-      - railroad
+    - train tracks
+    - railway tracks
+    - railroad
     image: d6f3a70ae310251907bb52ad7a6fa2fdb93ceb38d93d310d941c9a5b1ca968a6
   railroad crossing:
     name: 铁路道口
     wikiURL: https://danbooru.donmai.us/wiki_pages/railroad_crossing.html
     alias:
-      - railway crossing
-      - train crossing
+    - railway crossing
+    - train crossing
     image: fd0747a8a65ad6277e654869e514cbcb6bf1dcf9dfd2208fdf8edc14e6f1d156
   road:
     name: 路
@@ -158,8 +158,8 @@ content:
     name: 人行横道
     wikiURL: https://danbooru.donmai.us/wiki_pages/crosswalk.html
     alias:
-      - zebra crossing
-      - pedestrian crossing
+    - zebra crossing
+    - pedestrian crossing
   dirt road:
     name: 泥路
     wikiURL: https://danbooru.donmai.us/wiki_pages/dirt_road.html
@@ -189,7 +189,7 @@ content:
     name: 战壕
     wikiURL: https://danbooru.donmai.us/wiki_pages/trench.html
     alias:
-      - trenches
+    - trenches
   tunnel:
     name: 隧道
     image: 85cf2f276d3c511d23c17886d4d740aa06266890102cffcc7737828977cbb506
@@ -204,7 +204,7 @@ content:
     image: 3cf46bb04bc55f5d9b9f811f1c9b89d9e1516373413c5faeafb16ded5fa6b223
   paper lantern:
     alias:
-      - chinese lantern
+    - chinese lantern
     name: 灯笼
     wikiURL: https://danbooru.donmai.us/wiki_pages/paper_lantern.html
     image: ca7bebb09a22fe3775e345352f120afb6110a90dfcca64e379873897ed3c9190

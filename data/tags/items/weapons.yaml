@@ -168,7 +168,7 @@ content:
     alias:
     - grenades
   unworn helmet:
-    name: unworn helmet
+    name: 未佩戴的头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_helmet.html
     alias:
     - helmet off
@@ -213,7 +213,7 @@ content:
     name: 单手穿着护臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_gauntlet.html
   holstered:
-    name: holstered
+    name: 装在皮套里的
     wikiURL: https://danbooru.donmai.us/wiki_pages/holstered.html
     alias:
     - holstered weapon
@@ -245,7 +245,7 @@ content:
     - anti materiel rifle
     - anti-tank rifle
   breath weapon:
-    name: breath weapon
+    name: 喷吐武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/breath_weapon.html
   chainmail:
     name: 链甲
@@ -272,7 +272,7 @@ content:
     name: 多种武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_weapons.html
   scissor blade (kill la kill):
-    name: scissor blade (kill la kill)
+    name: 剪刀刀片（杀啦杀）
     wikiURL: https://danbooru.donmai.us/wiki_pages/scissor_blade_(kill_la_kill).html
     alias:
     - scissor blade
@@ -299,7 +299,7 @@ content:
     name: 多把剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_swords.html
   gun sling:
-    name: gun sling
+    name: 枪背带
     wikiURL: https://danbooru.donmai.us/wiki_pages/gun_sling.html
     alias:
     - sling
@@ -342,7 +342,7 @@ content:
     name: 浮动武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_weapon.html
   smoking barrel:
-    name: smoking barrel
+    name: 吸烟桶
     wikiURL: https://danbooru.donmai.us/wiki_pages/smoking_barrel.html
     alias:
     - smoking gun
@@ -368,7 +368,7 @@ content:
     alias:
     - bullet holes
   bo staff:
-    name: bo staff
+    name: 博职员
     wikiURL: https://danbooru.donmai.us/wiki_pages/bo_staff.html
   flaming sword:
     name: 燃烧的剑 炽热的剑 火剑 火焰剑
@@ -396,7 +396,7 @@ content:
     - kabuto
     - samurai helmet
   blue helmet:
-    name: blue helmet
+    name: 蓝盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_helmet.html
   saber (weapon):
     name: 军刀(武器)
@@ -432,7 +432,7 @@ content:
     alias:
     - wooden katana
   knife sheath:
-    name: knife sheath
+    name: 刀套
     wikiURL: https://danbooru.donmai.us/wiki_pages/knife_sheath.html
     alias:
     - knife holster
@@ -443,13 +443,13 @@ content:
     name: 新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_bridal_gauntlet.html
   red helmet:
-    name: red helmet
+    name: 红色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_helmet.html
   weapon behind back:
     name: 背后的武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_behind_back.html
   black helmet:
-    name: black helmet
+    name: 黑色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_helmet.html
   weapon case:
     name: 櫜
@@ -466,7 +466,7 @@ content:
     - ball and chain
     - meteor hammer
   shield on back:
-    name: shield on back
+    name: 背面有盾牌
     wikiURL: https://danbooru.donmai.us/wiki_pages/shield_on_back.html
   baton (weapon):
     name: 警棍警棍警棍
@@ -532,7 +532,7 @@ content:
     name: 白色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_helmet.html
   white bridal gauntlets:
-    name: white bridal gauntlets
+    name: 白色新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_bridal_gauntlets.html
   grenade pin:
     name: 手榴弹别针
@@ -573,7 +573,7 @@ content:
     alias:
     - nameless dagger
   staff of selection (fate):
-    name: staff of selection (fate)
+    name: 选拔人员（命运）
     wikiURL: https://danbooru.donmai.us/wiki_pages/staff_of_selection_(fate).html
   tank helmet:
     name: 坦克头盔
@@ -602,7 +602,7 @@ content:
     name: 欧亚树麻雀
     wikiURL: https://danbooru.donmai.us/wiki_pages/eurasian_tree_sparrow.html
   rpg (weapon):
-    name: rpg (weapon)
+    name: 角色扮演游戏（武器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/rpg_(weapon).html
     alias:
     - rpg
@@ -1266,7 +1266,7 @@ content:
     name: 导弹
     wikiURL: https://danbooru.donmai.us/wiki_pages/missiles.html
   gungnir (toaru):
-    name: gungnir（toaru）
+    name: 冈尼尔（托阿鲁）
     wikiURL: https://danbooru.donmai.us/wiki_pages/gungnir_(toaru).html
   sword of exorcism:
     name: 驱魔之剑
@@ -1435,67 +1435,67 @@ content:
     name: x枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/x-gun.html
   mortar (bowl):
-    name: mortar (bowl)
+    name: 砂浆（碗）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mortar_(bowl).html
     alias:
     - mortar
   grey armor:
-    name: grey armor
+    name: 灰色铠甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_armor.html
   shield module:
-    name: shield module
+    name: 屏蔽模块
     wikiURL: https://danbooru.donmai.us/wiki_pages/shield_module.html
     alias:
     - prosthetic shield
     - shield arm
   pink weapon:
-    name: pink weapon
+    name: 粉色武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_weapon.html
   crown bow:
-    name: crown bow
+    name: 皇冠弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/crown_bow.html
   slingshot (weapon):
-    name: slingshot (weapon)
+    name: 弹弓（武器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/slingshot_(weapon).html
     alias:
     - slingshot
   gununu (meme):
-    name: gununu (meme)
+    name: 古努努 (模因)
     wikiURL: https://danbooru.donmai.us/wiki_pages/gununu_(meme).html
     alias:
     - gumeme
     - gununu
   green helmet:
-    name: green helmet
+    name: 绿色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_helmet.html
   chest bow:
-    name: chest bow
+    name: 胸弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/chest_bow.html
   unworn armor:
-    name: unworn armor
+    name: 未磨损的盔甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_armor.html
     alias:
     - armor removed
   double finger gun:
-    name: double finger gun
+    name: 双指枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/double_finger_gun.html
   projectile trail:
-    name: projectile trail
+    name: 弹丸轨迹
     wikiURL: https://danbooru.donmai.us/wiki_pages/projectile_trail.html
     alias:
     - bullet trail
     - tracer fire
   wandenreich uniform:
-    name: wandenreich uniform
+    name: 万登帝国制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/wandenreich_uniform.html
   railgun (misaka mikoto):
-    name: railgun (misaka mikoto)
+    name: 超电磁炮（御坂美琴）
     wikiURL: https://danbooru.donmai.us/wiki_pages/railgun_(misaka_mikoto).html
   sword of st. catherine (fate):
-    name: sword of st. catherine (fate)
+    name: 圣剑凯瑟琳（命运）
     wikiURL: https://danbooru.donmai.us/wiki_pages/sword_of_st._catherine_(fate).html
   thigh sheath:
-    name: thigh sheath
+    name: 大腿鞘
     wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_sheath.html
   sig mcx:
     name: sig mcx
@@ -1504,172 +1504,172 @@ content:
     - sig sauer mcx
     - sig sauer mcx spear
   manually-operated mounted gun:
-    name: manually-operated mounted gun
+    name: 手动安装的枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/manually-operated_mounted_gun.html
   pink helmet:
-    name: pink helmet
+    name: 粉色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_helmet.html
   grey helmet:
-    name: grey helmet
+    name: 灰色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_helmet.html
   multicolored armor:
-    name: multicolored armor
+    name: 五彩铠甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_armor.html
   lactating into container:
-    name: lactating into container
+    name: 哺乳期进入容器
     wikiURL: https://danbooru.donmai.us/wiki_pages/lactating_into_container.html
     alias:
     - lactating into bottle
     - lactating into bowl
     - lactating into cup
   fn five-seven:
-    name: fn five-seven
+    name: fn 五七
     wikiURL: https://danbooru.donmai.us/wiki_pages/fn_five-seven.html
     alias:
     - five-seven (gun)
   ornate weapon:
-    name: ornate weapon
+    name: 华丽的武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/ornate_weapon.html
   rifle cartridge:
-    name: rifle cartridge
+    name: 步枪弹药筒
     wikiURL: https://danbooru.donmai.us/wiki_pages/rifle_cartridge.html
   repeating crossbow:
-    name: repeating crossbow
+    name: 连发弩
     wikiURL: https://danbooru.donmai.us/wiki_pages/repeating_crossbow.html
   sword in front of face:
-    name: sword in front of face
+    name: 剑当面
     wikiURL: https://danbooru.donmai.us/wiki_pages/sword_in_front_of_face.html
   face shield:
-    name: face shield
+    name: 面罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/face_shield.html
   arrow cross:
-    name: arrow cross
+    name: 箭头十字
     wikiURL: https://danbooru.donmai.us/wiki_pages/arrow_cross.html
     alias:
     - cross barby
   weapon formation:
-    name: weapon formation
+    name: 武器编队
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_formation.html
   armored trooper:
-    name: armored trooper
+    name: 装甲兵
     wikiURL: https://danbooru.donmai.us/wiki_pages/armored_trooper.html
   m60 (machine gun):
-    name: m60 (machine gun)
+    name: m60（机枪）
     wikiURL: https://danbooru.donmai.us/wiki_pages/m60_(machine_gun).html
   high-cut armor (persona):
-    name: high-cut armor (persona)
+    name: 高切铠甲（角色）
     wikiURL: https://danbooru.donmai.us/wiki_pages/high-cut_armor_(persona).html
   nameless axe-sword (fate):
-    name: nameless axe-sword (fate)
+    name: 无名斧剑（命运）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nameless_axe-sword_(fate).html
   borrowed weapon:
-    name: borrowed weapon
+    name: 借来的武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/borrowed_weapon.html
   double-sided axe:
-    name: double-sided axe
+    name: 双面斧
     wikiURL: https://danbooru.donmai.us/wiki_pages/double-sided_axe.html
   skin suit (stellar blade):
-    name: skin suit (stellar blade)
+    name: 皮肤套装（星刃）
     wikiURL: https://danbooru.donmai.us/wiki_pages/skin_suit_(stellar_blade).html
   bow button:
-    name: bow button
+    name: 蝴蝶结按钮
     wikiURL: https://danbooru.donmai.us/wiki_pages/bow_button.html
   hand on blade:
-    name: hand on blade
+    name: 手放在刀片上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_blade.html
   purple helmet:
-    name: purple helmet
+    name: 紫色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_helmet.html
   unworn bow:
-    name: unworn bow
+    name: 未磨损的弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_bow.html
     alias:
     - bow removed
   bullet earrings:
-    name: bullet earrings
+    name: 子弹耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/bullet_earrings.html
   hidden blade (assassin's creed):
-    name: hidden blade (assassin's creed)
+    name: 袖剑（刺客信条）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hidden_blade_(assassin's_creed).html
   sword mastery academy school uniform:
-    name: sword mastery academy school uniform
+    name: 剑术学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sword_mastery_academy_school_uniform.html
     alias:
     - sword mastery academy uniform
   golden sword:
-    name: golden sword
+    name: 金剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/golden_sword.html
   see-through bridal gauntlets:
-    name: see-through bridal gauntlets
+    name: 透明新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_bridal_gauntlets.html
   staff (ff10):
-    name: staff (ff10)
+    name: 工作人员 (ff10)
     wikiURL: https://danbooru.donmai.us/wiki_pages/staff_(ff10).html
   bladed tonfa:
-    name: bladed tonfa
+    name: 刀片汤法
     wikiURL: https://danbooru.donmai.us/wiki_pages/bladed_tonfa.html
   blood on armor:
-    name: blood on armor
+    name: 盔甲上有血
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_armor.html
   palutena bow (kid icarus):
-    name: palutena bow (kid icarus)
+    name: 帕卢特纳弓（小伊卡洛斯）
     wikiURL: https://danbooru.donmai.us/wiki_pages/palutena_bow_(kid_icarus).html
   escudo sword (rayearth):
-    name: escudo sword (rayearth)
+    name: 埃斯库多剑（雷阿斯）
     wikiURL: https://danbooru.donmai.us/wiki_pages/escudo_sword_(rayearth).html
   sword earrings:
-    name: sword earrings
+    name: 剑耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/sword_earrings.html
   dual arm cannons:
-    name: dual arm cannons
+    name: 双臂大炮
     wikiURL: https://danbooru.donmai.us/wiki_pages/dual_arm_cannons.html
   deku shield:
-    name: deku shield
+    name: 德库盾
     wikiURL: https://danbooru.donmai.us/wiki_pages/deku_shield.html
   brown helmet:
-    name: brown helmet
+    name: 棕色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_helmet.html
   musical staff print:
-    name: musical staff print
+    name: 音乐人员打印
     wikiURL: https://danbooru.donmai.us/wiki_pages/musical_staff_print.html
   bit (gundam):
-    name: bit (gundam)
+    name: 比特（高达）
     wikiURL: https://danbooru.donmai.us/wiki_pages/bit_(gundam).html
   yellow helmet:
-    name: yellow helmet
+    name: 黄色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_helmet.html
   on weapon:
-    name: on weapon
+    name: 在武器上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_weapon.html
   grenade pin in mouth:
-    name: grenade pin in mouth
+    name: 手榴弹销在嘴里
     wikiURL: https://danbooru.donmai.us/wiki_pages/grenade_pin_in_mouth.html
   purple bridal gauntlets:
-    name: purple bridal gauntlets
+    name: 紫色新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_bridal_gauntlets.html
   gold helmet:
-    name: gold helmet
+    name: 金头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_helmet.html
   weapon background:
-    name: weapon background
+    name: 武器背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_background.html
   gold bowtie:
-    name: gold bowtie
+    name: 金色领结
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_bowtie.html
   weapon between legs:
-    name: weapon between legs
+    name: 两腿之间的武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_between_legs.html
   staff of the scarlet sands (genshin impact):
-    name: staff of the scarlet sands (genshin impact)
+    name: 猩红沙之杖（原神冲击）
     wikiURL: https://danbooru.donmai.us/wiki_pages/staff_of_the_scarlet_sands_(genshin_impact).html
   red bridal gauntlets:
-    name: red bridal gauntlets
+    name: 红色新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_bridal_gauntlets.html
   standing on weapon:
-    name: standing on weapon
+    name: 站在武器上
     wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_weapon.html
   adaptive combat rifle:
-    name: adaptive combat rifle
+    name: 自适应战斗步枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/adaptive_combat_rifle.html
     alias:
     - bushmaster acr
@@ -1677,298 +1677,298 @@ content:
     - masada acr
     - remington acr
   armor under clothes:
-    name: armor under clothes
+    name: 衣服下的盔甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/armor_under_clothes.html
     alias:
     - clothes over armor
   gold bow:
-    name: gold bow
+    name: 金弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_bow.html
   holding toy gun:
-    name: holding toy gun
+    name: 拿着玩具枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_toy_gun.html
   rock cannon:
-    name: rock cannon
+    name: 岩石炮
     wikiURL: https://danbooru.donmai.us/wiki_pages/rock_cannon.html
   bow apron:
-    name: bow apron
+    name: 蝴蝶结围裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/bow_apron.html
   black gauntlets:
-    name: black gauntlets
+    name: 黑色护手
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_gauntlets.html
   pike (weapon):
-    name: pike (weapon)
+    name: 长矛（武器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/pike_(weapon).html
   planet diving suit (7th) (stellar blade):
-    name: planet diving suit (7th) (stellar blade)
+    name: 行星潜水服（七号）（星刃）
     wikiURL: https://danbooru.donmai.us/wiki_pages/planet_diving_suit_(7th)_(stellar_blade).html
   orange helmet:
-    name: orange helmet
+    name: 橙色头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_helmet.html
   elder spear:
-    name: elder spear
+    name: 长矛
     wikiURL: https://danbooru.donmai.us/wiki_pages/elder_spear.html
   roman armor:
-    name: roman armor
+    name: 罗马盔甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/roman_armor.html
   brown bridal gauntlets:
-    name: brown bridal gauntlets
+    name: 棕色新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_bridal_gauntlets.html
   elbow on thigh:
-    name: elbow on thigh
+    name: 肘部放在大腿上
     wikiURL: https://danbooru.donmai.us/wiki_pages/elbow_on_thigh.html
   elbow blush:
-    name: elbow blush
+    name: 肘部腮红
     wikiURL: https://danbooru.donmai.us/wiki_pages/elbow_blush.html
   knife hair ornament:
-    name: knife hair ornament
+    name: 刀发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/knife_hair_ornament.html
   beyblade (object):
-    name: beyblade (object)
+    name: 陀螺（物体）
     wikiURL: https://danbooru.donmai.us/wiki_pages/beyblade_(object).html
   gundam aerial slap (meme):
-    name: gundam aerial slap (meme)
+    name: 高达空中拍击（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/gundam_aerial_slap_(meme).html
   unworn hair bow:
-    name: unworn hair bow
+    name: 未佩戴过的发弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hair_bow.html
     alias:
     - hair bow removed
   magic bullet (e.g.o):
-    name: magic bullet (e.g.o)
+    name: 魔法子弹（例如o）
     wikiURL: https://danbooru.donmai.us/wiki_pages/magic_bullet_(e.g.o).html
   tenseiga (sword):
-    name: tenseiga (sword)
+    name: 转生剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/tenseiga_(sword).html
   obi bow:
-    name: obi bow
+    name: 腰带弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/obi_bow.html
   partisan (weapon):
-    name: partisan (weapon)
+    name: 党派（武器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/partisan_(weapon).html
   rainbow choker:
-    name: rainbow choker
+    name: 彩虹项圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_choker.html
   planted gun:
-    name: planted gun
+    name: 种植枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/planted_gun.html
   butler bowing:
-    name: butler bowing
+    name: 管家鞠躬
     wikiURL: https://danbooru.donmai.us/wiki_pages/butler_bowing.html
   heavy spear (evangelion):
-    name: heavy spear (evangelion)
+    name: 重矛（新世纪福音战士）
     wikiURL: https://danbooru.donmai.us/wiki_pages/heavy_spear_(evangelion).html
   power armor (fallout):
-    name: power armor (fallout)
+    name: 动力装甲（辐射）
     wikiURL: https://danbooru.donmai.us/wiki_pages/power_armor_(fallout).html
   twin blades:
-    name: twin blades
+    name: 双刀片
     wikiURL: https://danbooru.donmai.us/wiki_pages/twin_blades.html
   missile trail:
-    name: missile trail
+    name: 导弹踪迹
     wikiURL: https://danbooru.donmai.us/wiki_pages/missile_trail.html
   thigh armor:
-    name: thigh armor
+    name: 大腿铠
     wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_armor.html
   disembowelment:
-    name: disembowelment
+    name: 开膛破肚
     wikiURL: https://danbooru.donmai.us/wiki_pages/disembowelment.html
   kite shield:
-    name: kite shield
+    name: 风筝盾
     wikiURL: https://danbooru.donmai.us/wiki_pages/kite_shield.html
   handgun cartridge:
-    name: handgun cartridge
+    name: 手枪弹药筒
     wikiURL: https://danbooru.donmai.us/wiki_pages/handgun_cartridge.html
   energy bullet:
-    name: energy bullet
+    name: 能量子弹
     wikiURL: https://danbooru.donmai.us/wiki_pages/energy_bullet.html
   grim reaper (weapon) (fate):
-    name: grim reaper (weapon) (fate)
+    name: 死神（武器）（命运）
     wikiURL: https://danbooru.donmai.us/wiki_pages/grim_reaper_(weapon)_(fate).html
   narrow hips:
-    name: narrow hips
+    name: 臀部狭窄
     wikiURL: https://danbooru.donmai.us/wiki_pages/narrow_hips.html
   laser cannon:
-    name: laser cannon
+    name: 激光炮
     wikiURL: https://danbooru.donmai.us/wiki_pages/laser_cannon.html
   fishnet bridal gauntlets:
-    name: fishnet bridal gauntlets
+    name: 渔网新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_bridal_gauntlets.html
   terminator armor:
-    name: terminator armor
+    name: 终结者装甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/terminator_armor.html
   shield hair ornament:
-    name: shield hair ornament
+    name: 盾牌发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/shield_hair_ornament.html
   bone armor:
-    name: bone armor
+    name: 骨甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/bone_armor.html
   spinning weapon:
-    name: spinning weapon
+    name: 旋转武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/spinning_weapon.html
   swordstaff:
-    name: swordstaff
+    name: 剑杖
     wikiURL: https://danbooru.donmai.us/wiki_pages/swordstaff.html
   rainbow hairband:
-    name: rainbow hairband
+    name: 彩虹发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_hairband.html
   sword to throat:
-    name: sword to throat
+    name: 剑抵喉咙
     wikiURL: https://danbooru.donmai.us/wiki_pages/sword_to_throat.html
   wing-shaped bow:
-    name: wing-shaped bow
+    name: 翼形弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/wing-shaped_bow.html
   cleaning gun:
-    name: cleaning gun
+    name: 清洁枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/cleaning_gun.html
   kokiri sword:
-    name: kokiri sword
+    name: 科切里剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/kokiri_sword.html
   altyn helmet:
-    name: altyn helmet
+    name: 阿尔金头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/altyn_helmet.html
   holding baton (weapon):
-    name: holding baton (weapon)
+    name: 拿着警棍（武器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_baton_(weapon).html
   phrygian helmet:
-    name: phrygian helmet
+    name: 弗里吉亚头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/phrygian_helmet.html
   layered armor:
-    name: layered armor
+    name: 分层装甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/layered_armor.html
   chain weapon:
-    name: chain weapon
+    name: 连锁武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/chain_weapon.html
   pink bridal gauntlets:
-    name: pink bridal gauntlets
+    name: 粉色新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_bridal_gauntlets.html
   weapon on wall:
-    name: weapon on wall
+    name: 墙上的武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_on_wall.html
   holding blade:
-    name: holding blade
+    name: 握持刀片
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_blade.html
   blue bridal gauntlets:
-    name: blue bridal gauntlets
+    name: 蓝色新娘手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_bridal_gauntlets.html
   arm bow:
-    name: arm bow
+    name: 臂弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_bow.html
   tail armor:
-    name: tail armor
+    name: 尾甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_armor.html
   two-sided bow:
-    name: two-sided bow
+    name: 两侧弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_bow.html
   sash bow:
-    name: sash bow
+    name: 腰带蝴蝶结
     wikiURL: https://danbooru.donmai.us/wiki_pages/sash_bow.html
   knee armor:
-    name: knee armor
+    name: 护膝
     wikiURL: https://danbooru.donmai.us/wiki_pages/knee_armor.html
   gingham bow:
-    name: gingham bow
+    name: 方格布蝴蝶结
     wikiURL: https://danbooru.donmai.us/wiki_pages/gingham_bow.html
   royal greatsword (elden ring):
-    name: royal greatsword (elden ring)
+    name: 皇家巨剑（埃尔登戒指）
     wikiURL: https://danbooru.donmai.us/wiki_pages/royal_greatsword_(elden_ring).html
   see-through bow:
-    name: see-through bow
+    name: 透明弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_bow.html
   standing on sword:
-    name: standing on sword
+    name: 站在剑上
     wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_sword.html
   bubble gun:
-    name: bubble gun
+    name: 泡泡枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_gun.html
   double bladed lightsaber:
-    name: double bladed lightsaber
+    name: 双刃光剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/double_bladed_lightsaber.html
   floral bow:
-    name: floral bow
+    name: 花蝴蝶结
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_bow.html
     alias:
     - gift bow
   elbow cuffs:
-    name: elbow cuffs
+    name: 肘部袖口
     wikiURL: https://danbooru.donmai.us/wiki_pages/elbow_cuffs.html
   smoke grenade launcher:
-    name: smoke grenade launcher
+    name: 烟雾弹发射器
     wikiURL: https://danbooru.donmai.us/wiki_pages/smoke_grenade_launcher.html
   moonlight butterfly (gundam):
-    name: moonlight butterfly (gundam)
+    name: 月光蝴蝶（高达）
     wikiURL: https://danbooru.donmai.us/wiki_pages/moonlight_butterfly_(gundam).html
   wand in head:
-    name: wand in head
+    name: 头上插着魔杖
     wikiURL: https://danbooru.donmai.us/wiki_pages/wand_in_head.html
   foot on weapon:
-    name: foot on weapon
+    name: 脚踩武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_on_weapon.html
   leg blade:
-    name: leg blade
+    name: 腿刀片
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_blade.html
   ojigi (bowing):
-    name: ojigi (bowing)
+    name: 欧吉吉（鞠躬）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ojigi_(bowing).html
   mandalorian helmet:
-    name: mandalorian helmet
+    name: 曼达洛头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/mandalorian_helmet.html
   long sword (sao):
-    name: long sword (sao)
+    name: 长剑（sao）
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_sword_(sao).html
   rainbow feather (pokemon):
-    name: rainbow feather (pokemon)
+    name: 彩虹羽毛（口袋妖怪）
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_feather_(pokemon).html
     alias:
     - rainbow wing (pokemon)
   planted shield:
-    name: planted shield
+    name: 种植盾
     wikiURL: https://danbooru.donmai.us/wiki_pages/planted_shield.html
   melee weapon (warframe):
-    name: melee weapon (warframe)
+    name: 近战武器（warframe）
     wikiURL: https://danbooru.donmai.us/wiki_pages/melee_weapon_(warframe).html
   unconventional weapon:
-    name: unconventional weapon
+    name: 非常规武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/unconventional_weapon.html
   plasma pistol:
-    name: plasma pistol
+    name: 等离子手枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/plasma_pistol.html
   swinging weapon:
-    name: swinging weapon
+    name: 摆动武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/swinging_weapon.html
   spiked shield:
-    name: spiked shield
+    name: 尖刺盾
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_shield.html
   zaft (gundam):
-    name: zaft (gundam)
+    name: 扎夫特（高达）
     wikiURL: https://danbooru.donmai.us/wiki_pages/zaft_(gundam).html
   bardiche (weapon):
-    name: bardiche (weapon)
+    name: 巴迪什（武器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/bardiche_(weapon).html
   bow on wing:
-    name: bow on wing
+    name: 弓在翼上
     wikiURL: https://danbooru.donmai.us/wiki_pages/bow_on_wing.html
   gunjou gakuen school uniform:
-    name: gunjou gakuen school uniform
+    name: 群城学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/gunjou_gakuen_school_uniform.html
   umbrella sword:
-    name: umbrella sword
+    name: 伞剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/umbrella_sword.html
   ultra sword:
-    name: ultra sword
+    name: 超剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/ultra_sword.html
   shield wall:
-    name: shield wall
+    name: 盾墙
     wikiURL: https://danbooru.donmai.us/wiki_pages/shield_wall.html
   twin blades of levianta:
-    name: twin blades of levianta
+    name: 利维安塔双刃
     wikiURL: https://danbooru.donmai.us/wiki_pages/twin_blades_of_levianta.html
   mandalorian armor:
-    name: mandalorian armor
+    name: 曼达洛盔甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/mandalorian_armor.html
   weapon rack:
-    name: weapon rack
+    name: 武器架
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_rack.html
   brigandine (armor):
-    name: brigandine (armor)
+    name: 镶甲（盔甲）
     wikiURL: https://danbooru.donmai.us/wiki_pages/brigandine_(armor).html

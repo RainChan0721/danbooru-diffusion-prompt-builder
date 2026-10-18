@@ -1,6 +1,6 @@
 name: 画风
 category:
-  - 构图
+- 画面构图
 content:
   abstract:
     name: 抽象
@@ -9,7 +9,7 @@ content:
     name: 亚克力画风
     wikiURL: https://danbooru.donmai.us/wiki_pages/acrylic_paint_(medium).html
     alias:
-      - acrylic paint
+    - acrylic paint
   airbrush (medium):
     name: 喷枪
   alphonse mucha:
@@ -24,13 +24,13 @@ content:
     name: 新艺术
     wikiURL: https://danbooru.donmai.us/wiki_pages/art_nouveau.html
     alias:
-      - alphonse mucha (style)
-      - mucha style
+    - alphonse mucha (style)
+    - mucha style
   ballpoint pen (medium):
     name: 圆珠笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/ballpoint_pen_(medium).html
     alias:
-      - ballpoint pen
+    - ballpoint pen
   book cover (medium):
     name: 书本封面
   brush (medium):
@@ -64,8 +64,8 @@ content:
     name: 彩色铅笔画
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_pencil_(medium).html
     alias:
-      - pencil crayon (medium)
-      - coloured pencil (medium)
+    - pencil crayon (medium)
+    - coloured pencil (medium)
     image: ff2b3fcbe3edcbb8b987b7785087b48abd7270ad67c58bfb94f16150d723b0ac
   cosplay:
     image: 0b0db2c52bd954418ddf13d59a0e60f4f6ff52f45ac8ec628352bb84bb927253
@@ -89,7 +89,7 @@ content:
     name: 抱枕
     wikiURL: https://danbooru.donmai.us/wiki_pages/dakimakura.html
     alias:
-      - dakimakura
+    - dakimakura
   disc (medium):
     name: 碟片
   expression chart:
@@ -113,13 +113,13 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/flame_painter.html
   flat color:
     alias:
-      - flat colors
+    - flat colors
     image: d6e18fb89537efd6168500a62ea5562f3996f04f153d0d96f6b6da6988281958
     name: 平涂风格
     wikiURL: https://danbooru.donmai.us/wiki_pages/flat_color.html
   fourth wall:
     alias:
-      - 4th wall
+    - 4th wall
     name: 虚实穿插/现实感/次元壁
     wikiURL: https://danbooru.donmai.us/wiki_pages/fourth_wall.html
   fudepen (medium):
@@ -134,12 +134,12 @@ content:
     name: 水粉
     wikiURL: https://danbooru.donmai.us/wiki_pages/gouache_(medium).html
     alias:
-      - gouache
+    - gouache
   graffiti (medium):
     name: 涂鸦
   graphite (medium):
     alias:
-      - pencil sketch
+    - pencil sketch
     image: d058d25501c06e68bfc9c0b6f658718fd90fe4f7817fb5b7b24df4dc968bbd7d
     name: 铅笔画/炭笔画
     wikiURL: https://danbooru.donmai.us/wiki_pages/graphite_%28medium%29
@@ -161,7 +161,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/ligne_claire.html
   marker (medium):
     alias:
-      - copics
+    - copics
     image: 80ef4246571d4eac3f366029e5c4bcd5a281820a3838777139c58fe009fe92f6
     name: 马克笔风格
     wikiURL: https://danbooru.donmai.us/wiki_pages/marker_%28medium%29
@@ -169,7 +169,7 @@ content:
     name: 毫厘笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/millipen_(medium).html
     alias:
-      - millipen
+    - millipen
   minimalism:
     name: 极简主义
     wikiURL: https://danbooru.donmai.us/wiki_pages/minimalism.html
@@ -180,9 +180,9 @@ content:
     name: 蘸水笔画风
     wikiURL: https://danbooru.donmai.us/wiki_pages/nib_pen_(medium).html
     alias:
-      - tsukepen
-      - nib pen
-      - fountain pen (medium)
+    - tsukepen
+    - nib pen
+    - fountain pen (medium)
   nihonga:
     name: 日本画
     wikiURL: https://danbooru.donmai.us/wiki_pages/nihonga.html
@@ -191,12 +191,12 @@ content:
     name: 油画风格
     wikiURL: https://danbooru.donmai.us/wiki_pages/oil_painting_(medium).html
     alias:
-      - oil painting
+    - oil painting
   painting (medium):
     name: 传统绘图工具
     wikiURL: https://danbooru.donmai.us/wiki_pages/painting_(medium).html
     alias:
-      - paint (medium)
+    - paint (medium)
   pastel (medium):
     name: 像粉笔蜡笔作画的
     wikiURL: https://danbooru.donmai.us/wiki_pages/pastel_(medium).html
@@ -222,14 +222,14 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/realistic.html
   retro artstyle:
     alias:
-      - oldschool
+    - oldschool
     image: 16650bb494fa45887e9945309ef8944aed624174e280c7cea6b9fcc58e54132d
     name: 赛璐璐/复古艺术
     wikiURL: https://danbooru.donmai.us/wiki_pages/retro_artstyle.html
   sketch:
     alias:
-      - rough sketch
-      - rough
+    - rough sketch
+    - rough
     image: 5c2a80b8ac6a6b6453fd605180837118bd539fd04ce5ce064535b36375f99c5d
     name: 草图
     wikiURL: https://danbooru.donmai.us/wiki_pages/sketch.html
@@ -252,7 +252,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/theatre_(medium).html
   traditional media:
     alias:
-      - handdrawn
+    - handdrawn
     image: 819146eda0d5e2ff4afe26980d2828919ab4df694d9af76f15bf34823a20f395
     name: 手绘
     wikiURL: https://danbooru.donmai.us/wiki_pages/traditional_media.html
@@ -260,13 +260,13 @@ content:
     name: 浮世绘
     wikiURL: https://danbooru.donmai.us/wiki_pages/ukiyo-e.html
     alias:
-      - ukiyoe
+    - ukiyoe
   unfinished:
     name: 未完成的
     wikiURL: https://danbooru.donmai.us/wiki_pages/unfinished.html
     alias:
-      - work in progress
-      - wip
+    - work in progress
+    - wip
   variations:
     name: (变装、变化、变色、成长)对比图
     wikiURL: https://danbooru.donmai.us/wiki_pages/variations.html
@@ -274,14 +274,14 @@ content:
     name: 和纸胶带
   watercolor (medium):
     alias:
-      - water pastel color
-      - watercolour
+    - water pastel color
+    - watercolour
     image: 8e6a0136146e3c9d70214a6c2ad2a4084d7118c91ac3c81ffde6834dffc2501e
     name: 水彩
     wikiURL: https://danbooru.donmai.us/wiki_pages/watercolor.html
   watercolor pencil (medium):
     alias:
-      - watercolour pencil
+    - watercolour pencil
     image: 46aa5f9823a7ac2d706f13c74eaa6fe01f55dd8ed899919e737d023a04fba824
     name: 彩铅
     wikiURL: https://danbooru.donmai.us/wiki_pages/watercolor_pencil_(medium).html

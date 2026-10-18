@@ -1,11 +1,12 @@
 name: 艺术破格
-category: []
+category:
+- 画面构图
 content:
   animalization:
     name: 动物化
     wikiURL: https://danbooru.donmai.us/wiki_pages/animalization.html
     alias:
-      - animalisation
+    - animalisation
     image: c4e9b8837b2c4d49ca6a0a24d0250fa5e3fa5c321612d46c332e7252f8e6e052
   foodification:
     name: 食物化
@@ -31,7 +32,7 @@ content:
     name: 拟人化
     wikiURL: https://danbooru.donmai.us/wiki_pages/personification.html
     alias:
-      - anthropomorphism
+    - anthropomorphism
   slimification:
     name: 史莱姆化
     wikiURL: https://danbooru.donmai.us/wiki_pages/slimification.html
@@ -46,56 +47,56 @@ content:
     name: 原设服装改编
     wikiURL: https://danbooru.donmai.us/wiki_pages/adapted_costume.html
     alias:
-      - adapted outfit
+    - adapted outfit
   alternate costume:
     name: 角色换装
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_costume.html
     alias:
-      - alternative costume
-      - alternate outfit
+    - alternative costume
+    - alternate outfit
   alternate headwear:
     name: 与原设不同头饰变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_headwear.html
     alias:
-      - alternative hat
-      - alternate hat
-      - alternative headwear
+    - alternative hat
+    - alternate hat
+    - alternative headwear
   alternate weapon:
     name: 与原设不同武器变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_weapon.html
     alias:
-      - alternative weapon
+    - alternative weapon
   headwear switch:
     name: 头饰互换
     wikiURL: https://danbooru.donmai.us/wiki_pages/headwear_switch.html
     alias:
-      - hat switch
+    - hat switch
   no eyewear:
     name: 去掉了(原设有的)眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_eyewear.html
     alias:
-      - no glasses
+    - no glasses
   no headwear:
     name: 去掉了(原设有的)头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_headwear.html
     alias:
-      - no bandana
-      - no helmet
-      - no hat
-      - hatless
-      - hat-less
+    - no bandana
+    - no helmet
+    - no hat
+    - hatless
+    - hat-less
   costume switch:
     name: 服饰互换
     wikiURL: https://danbooru.donmai.us/wiki_pages/costume_switch.html
     alias:
-      - exchanging clothes
-      - costume swap
-      - outfit switch
+    - exchanging clothes
+    - costume swap
+    - outfit switch
   contemporary:
     name: 现代改编
     wikiURL: https://danbooru.donmai.us/wiki_pages/contemporary.html
     alias:
-      - modern clothing
+    - modern clothing
   enmaided:
     name: 女仆装
     wikiURL: https://danbooru.donmai.us/wiki_pages/enmaided.html
@@ -109,7 +110,7 @@ content:
     name: 与原设不同翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_wings.html
     alias:
-      - alternative wings
+    - alternative wings
   alternate skin color:
     name: 与原设不同肤色变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_skin_color.html
@@ -139,21 +140,21 @@ content:
     name: 与原设不同发色变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_hair_color.html
     alias:
-      - alternative hair color
-      - alternate haircolor
+    - alternative hair color
+    - alternate haircolor
   alternate hairstyle:
     name: 与原设不同发型变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_hairstyle.html
     alias:
-      - alternative hairstyle
-      - alternate hair style
-      - alternative hair style
+    - alternative hairstyle
+    - alternate hair style
+    - alternative hair style
   hair down:
     name: 披下来的头发
     image: c9dddfa79465f76c6d488f59f7247712f5b28c044165a96e2efe948d33401c2d
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_down.html
     alias:
-      - hairdown
+    - hairdown
   hair up:
     name: 盘起来的头发
     image: 4a865befbea040c4a3952add31c4d4413c49d7bbdfe7b96363ef235d19023dfc
@@ -162,12 +163,12 @@ content:
     name: 与原设不同头发长度变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_hair_length.html
     alias:
-      - alternative hair length
+    - alternative hair length
   alternate eye color:
     name: 与原设不同瞳色
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_eye_color.html
     alias:
-      - alternative eye color
+    - alternative eye color
   unusually open eyes:
     name: (与原设不同)睁眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/unusually_open_eyes.html
@@ -178,7 +179,7 @@ content:
     name: 人格替换
     wikiURL: https://danbooru.donmai.us/wiki_pages/personality_switch.html
     alias:
-      - personality swap
+    - personality swap
   role reversal:
     name: 角色转换
     wikiURL: https://danbooru.donmai.us/wiki_pages/role_reversal.html
@@ -193,13 +194,13 @@ content:
     name: 异色
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_color.html
     alias:
-      - alternate colors
-      - alternative color
+    - alternate colors
+    - alternative color
   alternate element:
     name: 与原设不同元素
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_element.html
     alias:
-      - alternative element
+    - alternative element
   palette swap:
     name: 色调互换
     wikiURL: https://danbooru.donmai.us/wiki_pages/palette_swap.html
@@ -216,13 +217,13 @@ content:
     name: 年龄减少
     wikiURL: https://danbooru.donmai.us/wiki_pages/aged_down.html
     alias:
-      - younger
-      - de-aged
+    - younger
+    - de-aged
   aged up:
     name: 年龄增加
     wikiURL: https://danbooru.donmai.us/wiki_pages/aged_up.html
     alias:
-      - older
+    - older
   character doll:
     name: 角色公仔
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_doll.html
@@ -233,10 +234,10 @@ content:
     name: 性转
     wikiURL: https://danbooru.donmai.us/wiki_pages/genderswap.html
     alias:
-      - crossgender
-      - genderbend
-      - sex change
-      - rule 63
+    - crossgender
+    - genderbend
+    - sex change
+    - rule 63
   genderswap (mtf):
     name: 女体化
     wikiURL: https://danbooru.donmai.us/wiki_pages/genderswap_(mtf).html
@@ -250,4 +251,4 @@ content:
     name: 异世界
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_universe.html
     alias:
-      - what if
+    - what if

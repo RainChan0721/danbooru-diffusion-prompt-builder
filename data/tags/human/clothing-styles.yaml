@@ -1,6 +1,6 @@
 name: 服饰与装扮风格
 category:
-- 人类
+- 人物
 content:
   sneakers:
     name: 运动鞋
@@ -24,14 +24,14 @@ content:
     alias:
     - kimono sleeve ties
   unworn clothes:
-    name: unworn clothes
+    name: 未穿过的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_clothes.html
     alias:
     - clothes off
     - clothes removed
     - undressed
   unconventional maid:
-    name: unconventional maid
+    name: 非传统女佣
     wikiURL: https://danbooru.donmai.us/wiki_pages/unconventional_maid.html
   reverse outfit:
     name: 对原款服装反向使用布料
@@ -40,7 +40,7 @@ content:
     name: 侧面没有布料的服饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_outfit.html
   matching outfits:
-    name: matching outfits
+    name: 搭配服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/matching_outfits.html
     alias:
     - matching outfit
@@ -61,10 +61,10 @@ content:
     name: 摔角服
     wikiURL: https://danbooru.donmai.us/wiki_pages/wrestling_outfit.html
   millennium cheerleader outfit (blue archive):
-    name: millennium cheerleader outfit (blue archive)
+    name: 千禧啦啦队服装（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/millennium_cheerleader_outfit_(blue_archive).html
   male maid:
-    name: male maid
+    name: 男女仆
     wikiURL: https://danbooru.donmai.us/wiki_pages/male_maid.html
   chest of drawers:
     name: 抽屉
@@ -93,7 +93,7 @@ content:
     alias:
     - souvenir jacket
   jersey maid:
-    name: jersey maid
+    name: 泽西女仆
     wikiURL: https://danbooru.donmai.us/wiki_pages/jersey_maid.html
   rash guard:
     name: 泳衣
@@ -101,7 +101,7 @@ content:
     alias:
     - swim shirt
   frontless outfit:
-    name: frontless outfit
+    name: 无胸装
     wikiURL: https://danbooru.donmai.us/wiki_pages/frontless_outfit.html
   victorian maid:
     name: 维多利亚女佣
@@ -171,199 +171,199 @@ content:
     alias:
     - maid fairy tale
   glove cutout:
-    name: glove cutout
+    name: 手套镂空
     wikiURL: https://danbooru.donmai.us/wiki_pages/glove_cutout.html
     alias:
     - cutout gloves
   fold-over gloves:
-    name: fold-over gloves
+    name: 折叠手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fold-over_gloves.html
   no cape:
-    name: no cape
+    name: 没有斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_cape.html
     alias:
     - no capelet
     - no cloak
   putting on footwear:
-    name: putting on footwear
+    name: 穿鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/putting_on_footwear.html
     alias:
     - putting on boots
     - putting on shoes
   backless shirt:
-    name: backless shirt
+    name: 露背衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/backless_shirt.html
   sweater guard:
-    name: sweater guard
+    name: 毛衣护卫
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_guard.html
   shirt partially removed:
-    name: shirt partially removed
+    name: 衬衫部分脱掉
     wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_partially_removed.html
   unworn kimono:
-    name: unworn kimono
+    name: 未穿过的和服
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_kimono.html
     alias:
     - kimono removed
   jester costume:
-    name: jester costume
+    name: 小丑服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/jester_costume.html
   living doll uniform:
-    name: living doll uniform
+    name: 活体娃娃制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/living_doll_uniform.html
   unofficial precure costume:
-    name: unofficial precure costume
+    name: 非官方的光之美少女服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/unofficial_precure_costume.html
   argyle socks:
-    name: argyle socks
+    name: 菱形图案袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_socks.html
   see-through bikini:
-    name: see-through bikini
+    name: 透视比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_bikini.html
   red slingshot swimsuit:
-    name: red slingshot swimsuit
+    name: 红色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_slingshot_swimsuit.html
   jacket over hoodie:
-    name: jacket over hoodie
+    name: 外套套在连帽衫上
     wikiURL: https://danbooru.donmai.us/wiki_pages/jacket_over_hoodie.html
   black headdress:
-    name: black headdress
+    name: 黑色头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_headdress.html
   feather coat:
-    name: feather coat
+    name: 羽毛外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/feather_coat.html
   holding unworn skirt:
-    name: holding unworn skirt
+    name: 拿着未穿过的裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_unworn_skirt.html
     alias:
     - holding skirt
   glitter dress:
-    name: glitter dress
+    name: 闪光连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/glitter_dress.html
   holding unworn dress:
-    name: holding unworn dress
+    name: 拿着未穿过的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_unworn_dress.html
     alias:
     - holding dress
   swimsuit hanger:
-    name: swimsuit hanger
+    name: 泳衣架
     wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_hanger.html
   akademiya uniform:
-    name: akademiya uniform
+    name: 学院制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/akademiya_uniform.html
   blue slingshot swimsuit:
-    name: blue slingshot swimsuit
+    name: 蓝色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_slingshot_swimsuit.html
   asymmetrical dress:
-    name: asymmetrical dress
+    name: 不对称连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_dress.html
   two-tone capelet:
-    name: two-tone capelet
+    name: 双色披肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_capelet.html
   shirt under sweater:
-    name: shirt under sweater
+    name: 毛衣下面的衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_under_sweater.html
   two-sided gloves:
-    name: two-sided gloves
+    name: 双面手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_gloves.html
   untied bikini bottom:
-    name: untied bikini bottom
+    name: 解开的比基尼泳裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/untied_bikini_bottom.html
   zaft uniform:
-    name: zaft uniform
+    name: 扎夫特制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/zaft_uniform.html
   cross-laced one-piece swimsuit:
-    name: cross-laced one-piece swimsuit
+    name: 交叉系带连体泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_one-piece_swimsuit.html
   pants lift:
-    name: pants lift
+    name: 裤子提升
     wikiURL: https://danbooru.donmai.us/wiki_pages/pants_lift.html
   see-through skirt layer:
-    name: see-through skirt layer
+    name: 透视裙层
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_skirt_layer.html
   purple slingshot swimsuit:
-    name: purple slingshot swimsuit
+    name: 紫色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_slingshot_swimsuit.html
   unofficial sailor senshi uniform:
-    name: unofficial sailor senshi uniform
+    name: 非官方水手森士制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/unofficial_sailor_senshi_uniform.html
     alias:
     - sailor senshi costume
   two-tone socks:
-    name: two-tone socks
+    name: 双色袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_socks.html
   wing cape:
-    name: wing cape
+    name: 翼斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/wing_cape.html
   tuxedo shirt:
-    name: tuxedo shirt
+    name: 燕尾服衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/tuxedo_shirt.html
   unworn sweater:
-    name: unworn sweater
+    name: 未穿过的毛衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_sweater.html
     alias:
     - sweater removed
   tracen winter coat:
-    name: tracen winter coat
+    name: 特拉森冬季外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/tracen_winter_coat.html
   g-suit:
-    name: g-suit
+    name: 重力服
     wikiURL: https://danbooru.donmai.us/wiki_pages/g-suit.html
   uniform series (idolmaster):
-    name: uniform series (idolmaster)
+    name: 制服系列（偶像大师）
     wikiURL: https://danbooru.donmai.us/wiki_pages/uniform_series_(idolmaster).html
   honnoji academy uniform:
-    name: honnoji academy uniform
+    name: 本能寺学园制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/honnoji_academy_uniform.html
   hololive summer 2022 swimsuit:
-    name: hololive summer 2022 swimsuit
+    name: Hololive 2022 年夏季泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/hololive_summer_2022_swimsuit.html
   mixed maids:
-    name: mixed maids
+    name: 混合女仆
     wikiURL: https://danbooru.donmai.us/wiki_pages/mixed_maids.html
   sweater under shirt:
-    name: sweater under shirt
+    name: 衬衫下的毛衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_under_shirt.html
   hebijo academy uniform:
-    name: hebijo academy uniform
+    name: 边城学园制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hebijo_academy_uniform.html
   mismatched socks:
-    name: mismatched socks
+    name: 不匹配的袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_socks.html
   santa capelet:
-    name: santa capelet
+    name: 圣卡普莱特
     wikiURL: https://danbooru.donmai.us/wiki_pages/santa_capelet.html
   see-through dress layer:
-    name: see-through dress layer
+    name: 透视连衣裙层
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_dress_layer.html
   quilted jacket:
-    name: quilted jacket
+    name: 绗缝夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/quilted_jacket.html
   ooarai volleyball uniform:
-    name: ooarai volleyball uniform
+    name: 大洗排球服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ooarai_volleyball_uniform.html
   floral print shirt:
-    name: floral print shirt
+    name: 花卉印花衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_shirt.html
   kessoku band t-shirt:
-    name: kessoku band t-shirt
+    name: kessoku 乐队 T 恤
     wikiURL: https://danbooru.donmai.us/wiki_pages/kessoku_band_t-shirt.html
   polished shoes:
-    name: polished shoes
+    name: 擦亮的鞋子
     wikiURL: https://danbooru.donmai.us/wiki_pages/polished_shoes.html
   mikumo squad's uniform:
-    name: mikumo squad's uniform
+    name: 三云小队制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/mikumo_squad's_uniform.html
   pink slingshot swimsuit:
-    name: pink slingshot swimsuit
+    name: 粉色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_slingshot_swimsuit.html
   blue overskirt:
-    name: blue overskirt
+    name: 蓝色罩裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_overskirt.html
   black overskirt:
-    name: black overskirt
+    name: 黑色罩裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_overskirt.html
   mischievous straight uniform (blue archive):
-    name: mischievous straight uniform (blue archive)
+    name: 调皮直筒制服（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mischievous_straight_uniform_(blue_archive).html
     alias:
     - aris (idol) (blue archive)
@@ -371,339 +371,339 @@ content:
     - hifumi (idol) (blue archive)
     - yuuka (idol) (blue archive)
   asymmetrical skirt:
-    name: asymmetrical skirt
+    name: 不对称裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_skirt.html
   turtleneck one-piece swimsuit:
-    name: turtleneck one-piece swimsuit
+    name: 高领连体泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/turtleneck_one-piece_swimsuit.html
   unworn cloak:
-    name: unworn cloak
+    name: 未穿过的斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_cloak.html
     alias:
     - cloak removed
   unworn hoodie:
-    name: unworn hoodie
+    name: 未穿过的连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hoodie.html
     alias:
     - hoodie removed
   cross-laced jacket:
-    name: cross-laced jacket
+    name: 交叉系带夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_jacket.html
   hanzou academy uniform:
-    name: hanzou academy uniform
+    name: 汉州学园制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanzou_academy_uniform.html
   modakawa dress:
-    name: modakawa dress
+    name: 摩达卡瓦连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/modakawa_dress.html
   floral print skirt:
-    name: floral print skirt
+    name: 花卉印花半身裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_skirt.html
   single leg bodysuit:
-    name: single leg bodysuit
+    name: 单腿连体衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_leg_bodysuit.html
   spiked cape:
-    name: spiked cape
+    name: 尖刺斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_cape.html
   black track suit:
-    name: black track suit
+    name: 黑色运动服
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_track_suit.html
   feather-trimmed dress:
-    name: feather-trimmed dress
+    name: 羽毛边饰连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/feather-trimmed_dress.html
   two-sided hoodie:
-    name: two-sided hoodie
+    name: 双面连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_hoodie.html
   padded cloak:
-    name: padded cloak
+    name: 带衬垫的斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/padded_cloak.html
   florida bikini:
-    name: florida bikini
+    name: 佛罗里达比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/florida_bikini.html
   marine uniform (one piece):
-    name: marine uniform (one piece)
+    name: 海军陆战队制服（一件）
     wikiURL: https://danbooru.donmai.us/wiki_pages/marine_uniform_(one_piece).html
   bikini bottom lift:
-    name: bikini bottom lift
+    name: 比基尼底部提升
     wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_bottom_lift.html
   no-show socks:
-    name: no-show socks
+    name: 隐形袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/no-show_socks.html
   lace shirt:
-    name: lace shirt
+    name: 蕾丝衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_shirt.html
   unbuttoned jacket:
-    name: unbuttoned jacket
+    name: 解开扣子的夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoned_jacket.html
   leopard print bikini:
-    name: leopard print bikini
+    name: 豹纹比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/leopard_print_bikini.html
   duffel jacket:
-    name: duffel jacket
+    name: 粗呢夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/duffel_jacket.html
   closed lab coat:
-    name: closed lab coat
+    name: 封闭式实验室外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/closed_lab_coat.html
     alias:
     - closed labcoat
   bikini bottom around leg:
-    name: bikini bottom around leg
+    name: 比基尼下摆围绕腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_bottom_around_leg.html
   liquid dress:
-    name: liquid dress
+    name: 液体连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/liquid_dress.html
   tempura costume:
-    name: tempura costume
+    name: 天妇罗服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/tempura_costume.html
   backless bodysuit:
-    name: backless bodysuit
+    name: 露背连体衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/backless_bodysuit.html
   blue undershirt:
-    name: blue undershirt
+    name: 蓝色汗衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_undershirt.html
   wet bikini:
-    name: wet bikini
+    name: 湿比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/wet_bikini.html
   strapless kimono:
-    name: strapless kimono
+    name: 无肩带和服
     wikiURL: https://danbooru.donmai.us/wiki_pages/strapless_kimono.html
   green slingshot swimsuit:
-    name: green slingshot swimsuit
+    name: 绿色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_slingshot_swimsuit.html
   shirttail:
-    name: shirttail
+    name: 衬衣下摆
     wikiURL: https://danbooru.donmai.us/wiki_pages/shirttail.html
   pumpkin-shaped pants:
-    name: pumpkin-shaped pants
+    name: 南瓜形状的裤子
     wikiURL: https://danbooru.donmai.us/wiki_pages/pumpkin-shaped_pants.html
   origami family's elite guard uniform:
-    name: origami family's elite guard uniform
+    name: 折纸家族的精英侍卫制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/origami_family's_elite_guard_uniform.html
   tactical maid:
-    name: tactical maid
+    name: 战术女仆
     wikiURL: https://danbooru.donmai.us/wiki_pages/tactical_maid.html
   yellow slingshot swimsuit:
-    name: yellow slingshot swimsuit
+    name: 黄色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_slingshot_swimsuit.html
   tracen ondo outfit (umamusume):
-    name: tracen ondo outfit (umamusume)
+    name: Tracen Ondo 服装 (umamusume)
     wikiURL: https://danbooru.donmai.us/wiki_pages/tracen_ondo_outfit_(umamusume).html
   see-through capelet:
-    name: see-through capelet
+    name: 透明披肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_capelet.html
   button up skirt:
-    name: button up skirt
+    name: 系扣裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/button_up_skirt.html
   compass uniform:
-    name: compass uniform
+    name: 指南针制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/compass_uniform.html
   purple jumpsuit:
-    name: purple jumpsuit
+    name: 紫色连身裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_jumpsuit.html
   polka dot socks:
-    name: polka dot socks
+    name: 圆点袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_socks.html
   miao clothes:
-    name: miao clothes
+    name: 苗族服饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/miao_clothes.html
     alias:
     - hmong clothes
     - miao dress
   gokugetsu academy uniform:
-    name: gokugetsu academy uniform
+    name: 极月学园制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/gokugetsu_academy_uniform.html
   gessen academy uniform:
-    name: gessen academy uniform
+    name: 格森学院制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/gessen_academy_uniform.html
   gold cape:
-    name: gold cape
+    name: 金斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_cape.html
   grey undershirt:
-    name: grey undershirt
+    name: 灰色汗衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_undershirt.html
   excalibur academy uniform:
-    name: excalibur academy uniform
+    name: 神剑学院制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/excalibur_academy_uniform.html
   lace-trimmed socks:
-    name: lace-trimmed socks
+    name: 蕾丝边袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_socks.html
   leather dress:
-    name: leather dress
+    name: 皮革连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/leather_dress.html
   hasu no sora gym uniform:
-    name: hasu no sora gym uniform
+    name: 哈苏之空体操服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hasu_no_sora_gym_uniform.html
   puffy coat:
-    name: puffy coat
+    name: 蓬松的外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_coat.html
   anti-demon corps uniform:
-    name: anti-demon corps uniform
+    name: 反恶魔军团制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/anti-demon_corps_uniform.html
   orange sweater vest:
-    name: orange sweater vest
+    name: 橙色毛衣背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sweater_vest.html
   floral print pants:
-    name: floral print pants
+    name: 花卉印花长裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_pants.html
   shell jacket:
-    name: shell jacket
+    name: 软壳面料夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/shell_jacket.html
   feather cape:
-    name: feather cape
+    name: 羽毛斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/feather_cape.html
   oversized jacket:
-    name: oversized jacket
+    name: 超大夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_jacket.html
   wet socks:
-    name: wet socks
+    name: 湿袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/wet_socks.html
   pantyhose under pants:
-    name: pantyhose under pants
+    name: 裤袜在裤子下面
     wikiURL: https://danbooru.donmai.us/wiki_pages/pantyhose_under_pants.html
     alias:
     - pantyhose under trousers
   purple undershirt:
-    name: purple undershirt
+    name: 紫色汗衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_undershirt.html
   tassel-trimmed capelet:
-    name: tassel-trimmed capelet
+    name: 流苏饰边披肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/tassel-trimmed_capelet.html
   multicolored socks:
-    name: multicolored socks
+    name: 多彩多姿的袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_socks.html
   mindscape cinema (zenless zone zero):
-    name: mindscape cinema (zenless zone zero)
+    name: Mindscape 电影院（无禅零区）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mindscape_cinema_(zenless_zone_zero).html
   hev suit:
-    name: hev suit
+    name: 重型车辆套装
     wikiURL: https://danbooru.donmai.us/wiki_pages/hev_suit.html
   red undershirt:
-    name: red undershirt
+    name: 红色汗衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_undershirt.html
   gradient coat:
-    name: gradient coat
+    name: 渐变外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_coat.html
   single-shoulder bikini:
-    name: single-shoulder bikini
+    name: 单肩比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/single-shoulder_bikini.html
   asymmetrical coat:
-    name: asymmetrical coat
+    name: 不对称外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_coat.html
   polka dot one-piece swimsuit:
-    name: polka dot one-piece swimsuit
+    name: 圆点连体泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_one-piece_swimsuit.html
   sweater under dress:
-    name: sweater under dress
+    name: 连衣裙下面穿毛衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_under_dress.html
   gravity suit (metroid):
-    name: gravity suit (metroid)
+    name: 重力服（银河战士）
     wikiURL: https://danbooru.donmai.us/wiki_pages/gravity_suit_(metroid).html
     alias:
     - gravity suit
   ninomiya squad's uniform:
-    name: ninomiya squad's uniform
+    name: 二宫队制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ninomiya_squad's_uniform.html
   checkered socks:
-    name: checkered socks
+    name: 格子袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_socks.html
   fingernail gloves:
-    name: fingernail gloves
+    name: 指甲手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fingernail_gloves.html
   maid one-piece swimsuit:
-    name: maid one-piece swimsuit
+    name: 女仆连体泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/maid_one-piece_swimsuit.html
     alias:
     - maid swimsuit
   tent dress:
-    name: tent dress
+    name: 帐篷连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/tent_dress.html
   fur-trimmed hoodie:
-    name: fur-trimmed hoodie
+    name: 毛皮边饰连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_hoodie.html
   high-waist dress:
-    name: high-waist dress
+    name: 高腰连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/high-waist_dress.html
   nice knee socks day:
-    name: nice knee socks day
+    name: 美好的及膝袜日
     wikiURL: https://danbooru.donmai.us/wiki_pages/nice_knee_socks_day.html
   konohagakure anbu uniform:
-    name: konohagakure anbu uniform
+    name: 木叶隐部制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/konohagakure_anbu_uniform.html
   jacket over head:
-    name: jacket over head
+    name: 外套套在头上
     wikiURL: https://danbooru.donmai.us/wiki_pages/jacket_over_head.html
   sweater partially tucked in:
-    name: sweater partially tucked in
+    name: 毛衣部分塞进里面
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_partially_tucked_in.html
   green undershirt:
-    name: green undershirt
+    name: 绿色汗衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_undershirt.html
   see-through socks:
-    name: see-through socks
+    name: 透视袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_socks.html
   summer maid coord:
-    name: summer maid coord
+    name: 夏季女仆装
     wikiURL: https://danbooru.donmai.us/wiki_pages/summer_maid_coord.html
   gold headdress:
-    name: gold headdress
+    name: 金色头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_headdress.html
   backless kimono:
-    name: backless kimono
+    name: 露背和服
     wikiURL: https://danbooru.donmai.us/wiki_pages/backless_kimono.html
   kimono partially removed:
-    name: kimono partially removed
+    name: 和服部分脱下
     wikiURL: https://danbooru.donmai.us/wiki_pages/kimono_partially_removed.html
   adjusting dress:
-    name: adjusting dress
+    name: 调整衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_dress.html
   fur-trimmed jumpsuit:
-    name: fur-trimmed jumpsuit
+    name: 毛皮边饰连身裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_jumpsuit.html
   silver bodysuit:
-    name: silver bodysuit
+    name: 银色紧身衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/silver_bodysuit.html
   fur dress:
-    name: fur dress
+    name: 毛皮连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur_dress.html
   dry suit:
-    name: dry suit
+    name: 干衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/dry_suit.html
   plaid one-piece swimsuit:
-    name: plaid one-piece swimsuit
+    name: 格纹连体泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_one-piece_swimsuit.html
   ikoma squad's uniform:
-    name: ikoma squad's uniform
+    name: 生驹小队制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ikoma_squad's_uniform.html
   holding cloak:
-    name: holding cloak
+    name: 拿着斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_cloak.html
   hobble skirt:
-    name: hobble skirt
+    name: 绊裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/hobble_skirt.html
   gingham shirt:
-    name: gingham shirt
+    name: 格子衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/gingham_shirt.html
   cape clasp:
-    name: cape clasp
+    name: 斗篷扣
     wikiURL: https://danbooru.donmai.us/wiki_pages/cape_clasp.html
   argyle jacket:
-    name: argyle jacket
+    name: 菱形图案夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_jacket.html
   arashiyama squad's uniform:
-    name: arashiyama squad's uniform
+    name: 岚山队制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/arashiyama_squad's_uniform.html
   gold jacket:
-    name: gold jacket
+    name: 金夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_jacket.html
   china tracksuit:
-    name: china tracksuit
+    name: 中国运动服
     wikiURL: https://danbooru.donmai.us/wiki_pages/china_tracksuit.html
     alias:
     - china jersey
   tachikawa squad's uniform:
-    name: tachikawa squad's uniform
+    name: 立川队队服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tachikawa_squad's_uniform.html
   argyle pants:
-    name: argyle pants
+    name: 菱形图案裤子
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_pants.html
   bokutachi no seizon tousou (project sekai):
     name: bokutachi no seizon tousou (project sekai)
@@ -712,125 +712,710 @@ content:
     - our escape for survival (project sekai)
     - we escape to survive (project sekai)
   lace socks:
-    name: lace socks
+    name: 蕾丝袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_socks.html
   nijisanji symphonia concert uniform:
-    name: nijisanji symphonia concert uniform
+    name: 二十三寺交响曲演唱会制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/nijisanji_symphonia_concert_uniform.html
   linked bikini:
-    name: linked bikini
+    name: 连体比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/linked_bikini.html
   aqua sweater vest:
-    name: aqua sweater vest
+    name: 水色毛衣背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_sweater_vest.html
   completionist cape (runescape):
-    name: completionist cape (runescape)
+    name: 完成主义斗篷（runescape）
     wikiURL: https://danbooru.donmai.us/wiki_pages/completionist_cape_(runescape).html
   frayed skirt:
-    name: frayed skirt
+    name: 磨损的裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/frayed_skirt.html
   maginot military uniform:
-    name: maginot military uniform
+    name: 马奇诺军服
     wikiURL: https://danbooru.donmai.us/wiki_pages/maginot_military_uniform.html
   princess rosa costume:
-    name: princess rosa costume
+    name: 罗莎公主服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/princess_rosa_costume.html
   dark signer uniform:
-    name: dark signer uniform
+    name: 深色签名者制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/dark_signer_uniform.html
   work boots:
-    name: work boots
+    name: 工作靴
     wikiURL: https://danbooru.donmai.us/wiki_pages/work_boots.html
   nijisanji fes t-shirt:
-    name: nijisanji fes t-shirt
+    name: 虹鳟鱼 T 恤
     wikiURL: https://danbooru.donmai.us/wiki_pages/nijisanji_fes_t-shirt.html
   character costume:
-    name: character costume
+    name: 角色服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_costume.html
   fur-trimmed socks:
-    name: fur-trimmed socks
+    name: 毛皮边饰袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_socks.html
   sleeveless turtleneck shirt:
-    name: sleeveless turtleneck shirt
+    name: 无袖高领衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck_shirt.html
   gingham bikini:
-    name: gingham bikini
+    name: 格子比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/gingham_bikini.html
   blanket cape:
-    name: blanket cape
+    name: 毯子斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/blanket_cape.html
   putting on jacket:
-    name: putting on jacket
+    name: 穿上夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/putting_on_jacket.html
   elmo dormitory outfit:
-    name: elmo dormitory outfit
+    name: 艾莫宿舍装
     wikiURL: https://danbooru.donmai.us/wiki_pages/elmo_dormitory_outfit.html
   sanbaka anniversary outfit:
-    name: sanbaka anniversary outfit
+    name: 桑巴卡周年纪念套装
     wikiURL: https://danbooru.donmai.us/wiki_pages/sanbaka_anniversary_outfit.html
   ugly sweater:
-    name: ugly sweater
+    name: 丑毛衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/ugly_sweater.html
   flushed face emoji shirt (meme):
-    name: flushed face emoji shirt (meme)
+    name: 脸红的表情衬衫（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/flushed_face_emoji_shirt_(meme).html
   extended upshirt:
-    name: extended upshirt
+    name: 加长上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/extended_upshirt.html
   aoba johsai volleyball uniform:
-    name: aoba johsai volleyball uniform
+    name: 青叶城西排球服
     wikiURL: https://danbooru.donmai.us/wiki_pages/aoba_johsai_volleyball_uniform.html
   orange suit:
-    name: orange suit
+    name: 橙色套装
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_suit.html
   latex jacket:
-    name: latex jacket
+    name: 乳胶夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/latex_jacket.html
   lace-trimmed jacket:
-    name: lace-trimmed jacket
+    name: 蕾丝边饰夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_jacket.html
   blue surcoat:
-    name: blue surcoat
+    name: 蓝色外衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_surcoat.html
   summer uniform series (idolmaster):
-    name: summer uniform series (idolmaster)
+    name: 夏季制服系列（偶像大师）
     wikiURL: https://danbooru.donmai.us/wiki_pages/summer_uniform_series_(idolmaster).html
   bikini visible through clothes:
-    name: bikini visible through clothes
+    name: 透过衣服可以看到比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_visible_through_clothes.html
   two-sided shirt:
-    name: two-sided shirt
+    name: 双面衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_shirt.html
   shirt over dress:
-    name: shirt over dress
+    name: 衬衫套在连衣裙上
     wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_over_dress.html
   kageura squad's uniform:
-    name: kageura squad's uniform
+    name: 影浦队制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/kageura_squad's_uniform.html
   coat on head:
-    name: coat on head
+    name: 头上的外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/coat_on_head.html
   tres bien maid uniform:
-    name: tres bien maid uniform
+    name: 特雷斯比恩女仆制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tres_bien_maid_uniform.html
   khaki pants:
-    name: khaki pants
+    name: 卡其色裤子
     wikiURL: https://danbooru.donmai.us/wiki_pages/khaki_pants.html
   fur-lined gloves:
-    name: fur-lined gloves
+    name: 毛皮衬里手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-lined_gloves.html
   frilled cloak:
-    name: frilled cloak
+    name: 褶边斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_cloak.html
   button dress:
-    name: button dress
+    name: 纽扣连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/button_dress.html
   lace skirt:
-    name: lace skirt
+    name: 蕾丝裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_skirt.html
   hand in another's pants:
-    name: hand in another's pants
+    name: 手伸进别人的裤子里
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_another's_pants.html
   gold slingshot swimsuit:
-    name: gold slingshot swimsuit
+    name: 金色弹弓泳衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_slingshot_swimsuit.html
+  short sleeves:
+    name: 短袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/short_sleeves.html
+    alias:
+    - /ssleeves
+  puffy sleeves:
+    name: 蓬蓬的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_sleeves.html
+    alias:
+    - /psleeves
+    - puffy shoulders
+  wide sleeves:
+    name: 宽大的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wide_sleeves.html
+    alias:
+    - /wsleeves
+  puffy short sleeves:
+    name: 蓬蓬的短袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_short_sleeves.html
+    alias:
+    - short puffy sleeves
+  fur trim:
+    name: 皮草款式|毛皮镶边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur_trim.html
+    alias:
+    - fur lining
+  frilled sleeves:
+    name: 花边袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_sleeves.html
+    alias:
+    - ruffled sleeves
+  lace trim:
+    name: 蕾丝镶边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_trim.html
+  white sleeves:
+    name: 白色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_sleeves.html
+  gold trim:
+    name: 金色镶边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_trim.html
+  zipper:
+    name: 拉链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper.html
+    alias:
+    - zippers
+  sleeves rolled up:
+    name: 卷起的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sleeves_rolled_up.html
+    alias:
+    - folded sleeves
+    - rolled sleeves
+    - rolled-up sleeves
+    - rolled up sleeves
+    - sleeves rolled
+  pocket:
+    name: 口袋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pocket.html
+    alias:
+    - pockets
+  black sleeves:
+    name: 黑色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_sleeves.html
+  zipper pull tab:
+    name: 拉链的拉片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_pull_tab.html
+  unbuttoned:
+    name: 解开纽扣后
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoned.html
+  partially unbuttoned:
+    name: 解开部分纽扣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/partially_unbuttoned.html
+  short over long sleeves:
+    name: 内侧穿着长袖外面套着短袖衣服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/short_over_long_sleeves.html
+    alias:
+    - long sleeves under short sleeves
+    - long under short sleeves
+    - short sleeves over long sleeves
+    - /sols
+  see-through sleeves:
+    name: 半透的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_sleeves.html
+    alias:
+    - transparent sleeves
+  raglan sleeves:
+    name: 连肩衣袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raglan_sleeves.html
+  fur-trimmed sleeves:
+    name: 毛皮镶边袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_sleeves.html
+  blue sleeves:
+    name: 蓝色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_sleeves.html
+  asymmetrical sleeves:
+    name: 不对称的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_sleeves.html
+  button gap:
+    name: 天使的小窗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/button_gap.html
+  red sleeves:
+    name: 红色的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_sleeves.html
+  purple sleeves:
+    name: 紫色的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_sleeves.html
+  diamond button:
+    name: 菱形按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_button.html
+    alias:
+    - diamond shaped buttons
+  button badge:
+    name: 纽扣徽章
+    wikiURL: https://danbooru.donmai.us/wiki_pages/button_badge.html
+    alias:
+    - button badges
+    - can badge
+    - pin-back button
+    - pinback button
+    - pin button
+  green sleeves:
+    name: 绿色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_sleeves.html
+  fur-trimmed hood:
+    name: 毛皮镶边风帽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_hood.html
+  neon trim:
+    name: 霓虹灯效果
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neon_trim.html
+  torn sleeves:
+    name: 破损的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_sleeves.html
+    alias:
+    - ripped sleeves
+  pink sleeves:
+    name: 粉色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_sleeves.html
+  puffy detached sleeves:
+    name: 蓬蓬的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_detached_sleeves.html
+  very long sleeves:
+    name: 很长的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/very_long_sleeves.html
+  uneven sleeves:
+    name: 不均匀的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uneven_sleeves.html
+  grey sleeves:
+    name: 灰色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_sleeves.html
+  red trim:
+    name: 红色装饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_trim.html
+  lace-trimmed sleeves:
+    name: 蕾丝边袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_sleeves.html
+  product placement:
+    name: 植入广告
+    wikiURL: https://danbooru.donmai.us/wiki_pages/product_placement.html
+    alias:
+    - brand name
+  buttoned cuffs:
+    name: buttoned cuffs
+    wikiURL: https://danbooru.donmai.us/wiki_pages/buttoned_cuffs.html
+  shower (place):
+    name: 淋浴（处）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shower_(place).html
+  shoelaces:
+    name: 鞋带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoelaces.html
+  low neckline:
+    name: 低领口
+    wikiURL: https://danbooru.donmai.us/wiki_pages/low_neckline.html
+  yellow sleeves:
+    name: 黄色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_sleeves.html
+  white trim:
+    name: 白色饰边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_trim.html
+  full-length zipper:
+    name: 有整件衣物长的拉链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/full-length_zipper.html
+    alias:
+    - full length zipper
+  fur-trimmed shorts:
+    name: 毛边短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_shorts.html
+  mismatched sleeves:
+    name: 不匹配的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_sleeves.html
+  pinching sleeves:
+    name: 掐袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pinching_sleeves.html
+    alias:
+    - sleeve hold
+  orange sleeves:
+    name: 橙色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sleeves.html
+  silver trim:
+    name: 银色镶边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_trim.html
+  front slit:
+    name: 前开衩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/front_slit.html
+  side slit shorts:
+    name: 侧开衩短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/side_slit_shorts.html
+  blue trim:
+    name: 蓝色装饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_trim.html
+  square neckline:
+    name: 方领
+    wikiURL: https://danbooru.donmai.us/wiki_pages/square_neckline.html
+  print sleeves:
+    name: 印花袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/print_sleeves.html
+  yellow trim:
+    name: yellow trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_trim.html
+  puff and slash sleeves:
+    name: 斜纹泡泡袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puff_and_slash_sleeves.html
+  popped button:
+    name: button pop 弹出式按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/popped_button.html
+    alias:
+    - button pop
+    - popped buttons
+  pink trim:
+    name: 粉色饰边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_trim.html
+  fur-trimmed leotard:
+    name: 毛皮边紧身连衣裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_leotard.html
+  aqua sleeves:
+    name: 水袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_sleeves.html
+  lace sleeves:
+    name: 蕾丝袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_sleeves.html
+  aqua trim:
+    name: aqua trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_trim.html
+  object in pocket:
+    name: object in pocket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/object_in_pocket.html
+  black trim:
+    name: black trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_trim.html
+  lace border:
+    name: 花边边框
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_border.html
+  green trim:
+    name: 绿色装饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_trim.html
+  purple trim:
+    name: 紫色饰边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_trim.html
+  furisode sleeves:
+    name: furisode sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/furisode_sleeves.html
+  pleated sleeves:
+    name: 百褶袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pleated_sleeves.html
+  plaid trim:
+    name: 格子饰边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_trim.html
+  gradient sleeves:
+    name: 渐变袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_sleeves.html
+  two-tone sleeves:
+    name: 双色袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_sleeves.html
+  plaid sleeves:
+    name: 格子袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_sleeves.html
+  push-button:
+    name: 瞬时开关按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/push-button.html
+    alias:
+    - momentary switch
+    - pushbutton
+  zipper leotard:
+    name: 拉链紧身衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_leotard.html
+  pleated shorts:
+    name: 百褶短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pleated_shorts.html
+  multicolored buttons:
+    name: 多彩多姿的按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_buttons.html
+  lace-up:
+    name: 花边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up.html
+  no detached sleeves:
+    name: 没有分开的袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_detached_sleeves.html
+  pocket square:
+    name: 口袋方巾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pocket_square.html
+  bell sleeves:
+    name: 喇叭袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bell_sleeves.html
+  large buttons:
+    name: 大按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/large_buttons.html
+  laces:
+    name: 鞋带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/laces.html
+  fur-trimmed mittens:
+    name: 毛边连指手套
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_mittens.html
+  multicolored sleeves:
+    name: 五彩袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_sleeves.html
+  lace-up top:
+    name: 系带上衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up_top.html
+  fur sleeves:
+    name: 皮袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur_sleeves.html
+  unbuttoning:
+    name: 解扣子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoning.html
+  trim brush:
+    name: 修剪刷
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trim_brush.html
+  thumb in pocket:
+    name: 拇指放在口袋里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thumb_in_pocket.html
+  oversized zipper:
+    name: 超大拉链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_zipper.html
+  lace-trimmed eyepatch:
+    name: 蕾丝边饰眼罩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_eyepatch.html
+  polka dot trim:
+    name: 圆点饰边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_trim.html
+  fur-trimmed bra:
+    name: 毛边文胸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_bra.html
+  lace-trimmed camisole:
+    name: 蕾丝边吊带背心
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_camisole.html
+  palace:
+    name: 宫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/palace.html
+  unbuttoned sleeves:
+    name: 解开袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoned_sleeves.html
+  lace-up sleeves:
+    name: 系带袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up_sleeves.html
+  lace-trimmed veil:
+    name: 蕾丝边饰面纱
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_veil.html
+  buttoning:
+    name: 扣扣子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/buttoning.html
+  slit throat:
+    name: 割喉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/slit_throat.html
+  rolling sleeves up:
+    name: 挽起袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rolling_sleeves_up.html
+  motion slit:
+    name: 运动狭缝
+    wikiURL: https://danbooru.donmai.us/wiki_pages/motion_slit.html
+  misplaced genitals:
+    name: 错位的生殖器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/misplaced_genitals.html
+  in pocket:
+    name: 在口袋里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/in_pocket.html
+  polka dot sleeves:
+    name: 圆点袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_sleeves.html
+  button prompt:
+    name: 按钮提示
+    wikiURL: https://danbooru.donmai.us/wiki_pages/button_prompt.html
+  placemat:
+    name: 餐垫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/placemat.html
+  checkered sleeves:
+    name: 格纹袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_sleeves.html
+  lace-trimmed leotard:
+    name: 蕾丝边紧身连衣裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_leotard.html
+  lace-trimmed shorts:
+    name: 蕾丝边短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_shorts.html
+  place name:
+    name: 地名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/place_name.html
+  back slit:
+    name: 后开衩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/back_slit.html
+  adjusting sleeves:
+    name: 调整套筒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_sleeves.html
+  lace-trimmed babydoll:
+    name: 蕾丝边娃娃装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_babydoll.html
+  red button:
+    name: 红色按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_button.html
+  camouflage trim:
+    name: 迷彩装饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_trim.html
+  lace-up heels:
+    name: 系带高跟鞋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up_heels.html
+    alias:
+    - laceup heels
+  shared pocket:
+    name: 共享口袋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shared_pocket.html
+  fur-trimmed shawl:
+    name: 毛皮边饰披肩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_shawl.html
+  thumbs in pockets:
+    name: 大拇指插在口袋里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thumbs_in_pockets.html
+  truffle:
+    name: 松露
+    wikiURL: https://danbooru.donmai.us/wiki_pages/truffle.html
+  haro button badge:
+    name: 哈罗按钮徽章
+    wikiURL: https://danbooru.donmai.us/wiki_pages/haro_button_badge.html
+  placenta (sidonia no kishi):
+    name: 胎盘素（sidonia no kishi）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/placenta_(sidonia_no_kishi).html
+  studded trim:
+    name: 铆钉饰边
+    wikiURL: https://danbooru.donmai.us/wiki_pages/studded_trim.html
+  hedge trimmer:
+    name: 树篱修剪机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hedge_trimmer.html
+  neo geo pocket color:
+    name: 新地理口袋颜色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neo_geo_pocket_color.html
+  contest button:
+    name: 比赛按钮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/contest_button.html
+  shoulder patch:
+    name: shoulder patch
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_patch.html
+  orange trim:
+    name: orange trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_trim.html
+  double strap slip:
+    name: double strap slip
+    wikiURL: https://danbooru.donmai.us/wiki_pages/double_strap_slip.html
+  bite mark on shoulder:
+    name: bite mark on shoulder
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_shoulder.html
+  cross-laced corset:
+    name: cross-laced corset
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_corset.html
+  front zipper:
+    name: front zipper
+    wikiURL: https://danbooru.donmai.us/wiki_pages/front_zipper.html
+  strap break:
+    name: strap break
+    wikiURL: https://danbooru.donmai.us/wiki_pages/strap_break.html
+  gold buttons:
+    name: gold buttons
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_buttons.html
+  center cross lace:
+    name: center cross lace
+    wikiURL: https://danbooru.donmai.us/wiki_pages/center_cross_lace.html
+  two-sided sleeves:
+    name: two-sided sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_sleeves.html
+  zipper top:
+    name: zipper top
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_top.html
+  cross-laced leotard:
+    name: cross-laced leotard
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_leotard.html
+  floral print sleeves:
+    name: floral print sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_sleeves.html
+  shanghai neckline:
+    name: shanghai neckline
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shanghai_neckline.html
+  paw sleeves:
+    name: paw sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paw_sleeves.html
+  gloved sleeves:
+    name: gloved sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gloved_sleeves.html
+  pressing button:
+    name: pressing button
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pressing_button.html
+  feather sleeves:
+    name: feather sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/feather_sleeves.html
+  unworn sleeves:
+    name: unworn sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_sleeves.html
+    alias:
+    - detached sleeves removed
+    - sleeves removed
+  argyle sleeves:
+    name: argyle sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_sleeves.html
+  pause button:
+    name: pause button
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pause_button.html
+  person on shoulder:
+    name: person on shoulder
+    wikiURL: https://danbooru.donmai.us/wiki_pages/person_on_shoulder.html
+  leather wrist straps:
+    name: leather wrist straps
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leather_wrist_straps.html
+  lace pantyhose:
+    name: lace pantyhose
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_pantyhose.html
+  checkered trim:
+    name: checkered trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_trim.html
+  biting shoulder:
+    name: biting shoulder
+    wikiURL: https://danbooru.donmai.us/wiki_pages/biting_shoulder.html
+  brown trim:
+    name: brown trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_trim.html
+  fur-trimmed poncho:
+    name: fur-trimmed poncho
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_poncho.html
+  grey trim:
+    name: grey trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_trim.html
+  meandros trim:
+    name: meandros trim
+    wikiURL: https://danbooru.donmai.us/wiki_pages/meandros_trim.html
+  bicep strap:
+    name: bicep strap
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bicep_strap.html
+  blood on shoulder:
+    name: blood on shoulder
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_shoulder.html
+  above cleavage cutout:
+    name: above cleavage cutout
+    wikiURL: https://danbooru.donmai.us/wiki_pages/above_cleavage_cutout.html
+  inside pocket:
+    name: inside pocket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/inside_pocket.html
+  cow print sleeves:
+    name: cow print sleeves
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print_sleeves.html
+  fur-trimmed tube top:
+    name: fur-trimmed tube top
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_tube_top.html
+  notched neckline:
+    name: notched neckline
+    wikiURL: https://danbooru.donmai.us/wiki_pages/notched_neckline.html
+  torn straps:
+    name: torn straps
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_straps.html
+  shoulderstand:
+    name: shoulderstand
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulderstand.html
+  fur-trimmed bandeau:
+    name: fur-trimmed bandeau
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_bandeau.html
+  sleeves tied together:
+    name: sleeves tied together
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sleeves_tied_together.html
+  grabbing another's shoulder:
+    name: grabbing another's shoulder
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_shoulder.html
+  currency strap:
+    name: currency strap
+    wikiURL: https://danbooru.donmai.us/wiki_pages/currency_strap.html
+  cross-laced vest:
+    name: cross-laced vest
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_vest.html
+  ass zipper:
+    name: ass zipper
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ass_zipper.html
+  necktie in pocket:
+    name: necktie in pocket
+    wikiURL: https://danbooru.donmai.us/wiki_pages/necktie_in_pocket.html

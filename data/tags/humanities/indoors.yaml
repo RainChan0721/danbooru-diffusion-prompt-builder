@@ -1,7 +1,7 @@
 name: 室内
 category:
-  - 人文景观
-  - 位置
+- 人文
+- 位置
 content:
   bathroom:
     name: 浴室场景
@@ -11,13 +11,13 @@ content:
     name: 浴缸
     wikiURL: https://danbooru.donmai.us/wiki_pages/bathtub.html
     alias:
-      - bath tub
+    - bath tub
     image: 49cbcd566aba2b81ba9a6f856078c46912c65ec267d8cbfe4f1c589c497696db
   toilet stall:
     name: 厕所隔间
     wikiURL: https://danbooru.donmai.us/wiki_pages/toilet_stall.html
     alias:
-      - restroom stall
+    - restroom stall
     image: 884998a5d4dbafbf87d0154b649f1d8eb8cf06d27b9c8623b1e3a7df986a5542
   shower:
     name: 淋浴
@@ -37,7 +37,7 @@ content:
     name: 御宅房
     wikiURL: https://danbooru.donmai.us/wiki_pages/otaku_room.html
     alias:
-      - otakuroom
+    - otakuroom
   cafeteria:
     name: 自助餐厅
     wikiURL: https://danbooru.donmai.us/wiki_pages/cafeteria.html
@@ -50,7 +50,7 @@ content:
     image: 8e5be028bba13c3411819225b7bdc4bdcfe70f59d69108885bffa0749291a794
     wikiURL: https://danbooru.donmai.us/wiki_pages/classroom.html
     alias:
-      - class room
+    - class room
   clubroom:
     name: 社团活动室
     wikiURL: https://danbooru.donmai.us/wiki_pages/clubroom.html
@@ -75,7 +75,7 @@ content:
   prison cell:
     name: 牢房
     alias:
-      - jail cell
+    - jail cell
     image: 5e8abb1d3019b6d4b6258e91ef779a7df02b5b49878f6d92f694232641f1793a
   fitting room:
     name: 试衣间
@@ -84,7 +84,7 @@ content:
     name: 健身房
     wikiURL: https://danbooru.donmai.us/wiki_pages/gym.html
     alias:
-      - gymnasium
+    - gymnasium
   locker room:
     name: 更衣室
     wikiURL: https://danbooru.donmai.us/wiki_pages/locker_room.html
@@ -93,14 +93,14 @@ content:
     name: 体育器材库房
     wikiURL: https://danbooru.donmai.us/wiki_pages/gym_storeroom.html
     alias:
-      - gym storage room
-      - gym equipment shed
+    - gym storage room
+    - gym equipment shed
   infirmary:
     name: 医务室
     wikiURL: https://danbooru.donmai.us/wiki_pages/infirmary.html
     alias:
-      - nurse office
-      - nurse's office
+    - nurse office
+    - nurse's office
   kitchen:
     name: 厨房
     wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen.html

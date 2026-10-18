@@ -1,30 +1,7 @@
-name: 通用概念修饰
+name: 画面通用修饰
 category:
-- 通用概念
+- 画面构图
 content:
-  multiple girls:
-    name: 多个女孩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_girls.html
-    alias:
-    - /ngirls
-  short sleeves:
-    name: 短袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/short_sleeves.html
-    alias:
-    - /ssleeves
-  hetero:
-    name: 异性恋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hetero.html
-  sweat:
-    name: 汗水
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sweat.html
-    alias:
-    - sweating
-  multiple boys:
-    name: 多个男孩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_boys.html
-    alias:
-    - /nboys
   sleeveless:
     name: 无袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeveless.html
@@ -38,30 +15,11 @@ content:
   artist name:
     name: 作者署名
     wikiURL: https://danbooru.donmai.us/wiki_pages/artist_name.html
-  puffy sleeves:
-    name: 蓬蓬的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_sleeves.html
-    alias:
-    - /psleeves
-    - puffy shoulders
-  stomach:
-    name: 小腹
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach.html
   twitter username:
     name: 推特用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_username.html
     alias:
     - artist twitter
-  wide sleeves:
-    name: 宽大的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/wide_sleeves.html
-    alias:
-    - /wsleeves
-  3girls:
-    name: 3个女性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/3girls.html
-    alias:
-    - 3girl
   nail polish:
     name: 指甲油
     wikiURL: https://danbooru.donmai.us/wiki_pages/nail_polish.html
@@ -75,13 +33,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/english_text.html
     alias:
     - english
-  sweatdrop:
-    name: 汗珠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sweatdrop.html
-    alias:
-    - sweat drop
-    - sweat drops
-    - sweatdrops
   character name:
     name: 含角色名
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_name.html
@@ -91,28 +42,12 @@ content:
   dated:
     name: 付上日期的
     wikiURL: https://danbooru.donmai.us/wiki_pages/dated.html
-  puffy short sleeves:
-    name: 蓬蓬的短袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_short_sleeves.html
-    alias:
-    - short puffy sleeves
-  fur trim:
-    name: 皮草款式|毛皮镶边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur_trim.html
-    alias:
-    - fur lining
   clothing cutout:
     name: 衣服漏洞
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothing_cutout.html
   see-through clothes:
     name: see-through clothes
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_clothes.html
-  muscular:
-    name: 肌肉发达
-    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular.html
-    alias:
-    - muscles
-    - muscular male
   sash:
     name: 饰带|日式束腰
     wikiURL: https://danbooru.donmai.us/wiki_pages/sash.html
@@ -132,11 +67,6 @@ content:
     - copyright title
     - title drop
     - title name
-  4girls:
-    name: 4个女性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/4girls.html
-    alias:
-    - 4girl
   fruit:
     name: 水果
     wikiURL: https://danbooru.donmai.us/wiki_pages/fruit.html
@@ -170,11 +100,6 @@ content:
     - facial marking
     - facial markings
     - facial marks
-  abs:
-    name: 腹肌
-    wikiURL: https://danbooru.donmai.us/wiki_pages/abs.html
-    alias:
-    - six pack
   sandals:
     name: 凉鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/sandals.html
@@ -195,28 +120,9 @@ content:
   white border:
     name: 白色边框
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_border.html
-  6+girls:
-    name: 6个以上的女性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/6+girls.html
-    alias:
-    - 6+girl
-    - 6girl
-    - 6girls
-    - 7girls
-    - 8girls
   bound:
     name: 绑住的
     wikiURL: https://danbooru.donmai.us/wiki_pages/bound.html
-  frilled sleeves:
-    name: 花边袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_sleeves.html
-    alias:
-    - ruffled sleeves
-  3boys:
-    name: 3个男性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/3boys.html
-    alias:
-    - 3boy
   black nails:
     name: 黑色指甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_nails.html
@@ -230,11 +136,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/1other.html
     alias:
     - sole other
-  couple:
-    name: 情侣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/couple.html
-    alias:
-    - romance
   bug:
     name: 虫子
     wikiURL: https://danbooru.donmai.us/wiki_pages/bug.html
@@ -288,11 +189,6 @@ content:
   black bra:
     name: 黑色内衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_bra.html
-  5girls:
-    name: 5个女性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/5girls.html
-    alias:
-    - 5girl
   red nails:
     name: 红色指甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_nails.html
@@ -342,9 +238,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/....html
     alias:
     - ellipsis
-  lace trim:
-    name: 蕾丝镶边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_trim.html
   toenails:
     name: 脚趾甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/toenails.html
@@ -360,9 +253,6 @@ content:
   white pantyhose:
     name: 白色连裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_pantyhose.html
-  white sleeves:
-    name: 白色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_sleeves.html
   large pectorals:
     name: 大胸肌
     wikiURL: https://danbooru.donmai.us/wiki_pages/large_pectorals.html
@@ -408,9 +298,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/androgynous.html
     alias:
     - androgyny
-  gold trim:
-    name: 金色镶边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_trim.html
   colored sclera:
     name: 有色巩膜（眼白）
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_sclera.html
@@ -471,31 +358,9 @@ content:
   knee up:
     name: 顶起膝盖
     wikiURL: https://danbooru.donmai.us/wiki_pages/knee_up.html
-  zipper:
-    name: 拉链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper.html
-    alias:
-    - zippers
-  freckles:
-    name: 雀斑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/freckles.html
   ball:
     name: 球
     wikiURL: https://danbooru.donmai.us/wiki_pages/ball.html
-  sleeves rolled up:
-    name: 卷起的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sleeves_rolled_up.html
-    alias:
-    - folded sleeves
-    - rolled sleeves
-    - rolled-up sleeves
-    - rolled up sleeves
-    - sleeves rolled
-  pocket:
-    name: 口袋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pocket.html
-    alias:
-    - pockets
   beads:
     name: 珠子
     wikiURL: https://danbooru.donmai.us/wiki_pages/beads.html
@@ -542,9 +407,6 @@ content:
   partially submerged:
     name: 部分淹没
     wikiURL: https://danbooru.donmai.us/wiki_pages/partially_submerged.html
-  black sleeves:
-    name: 黑色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_sleeves.html
   bulge:
     name: 裆部隆起
     wikiURL: https://danbooru.donmai.us/wiki_pages/bulge.html
@@ -566,11 +428,6 @@ content:
     alias:
     - pauldron
     - spaulders
-  4boys:
-    name: 4个男性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/4boys.html
-    alias:
-    - 4boy
   epaulettes:
     name: 肩章
     wikiURL: https://danbooru.donmai.us/wiki_pages/epaulettes.html
@@ -795,9 +652,6 @@ content:
   borrowed character:
     name: 借鉴的角色
     wikiURL: https://danbooru.donmai.us/wiki_pages/borrowed_character.html
-  muscular female:
-    name: 肌肉发达的女性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_female.html
   single side bun:
     name: 单边团子头
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_side_bun.html
@@ -941,9 +795,6 @@ content:
   spoken question mark:
     name: 表疑惑的会话气泡
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_question_mark.html
-  zipper pull tab:
-    name: 拉链的拉片
-    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_pull_tab.html
   confetti:
     name: 彩色纸屑(祝贺)
     wikiURL: https://danbooru.donmai.us/wiki_pages/confetti.html
@@ -1062,9 +913,6 @@ content:
   controller:
     name: 控制器
     wikiURL: https://danbooru.donmai.us/wiki_pages/controller.html
-  unbuttoned:
-    name: 解开纽扣后
-    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoned.html
   balloon:
     name: 气球
     wikiURL: https://danbooru.donmai.us/wiki_pages/balloon.html
@@ -1110,9 +958,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/lamp.html
     alias:
     - lamps
-  multiple others:
-    name: 多个性别模糊的角色
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_others.html
   tatami:
     name: 榻榻米
     wikiURL: https://danbooru.donmai.us/wiki_pages/tatami.html
@@ -1187,19 +1032,11 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/lapels.html
     alias:
     - lapel
-  partially unbuttoned:
-    name: 解开部分纽扣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/partially_unbuttoned.html
   dancing:
     name: 跳舞
     wikiURL: https://danbooru.donmai.us/wiki_pages/dancing.html
     alias:
     - dance
-  5boys:
-    name: 5个男性
-    wikiURL: https://danbooru.donmai.us/wiki_pages/5boys.html
-    alias:
-    - 5boy
   triangular headpiece:
     name: 三角头巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/triangular_headpiece.html
@@ -1279,14 +1116,6 @@ content:
   red hakama:
     name: 绯袴
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_hakama.html
-  short over long sleeves:
-    name: 内侧穿着长袖外面套着短袖衣服
-    wikiURL: https://danbooru.donmai.us/wiki_pages/short_over_long_sleeves.html
-    alias:
-    - long sleeves under short sleeves
-    - long under short sleeves
-    - short sleeves over long sleeves
-    - /sols
   bathing:
     name: 入浴
     wikiURL: https://danbooru.donmai.us/wiki_pages/bathing.html
@@ -1431,23 +1260,12 @@ content:
   shoe soles:
     name: 鞋底
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoe_soles.html
-  see-through sleeves:
-    name: 半透的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_sleeves.html
-    alias:
-    - transparent sleeves
   blue bra:
     name: 蓝色胸罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_bra.html
-  raglan sleeves:
-    name: 连肩衣袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/raglan_sleeves.html
   micro shorts:
     name: 小尺寸短裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/micro_shorts.html
-  fur-trimmed sleeves:
-    name: 毛皮镶边袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_sleeves.html
   one-eyed:
     name: 独眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/one-eyed.html
@@ -1500,13 +1318,6 @@ content:
     alias:
     - computer monitor
     - computer screen
-  multiple persona:
-    name: 多重形象的角色
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_persona.html
-    alias:
-    - quadruple persona
-    - quintuple persona
-    - triple persona
   coin:
     name: 硬币
     wikiURL: https://danbooru.donmai.us/wiki_pages/coin.html
@@ -1908,9 +1719,6 @@ content:
     alias:
     - ball joints
     - dolljoints
-  blue sleeves:
-    name: 蓝色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_sleeves.html
   two-tone fur:
     name: 双色毛皮
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_fur.html
@@ -1958,9 +1766,6 @@ content:
   tile wall:
     name: 格子纹墙面
     wikiURL: https://danbooru.donmai.us/wiki_pages/tile_wall.html
-  2others:
-    name: 2个非人类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/2others.html
   prosthesis:
     name: 假肢
     wikiURL: https://danbooru.donmai.us/wiki_pages/prosthesis.html
@@ -2023,9 +1828,6 @@ content:
   weibo logo:
     name: 微博标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/weibo_logo.html
-  asymmetrical sleeves:
-    name: 不对称的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_sleeves.html
   bride:
     name: 新娘
     wikiURL: https://danbooru.donmai.us/wiki_pages/bride.html
@@ -2166,9 +1968,6 @@ content:
   girl sandwich:
     name: 被两个女孩夹在中间
     wikiURL: https://danbooru.donmai.us/wiki_pages/girl_sandwich.html
-  button gap:
-    name: 天使的小窗
-    wikiURL: https://danbooru.donmai.us/wiki_pages/button_gap.html
   pink neckerchief:
     name: 粉色领巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_neckerchief.html
@@ -2177,9 +1976,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/aiguillette.html
     alias:
     - aiguillettes
-  red sleeves:
-    name: 红色的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_sleeves.html
   shiny pokemon:
     name: 闪光宝可梦
     wikiURL: https://danbooru.donmai.us/wiki_pages/shiny_pokemon.html
@@ -2344,9 +2140,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_gemstone.html
     alias:
     - emerald (gemstone)
-  multiple moles:
-    name: 多颗痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_moles.html
   towel around neck:
     name: 披着毛巾的脖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/towel_around_neck.html
@@ -2386,9 +2179,6 @@ content:
   cable knit:
     name: 绞花针织
     wikiURL: https://danbooru.donmai.us/wiki_pages/cable_knit.html
-  dimples of venus:
-    name: 女性的腰窝|维纳斯之眼
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dimples_of_venus.html
   kote:
     name: 小手
     wikiURL: https://danbooru.donmai.us/wiki_pages/kote.html
@@ -2421,15 +2211,9 @@ content:
   stick:
     name: 木条|木棍样式的东西
     wikiURL: https://danbooru.donmai.us/wiki_pages/stick.html
-  mole on neck:
-    name: 脖子上有痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_neck.html
   quiver:
     name: 箭筒
     wikiURL: https://danbooru.donmai.us/wiki_pages/quiver.html
-  stomach tattoo:
-    name: 腹部纹身
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_tattoo.html
   median furrow:
     name: 中间沟
     wikiURL: https://danbooru.donmai.us/wiki_pages/median_furrow.html
@@ -2547,9 +2331,6 @@ content:
   serval print:
     name: 薮猫花纹（的衣物或毛皮）
     wikiURL: https://danbooru.donmai.us/wiki_pages/serval_print.html
-  purple sleeves:
-    name: 紫色的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_sleeves.html
   turning head:
     name: 转头
     wikiURL: https://danbooru.donmai.us/wiki_pages/turning_head.html
@@ -2638,11 +2419,6 @@ content:
   black headband:
     name: 黑色头巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_headband.html
-  diamond button:
-    name: 菱形按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_button.html
-    alias:
-    - diamond shaped buttons
   american flag print:
     name: 美国国旗印花
     wikiURL: https://danbooru.donmai.us/wiki_pages/american_flag_print.html
@@ -2716,9 +2492,6 @@ content:
   octopus:
     name: 章鱼
     wikiURL: https://danbooru.donmai.us/wiki_pages/octopus.html
-  colored tongue:
-    name: 有色舌头（非正常粉色的）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/colored_tongue.html
   assisted exposure:
     name: 剥开衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/assisted_exposure.html
@@ -2775,9 +2548,6 @@ content:
   pumps:
     name: 低胸装高跟鞋打扮
     wikiURL: https://danbooru.donmai.us/wiki_pages/pumps.html
-  very sweaty:
-    name: very sweaty
-    wikiURL: https://danbooru.donmai.us/wiki_pages/very_sweaty.html
   beer can:
     name: 听装啤酒
     wikiURL: https://danbooru.donmai.us/wiki_pages/beer_can.html
@@ -2887,15 +2657,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/tusks.html
     alias:
     - tusk
-  button badge:
-    name: 纽扣徽章
-    wikiURL: https://danbooru.donmai.us/wiki_pages/button_badge.html
-    alias:
-    - button badges
-    - can badge
-    - pin-back button
-    - pinback button
-    - pin button
   cuts:
     name: 割伤
     wikiURL: https://danbooru.donmai.us/wiki_pages/cuts.html
@@ -2940,9 +2701,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/people.html
     alias:
     - background people
-  green sleeves:
-    name: 绿色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/green_sleeves.html
   contrail:
     name: 飞机云（尾迹）
     wikiURL: https://danbooru.donmai.us/wiki_pages/contrail.html
@@ -3011,9 +2769,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/needle.html
     alias:
     - needles
-  fur-trimmed hood:
-    name: 毛皮镶边风帽
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_hood.html
   toy:
     name: 玩具
     wikiURL: https://danbooru.donmai.us/wiki_pages/toy.html
@@ -3088,9 +2843,6 @@ content:
   facing to the side:
     name: 面对侧面
     wikiURL: https://danbooru.donmai.us/wiki_pages/facing_to_the_side.html
-  neon trim:
-    name: 霓虹灯效果
-    wikiURL: https://danbooru.donmai.us/wiki_pages/neon_trim.html
   hiding:
     name: 躲藏
     wikiURL: https://danbooru.donmai.us/wiki_pages/hiding.html
@@ -3103,20 +2855,12 @@ content:
   gold bracelet:
     name: 金手镯
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_bracelet.html
-  stomach cutout:
-    name: 腹部镂空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_cutout.html
-    alias:
-    - midriff cutout
   writing:
     name: 写作
     wikiURL: https://danbooru.donmai.us/wiki_pages/writing.html
   object namesake:
     name: 人与物的同名梗
     wikiURL: https://danbooru.donmai.us/wiki_pages/object_namesake.html
-  tongue piercing:
-    name: 打舌钉
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_piercing.html
   shovel:
     name: 铲子
     wikiURL: https://danbooru.donmai.us/wiki_pages/shovel.html
@@ -3139,11 +2883,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/instant_loss.html
     alias:
     - instant loss 2koma
-  torn sleeves:
-    name: 破损的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_sleeves.html
-    alias:
-    - ripped sleeves
   speaker:
     name: 发言者
     wikiURL: https://danbooru.donmai.us/wiki_pages/speaker.html
@@ -3169,9 +2908,6 @@ content:
   white sports bra:
     name: 白色运动文胸
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_sports_bra.html
-  pink sleeves:
-    name: 粉色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_sleeves.html
   spill:
     name: 液体从容器中漫出来
     wikiURL: https://danbooru.donmai.us/wiki_pages/spill.html
@@ -3191,9 +2927,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/laevatein_(touhou).html
     alias:
     - laevatein
-  puffy detached sleeves:
-    name: 蓬蓬的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_detached_sleeves.html
   soldier:
     name: 士兵
     wikiURL: https://danbooru.donmai.us/wiki_pages/soldier.html
@@ -3272,9 +3005,6 @@ content:
   chinese knot:
     name: 中国结
     wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_knot.html
-  covered abs:
-    name: 被覆盖（但能看见纹路）的腹肌
-    wikiURL: https://danbooru.donmai.us/wiki_pages/covered_abs.html
   lifting another's clothes:
     name: lifting another's clothes
     wikiURL: https://danbooru.donmai.us/wiki_pages/lifting_another's_clothes.html
@@ -3401,9 +3131,6 @@ content:
   '2020':
     name: '2020'
     wikiURL: https://danbooru.donmai.us/wiki_pages/2020.html
-  very long sleeves:
-    name: 很长的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/very_long_sleeves.html
   arch:
     name: 拱（建筑）
     wikiURL: https://danbooru.donmai.us/wiki_pages/arch.html
@@ -3611,9 +3338,6 @@ content:
   typo:
     name: 印刷错误
     wikiURL: https://danbooru.donmai.us/wiki_pages/typo.html
-  uneven sleeves:
-    name: 不均匀的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/uneven_sleeves.html
   reflective floor:
     name: 反光地板
     wikiURL: https://danbooru.donmai.us/wiki_pages/reflective_floor.html
@@ -3794,9 +3518,6 @@ content:
   hexagram:
     name: 六角星
     wikiURL: https://danbooru.donmai.us/wiki_pages/hexagram.html
-  grey sleeves:
-    name: 灰色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_sleeves.html
   insignia:
     name: 证章
     wikiURL: https://danbooru.donmai.us/wiki_pages/insignia.html
@@ -3838,9 +3559,6 @@ content:
   basketball:
     name: 篮球
     wikiURL: https://danbooru.donmai.us/wiki_pages/basketball.html
-  red trim:
-    name: 红色装饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_trim.html
   vending machine:
     name: 自动售货机
     wikiURL: https://danbooru.donmai.us/wiki_pages/vending_machine.html
@@ -3914,12 +3632,6 @@ content:
   traditional nun:
     name: traditional nun
     wikiURL: https://danbooru.donmai.us/wiki_pages/traditional_nun.html
-  mole under each eye:
-    name: mole under each eye
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_under_each_eye.html
-  lace-trimmed sleeves:
-    name: 蕾丝边袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_sleeves.html
   power symbol:
     name: 电源符号
     wikiURL: https://danbooru.donmai.us/wiki_pages/power_symbol.html
@@ -3998,11 +3710,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/whisk.html
     alias:
     - eggbeater
-  product placement:
-    name: 植入广告
-    wikiURL: https://danbooru.donmai.us/wiki_pages/product_placement.html
-    alias:
-    - brand name
   constellation print:
     name: 星座打印
     wikiURL: https://danbooru.donmai.us/wiki_pages/constellation_print.html
@@ -4116,13 +3823,6 @@ content:
   champion's tunic (zelda):
     name: champion's tunic (zelda)
     wikiURL: https://danbooru.donmai.us/wiki_pages/champion's_tunic_(zelda).html
-  sweatband:
-    name: 吸汗带
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sweatband.html
-    alias:
-    - sweat band
-    - sweat bands
-    - sweatbands
   wooden bucket:
     name: 木桶
     wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_bucket.html
@@ -4179,12 +3879,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling.html
     alias:
     - tickle
-  spoken sweatdrop:
-    name: 表(流汗)无语的会话气泡
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_sweatdrop.html
-  buttoned cuffs:
-    name: buttoned cuffs
-    wikiURL: https://danbooru.donmai.us/wiki_pages/buttoned_cuffs.html
   tactical clothes:
     name: 战术服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/tactical_clothes.html
@@ -4198,9 +3892,6 @@ content:
   painterly:
     name: 绘画般的
     wikiURL: https://danbooru.donmai.us/wiki_pages/painterly.html
-  3others:
-    name: 3其他
-    wikiURL: https://danbooru.donmai.us/wiki_pages/3others.html
   censored identity:
     name: censored identity
     wikiURL: https://danbooru.donmai.us/wiki_pages/censored_identity.html
@@ -4225,9 +3916,6 @@ content:
   holly:
     name: 冬青
     wikiURL: https://danbooru.donmai.us/wiki_pages/holly.html
-  shower (place):
-    name: 淋浴（处）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shower_(place).html
   scepter:
     name: 笏
     wikiURL: https://danbooru.donmai.us/wiki_pages/scepter.html
@@ -4311,9 +3999,6 @@ content:
     alias:
     - chip (poker)
     - poker chips
-  small sweatdrop:
-    name: small sweatdrop
-    wikiURL: https://danbooru.donmai.us/wiki_pages/small_sweatdrop.html
   menu:
     name: 菜单
     wikiURL: https://danbooru.donmai.us/wiki_pages/menu.html
@@ -4426,15 +4111,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/mini-hakkero.html
     alias:
     - mini hakkero
-  shoelaces:
-    name: 鞋带
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shoelaces.html
   blue brooch:
     name: 蓝色胸针
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_brooch.html
-  blue tongue:
-    name: 蓝舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_tongue.html
   group picture:
     name: 画面中有一群人
     wikiURL: https://danbooru.donmai.us/wiki_pages/group_picture.html
@@ -4504,9 +4183,6 @@ content:
   notepad:
     name: 便条簿
     wikiURL: https://danbooru.donmai.us/wiki_pages/notepad.html
-  multiple piercings:
-    name: 多个穿孔
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_piercings.html
   birthmark:
     name: 胎记
     wikiURL: https://danbooru.donmai.us/wiki_pages/birthmark.html
@@ -4594,9 +4270,6 @@ content:
     alias:
     - ammo pouch
     - magazine pouch
-  low neckline:
-    name: 低领口
-    wikiURL: https://danbooru.donmai.us/wiki_pages/low_neckline.html
   pixiv username:
     name: pixiv用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/pixiv_username.html
@@ -4814,9 +4487,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/simplified_chinese_text.html
     alias:
     - simplified chinese
-  yellow sleeves:
-    name: 黄色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_sleeves.html
   mahjong:
     name: 麻将
     wikiURL: https://danbooru.donmai.us/wiki_pages/mahjong.html
@@ -4834,9 +4504,6 @@ content:
   glutton:
     name: 馋嘴
     wikiURL: https://danbooru.donmai.us/wiki_pages/glutton.html
-  white trim:
-    name: 白色饰边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_trim.html
   lion boy:
     name: 狮子男孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/lion_boy.html
@@ -5006,9 +4673,6 @@ content:
   ryona:
     name: 被重度(性)虐待的女性
     wikiURL: https://danbooru.donmai.us/wiki_pages/ryona.html
-  mole on cheek:
-    name: 脸颊上的痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_cheek.html
   eagle:
     name: 鹰
     wikiURL: https://danbooru.donmai.us/wiki_pages/eagle.html
@@ -5046,11 +4710,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_nails.html
     alias:
     - grey fingernails
-  full-length zipper:
-    name: 有整件衣物长的拉链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/full-length_zipper.html
-    alias:
-    - full length zipper
   bendy straw:
     name: 弯折的吸管
     wikiURL: https://danbooru.donmai.us/wiki_pages/bendy_straw.html
@@ -5071,9 +4730,6 @@ content:
   gamepad:
     name: 游戏手柄
     wikiURL: https://danbooru.donmai.us/wiki_pages/gamepad.html
-  multiple bracelets:
-    name: 多个手镯
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_bracelets.html
   lube:
     name: 润滑油
     wikiURL: https://danbooru.donmai.us/wiki_pages/lube.html
@@ -5102,9 +4758,6 @@ content:
   concert:
     name: 音乐会
     wikiURL: https://danbooru.donmai.us/wiki_pages/concert.html
-  fur-trimmed shorts:
-    name: 毛边短裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_shorts.html
   sidesaddle:
     name: 侧坐在鞍上
     wikiURL: https://danbooru.donmai.us/wiki_pages/sidesaddle.html
@@ -5148,9 +4801,6 @@ content:
   white lily:
     name: 白百合
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_lily.html
-  mismatched sleeves:
-    name: 不匹配的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_sleeves.html
   art tools in frame:
     name: art tools in frame
     wikiURL: https://danbooru.donmai.us/wiki_pages/art_tools_in_frame.html
@@ -5168,9 +4818,6 @@ content:
   cactus:
     name: 仙人掌
     wikiURL: https://danbooru.donmai.us/wiki_pages/cactus.html
-  sweaty clothes:
-    name: 汗湿的衣服
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sweaty_clothes.html
   head only:
     name: 仅头部
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_only.html
@@ -5227,9 +4874,6 @@ content:
   orange pantyhose:
     name: 橙色裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_pantyhose.html
-  wiping sweat:
-    name: 擦汗
-    wikiURL: https://danbooru.donmai.us/wiki_pages/wiping_sweat.html
   sakuramon:
     name: 樱花门
     wikiURL: https://danbooru.donmai.us/wiki_pages/sakuramon.html
@@ -5565,9 +5209,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/wrist_wrap.html
     alias:
     - wrist wraps
-  mole above mouth:
-    name: 嘴巴上方的痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_above_mouth.html
   oven mitts:
     name: 隔热手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/oven_mitts.html
@@ -5630,11 +5271,6 @@ content:
   just the tip:
     name: 只是冰山一角
     wikiURL: https://danbooru.donmai.us/wiki_pages/just_the_tip.html
-  pinching sleeves:
-    name: 掐袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pinching_sleeves.html
-    alias:
-    - sleeve hold
   bilingual:
     name: 双语
     wikiURL: https://danbooru.donmai.us/wiki_pages/bilingual.html
@@ -5815,9 +5451,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_wrist_cuff.html
     alias:
     - single wristcuff
-  orange sleeves:
-    name: 橙色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sleeves.html
   gem (symbol):
     name: 钻石（表情符号） 钻石（符号）
     wikiURL: https://danbooru.donmai.us/wiki_pages/gem_(symbol).html
@@ -5850,9 +5483,6 @@ content:
   kepi:
     name: 凯皮
     wikiURL: https://danbooru.donmai.us/wiki_pages/kepi.html
-  mole on stomach:
-    name: 肚子上的痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_stomach.html
   yarn:
     name: 毛线
     wikiURL: https://danbooru.donmai.us/wiki_pages/yarn.html
@@ -5897,9 +5527,6 @@ content:
   comparison:
     name: 对比图
     wikiURL: https://danbooru.donmai.us/wiki_pages/comparison.html
-  silver trim:
-    name: 银色镶边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_trim.html
   easel:
     name: 画架
     wikiURL: https://danbooru.donmai.us/wiki_pages/easel.html
@@ -5943,9 +5570,6 @@ content:
     alias:
     - transformation sequence
     - transformationsequence
-  front slit:
-    name: 前开衩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/front_slit.html
   onesie:
     name: 连体衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/onesie.html
@@ -5963,11 +5587,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/struggling.html
     alias:
     - struggle
-  multiple heads:
-    name: 多头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_heads.html
-    alias:
-    - extra heads
   spoiler (automobile):
     name: 扰流板（汽车）
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoiler_(automobile).html
@@ -6147,9 +5766,6 @@ content:
   hanten (clothes):
     name: 袢缠
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanten_(clothes).html
-  side slit shorts:
-    name: 侧开衩短裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/side_slit_shorts.html
   title parody:
     name: 模仿标题风格
     wikiURL: https://danbooru.donmai.us/wiki_pages/title_parody.html
@@ -6412,12 +6028,6 @@ content:
   purple pupils:
     name: 紫色瞳孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_pupils.html
-  purple tongue:
-    name: 紫舌
-    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_tongue.html
-  blue trim:
-    name: 蓝色装饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_trim.html
   cd:
     name: 光碟
     wikiURL: https://danbooru.donmai.us/wiki_pages/cd.html
@@ -6427,9 +6037,6 @@ content:
   segmented comic:
     name: segmented comic
     wikiURL: https://danbooru.donmai.us/wiki_pages/segmented_comic.html
-  square neckline:
-    name: 方领
-    wikiURL: https://danbooru.donmai.us/wiki_pages/square_neckline.html
   motherly:
     name: 母性
     wikiURL: https://danbooru.donmai.us/wiki_pages/motherly.html
@@ -6577,9 +6184,6 @@ content:
   rayman limbs:
     name: rayman limbs
     wikiURL: https://danbooru.donmai.us/wiki_pages/rayman_limbs.html
-  print sleeves:
-    name: 印花袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/print_sleeves.html
   alphes (style):
     name: 阿尔卑斯风格
     wikiURL: https://danbooru.donmai.us/wiki_pages/alphes_(style).html
@@ -6598,9 +6202,6 @@ content:
   wall of text:
     name: 文字背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/wall_of_text.html
-  yellow trim:
-    name: yellow trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_trim.html
   infinity symbol:
     name: infinity symbol
     wikiURL: https://danbooru.donmai.us/wiki_pages/infinity_symbol.html
@@ -6644,9 +6245,6 @@ content:
   in palm:
     name: 在掌中
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_palm.html
-  puff and slash sleeves:
-    name: 斜纹泡泡袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/puff_and_slash_sleeves.html
   hammock:
     name: 吊床
     wikiURL: https://danbooru.donmai.us/wiki_pages/hammock.html
@@ -6998,9 +6596,6 @@ content:
   mummy:
     name: 木乃伊
     wikiURL: https://danbooru.donmai.us/wiki_pages/mummy.html
-  4others:
-    name: 其他4人
-    wikiURL: https://danbooru.donmai.us/wiki_pages/4others.html
   net:
     name: 网
     wikiURL: https://danbooru.donmai.us/wiki_pages/net.html
@@ -7099,12 +6694,6 @@ content:
   milky way:
     name: 银河系
     wikiURL: https://danbooru.donmai.us/wiki_pages/milky_way.html
-  popped button:
-    name: button pop 弹出式按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/popped_button.html
-    alias:
-    - button pop
-    - popped buttons
   duckling:
     name: 小鸭子
     wikiURL: https://danbooru.donmai.us/wiki_pages/duckling.html
@@ -7141,9 +6730,6 @@ content:
   red wine:
     name: 红葡萄酒
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_wine.html
-  multiple torii:
-    name: 多个牌坊
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_torii.html
   leotard peek:
     name: 紧身连衣裤偷看
     wikiURL: https://danbooru.donmai.us/wiki_pages/leotard_peek.html
@@ -7206,9 +6792,6 @@ content:
   gauze on cheek:
     name: gauze on cheek
     wikiURL: https://danbooru.donmai.us/wiki_pages/gauze_on_cheek.html
-  no mole:
-    name: 没有痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/no_mole.html
   massage:
     name: 按摩
     wikiURL: https://danbooru.donmai.us/wiki_pages/massage.html
@@ -7261,11 +6844,6 @@ content:
     alias:
     - police-man
     - police man
-  multiple riders:
-    name: 多人骑着车
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_riders.html
-    alias:
-    - riding double
   eyelash ornament:
     name: 睫毛饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/eyelash_ornament.html
@@ -7774,9 +7352,6 @@ content:
   math:
     name: 数学
     wikiURL: https://danbooru.donmai.us/wiki_pages/math.html
-  absolutely everyone:
-    name: 大合影|全家福
-    wikiURL: https://danbooru.donmai.us/wiki_pages/absolutely_everyone.html
   paint on clothes:
     name: 在衣服上作画
     wikiURL: https://danbooru.donmai.us/wiki_pages/paint_on_clothes.html
@@ -8110,9 +7685,6 @@ content:
   paw print pattern:
     name: 爪印图案
     wikiURL: https://danbooru.donmai.us/wiki_pages/paw_print_pattern.html
-  pink trim:
-    name: 粉色饰边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_trim.html
   digital dissolve:
     name: 化成数据般消失
     wikiURL: https://danbooru.donmai.us/wiki_pages/digital_dissolve.html
@@ -8351,9 +7923,6 @@ content:
   '2007':
     name: '2007'
     wikiURL: https://danbooru.donmai.us/wiki_pages/2007.html
-  fur-trimmed leotard:
-    name: 毛皮边紧身连衣裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_leotard.html
   polaroid photo:
     name: polaroid photo
     wikiURL: https://danbooru.donmai.us/wiki_pages/polaroid_photo.html
@@ -8371,9 +7940,6 @@ content:
   bun with braided base:
     name: bun with braided base
     wikiURL: https://danbooru.donmai.us/wiki_pages/bun_with_braided_base.html
-  aqua sleeves:
-    name: 水袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_sleeves.html
   blob:
     name: 斑点
     wikiURL: https://danbooru.donmai.us/wiki_pages/blob.html
@@ -8552,9 +8118,6 @@ content:
   white bandana:
     name: 白头巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_bandana.html
-  lace sleeves:
-    name: 蕾丝袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_sleeves.html
   breaker gorgon:
     name: breaker gorgon
     wikiURL: https://danbooru.donmai.us/wiki_pages/breaker_gorgon.html
@@ -8754,9 +8317,6 @@ content:
   country connection:
     name: 国家联系
     wikiURL: https://danbooru.donmai.us/wiki_pages/country_connection.html
-  very long tongue:
-    name: 很长的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/very_long_tongue.html
   price tag:
     name: 价格标签
     wikiURL: https://danbooru.donmai.us/wiki_pages/price_tag.html
@@ -8789,9 +8349,6 @@ content:
   baking:
     name: 烘烤
     wikiURL: https://danbooru.donmai.us/wiki_pages/baking.html
-  aqua trim:
-    name: aqua trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_trim.html
   worm:
     name: 蠕虫
     wikiURL: https://danbooru.donmai.us/wiki_pages/worm.html
@@ -8878,9 +8435,6 @@ content:
   kadomatsu:
     name: 门松
     wikiURL: https://danbooru.donmai.us/wiki_pages/kadomatsu.html
-  mole above eye:
-    name: 眼睛上方的痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_above_eye.html
   squeezing:
     name: 挤
     wikiURL: https://danbooru.donmai.us/wiki_pages/squeezing.html
@@ -9248,9 +8802,6 @@ content:
   awning:
     name: 棚
     wikiURL: https://danbooru.donmai.us/wiki_pages/awning.html
-  object in pocket:
-    name: object in pocket
-    wikiURL: https://danbooru.donmai.us/wiki_pages/object_in_pocket.html
   can't be this cute:
     name: 俺妹元素
     wikiURL: https://danbooru.donmai.us/wiki_pages/can't_be_this_cute.html
@@ -9366,11 +8917,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/seraph.html
     alias:
     - seraphim
-  stomach growling:
-    name: 肚子咕咕叫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_growling.html
-    alias:
-    - stomach growl
   flagpole:
     name: 旗杆
     wikiURL: https://danbooru.donmai.us/wiki_pages/flagpole.html
@@ -9580,9 +9126,6 @@ content:
     alias:
     - inside spacecraft
     - space craft interior
-  black trim:
-    name: black trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_trim.html
   u.n. spacy:
     name: 不宽敞
     wikiURL: https://danbooru.donmai.us/wiki_pages/u.n._spacy.html
@@ -9833,9 +9376,6 @@ content:
   taichou haori:
     name: 太极外罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/taichou_haori.html
-  5others:
-    name: 5人
-    wikiURL: https://danbooru.donmai.us/wiki_pages/5others.html
   glory hole:
     name: 寻欢洞
     wikiURL: https://danbooru.donmai.us/wiki_pages/glory_hole.html
@@ -9877,9 +9417,6 @@ content:
   russian flag:
     name: 俄罗斯国旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/russian_flag.html
-  lace border:
-    name: 花边边框
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_border.html
   stapler:
     name: 订书机
     wikiURL: https://danbooru.donmai.us/wiki_pages/stapler.html
@@ -9900,9 +9437,6 @@ content:
   simulacrum (titanfall):
     name: 模拟物（泰坦陨落）
     wikiURL: https://danbooru.donmai.us/wiki_pages/simulacrum_(titanfall).html
-  green trim:
-    name: 绿色装饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/green_trim.html
   fabulous:
     name: 极好
     wikiURL: https://danbooru.donmai.us/wiki_pages/fabulous.html
@@ -10048,9 +9582,6 @@ content:
   mimic chest:
     name: 模仿胸部
     wikiURL: https://danbooru.donmai.us/wiki_pages/mimic_chest.html
-  purple trim:
-    name: 紫色饰边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_trim.html
   inseki:
     name: inseki
     wikiURL: https://danbooru.donmai.us/wiki_pages/inseki.html
@@ -10208,9 +9739,6 @@ content:
   lemon print:
     name: 柠檬印花
     wikiURL: https://danbooru.donmai.us/wiki_pages/lemon_print.html
-  multiple monitors:
-    name: 多个显示器
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_monitors.html
   blue corset:
     name: 蓝色紧身胸衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_corset.html
@@ -10274,9 +9802,6 @@ content:
   kite:
     name: 风筝
     wikiURL: https://danbooru.donmai.us/wiki_pages/kite.html
-  green tongue:
-    name: 绿色的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/green_tongue.html
   tenga:
     name: 腾加
     wikiURL: https://danbooru.donmai.us/wiki_pages/tenga.html
@@ -10505,9 +10030,6 @@ content:
   short braid:
     name: 短辫子
     wikiURL: https://danbooru.donmai.us/wiki_pages/short_braid.html
-  furisode sleeves:
-    name: furisode sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/furisode_sleeves.html
   nunchaku:
     name: 双节棍
     wikiURL: https://danbooru.donmai.us/wiki_pages/nunchaku.html
@@ -10772,7 +10294,7 @@ content:
     name: 收养
     wikiURL: https://danbooru.donmai.us/wiki_pages/for_adoption.html
   autofacial:
-    name: 自动面部护理
+    name: 自我颜射
     wikiURL: https://danbooru.donmai.us/wiki_pages/autofacial.html
     alias:
     - self facial
@@ -10847,9 +10369,6 @@ content:
   print leotard:
     name: 印花紧身衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_leotard.html
-  pleated sleeves:
-    name: 百褶袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pleated_sleeves.html
   buttjob over clothes:
     name: buttjob over clothes
     wikiURL: https://danbooru.donmai.us/wiki_pages/buttjob_over_clothes.html
@@ -10937,9 +10456,6 @@ content:
   throat bulge:
     name: 喉咙肿胀
     wikiURL: https://danbooru.donmai.us/wiki_pages/throat_bulge.html
-  plaid trim:
-    name: 格子饰边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_trim.html
   delivery:
     name: 送货
     wikiURL: https://danbooru.donmai.us/wiki_pages/delivery.html
@@ -11007,9 +10523,6 @@ content:
   garlean:
     name: 伽利略
     wikiURL: https://danbooru.donmai.us/wiki_pages/garlean.html
-  gradient sleeves:
-    name: 渐变袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_sleeves.html
   kung fu:
     name: 功夫
     wikiURL: https://danbooru.donmai.us/wiki_pages/kung_fu.html
@@ -11040,9 +10553,6 @@ content:
   italy:
     name: 意大利
     wikiURL: https://danbooru.donmai.us/wiki_pages/italy.html
-  two-tone sleeves:
-    name: 双色袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_sleeves.html
   youtube logo:
     name: youtube 标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/youtube_logo.html
@@ -11297,9 +10807,6 @@ content:
   rejection:
     name: 拒绝
     wikiURL: https://danbooru.donmai.us/wiki_pages/rejection.html
-  plaid sleeves:
-    name: 格子袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_sleeves.html
   paint roller:
     name: 滚筒刷
     wikiURL: https://danbooru.donmai.us/wiki_pages/paint_roller.html
@@ -11338,9 +10845,6 @@ content:
   wave print:
     name: 波浪印花
     wikiURL: https://danbooru.donmai.us/wiki_pages/wave_print.html
-  tongue grab:
-    name: 舌头抓
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_grab.html
   recursion:
     name: 德罗斯特效应
     wikiURL: https://danbooru.donmai.us/wiki_pages/recursion.html
@@ -11567,12 +11071,6 @@ content:
   purple sarong:
     name: 紫色围裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_sarong.html
-  push-button:
-    name: 瞬时开关按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/push-button.html
-    alias:
-    - momentary switch
-    - pushbutton
   rectangular pupils:
     name: 长方形瞳孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/rectangular_pupils.html
@@ -11635,9 +11133,6 @@ content:
   axolotl:
     name: 蝾螈
     wikiURL: https://danbooru.donmai.us/wiki_pages/axolotl.html
-  zipper leotard:
-    name: 拉链紧身衣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_leotard.html
   mons pubis:
     name: 阴阜
     wikiURL: https://danbooru.donmai.us/wiki_pages/mons_pubis.html
@@ -11756,9 +11251,6 @@ content:
   lofter username:
     name: 阁楼用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/lofter_username.html
-  pleated shorts:
-    name: 百褶短裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pleated_shorts.html
   headbutt:
     name: 头撞
     wikiURL: https://danbooru.donmai.us/wiki_pages/headbutt.html
@@ -11804,9 +11296,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/electrodes.html
     alias:
     - electrode (object)
-  multicolored buttons:
-    name: 多彩多姿的按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_buttons.html
   ostrich:
     name: 鸵鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/ostrich.html
@@ -11869,11 +11358,6 @@ content:
   blue bandeau:
     name: 蓝色抹胸
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_bandeau.html
-  full stomach:
-    name: 饱腹
-    wikiURL: https://danbooru.donmai.us/wiki_pages/full_stomach.html
-    alias:
-    - stuffed stomach
   icon (computing):
     name: 图标图标
     wikiURL: https://danbooru.donmai.us/wiki_pages/icon_(computing).html
@@ -12116,9 +11600,6 @@ content:
   buckler:
     name: 圆盾
     wikiURL: https://danbooru.donmai.us/wiki_pages/buckler.html
-  yellow tongue:
-    name: 黄色的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_tongue.html
   sharp sign:
     name: 尖锐的标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/sharp_sign.html
@@ -12349,9 +11830,6 @@ content:
   diary:
     name: 日记
     wikiURL: https://danbooru.donmai.us/wiki_pages/diary.html
-  lace-up:
-    name: 花边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up.html
   warp pipe:
     name: 经管
     wikiURL: https://danbooru.donmai.us/wiki_pages/warp_pipe.html
@@ -12369,9 +11847,6 @@ content:
   hirabitai:
     name: 平田
     wikiURL: https://danbooru.donmai.us/wiki_pages/hirabitai.html
-  bandaid on stomach:
-    name: 肚子上的创可贴
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bandaid_on_stomach.html
   pincers:
     name: 钳
     wikiURL: https://danbooru.donmai.us/wiki_pages/pincers.html
@@ -12581,9 +12056,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/giant_brush.html
     alias:
     - giant paintbrush
-  no detached sleeves:
-    name: 没有分开的袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/no_detached_sleeves.html
   anatomy:
     name: 解剖学
     wikiURL: https://danbooru.donmai.us/wiki_pages/anatomy.html
@@ -12690,9 +12162,6 @@ content:
   alternate design:
     name: 替代设计
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_design.html
-  pocket square:
-    name: 口袋方巾
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pocket_square.html
   s.e.e.s:
     name: 看见
     wikiURL: https://danbooru.donmai.us/wiki_pages/s.e.e.s.html
@@ -12755,13 +12224,6 @@ content:
   grandfather and granddaughter:
     name: 祖父和孙女
     wikiURL: https://danbooru.donmai.us/wiki_pages/grandfather_and_granddaughter.html
-  stomach punch:
-    name: 肠道冲孔哈拉潘冲到胃
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_punch.html
-    alias:
-    - gut punch
-    - harapan
-    - punch to stomach
   jaw drop:
     name: 下巴掉落
     wikiURL: https://danbooru.donmai.us/wiki_pages/jaw_drop.html
@@ -12831,9 +12293,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/too_bad!_it_was_just_me!_(meme).html
     alias:
     - too bad! it was just me!
-  bell sleeves:
-    name: 喇叭袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bell_sleeves.html
   guan dao:
     name: 关岛
     wikiURL: https://danbooru.donmai.us/wiki_pages/guan_dao.html
@@ -12882,9 +12341,6 @@ content:
   clumsy:
     name: 笨拙
     wikiURL: https://danbooru.donmai.us/wiki_pages/clumsy.html
-  large buttons:
-    name: 大按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/large_buttons.html
   black blood:
     name: 黑血
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_blood.html
@@ -12906,9 +12362,6 @@ content:
   south korean flag:
     name: 韩国国旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/south_korean_flag.html
-  laces:
-    name: 鞋带
-    wikiURL: https://danbooru.donmai.us/wiki_pages/laces.html
   sled:
     name: 雪橇
     wikiURL: https://danbooru.donmai.us/wiki_pages/sled.html
@@ -12950,9 +12403,6 @@ content:
   charger:
     name: 充电器
     wikiURL: https://danbooru.donmai.us/wiki_pages/charger.html
-  fur-trimmed mittens:
-    name: 毛边连指手套
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_mittens.html
   irony:
     name: 讽刺
     wikiURL: https://danbooru.donmai.us/wiki_pages/irony.html
@@ -13177,9 +12627,6 @@ content:
   asmr:
     name: 自主感官经络反应
     wikiURL: https://danbooru.donmai.us/wiki_pages/asmr.html
-  tonguejob:
-    name: 舌头工作
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tonguejob.html
   frozen frog:
     name: 冷冻青蛙
     wikiURL: https://danbooru.donmai.us/wiki_pages/frozen_frog.html
@@ -13239,9 +12686,6 @@ content:
   octagram:
     name: 八角星
     wikiURL: https://danbooru.donmai.us/wiki_pages/octagram.html
-  multicolored sleeves:
-    name: 五彩袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_sleeves.html
   humming:
     name: 嗡嗡作响
     wikiURL: https://danbooru.donmai.us/wiki_pages/humming.html
@@ -13690,9 +13134,6 @@ content:
   e16a zuiun:
     name: e16a瑞云
     wikiURL: https://danbooru.donmai.us/wiki_pages/e16a_zuiun.html
-  prehensile tongue:
-    name: 抓握的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/prehensile_tongue.html
   circuit board:
     name: 电路板
     wikiURL: https://danbooru.donmai.us/wiki_pages/circuit_board.html
@@ -14048,9 +13489,6 @@ content:
   broken plate:
     name: 破板
     wikiURL: https://danbooru.donmai.us/wiki_pages/broken_plate.html
-  lace-up top:
-    name: 系带上衣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up_top.html
   double bass:
     name: 低音提琴
     wikiURL: https://danbooru.donmai.us/wiki_pages/double_bass.html
@@ -14092,9 +13530,6 @@ content:
   three sizes:
     name: 三种尺寸
     wikiURL: https://danbooru.donmai.us/wiki_pages/three_sizes.html
-  fur sleeves:
-    name: 皮袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur_sleeves.html
   super famicom:
     name: 超级任天堂
     wikiURL: https://danbooru.donmai.us/wiki_pages/super_famicom.html
@@ -14151,9 +13586,6 @@ content:
   ppsh-41:
     name: ppsh-41
     wikiURL: https://danbooru.donmai.us/wiki_pages/ppsh-41.html
-  unbuttoning:
-    name: 解扣子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoning.html
   blizzard:
     name: 暴风雪
     wikiURL: https://danbooru.donmai.us/wiki_pages/blizzard.html
@@ -14431,18 +13863,12 @@ content:
   excalibur (fate/prototype):
     name: 神剑（命运/原型）
     wikiURL: https://danbooru.donmai.us/wiki_pages/excalibur_(fate/prototype).html
-  trim brush:
-    name: 修剪刷
-    wikiURL: https://danbooru.donmai.us/wiki_pages/trim_brush.html
   color switch:
     name: 颜色开关
     wikiURL: https://danbooru.donmai.us/wiki_pages/color_switch.html
   culottes:
     name: 裙裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/culottes.html
-  thumb in pocket:
-    name: 拇指放在口袋里
-    wikiURL: https://danbooru.donmai.us/wiki_pages/thumb_in_pocket.html
   stuffed dinosaur:
     name: 毛绒恐龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/stuffed_dinosaur.html
@@ -15153,9 +14579,6 @@ content:
   triple amputee:
     name: 三重截肢者
     wikiURL: https://danbooru.donmai.us/wiki_pages/triple_amputee.html
-  orange tongue:
-    name: 橙色的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tongue.html
   dot pupils:
     name: 点瞳孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/dot_pupils.html
@@ -15216,9 +14639,6 @@ content:
   uroko (pattern):
     name: 乌罗科（图案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/uroko_(pattern).html
-  oversized zipper:
-    name: 超大拉链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_zipper.html
   uraeus:
     name: 葡萄球菌
     wikiURL: https://danbooru.donmai.us/wiki_pages/uraeus.html
@@ -15266,9 +14686,6 @@ content:
   on toilet:
     name: 在马桶上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_toilet.html
-  tongue tattoo:
-    name: 舌头纹身
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_tattoo.html
   ice cream cone spill:
     name: 冰淇淋甜筒溢出
     wikiURL: https://danbooru.donmai.us/wiki_pages/ice_cream_cone_spill.html
@@ -15755,9 +15172,6 @@ content:
   bokutachi wa hitotsu no hikari:
     name: bokutachi wa hitotsu no hikari
     wikiURL: https://danbooru.donmai.us/wiki_pages/bokutachi_wa_hitotsu_no_hikari.html
-  mole on back:
-    name: 背上有痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_back.html
   lounging:
     name: 闲逛
     wikiURL: https://danbooru.donmai.us/wiki_pages/lounging.html
@@ -15956,9 +15370,6 @@ content:
   pouncing:
     name: 猛扑
     wikiURL: https://danbooru.donmai.us/wiki_pages/pouncing.html
-  lace-trimmed eyepatch:
-    name: 蕾丝边饰眼罩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_eyepatch.html
   zebra:
     name: 斑马
     wikiURL: https://danbooru.donmai.us/wiki_pages/zebra.html
@@ -16036,9 +15447,6 @@ content:
   moe2021:
     name: 萌2021
     wikiURL: https://danbooru.donmai.us/wiki_pages/moe2021.html
-  polka dot trim:
-    name: 圆点饰边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_trim.html
   jet ski:
     name: 摩托艇
     wikiURL: https://danbooru.donmai.us/wiki_pages/jet_ski.html
@@ -16168,9 +15576,6 @@ content:
   multicolored neckerchief:
     name: 五彩围巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_neckerchief.html
-  licking stomach:
-    name: 舔肚子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/licking_stomach.html
   desert camouflage:
     name: 巧克力片（迷彩）
     wikiURL: https://danbooru.donmai.us/wiki_pages/desert_camouflage.html
@@ -16479,9 +15884,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/drakeposting_(meme).html
     alias:
     - drakeposting
-  fur-trimmed bra:
-    name: 毛边文胸
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_bra.html
   purple babydoll:
     name: 紫色娃娃装
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_babydoll.html
@@ -16606,29 +16008,15 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/beyond_the_nobles_(idolmaster).html
     alias:
     - beyond the nobles
-  lace-trimmed camisole:
-    name: 蕾丝边吊带背心
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_camisole.html
   lotus pod:
     name: 莲蓬
     wikiURL: https://danbooru.donmai.us/wiki_pages/lotus_pod.html
   cocoon:
     name: 茧
     wikiURL: https://danbooru.donmai.us/wiki_pages/cocoon.html
-  palace:
-    name: 宫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/palace.html
   shinsengumi (gintama):
     name: 新选组（银魂）
     wikiURL: https://danbooru.donmai.us/wiki_pages/shinsengumi_(gintama).html
-  muscular child:
-    name: 肌肉发达的女性儿童肌肉萝莉肌肉发达的男性儿童肌肉发达的shota
-    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_child.html
-    alias:
-    - muscular female child
-    - muscular loli
-    - muscular male child
-    - muscular shota
   sapling:
     name: 树苗
     wikiURL: https://danbooru.donmai.us/wiki_pages/sapling.html
@@ -16727,9 +16115,6 @@ content:
   spiked bat:
     name: 尖刺蝙蝠
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_bat.html
-  aqua tongue:
-    name: 水舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_tongue.html
   countdown timer:
     name: 倒计时器
     wikiURL: https://danbooru.donmai.us/wiki_pages/countdown_timer.html
@@ -16765,9 +16150,6 @@ content:
   moped:
     name: 轻便摩托车
     wikiURL: https://danbooru.donmai.us/wiki_pages/moped.html
-  unbuttoned sleeves:
-    name: 解开袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/unbuttoned_sleeves.html
   two-tone neckerchief:
     name: 双色围巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_neckerchief.html
@@ -16803,9 +16185,6 @@ content:
   smoothie:
     name: 奶昔
     wikiURL: https://danbooru.donmai.us/wiki_pages/smoothie.html
-  lace-up sleeves:
-    name: 系带袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up_sleeves.html
   shedding:
     name: 脱落
     wikiURL: https://danbooru.donmai.us/wiki_pages/shedding.html
@@ -16949,9 +16328,6 @@ content:
   droid:
     name: 机器人
     wikiURL: https://danbooru.donmai.us/wiki_pages/droid.html
-  lace-trimmed veil:
-    name: 蕾丝边饰面纱
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_veil.html
   taser:
     name: 泰瑟枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/taser.html
@@ -17202,9 +16578,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/nail_biting.html
     alias:
     - nail bite
-  black tongue:
-    name: 黑舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_tongue.html
   imminent bestiality:
     name: 迫在眉睫的兽交
     wikiURL: https://danbooru.donmai.us/wiki_pages/imminent_bestiality.html
@@ -17247,9 +16620,6 @@ content:
   mg34:
     name: 毫克34
     wikiURL: https://danbooru.donmai.us/wiki_pages/mg34.html
-  buttoning:
-    name: 扣扣子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/buttoning.html
   white loincloth:
     name: 白色缠腰布
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_loincloth.html
@@ -17550,9 +16920,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/kcco_(girls'_frontline).html
     alias:
     - kcco (girls frontline)
-  mole on nose:
-    name: 鼻子上的痣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_nose.html
   all-out attack:
     name: 全力出击
     wikiURL: https://danbooru.donmai.us/wiki_pages/all-out_attack.html
@@ -17572,9 +16939,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/volkswagen_beetle.html
     alias:
     - volkswagen type 1
-  multiple halos:
-    name: 多重光晕
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_halos.html
   chullo:
     name: 初洛
     wikiURL: https://danbooru.donmai.us/wiki_pages/chullo.html
@@ -17607,9 +16971,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/electronic_cigarette.html
     alias:
     - vape
-  grey tongue:
-    name: 灰色的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_tongue.html
   stuffed cow:
     name: 毛绒牛
     wikiURL: https://danbooru.donmai.us/wiki_pages/stuffed_cow.html
@@ -17689,7 +17050,7 @@ content:
     name: 刀具
     wikiURL: https://danbooru.donmai.us/wiki_pages/cutlery.html
   no nut november:
-    name: 十一月没有坚果
+    name: 禁欲月 (无射精十一月)
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_nut_november.html
   snail shell:
     name: 蜗牛壳
@@ -17706,9 +17067,6 @@ content:
   male spitroast:
     name: 雄性烤肉
     wikiURL: https://danbooru.donmai.us/wiki_pages/male_spitroast.html
-  slit throat:
-    name: 割喉
-    wikiURL: https://danbooru.donmai.us/wiki_pages/slit_throat.html
   photocopier:
     name: 复印机复印机
     wikiURL: https://danbooru.donmai.us/wiki_pages/photocopier.html
@@ -17721,9 +17079,6 @@ content:
   orange buruma:
     name: 橙色布鲁玛
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_buruma.html
-  rolling sleeves up:
-    name: 挽起袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/rolling_sleeves_up.html
   ventilation shaft:
     name: 通风井
     wikiURL: https://danbooru.donmai.us/wiki_pages/ventilation_shaft.html
@@ -17971,9 +17326,6 @@ content:
   nintendo 64:
     name: 任天堂 64
     wikiURL: https://danbooru.donmai.us/wiki_pages/nintendo_64.html
-  multiple fusions:
-    name: 多重融合
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_fusions.html
   coal:
     name: 煤炭
     wikiURL: https://danbooru.donmai.us/wiki_pages/coal.html
@@ -18050,9 +17402,6 @@ content:
   melon slice:
     name: 瓜片
     wikiURL: https://danbooru.donmai.us/wiki_pages/melon_slice.html
-  motion slit:
-    name: 运动狭缝
-    wikiURL: https://danbooru.donmai.us/wiki_pages/motion_slit.html
   rhinoceros girl:
     name: 犀牛女孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/rhinoceros_girl.html
@@ -18107,9 +17456,6 @@ content:
   print neckerchief:
     name: 印花围巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_neckerchief.html
-  misplaced genitals:
-    name: 错位的生殖器
-    wikiURL: https://danbooru.donmai.us/wiki_pages/misplaced_genitals.html
   arawi keiichi (style):
     name: arawi keiichi （风格）
     wikiURL: https://danbooru.donmai.us/wiki_pages/arawi_keiichi_(style).html
@@ -18201,9 +17547,6 @@ content:
   joui:
     name: joui
     wikiURL: https://danbooru.donmai.us/wiki_pages/joui.html
-  in pocket:
-    name: 在口袋里
-    wikiURL: https://danbooru.donmai.us/wiki_pages/in_pocket.html
   floating screen:
     name: 浮屏
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_screen.html
@@ -18288,9 +17631,6 @@ content:
   nintendo 64 controller:
     name: 任天堂 64 控制器
     wikiURL: https://danbooru.donmai.us/wiki_pages/nintendo_64_controller.html
-  miko embrace:
-    name: 巫女拥抱
-    wikiURL: https://danbooru.donmai.us/wiki_pages/miko_embrace.html
   too many chicks:
     name: 太多小鸡
     wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_chicks.html
@@ -18448,9 +17788,6 @@ content:
   paris:
     name: 巴黎
     wikiURL: https://danbooru.donmai.us/wiki_pages/paris.html
-  polka dot sleeves:
-    name: 圆点袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_sleeves.html
   internet:
     name: 互联网
     wikiURL: https://danbooru.donmai.us/wiki_pages/internet.html
@@ -18589,9 +17926,6 @@ content:
   metronome:
     name: 节拍器
     wikiURL: https://danbooru.donmai.us/wiki_pages/metronome.html
-  head on another's stomach:
-    name: 头靠在别人的肚子上
-    wikiURL: https://danbooru.donmai.us/wiki_pages/head_on_another's_stomach.html
   futakuchi-onna:
     name: 二口女
     wikiURL: https://danbooru.donmai.us/wiki_pages/futakuchi-onna.html
@@ -18630,11 +17964,6 @@ content:
   wet and messy:
     name: 又湿又乱
     wikiURL: https://danbooru.donmai.us/wiki_pages/wet_and_messy.html
-  multiple style parody:
-    name: 风格拼贴
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_style_parody.html
-    alias:
-    - style collage
   in pot:
     name: 在锅里
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_pot.html
@@ -18659,9 +17988,6 @@ content:
   half-soles:
     name: 半底
     wikiURL: https://danbooru.donmai.us/wiki_pages/half-soles.html
-  button prompt:
-    name: 按钮提示
-    wikiURL: https://danbooru.donmai.us/wiki_pages/button_prompt.html
   tinsel:
     name: 箔
     wikiURL: https://danbooru.donmai.us/wiki_pages/tinsel.html
@@ -19018,12 +18344,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/cookie_cutter.html
     alias:
     - cookie cutters
-  placemat:
-    name: 餐垫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/placemat.html
-  stomach (organ):
-    name: 胃（器官）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_(organ).html
   ricocheting:
     name: 弹跳
     wikiURL: https://danbooru.donmai.us/wiki_pages/ricocheting.html
@@ -19036,9 +18356,6 @@ content:
   bloated:
     name: 臃肿的
     wikiURL: https://danbooru.donmai.us/wiki_pages/bloated.html
-  multiple wielding:
-    name: 多持
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_wielding.html
   torn flag:
     name: 破烂的旗帜
     wikiURL: https://danbooru.donmai.us/wiki_pages/torn_flag.html
@@ -19283,9 +18600,6 @@ content:
   argentinian flag:
     name: 阿根廷国旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/argentinian_flag.html
-  biting tongue:
-    name: 咬舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/biting_tongue.html
   pommel tassel:
     name: 鞍头流苏
     wikiURL: https://danbooru.donmai.us/wiki_pages/pommel_tassel.html
@@ -19438,9 +18752,6 @@ content:
   red leather:
     name: 红色皮革
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_leather.html
-  checkered sleeves:
-    name: 格纹袖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_sleeves.html
   cpu:
     name: 中央处理器
     wikiURL: https://danbooru.donmai.us/wiki_pages/cpu.html
@@ -19628,12 +18939,6 @@ content:
   blue apple:
     name: 蓝苹果
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_apple.html
-  lace-trimmed leotard:
-    name: 蕾丝边紧身连衣裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_leotard.html
-  stomach ache:
-    name: 腹痛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_ache.html
   forehead writing:
     name: 额头写字
     wikiURL: https://danbooru.donmai.us/wiki_pages/forehead_writing.html
@@ -19913,9 +19218,6 @@ content:
   jackal:
     name: 豺
     wikiURL: https://danbooru.donmai.us/wiki_pages/jackal.html
-  lace-trimmed shorts:
-    name: 蕾丝边短裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_shorts.html
   toyota 86:
     name: 丰田86
     wikiURL: https://danbooru.donmai.us/wiki_pages/toyota_86.html
@@ -19931,9 +19233,6 @@ content:
   maclone:
     name: 麦克龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/maclone.html
-  place name:
-    name: 地名
-    wikiURL: https://danbooru.donmai.us/wiki_pages/place_name.html
   foam mustache:
     name: 泡沫小胡子
     wikiURL: https://danbooru.donmai.us/wiki_pages/foam_mustache.html
@@ -20025,15 +19324,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/husband_and_wives.html
     alias:
     - husband and wife and wife
-  pill on tongue:
-    name: 舌头上的药丸
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pill_on_tongue.html
   fat joke:
     name: 肥笑话
     wikiURL: https://danbooru.donmai.us/wiki_pages/fat_joke.html
-  back slit:
-    name: 后开衩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/back_slit.html
   predacon:
     name: 捕食者
     wikiURL: https://danbooru.donmai.us/wiki_pages/predacon.html
@@ -20055,9 +19348,6 @@ content:
   graph (object):
     name: 图（对象）
     wikiURL: https://danbooru.donmai.us/wiki_pages/graph_(object).html
-  extra tongue:
-    name: 额外的舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/extra_tongue.html
   taxidermy:
     name: 动物标本剥制术
     wikiURL: https://danbooru.donmai.us/wiki_pages/taxidermy.html
@@ -20493,9 +19783,6 @@ content:
   rock balancing:
     name: 岩石平衡
     wikiURL: https://danbooru.donmai.us/wiki_pages/rock_balancing.html
-  adjusting sleeves:
-    name: 调整套筒
-    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_sleeves.html
   porcelain:
     name: 瓷
     wikiURL: https://danbooru.donmai.us/wiki_pages/porcelain.html
@@ -20615,9 +19902,6 @@ content:
   white polka dots:
     name: 白色圆点
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_polka_dots.html
-  abs cutout:
-    name: 腹肌镂空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/abs_cutout.html
   riding machine:
     name: 骑马机
     wikiURL: https://danbooru.donmai.us/wiki_pages/riding_machine.html
@@ -20991,9 +20275,6 @@ content:
   sennheiser:
     name: 森海塞尔
     wikiURL: https://danbooru.donmai.us/wiki_pages/sennheiser.html
-  lace-trimmed babydoll:
-    name: 蕾丝边娃娃装
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_babydoll.html
   orange bandeau:
     name: 橙色抹胸
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_bandeau.html
@@ -21856,9 +21137,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/project_fairy_(idolmaster).html
     alias:
     - project fairy
-  red button:
-    name: 红色按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_button.html
   gigachad (meme):
     name: gigachad （模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/gigachad_(meme).html
@@ -21906,9 +21184,6 @@ content:
   yacht:
     name: 游艇
     wikiURL: https://danbooru.donmai.us/wiki_pages/yacht.html
-  camouflage trim:
-    name: 迷彩装饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_trim.html
   mofuji:
     name: 魔富士
     wikiURL: https://danbooru.donmai.us/wiki_pages/mofuji.html
@@ -22277,9 +21552,6 @@ content:
   inkstone:
     name: 砚台
     wikiURL: https://danbooru.donmai.us/wiki_pages/inkstone.html
-  no freckles:
-    name: 没有雀斑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/no_freckles.html
   parking garage:
     name: 停车库
     wikiURL: https://danbooru.donmai.us/wiki_pages/parking_garage.html
@@ -22559,9 +21831,6 @@ content:
   awake:
     name: 苏醒
     wikiURL: https://danbooru.donmai.us/wiki_pages/awake.html
-  tongue suck:
-    name: 吸舌头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_suck.html
   tawawa group:
     name: 塔瓦瓦集团
     wikiURL: https://danbooru.donmai.us/wiki_pages/tawawa_group.html
@@ -22988,11 +22257,6 @@ content:
   hajimete no otsukai:
     name: 始之大会
     wikiURL: https://danbooru.donmai.us/wiki_pages/hajimete_no_otsukai.html
-  lace-up heels:
-    name: 系带高跟鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-up_heels.html
-    alias:
-    - laceup heels
   tartarus:
     name: 鞑靼人
     wikiURL: https://danbooru.donmai.us/wiki_pages/tartarus.html
@@ -23202,9 +22466,6 @@ content:
   pull:
     name: 拉
     wikiURL: https://danbooru.donmai.us/wiki_pages/pull.html
-  grado labs:
-    name: 格拉多实验室
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grado_labs.html
   duo chromatic:
     name: 双色
     wikiURL: https://danbooru.donmai.us/wiki_pages/duo_chromatic.html
@@ -23358,9 +22619,6 @@ content:
   programming (topic):
     name: 编程（题目）
     wikiURL: https://danbooru.donmai.us/wiki_pages/programming_(topic).html
-  shared pocket:
-    name: 共享口袋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shared_pocket.html
   idiot sandwich (meme):
     name: 白痴三明治（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/idiot_sandwich_(meme).html
@@ -23672,9 +22930,6 @@ content:
   proton pack:
     name: 质子包
     wikiURL: https://danbooru.donmai.us/wiki_pages/proton_pack.html
-  fur-trimmed shawl:
-    name: 毛皮边饰披肩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_shawl.html
   tiltrotor:
     name: 倾转旋翼机
     wikiURL: https://danbooru.donmai.us/wiki_pages/tiltrotor.html
@@ -24160,9 +23415,6 @@ content:
   sheet bite:
     name: 床单咬合
     wikiURL: https://danbooru.donmai.us/wiki_pages/sheet_bite.html
-  absorbing:
-    name: 吸收
-    wikiURL: https://danbooru.donmai.us/wiki_pages/absorbing.html
   tourniquet:
     name: 止血带
     wikiURL: https://danbooru.donmai.us/wiki_pages/tourniquet.html
@@ -24195,9 +23447,6 @@ content:
   mg3:
     name: 毫克
     wikiURL: https://danbooru.donmai.us/wiki_pages/mg3.html
-  thumbs in pockets:
-    name: 大拇指插在口袋里
-    wikiURL: https://danbooru.donmai.us/wiki_pages/thumbs_in_pockets.html
   three ramen musketeers:
     name: 三个拉面火枪手
     wikiURL: https://danbooru.donmai.us/wiki_pages/three_ramen_musketeers.html
@@ -24207,9 +23456,6 @@ content:
   ravine:
     name: 山沟
     wikiURL: https://danbooru.donmai.us/wiki_pages/ravine.html
-  whac-a-mole:
-    name: 打地鼠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/whac-a-mole.html
   minus sign:
     name: 减号
     wikiURL: https://danbooru.donmai.us/wiki_pages/minus_sign.html
@@ -24222,9 +23468,6 @@ content:
   pelvic thrust:
     name: 骨盆推力
     wikiURL: https://danbooru.donmai.us/wiki_pages/pelvic_thrust.html
-  tongue clamp:
-    name: 舌夹
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_clamp.html
   nonexistent memories (jujutsu kaisen):
     name: 不存在的记忆（柔术回转）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nonexistent_memories_(jujutsu_kaisen).html
@@ -24892,9 +24135,6 @@ content:
   collateral damage:
     name: 附带损害
     wikiURL: https://danbooru.donmai.us/wiki_pages/collateral_damage.html
-  white freckles:
-    name: 白色雀斑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_freckles.html
   sentry:
     name: 哨兵
     wikiURL: https://danbooru.donmai.us/wiki_pages/sentry.html
@@ -25506,9 +24746,6 @@ content:
   judo throw:
     name: 柔道投掷
     wikiURL: https://danbooru.donmai.us/wiki_pages/judo_throw.html
-  truffle:
-    name: 松露
-    wikiURL: https://danbooru.donmai.us/wiki_pages/truffle.html
   wrapping paper:
     name: 包装纸
     wikiURL: https://danbooru.donmai.us/wiki_pages/wrapping_paper.html
@@ -25690,9 +24927,6 @@ content:
   diving block:
     name: 潜水块
     wikiURL: https://danbooru.donmai.us/wiki_pages/diving_block.html
-  haro button badge:
-    name: 哈罗按钮徽章
-    wikiURL: https://danbooru.donmai.us/wiki_pages/haro_button_badge.html
   mutual impregnation:
     name: 互浸
     wikiURL: https://danbooru.donmai.us/wiki_pages/mutual_impregnation.html
@@ -25961,9 +25195,6 @@ content:
   b-29 superfortress:
     name: b-29 超级堡垒
     wikiURL: https://danbooru.donmai.us/wiki_pages/b-29_superfortress.html
-  multiple shikishi:
-    name: 多重式
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_shikishi.html
   periscope:
     name: 潜望镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/periscope.html
@@ -26187,9 +25418,6 @@ content:
   manual:
     name: 手动的
     wikiURL: https://danbooru.donmai.us/wiki_pages/manual.html
-  placenta (sidonia no kishi):
-    name: 胎盘素（sidonia no kishi）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/placenta_(sidonia_no_kishi).html
   live for venus (idolmaster):
     name: 为金星而活
     wikiURL: https://danbooru.donmai.us/wiki_pages/live_for_venus_(idolmaster).html
@@ -26335,9 +25563,6 @@ content:
   sasumata:
     name: 萨苏玛塔
     wikiURL: https://danbooru.donmai.us/wiki_pages/sasumata.html
-  tongue twister:
-    name: 绕口令
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_twister.html
   hiki furisode:
     name: 比起振袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/hiki_furisode.html
@@ -26743,9 +25968,6 @@ content:
   hang gliding:
     name: 滑翔翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/hang_gliding.html
-  studded trim:
-    name: 铆钉饰边
-    wikiURL: https://danbooru.donmai.us/wiki_pages/studded_trim.html
   hirano kouta (style):
     name: 平野幸太（风格）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hirano_kouta_(style).html
@@ -26944,9 +26166,6 @@ content:
   zentaiteki ni sensation:
     name: zentaiteki ni sensation
     wikiURL: https://danbooru.donmai.us/wiki_pages/zentaiteki_ni_sensation.html
-  absurdly fat mons:
-    name: 荒谬的肥胖怪物
-    wikiURL: https://danbooru.donmai.us/wiki_pages/absurdly_fat_mons.html
   mount rushmore:
     name: 拉什莫尔山
     wikiURL: https://danbooru.donmai.us/wiki_pages/mount_rushmore.html
@@ -26986,9 +26205,6 @@ content:
   himaruya hidekazu (style):
     name: himaruya hidekazu （风格）
     wikiURL: https://danbooru.donmai.us/wiki_pages/himaruya_hidekazu_(style).html
-  hedge trimmer:
-    name: 树篱修剪机
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hedge_trimmer.html
   su-33:
     name: 苏33
     wikiURL: https://danbooru.donmai.us/wiki_pages/su-33.html
@@ -27489,9 +26705,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/torn_buruma.html
     alias:
     - ripped buruma
-  neo geo pocket color:
-    name: 新地理口袋颜色
-    wikiURL: https://danbooru.donmai.us/wiki_pages/neo_geo_pocket_color.html
   taiyouken:
     name: 太阳研
     wikiURL: https://danbooru.donmai.us/wiki_pages/taiyouken.html
@@ -27603,9 +26816,6 @@ content:
   sonna koto ura no mata urabanashi desho?:
     name: sonna koto ura no mata urabanashi desho?
     wikiURL: https://danbooru.donmai.us/wiki_pages/sonna_koto_ura_no_mata_urabanashi_desho?.html
-  contest button:
-    name: 比赛按钮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/contest_button.html
   banquet:
     name: 宴会
     wikiURL: https://danbooru.donmai.us/wiki_pages/banquet.html
@@ -27649,18 +26859,12 @@ content:
   pink eyeliner:
     name: pink eyeliner
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_eyeliner.html
-  muscular uke:
-    name: muscular uke
-    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_uke.html
   archaic set (zelda):
     name: archaic set (zelda)
     wikiURL: https://danbooru.donmai.us/wiki_pages/archaic_set_(zelda).html
   black hanfu:
     name: black hanfu
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_hanfu.html
-  shoulder patch:
-    name: shoulder patch
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_patch.html
   sig 556:
     name: sig 556
     wikiURL: https://danbooru.donmai.us/wiki_pages/sig_556.html
@@ -27669,9 +26873,6 @@ content:
   heart halo:
     name: heart halo
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_halo.html
-  orange trim:
-    name: orange trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_trim.html
   sleeveless leotard:
     name: sleeveless leotard
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeveless_leotard.html
@@ -27686,9 +26887,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/profile_picture.html
     alias:
     - avatar icon
-  double strap slip:
-    name: double strap slip
-    wikiURL: https://danbooru.donmai.us/wiki_pages/double_strap_slip.html
   recursive genderswap:
     name: recursive genderswap
     wikiURL: https://danbooru.donmai.us/wiki_pages/recursive_genderswap.html
@@ -27725,9 +26923,6 @@ content:
     - chocolate mint
     - chocolate mint ice cream
     - mint chocolate chip
-  heterochromatic eyewear:
-    name: heterochromatic eyewear
-    wikiURL: https://danbooru.donmai.us/wiki_pages/heterochromatic_eyewear.html
   crime prevention buzzer threat:
     name: crime prevention buzzer threat
     wikiURL: https://danbooru.donmai.us/wiki_pages/crime_prevention_buzzer_threat.html
@@ -27743,9 +26938,6 @@ content:
   komainu boy:
     name: komainu boy
     wikiURL: https://danbooru.donmai.us/wiki_pages/komainu_boy.html
-  bite mark on shoulder:
-    name: bite mark on shoulder
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_shoulder.html
   cross halo:
     name: cross halo
     wikiURL: https://danbooru.donmai.us/wiki_pages/cross_halo.html
@@ -27754,18 +26946,12 @@ content:
   ass peek:
     name: ass peek
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass_peek.html
-  cross-laced corset:
-    name: cross-laced corset
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_corset.html
   black mouth:
     name: black mouth
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_mouth.html
   black bandages:
     name: black bandages
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_bandages.html
-  front zipper:
-    name: front zipper
-    wikiURL: https://danbooru.donmai.us/wiki_pages/front_zipper.html
   block (object):
     name: block (object)
     wikiURL: https://danbooru.donmai.us/wiki_pages/block_(object).html
@@ -27833,9 +27019,6 @@ content:
   white tulip:
     name: white tulip
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_tulip.html
-  no heterochromia:
-    name: no heterochromia
-    wikiURL: https://danbooru.donmai.us/wiki_pages/no_heterochromia.html
   hooded shrug:
     name: hooded shrug
     wikiURL: https://danbooru.donmai.us/wiki_pages/hooded_shrug.html
@@ -27994,9 +27177,6 @@ content:
   half crown braid:
     name: half crown braid
     wikiURL: https://danbooru.donmai.us/wiki_pages/half_crown_braid.html
-  tickling stomach:
-    name: tickling stomach
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_stomach.html
   digital walkman:
     name: digital walkman
     wikiURL: https://danbooru.donmai.us/wiki_pages/digital_walkman.html
@@ -28011,9 +27191,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/dobermann.html
     alias:
     - doberman
-  strap break:
-    name: strap break
-    wikiURL: https://danbooru.donmai.us/wiki_pages/strap_break.html
   rusty trombone:
     name: rusty trombone
     wikiURL: https://danbooru.donmai.us/wiki_pages/rusty_trombone.html
@@ -28181,9 +27358,6 @@ content:
   ladybug ornament:
     name: ladybug ornament
     wikiURL: https://danbooru.donmai.us/wiki_pages/ladybug_ornament.html
-  comedic sweatdrop:
-    name: comedic sweatdrop
-    wikiURL: https://danbooru.donmai.us/wiki_pages/comedic_sweatdrop.html
   curly sidelocks:
     name: curly sidelocks
     wikiURL: https://danbooru.donmai.us/wiki_pages/curly_sidelocks.html
@@ -28274,11 +27448,6 @@ content:
   change in common sense:
     name: change in common sense
     wikiURL: https://danbooru.donmai.us/wiki_pages/change_in_common_sense.html
-  frieren blowing a kiss:
-    name: frieren blowing a kiss
-    wikiURL: https://danbooru.donmai.us/wiki_pages/frieren_blowing_a_kiss.html
-    alias:
-    - frieren blowing a kiss (meme)
   i've never seen a guy recreate this successfully tbh (meme):
     name: i've never seen a guy recreate this successfully tbh (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/i've_never_seen_a_guy_recreate_this_successfully_tbh_(meme).html
@@ -28342,11 +27511,6 @@ content:
   heart on cheek:
     name: heart on cheek
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_on_cheek.html
-  poking belly:
-    name: poking belly
-    wikiURL: https://danbooru.donmai.us/wiki_pages/poking_belly.html
-    alias:
-    - belly poke
   black visor:
     name: black visor
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_visor.html
@@ -28405,9 +27569,6 @@ content:
   other with female:
     name: other with female
     wikiURL: https://danbooru.donmai.us/wiki_pages/other_with_female.html
-  gold buttons:
-    name: gold buttons
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_buttons.html
   shoe belt:
     name: shoe belt
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoe_belt.html
@@ -28524,9 +27685,6 @@ content:
   katsuyamamage:
     name: katsuyamamage
     wikiURL: https://danbooru.donmai.us/wiki_pages/katsuyamamage.html
-  sweat stain:
-    name: sweat stain
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sweat_stain.html
   liyue harbor:
     name: liyue harbor
     wikiURL: https://danbooru.donmai.us/wiki_pages/liyue_harbor.html
@@ -28559,9 +27717,6 @@ content:
   black haori:
     name: black haori
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_haori.html
-  japan-korea yuri (meme):
-    name: japan-korea yuri (meme)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/japan-korea_yuri_(meme).html
   scorpio (symbol):
     name: scorpio (symbol)
     wikiURL: https://danbooru.donmai.us/wiki_pages/scorpio_(symbol).html
@@ -28598,18 +27753,12 @@ content:
   cosmic heart compact:
     name: cosmic heart compact
     wikiURL: https://danbooru.donmai.us/wiki_pages/cosmic_heart_compact.html
-  center cross lace:
-    name: center cross lace
-    wikiURL: https://danbooru.donmai.us/wiki_pages/center_cross_lace.html
   tilted hat:
     name: tilted hat
     wikiURL: https://danbooru.donmai.us/wiki_pages/tilted_hat.html
   orion (constellation):
     name: orion (constellation)
     wikiURL: https://danbooru.donmai.us/wiki_pages/orion_(constellation).html
-  two-sided sleeves:
-    name: two-sided sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_sleeves.html
   shredded muscles:
     name: shredded muscles
     wikiURL: https://danbooru.donmai.us/wiki_pages/shredded_muscles.html
@@ -28731,11 +27880,6 @@ content:
   self character print:
     name: self character print
     wikiURL: https://danbooru.donmai.us/wiki_pages/self_character_print.html
-  kissing head:
-    name: kissing head
-    wikiURL: https://danbooru.donmai.us/wiki_pages/kissing_head.html
-    alias:
-    - head kiss
   color wheel challenge:
     name: color wheel challenge
     wikiURL: https://danbooru.donmai.us/wiki_pages/color_wheel_challenge.html
@@ -28775,9 +27919,6 @@ content:
   unicorn horn:
     name: unicorn horn
     wikiURL: https://danbooru.donmai.us/wiki_pages/unicorn_horn.html
-  yurie mouth:
-    name: yurie mouth
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yurie_mouth.html
   fuwapuchi:
     name: fuwapuchi
     wikiURL: https://danbooru.donmai.us/wiki_pages/fuwapuchi.html
@@ -28795,9 +27936,6 @@ content:
   dream believers:
     name: dream believers
     wikiURL: https://danbooru.donmai.us/wiki_pages/dream_believers.html
-  mole on chest:
-    name: mole on chest
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_chest.html
   transverse flute:
     name: transverse flute
     wikiURL: https://danbooru.donmai.us/wiki_pages/transverse_flute.html
@@ -28833,13 +27971,6 @@ content:
   y shaped butt crack:
     name: y shaped butt crack
     wikiURL: https://danbooru.donmai.us/wiki_pages/y_shaped_butt_crack.html
-  rejected kiss:
-    name: rejected kiss
-    wikiURL: https://danbooru.donmai.us/wiki_pages/rejected_kiss.html
-    alias:
-    - blocked kiss
-    - blocking kiss
-    - kiss attempt
   evolution stone:
     name: evolution stone
     wikiURL: https://danbooru.donmai.us/wiki_pages/evolution_stone.html
@@ -28904,9 +28035,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/p-chan_(p90).html
     alias:
     - p-chan (p-90)
-  yaoi (object):
-    name: yaoi (object)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yaoi_(object).html
   aqua ascot:
     name: aqua ascot
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_ascot.html
@@ -29014,9 +28142,6 @@ content:
   capricorn (symbol):
     name: capricorn (symbol)
     wikiURL: https://danbooru.donmai.us/wiki_pages/capricorn_(symbol).html
-  sparkling sweat:
-    name: sparkling sweat
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkling_sweat.html
   lowered eyelids:
     name: lowered eyelids
     wikiURL: https://danbooru.donmai.us/wiki_pages/lowered_eyelids.html
@@ -29068,12 +28193,6 @@ content:
   lamia boy:
     name: lamia boy
     wikiURL: https://danbooru.donmai.us/wiki_pages/lamia_boy.html
-  zipper top:
-    name: zipper top
-    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_top.html
-  cross-laced leotard:
-    name: cross-laced leotard
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_leotard.html
   transparent innertube:
     name: transparent innertube
     wikiURL: https://danbooru.donmai.us/wiki_pages/transparent_innertube.html
@@ -29234,9 +28353,6 @@ content:
   doqute stuffed doll:
     name: doqute stuffed doll
     wikiURL: https://danbooru.donmai.us/wiki_pages/doqute_stuffed_doll.html
-  mole on forehead:
-    name: mole on forehead
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_forehead.html
   middle eastern architecture:
     name: middle eastern architecture
     wikiURL: https://danbooru.donmai.us/wiki_pages/middle_eastern_architecture.html
@@ -29254,9 +28370,6 @@ content:
   sports bra pull:
     name: sports bra pull
     wikiURL: https://danbooru.donmai.us/wiki_pages/sports_bra_pull.html
-  floral print sleeves:
-    name: floral print sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_sleeves.html
   arc reactor:
     name: arc reactor
     wikiURL: https://danbooru.donmai.us/wiki_pages/arc_reactor.html
@@ -29331,9 +28444,6 @@ content:
   little lyrical:
     name: little lyrical
     wikiURL: https://danbooru.donmai.us/wiki_pages/little_lyrical.html
-  shanghai neckline:
-    name: shanghai neckline
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shanghai_neckline.html
   purple scales:
     name: purple scales
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_scales.html
@@ -29534,9 +28644,6 @@ content:
   boc'z (umamusume):
     name: boc'z (umamusume)
     wikiURL: https://danbooru.donmai.us/wiki_pages/boc'z_(umamusume).html
-  humpty lock (shugo chara!):
-    name: humpty lock (shugo chara!)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/humpty_lock_(shugo_chara!).html
   photo bashing:
     name: photo bashing
     wikiURL: https://danbooru.donmai.us/wiki_pages/photo_bashing.html
@@ -29551,11 +28658,6 @@ content:
   undone duijin:
     name: undone duijin
     wikiURL: https://danbooru.donmai.us/wiki_pages/undone_duijin.html
-  grabbing another's stomach:
-    name: grabbing another's stomach
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_stomach.html
-    alias:
-    - grabbing another's belly
   zhuang hat:
     name: zhuang hat
     wikiURL: https://danbooru.donmai.us/wiki_pages/zhuang_hat.html
@@ -29615,9 +28717,6 @@ content:
   taekwondo:
     name: taekwondo
     wikiURL: https://danbooru.donmai.us/wiki_pages/taekwondo.html
-  neck blush:
-    name: neck blush
-    wikiURL: https://danbooru.donmai.us/wiki_pages/neck_blush.html
   phantometal (paradox live):
     name: phantometal (paradox live)
     wikiURL: https://danbooru.donmai.us/wiki_pages/phantometal_(paradox_live).html
@@ -29639,9 +28738,6 @@ content:
   gas cylinder:
     name: gas cylinder
     wikiURL: https://danbooru.donmai.us/wiki_pages/gas_cylinder.html
-  paw sleeves:
-    name: paw sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/paw_sleeves.html
   moose antlers:
     name: moose antlers
     wikiURL: https://danbooru.donmai.us/wiki_pages/moose_antlers.html
@@ -29671,9 +28767,6 @@ content:
   wavy ends:
     name: wavy ends
     wikiURL: https://danbooru.donmai.us/wiki_pages/wavy_ends.html
-  gloved sleeves:
-    name: gloved sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gloved_sleeves.html
   chocolate print:
     name: chocolate print
     wikiURL: https://danbooru.donmai.us/wiki_pages/chocolate_print.html
@@ -29706,9 +28799,6 @@ content:
   character sticker:
     name: character sticker
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_sticker.html
-  pressing button:
-    name: pressing button
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pressing_button.html
   mayan clothes:
     name: mayan clothes
     wikiURL: https://danbooru.donmai.us/wiki_pages/mayan_clothes.html
@@ -29736,9 +28826,6 @@ content:
   paradise lost (e.g.o):
     name: paradise lost (e.g.o)
     wikiURL: https://danbooru.donmai.us/wiki_pages/paradise_lost_(e.g.o).html
-  navel peek:
-    name: navel peek
-    wikiURL: https://danbooru.donmai.us/wiki_pages/navel_peek.html
   blood angels:
     name: blood angels
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_angels.html
@@ -29773,9 +28860,6 @@ content:
   seyana (meme):
     name: seyana (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/seyana_(meme).html
-  feather sleeves:
-    name: feather sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/feather_sleeves.html
   zako (meme):
     name: zako (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/zako_(meme).html
@@ -29796,12 +28880,6 @@ content:
   white crown:
     name: white crown
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_crown.html
-  unworn sleeves:
-    name: unworn sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_sleeves.html
-    alias:
-    - detached sleeves removed
-    - sleeves removed
   white unitard:
     name: white unitard
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_unitard.html
@@ -29825,9 +28903,6 @@ content:
   item (toaru):
     name: item (toaru)
     wikiURL: https://danbooru.donmai.us/wiki_pages/item_(toaru).html
-  argyle sleeves:
-    name: argyle sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_sleeves.html
   persona (summon):
     name: persona (summon)
     wikiURL: https://danbooru.donmai.us/wiki_pages/persona_(summon).html
@@ -29858,9 +28933,6 @@ content:
   flanged mace:
     name: flanged mace
     wikiURL: https://danbooru.donmai.us/wiki_pages/flanged_mace.html
-  pause button:
-    name: pause button
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pause_button.html
   heartless (kingdom hearts):
     name: heartless (kingdom hearts)
     wikiURL: https://danbooru.donmai.us/wiki_pages/heartless_(kingdom_hearts).html
@@ -30062,9 +29134,6 @@ content:
   blanket veil:
     name: blanket veil
     wikiURL: https://danbooru.donmai.us/wiki_pages/blanket_veil.html
-  person on shoulder:
-    name: person on shoulder
-    wikiURL: https://danbooru.donmai.us/wiki_pages/person_on_shoulder.html
   furina (genshin impact) (cosplay):
     name: furina (genshin impact) (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/furina_(genshin_impact)_(cosplay).html
@@ -30116,9 +29185,6 @@ content:
   step-brothers:
     name: step-brothers
     wikiURL: https://danbooru.donmai.us/wiki_pages/step-brothers.html
-  leather wrist straps:
-    name: leather wrist straps
-    wikiURL: https://danbooru.donmai.us/wiki_pages/leather_wrist_straps.html
   neck focus:
     name: neck focus
     wikiURL: https://danbooru.donmai.us/wiki_pages/neck_focus.html
@@ -30143,9 +29209,6 @@ content:
   spoken sound effect:
     name: spoken sound effect
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_sound_effect.html
-  stomach jewel:
-    name: stomach jewel
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_jewel.html
   panty tag:
     name: panty tag
     wikiURL: https://danbooru.donmai.us/wiki_pages/panty_tag.html
@@ -30155,18 +29218,12 @@ content:
   makima (chainsaw man) (cosplay):
     name: makima (chainsaw man) (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/makima_(chainsaw_man)_(cosplay).html
-  saliva trail between teeth:
-    name: saliva trail between teeth
-    wikiURL: https://danbooru.donmai.us/wiki_pages/saliva_trail_between_teeth.html
   solar term:
     name: solar term
     wikiURL: https://danbooru.donmai.us/wiki_pages/solar_term.html
   too many bandaids:
     name: too many bandaids
     wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_bandaids.html
-  lace pantyhose:
-    name: lace pantyhose
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_pantyhose.html
   tracen ondo (song):
     name: tracen ondo (song)
     wikiURL: https://danbooru.donmai.us/wiki_pages/tracen_ondo_(song).html
@@ -30221,12 +29278,6 @@ content:
   discord logo:
     name: discord logo
     wikiURL: https://danbooru.donmai.us/wiki_pages/discord_logo.html
-  checkered trim:
-    name: checkered trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_trim.html
-  biting shoulder:
-    name: biting shoulder
-    wikiURL: https://danbooru.donmai.us/wiki_pages/biting_shoulder.html
   taurus (zodiac):
     name: taurus (zodiac)
     wikiURL: https://danbooru.donmai.us/wiki_pages/taurus_(zodiac).html
@@ -30432,9 +29483,6 @@ content:
   pure onepiece (idolmaster):
     name: pure onepiece (idolmaster)
     wikiURL: https://danbooru.donmai.us/wiki_pages/pure_onepiece_(idolmaster).html
-  tickling navel:
-    name: tickling navel
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_navel.html
   atlantis (fate/grand order):
     name: atlantis (fate/grand order)
     wikiURL: https://danbooru.donmai.us/wiki_pages/atlantis_(fate/grand_order).html
@@ -30489,9 +29537,6 @@ content:
   chain around neck:
     name: chain around neck
     wikiURL: https://danbooru.donmai.us/wiki_pages/chain_around_neck.html
-  brown trim:
-    name: brown trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_trim.html
   sideless bangs:
     name: sideless bangs
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_bangs.html
@@ -30518,9 +29563,6 @@ content:
   super leaf (transformation):
     name: super leaf (transformation)
     wikiURL: https://danbooru.donmai.us/wiki_pages/super_leaf_(transformation).html
-  fur-trimmed poncho:
-    name: fur-trimmed poncho
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_poncho.html
   sideless leotard:
     name: sideless leotard
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_leotard.html
@@ -30583,9 +29625,6 @@ content:
   turks (ff7):
     name: turks (ff7)
     wikiURL: https://danbooru.donmai.us/wiki_pages/turks_(ff7).html
-  forced hug:
-    name: forced hug
-    wikiURL: https://danbooru.donmai.us/wiki_pages/forced_hug.html
   group (toaru):
     name: group (toaru)
     wikiURL: https://danbooru.donmai.us/wiki_pages/group_(toaru).html
@@ -30689,9 +29728,6 @@ content:
   bell jar:
     name: bell jar
     wikiURL: https://danbooru.donmai.us/wiki_pages/bell_jar.html
-  grey trim:
-    name: grey trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_trim.html
   no genitals:
     name: no genitals
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_genitals.html
@@ -30758,9 +29794,6 @@ content:
   telepole (e.g.o):
     name: telepole (e.g.o)
     wikiURL: https://danbooru.donmai.us/wiki_pages/telepole_(e.g.o).html
-  surprise hug:
-    name: surprise hug
-    wikiURL: https://danbooru.donmai.us/wiki_pages/surprise_hug.html
   snickers (brand):
     name: snickers (brand)
     wikiURL: https://danbooru.donmai.us/wiki_pages/snickers_(brand).html
@@ -30815,9 +29848,6 @@ content:
   aquila (constellation):
     name: aquila (constellation)
     wikiURL: https://danbooru.donmai.us/wiki_pages/aquila_(constellation).html
-  stomach mouth:
-    name: stomach mouth
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_mouth.html
   personal terminal:
     name: personal terminal
     wikiURL: https://danbooru.donmai.us/wiki_pages/personal_terminal.html
@@ -31002,9 +30032,6 @@ content:
   frilled negligee:
     name: frilled negligee
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_negligee.html
-  meandros trim:
-    name: meandros trim
-    wikiURL: https://danbooru.donmai.us/wiki_pages/meandros_trim.html
   white tiara:
     name: white tiara
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_tiara.html
@@ -31026,9 +30053,6 @@ content:
   character ball:
     name: character ball
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_ball.html
-  bicep strap:
-    name: bicep strap
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bicep_strap.html
   nissan silvia s13:
     name: nissan silvia s13
     wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_silvia_s13.html
@@ -31066,9 +30090,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_mittens.html
     alias:
     - mittens removed
-  multiple pov:
-    name: multiple pov
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_pov.html
   triple ryuunen:
     name: triple ryuunen
     wikiURL: https://danbooru.donmai.us/wiki_pages/triple_ryuunen.html
@@ -31198,9 +30219,6 @@ content:
   siegrunen:
     name: siegrunen
     wikiURL: https://danbooru.donmai.us/wiki_pages/siegrunen.html
-  blood on shoulder:
-    name: blood on shoulder
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_shoulder.html
   endless knot:
     name: endless knot
     wikiURL: https://danbooru.donmai.us/wiki_pages/endless_knot.html
@@ -31245,9 +30263,6 @@ content:
   pink top:
     name: pink top
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_top.html
-  above cleavage cutout:
-    name: above cleavage cutout
-    wikiURL: https://danbooru.donmai.us/wiki_pages/above_cleavage_cutout.html
   gian punch (meme):
     name: gian punch (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/gian_punch_(meme).html
@@ -31257,9 +30272,6 @@ content:
   ah eto... bleh (meme):
     name: ah eto... bleh (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/ah_eto..._bleh_(meme).html
-  kiss from behind:
-    name: kiss from behind
-    wikiURL: https://danbooru.donmai.us/wiki_pages/kiss_from_behind.html
   white mage (final fantasy) (cosplay):
     name: white mage (final fantasy) (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_mage_(final_fantasy)_(cosplay).html
@@ -31402,9 +30414,6 @@ content:
   clear file (medium):
     name: clear file (medium)
     wikiURL: https://danbooru.donmai.us/wiki_pages/clear_file_(medium).html
-  inside pocket:
-    name: inside pocket
-    wikiURL: https://danbooru.donmai.us/wiki_pages/inside_pocket.html
   nodowa (gorget):
     name: nodowa (gorget)
     wikiURL: https://danbooru.donmai.us/wiki_pages/nodowa_(gorget).html
@@ -31504,9 +30513,6 @@ content:
     alias:
     - aztec architecture
     - mayan architecture
-  absolution (genshin impact):
-    name: absolution (genshin impact)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/absolution_(genshin_impact).html
   licking ass:
     name: licking ass
     wikiURL: https://danbooru.donmai.us/wiki_pages/licking_ass.html
@@ -31519,9 +30525,6 @@ content:
   multicolored sash:
     name: multicolored sash
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_sash.html
-  yuri (object):
-    name: yuri (object)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yuri_(object).html
   blue sleeve cuffs:
     name: blue sleeve cuffs
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_sleeve_cuffs.html
@@ -31534,9 +30537,6 @@ content:
   game link cable:
     name: game link cable
     wikiURL: https://danbooru.donmai.us/wiki_pages/game_link_cable.html
-  mole beside mouth:
-    name: mole beside mouth
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_beside_mouth.html
   you can just give this kind of thing to men and they will be thrilled (meme):
     name: you can just give this kind of thing to men and they will be thrilled (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/you_can_just_give_this_kind_of_thing_to_men_and_they_will_be_thrilled_(meme).html
@@ -31591,9 +30591,6 @@ content:
   gear hat ornament:
     name: gear hat ornament
     wikiURL: https://danbooru.donmai.us/wiki_pages/gear_hat_ornament.html
-  cow print sleeves:
-    name: cow print sleeves
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print_sleeves.html
   radial gradient background:
     name: radial gradient background
     wikiURL: https://danbooru.donmai.us/wiki_pages/radial_gradient_background.html
@@ -31705,24 +30702,15 @@ content:
   polka dot pantyhose:
     name: polka dot pantyhose
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_pantyhose.html
-  fur-trimmed tube top:
-    name: fur-trimmed tube top
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_tube_top.html
   lifted by cursor:
     name: lifted by cursor
     wikiURL: https://danbooru.donmai.us/wiki_pages/lifted_by_cursor.html
   dimension shredder (e.g.o):
     name: dimension shredder (e.g.o)
     wikiURL: https://danbooru.donmai.us/wiki_pages/dimension_shredder_(e.g.o).html
-  multiple tattoos:
-    name: multiple tattoos
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_tattoos.html
   mongolia:
     name: mongolia
     wikiURL: https://danbooru.donmai.us/wiki_pages/mongolia.html
-  multiple tongues:
-    name: multiple tongues
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_tongues.html
   purple hanfu:
     name: purple hanfu
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_hanfu.html
@@ -31793,9 +30781,6 @@ content:
   galaxy background:
     name: galaxy background
     wikiURL: https://danbooru.donmai.us/wiki_pages/galaxy_background.html
-  notched neckline:
-    name: notched neckline
-    wikiURL: https://danbooru.donmai.us/wiki_pages/notched_neckline.html
   \\//:
     name: \\//
     wikiURL: https://danbooru.donmai.us/wiki_pages/\\//.html
@@ -31986,9 +30971,6 @@ content:
   paw print tattoo:
     name: paw print tattoo
     wikiURL: https://danbooru.donmai.us/wiki_pages/paw_print_tattoo.html
-  huge claws:
-    name: huge claws
-    wikiURL: https://danbooru.donmai.us/wiki_pages/huge_claws.html
   ass-to-mouth:
     name: ass-to-mouth
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass-to-mouth.html
@@ -32134,9 +31116,6 @@ content:
   7th popularity poll (boku no hero academia):
     name: 7th popularity poll (boku no hero academia)
     wikiURL: https://danbooru.donmai.us/wiki_pages/7th_popularity_poll_(boku_no_hero_academia).html
-  forehead blush:
-    name: forehead blush
-    wikiURL: https://danbooru.donmai.us/wiki_pages/forehead_blush.html
   black eyebrows:
     name: black eyebrows
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_eyebrows.html
@@ -32194,9 +31173,6 @@ content:
   joushou kiryuu (love live!):
     name: joushou kiryuu (love live!)
     wikiURL: https://danbooru.donmai.us/wiki_pages/joushou_kiryuu_(love_live!).html
-  killkiss (bang dream!):
-    name: killkiss (bang dream!)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/killkiss_(bang_dream!).html
   koukei (idolmaster):
     name: koukei (idolmaster)
     wikiURL: https://danbooru.donmai.us/wiki_pages/koukei_(idolmaster).html
@@ -32221,9 +31197,6 @@ content:
   h.s.c.t. (love live!):
     name: h.s.c.t. (love live!)
     wikiURL: https://danbooru.donmai.us/wiki_pages/h.s.c.t._(love_live!).html
-  hug invitation:
-    name: hug invitation
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hug_invitation.html
   wooden porch:
     name: wooden porch
     wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_porch.html
@@ -32562,9 +31535,6 @@ content:
   native american clothes:
     name: native american clothes
     wikiURL: https://danbooru.donmai.us/wiki_pages/native_american_clothes.html
-  multiple forms:
-    name: multiple forms
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_forms.html
   chouzetsusaikawa tenshi-chan (cosplay):
     name: chouzetsusaikawa tenshi-chan (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/chouzetsusaikawa_tenshi-chan_(cosplay).html
@@ -32622,9 +31592,6 @@ content:
   chiappa rhino:
     name: chiappa rhino
     wikiURL: https://danbooru.donmai.us/wiki_pages/chiappa_rhino.html
-  blush visible through clothes:
-    name: blush visible through clothes
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blush_visible_through_clothes.html
   pokedance (meme):
     name: pokedance (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/pokedance_(meme).html
@@ -32725,9 +31692,6 @@ content:
   shih tzu:
     name: shih tzu
     wikiURL: https://danbooru.donmai.us/wiki_pages/shih_tzu.html
-  torn straps:
-    name: torn straps
-    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_straps.html
   pointing at mouth:
     name: pointing at mouth
     wikiURL: https://danbooru.donmai.us/wiki_pages/pointing_at_mouth.html
@@ -32785,9 +31749,6 @@ content:
   goku day:
     name: goku day
     wikiURL: https://danbooru.donmai.us/wiki_pages/goku_day.html
-  shoulderstand:
-    name: shoulderstand
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulderstand.html
   statue of her excellency (genshin impact):
     name: statue of her excellency (genshin impact)
     wikiURL: https://danbooru.donmai.us/wiki_pages/statue_of_her_excellency_(genshin_impact).html
@@ -32873,9 +31834,6 @@ content:
   yugakshetra (fate/grand order):
     name: yugakshetra (fate/grand order)
     wikiURL: https://danbooru.donmai.us/wiki_pages/yugakshetra_(fate/grand_order).html
-  crooked teeth:
-    name: crooked teeth
-    wikiURL: https://danbooru.donmai.us/wiki_pages/crooked_teeth.html
   sprawled:
     name: sprawled
     wikiURL: https://danbooru.donmai.us/wiki_pages/sprawled.html
@@ -33005,9 +31963,6 @@ content:
   goddess (nikke):
     name: goddess (nikke)
     wikiURL: https://danbooru.donmai.us/wiki_pages/goddess_(nikke).html
-  veiny belly:
-    name: veiny belly
-    wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_belly.html
   forced exposure:
     name: forced exposure
     wikiURL: https://danbooru.donmai.us/wiki_pages/forced_exposure.html
@@ -33026,9 +31981,6 @@ content:
   h&k hk33:
     name: h&k hk33
     wikiURL: https://danbooru.donmai.us/wiki_pages/h&k_hk33.html
-  fur-trimmed bandeau:
-    name: fur-trimmed bandeau
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_bandeau.html
   checkered wristband:
     name: checkered wristband
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_wristband.html
@@ -33058,15 +32010,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/on-model_vs_in_your_style_challenge.html
     alias:
     - draw fanart challenge
-  hole in stomach:
-    name: hole in stomach
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hole_in_stomach.html
   honeycomb (object):
     name: honeycomb (object)
     wikiURL: https://danbooru.donmai.us/wiki_pages/honeycomb_(object).html
-  sleeves tied together:
-    name: sleeves tied together
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sleeves_tied_together.html
   ruqun:
     name: ruqun
     wikiURL: https://danbooru.donmai.us/wiki_pages/ruqun.html
@@ -33133,9 +32079,6 @@ content:
   wet male swimwear:
     name: wet male swimwear
     wikiURL: https://danbooru.donmai.us/wiki_pages/wet_male_swimwear.html
-  grabbing another's shoulder:
-    name: grabbing another's shoulder
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_shoulder.html
   nami (one piece) (cosplay):
     name: nami (one piece) (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/nami_(one_piece)_(cosplay).html
@@ -33172,18 +32115,12 @@ content:
   morion:
     name: morion
     wikiURL: https://danbooru.donmai.us/wiki_pages/morion.html
-  multiple anklets:
-    name: multiple anklets
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_anklets.html
   crescent brooch:
     name: crescent brooch
     wikiURL: https://danbooru.donmai.us/wiki_pages/crescent_brooch.html
   chesto (phrase):
     name: chesto (phrase)
     wikiURL: https://danbooru.donmai.us/wiki_pages/chesto_(phrase).html
-  currency strap:
-    name: currency strap
-    wikiURL: https://danbooru.donmai.us/wiki_pages/currency_strap.html
   icosahedron:
     name: icosahedron
     wikiURL: https://danbooru.donmai.us/wiki_pages/icosahedron.html
@@ -33251,9 +32188,6 @@ content:
   anastasia (lostbelt) (fate/grand order):
     name: anastasia (lostbelt) (fate/grand order)
     wikiURL: https://danbooru.donmai.us/wiki_pages/anastasia_(lostbelt)_(fate/grand_order).html
-  happy shijo shugi!:
-    name: happy shijo shugi!
-    wikiURL: https://danbooru.donmai.us/wiki_pages/happy_shijo_shugi!.html
   wink heart:
     name: wink heart
     wikiURL: https://danbooru.donmai.us/wiki_pages/wink_heart.html
@@ -33321,9 +32255,6 @@ content:
   feathered dinosaur:
     name: feathered dinosaur
     wikiURL: https://danbooru.donmai.us/wiki_pages/feathered_dinosaur.html
-  dolls kissing:
-    name: dolls kissing
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dolls_kissing.html
   feeling muscles:
     name: feeling muscles
     wikiURL: https://danbooru.donmai.us/wiki_pages/feeling_muscles.html
@@ -33416,9 +32347,6 @@ content:
   perimeter wall:
     name: perimeter wall
     wikiURL: https://danbooru.donmai.us/wiki_pages/perimeter_wall.html
-  cross-laced vest:
-    name: cross-laced vest
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_vest.html
   simple bat:
     name: simple bat
     wikiURL: https://danbooru.donmai.us/wiki_pages/simple_bat.html
@@ -33484,9 +32412,6 @@ content:
   playing chess:
     name: playing chess
     wikiURL: https://danbooru.donmai.us/wiki_pages/playing_chess.html
-  ass zipper:
-    name: ass zipper
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ass_zipper.html
   immiscible discord (project sekai):
     name: immiscible discord (project sekai)
     wikiURL: https://danbooru.donmai.us/wiki_pages/immiscible_discord_(project_sekai).html
@@ -33526,9 +32451,6 @@ content:
   ladybug/beauty (love live!):
     name: ladybug/beauty (love live!)
     wikiURL: https://danbooru.donmai.us/wiki_pages/ladybug/beauty_(love_live!).html
-  blood on tongue:
-    name: blood on tongue
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_tongue.html
   white visor:
     name: white visor
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_visor.html
@@ -33550,9 +32472,6 @@ content:
   clothes blanket:
     name: clothes blanket
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothes_blanket.html
-  ass blush:
-    name: ass blush
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ass_blush.html
   mikimoto haruhiko (style):
     name: mikimoto haruhiko (style)
     wikiURL: https://danbooru.donmai.us/wiki_pages/mikimoto_haruhiko_(style).html
@@ -33686,9 +32605,6 @@ content:
   koharu (blue archive) (cosplay):
     name: koharu (blue archive) (cosplay)
     wikiURL: https://danbooru.donmai.us/wiki_pages/koharu_(blue_archive)_(cosplay).html
-  white tongue:
-    name: white tongue
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_tongue.html
   honda civic type r:
     name: honda civic type r
     wikiURL: https://danbooru.donmai.us/wiki_pages/honda_civic_type_r.html
@@ -33784,9 +32700,6 @@ content:
   personality excrement:
     name: personality excrement
     wikiURL: https://danbooru.donmai.us/wiki_pages/personality_excrement.html
-  necktie in pocket:
-    name: necktie in pocket
-    wikiURL: https://danbooru.donmai.us/wiki_pages/necktie_in_pocket.html
   critical hit:
     name: critical hit
     wikiURL: https://danbooru.donmai.us/wiki_pages/critical_hit.html

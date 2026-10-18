@@ -1,6 +1,6 @@
 name: 外貌与姿态细节
 category:
-- 人类
+- 人物
 content:
   hand up:
     name: 抬起手
@@ -10,7 +10,7 @@ content:
     - one hand raised
     - raised hand
   hand on own hip:
-    name: hand on own hip
+    name: 手放在自己的臀部
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_own_hip.html
   wet:
     name: 湿身
@@ -23,7 +23,7 @@ content:
     name: 高开衩的衣物
     wikiURL: https://danbooru.donmai.us/wiki_pages/highleg.html
   grabbing another's breast:
-    name: grabbing another's breast
+    name: 抓住别人的乳房
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_breast.html
   single thighhigh:
     name: 只有一条腿有穿着
@@ -48,7 +48,7 @@ content:
     name: 有腿环的裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/thighband_pantyhose.html
   breasts squeezed together:
-    name: breasts squeezed together
+    name: 乳房挤在一起
     wikiURL: https://danbooru.donmai.us/wiki_pages/breasts_squeezed_together.html
   on floor:
     name: 在地板上
@@ -90,7 +90,7 @@ content:
     name: 红色过膝袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_thighhighs.html
   disembodied hand:
-    name: disembodied hand
+    name: 空手
     wikiURL: https://danbooru.donmai.us/wiki_pages/disembodied_hand.html
     alias:
     - detached hand
@@ -146,7 +146,7 @@ content:
     alias:
     - sitting on desk
   cow print thighhighs:
-    name: cow print thighhighs
+    name: 奶牛印花长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print_thighhighs.html
   thigh grab:
     name: 抓着大腿
@@ -214,7 +214,7 @@ content:
     name: 腿上绑着工具包
     wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_pouch.html
   borrowed clothes:
-    name: borrowed clothes
+    name: 借来的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/borrowed_clothes.html
     alias:
     - borrowed garments
@@ -308,7 +308,7 @@ content:
     name: 手里拿着捕虫网
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_net.html
   ornate border:
-    name: ornate border
+    name: 华丽的边框
     wikiURL: https://danbooru.donmai.us/wiki_pages/ornate_border.html
     alias:
     - complex border
@@ -323,7 +323,7 @@ content:
     name: 单腿靴
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_thigh_boot.html
   argyle thighhighs:
-    name: argyle thighhighs
+    name: 菱形长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_thighhighs.html
   squinting:
     name: 眯着眼睛
@@ -376,7 +376,7 @@ content:
     - foot lick
     - foot licking
   handprint:
-    name: handprint
+    name: 手印
     wikiURL: https://danbooru.donmai.us/wiki_pages/handprint.html
     alias:
     - hand print
@@ -420,7 +420,7 @@ content:
     name: 大腿上的创可贴
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandaid_on_thigh.html
   presenting breasts:
-    name: presenting breasts
+    name: 呈现乳房
     wikiURL: https://danbooru.donmai.us/wiki_pages/presenting_breasts.html
   aqua thighhighs:
     name: 水绿色长筒袜
@@ -437,7 +437,7 @@ content:
     alias:
     - holding railing
   wrong foot:
-    name: wrong foot
+    name: 错误的脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/wrong_foot.html
     alias:
     - wrong feet
@@ -462,10 +462,10 @@ content:
     name: 交出别人的嘴
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_over_another's_mouth.html
   leggings under shorts:
-    name: leggings under shorts
+    name: 短裤下的打底裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/leggings_under_shorts.html
   unworn thighhighs:
-    name: unworn thighhighs
+    name: 未穿过的长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_thighhighs.html
     alias:
     - thighhighs removed
@@ -501,7 +501,7 @@ content:
     name: 低腰短裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/lowleg_shorts.html
   object floating above hand:
-    name: object floating above hand
+    name: 物体漂浮在手上方
     wikiURL: https://danbooru.donmai.us/wiki_pages/object_floating_above_hand.html
   skeletal hand:
     name: 骷髅手
@@ -513,7 +513,7 @@ content:
     name: 手挤奶
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_milking.html
   reverse nursing handjob:
-    name: reverse nursing handjob
+    name: 反向护理打手枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/reverse_nursing_handjob.html
   breast zipper:
     name: 胸部拉链
@@ -648,7 +648,7 @@ content:
     alias:
     - chocolate on fingers
   '#unicus (idolmaster)':
-    name: '#lookingforaunitname （idolmaster）'
+    name: '#unicus（偶像大师）'
     wikiURL: https://danbooru.donmai.us/wiki_pages/#unicus_(idolmaster).html
     alias:
     - '#lookingforaunitname (idolmaster)'
@@ -982,707 +982,707 @@ content:
     name: 马的腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/mare's_leg.html
   bandana around arm:
-    name: bandana around arm
+    name: 手臂上的头巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandana_around_arm.html
   footwear focus:
-    name: footwear focus
+    name: 鞋类焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/footwear_focus.html
   low side ponytail:
-    name: low side ponytail
+    name: 低侧马尾辫
     wikiURL: https://danbooru.donmai.us/wiki_pages/low_side_ponytail.html
   holding mace:
-    name: holding mace
+    name: 拿着狼牙棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_mace.html
   holding calligraphy brush:
-    name: holding calligraphy brush
+    name: 拿着毛笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_calligraphy_brush.html
   looking at self:
-    name: looking at self
+    name: 看着自己
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_self.html
   grabbing another's twintails:
-    name: grabbing another's twintails
+    name: 抓住别人的双马尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_twintails.html
   chain around arm:
-    name: chain around arm
+    name: 手臂上的链条
     wikiURL: https://danbooru.donmai.us/wiki_pages/chain_around_arm.html
   braided twintails:
-    name: braided twintails
+    name: 辫子双马尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/braided_twintails.html
   hair floating upwards:
-    name: hair floating upwards
+    name: 头发向上飘
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_floating_upwards.html
   foot on another's face:
-    name: foot on another's face
+    name: 脚踩在别人脸上
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_on_another's_face.html
     alias:
     - foot in another's face
     - foot on face
     - foot smother
   droopy ears:
-    name: droopy ears
+    name: 耳朵下垂
     wikiURL: https://danbooru.donmai.us/wiki_pages/droopy_ears.html
   hands in own hair:
-    name: hands in own hair
+    name: 双手插在自己的头发上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_in_own_hair.html
   holding doughnut:
-    name: holding doughnut
+    name: 拿着甜甜圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_doughnut.html
   holding baton:
-    name: holding baton
+    name: 拿着接力棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_baton.html
   blue arm warmers:
-    name: blue arm warmers
+    name: 蓝色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_arm_warmers.html
   reverse-jointed legs:
-    name: reverse-jointed legs
+    name: 反向关节腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/reverse-jointed_legs.html
     alias:
     - reverse jointed legs
   hair tattoo:
-    name: hair tattoo
+    name: 头发纹身
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_tattoo.html
   feixianji (hairstyle):
-    name: feixianji (hairstyle)
+    name: 飞仙姬（发型）
     wikiURL: https://danbooru.donmai.us/wiki_pages/feixianji_(hairstyle).html
   double biceps pose:
-    name: double biceps pose
+    name: 双二头肌姿势
     wikiURL: https://danbooru.donmai.us/wiki_pages/double_biceps_pose.html
   alternate body hair:
-    name: alternate body hair
+    name: 交替体毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_body_hair.html
   reflective surface:
-    name: reflective surface
+    name: 反射面
     wikiURL: https://danbooru.donmai.us/wiki_pages/reflective_surface.html
   mature eyes:
-    name: mature eyes
+    name: 成熟的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/mature_eyes.html
   tickling legs:
-    name: tickling legs
+    name: 腿痒痒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_legs.html
   armless amputee:
-    name: armless amputee
+    name: 无臂截肢者
     wikiURL: https://danbooru.donmai.us/wiki_pages/armless_amputee.html
   blood on body:
-    name: blood on body
+    name: 身上有血
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_body.html
   multiple thigh straps:
-    name: multiple thigh straps
+    name: 多条大腿带
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_thigh_straps.html
   hair through hood:
-    name: hair through hood
+    name: 头发穿过兜帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_through_hood.html
   hoshino ai's pose:
-    name: hoshino ai's pose
+    name: 星野爱的姿势
     wikiURL: https://danbooru.donmai.us/wiki_pages/hoshino_ai's_pose.html
   hand on another's wrist:
-    name: hand on another's wrist
+    name: 手放在别人的手腕上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_another's_wrist.html
   half-heart hands:
-    name: half-heart hands
+    name: 半心半心的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/half-heart_hands.html
   holding lead pipe:
-    name: holding lead pipe
+    name: 握住铅管
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_lead_pipe.html
     alias:
     - holding industrial pipe
   applying manicure:
-    name: applying manicure
+    name: 修指甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/applying_manicure.html
     alias:
     - manicure
   holding hand grip:
-    name: holding hand grip
+    name: 握着的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_hand_grip.html
   ears through hood:
-    name: ears through hood
+    name: 耳朵穿过引擎盖
     wikiURL: https://danbooru.donmai.us/wiki_pages/ears_through_hood.html
   yin yang hair ornament:
-    name: yin yang hair ornament
+    name: 阴阳发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/yin_yang_hair_ornament.html
   gradient tail:
-    name: gradient tail
+    name: 梯度尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_tail.html
   komainu tail:
-    name: komainu tail
+    name: 小马努尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/komainu_tail.html
   holding candy apple:
-    name: holding candy apple
+    name: 拿着糖果苹果
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_candy_apple.html
   hope's dusk (apex legends):
-    name: hope's dusk (apex legends)
+    name: 希望的黄昏（巅峰传奇）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hope's_dusk_(apex_legends).html
     alias:
     - wraith's kunai
   torn leggings:
-    name: torn leggings
+    name: 撕裂的打底裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/torn_leggings.html
     alias:
     - ripped leggings
   forearms:
-    name: forearms
+    name: 前臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/forearms.html
   holding ticket:
-    name: holding ticket
+    name: 持票
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_ticket.html
   lace thighhighs:
-    name: lace thighhighs
+    name: 蕾丝长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_thighhighs.html
   gold thighlet:
-    name: gold thighlet
+    name: 金色大腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_thighlet.html
   pink armband:
-    name: pink armband
+    name: 粉色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_armband.html
   sharp tail:
-    name: sharp tail
+    name: 尖尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/sharp_tail.html
   receding hairline:
-    name: receding hairline
+    name: 发际线后移
     wikiURL: https://danbooru.donmai.us/wiki_pages/receding_hairline.html
   smelly armpits:
-    name: smelly armpits
+    name: 腋下有臭味
     wikiURL: https://danbooru.donmai.us/wiki_pages/smelly_armpits.html
   applying pedicure:
-    name: applying pedicure
+    name: 修脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/applying_pedicure.html
     alias:
     - pedicure
   alternate body fluid:
-    name: alternate body fluid
+    name: 替代体液
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_body_fluid.html
     alias:
     - alternate blood
     - alternate saliva
   holding eyeball:
-    name: holding eyeball
+    name: 握住眼球
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_eyeball.html
   holding tennis racket:
-    name: holding tennis racket
+    name: 拿着网球拍
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_tennis_racket.html
   downturned eyes:
-    name: downturned eyes
+    name: 低垂的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/downturned_eyes.html
   condom thigh strap:
-    name: condom thigh strap
+    name: 避孕套大腿带
     wikiURL: https://danbooru.donmai.us/wiki_pages/condom_thigh_strap.html
   earmuffs around neck:
-    name: earmuffs around neck
+    name: 脖子上的耳罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/earmuffs_around_neck.html
   looking through scope:
-    name: looking through scope
+    name: 透过范围看
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_through_scope.html
   veiny face:
-    name: veiny face
+    name: 脸上有青筋
     wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_face.html
   pov cheek warming (meme):
-    name: pov cheek warming (meme)
+    name: pov 脸颊温暖 (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/pov_cheek_warming_(meme).html
   single hair streak:
-    name: single hair streak
+    name: 单发条纹
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_hair_streak.html
   chest hair peek:
-    name: chest hair peek
+    name: 胸毛窥视
     wikiURL: https://danbooru.donmai.us/wiki_pages/chest_hair_peek.html
   mismatched thighhighs:
-    name: mismatched thighhighs
+    name: 不匹配的长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_thighhighs.html
   single arm guard:
-    name: single arm guard
+    name: 单臂护卫
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_arm_guard.html
   crystal horns:
-    name: crystal horns
+    name: 水晶喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/crystal_horns.html
     alias:
     - crystal horn
   artist's hand in frame:
-    name: artist's hand in frame
+    name: 画框内的艺术家之手
     wikiURL: https://danbooru.donmai.us/wiki_pages/artist's_hand_in_frame.html
   hair branch:
-    name: hair branch
+    name: 发枝
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_branch.html
   biting another's tail:
-    name: biting another's tail
+    name: 咬别人的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_another's_tail.html
   applying lipstick:
-    name: applying lipstick
+    name: 涂口红
     wikiURL: https://danbooru.donmai.us/wiki_pages/applying_lipstick.html
   holding chibi:
-    name: holding chibi
+    name: 抱着赤壁
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_chibi.html
   holding heart (organ):
-    name: holding heart (organ)
+    name: 捧心（器官）
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_heart_(organ).html
   single handcuff:
-    name: single handcuff
+    name: 单手铐
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_handcuff.html
   holding ofuda:
-    name: holding ofuda
+    name: 控股奥福达
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_ofuda.html
   silver skin:
-    name: silver skin
+    name: 银色皮肤
     wikiURL: https://danbooru.donmai.us/wiki_pages/silver_skin.html
   sidetail miku noodle stopper (meme):
-    name: sidetail miku noodle stopper (meme)
+    name: 侧尾 miku 面条塞 (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/sidetail_miku_noodle_stopper_(meme).html
   bodystocking only:
-    name: bodystocking only
+    name: 仅连体袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/bodystocking_only.html
   holding cleaver:
-    name: holding cleaver
+    name: 拿着切肉刀
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_cleaver.html
   brown arm warmers:
-    name: brown arm warmers
+    name: 棕色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_arm_warmers.html
   arabesque (pose):
-    name: arabesque (pose)
+    name: 阿拉伯式花纹（姿势）
     wikiURL: https://danbooru.donmai.us/wiki_pages/arabesque_(pose).html
   cinnamiku hairstyle:
-    name: cinnamiku hairstyle
+    name: 肉桂发型
     wikiURL: https://danbooru.donmai.us/wiki_pages/cinnamiku_hairstyle.html
   tail belt:
-    name: tail belt
+    name: 尾带
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_belt.html
   bee wings:
-    name: bee wings
+    name: 蜜蜂翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/bee_wings.html
   holding scalpel:
-    name: holding scalpel
+    name: 拿着手术刀
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_scalpel.html
   unworn hairclip:
-    name: unworn hairclip
+    name: 未佩戴的发夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hairclip.html
     alias:
     - hairclip removed
   biting another's hand:
-    name: biting another's hand
+    name: 咬别人的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_another's_hand.html
     alias:
     - hand bite
   sitting split:
-    name: sitting split
+    name: 坐姿分体
     wikiURL: https://danbooru.donmai.us/wiki_pages/sitting_split.html
     alias:
     - middle split
   face jewel:
-    name: face jewel
+    name: 面宝石
     wikiURL: https://danbooru.donmai.us/wiki_pages/face_jewel.html
   holding sandals:
-    name: holding sandals
+    name: 拿着凉鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_sandals.html
   mystic eyes:
-    name: mystic eyes
+    name: 神秘的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/mystic_eyes.html
   group pose:
-    name: group pose
+    name: 集体姿势
     wikiURL: https://danbooru.donmai.us/wiki_pages/group_pose.html
   holding picture frame:
-    name: holding picture frame
+    name: 拿着相框
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_picture_frame.html
   sitting between lap:
-    name: sitting between lap
+    name: 坐在两腿之间
     wikiURL: https://danbooru.donmai.us/wiki_pages/sitting_between_lap.html
   holding over opposite shoulder:
-    name: holding over opposite shoulder
+    name: 握住对面的肩膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_over_opposite_shoulder.html
   holding hair tie:
-    name: holding hair tie
+    name: 拿着发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_hair_tie.html
   tying another's hair:
-    name: tying another's hair
+    name: 绑别人的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/tying_another's_hair.html
   arm on another's head:
-    name: arm on another's head
+    name: 手臂放在别人头上
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_on_another's_head.html
   handheld electric fan:
-    name: handheld electric fan
+    name: 手持电风扇
     wikiURL: https://danbooru.donmai.us/wiki_pages/handheld_electric_fan.html
     alias:
     - handheld fan
   insect hair ornament:
-    name: insect hair ornament
+    name: 昆虫发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/insect_hair_ornament.html
   bandage on hair:
-    name: bandage on hair
+    name: 头发上的绷带
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandage_on_hair.html
   covered armpit:
-    name: covered armpit
+    name: 遮盖腋窝
     wikiURL: https://danbooru.donmai.us/wiki_pages/covered_armpit.html
   arm fins:
-    name: arm fins
+    name: 臂鳍
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_fins.html
   ears back:
-    name: ears back
+    name: 耳朵向后
     wikiURL: https://danbooru.donmai.us/wiki_pages/ears_back.html
   holding sewing needle:
-    name: holding sewing needle
+    name: 拿着缝纫针
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_sewing_needle.html
   holding vial:
-    name: holding vial
+    name: 持有小瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_vial.html
   holding dumbbell:
-    name: holding dumbbell
+    name: 拿着哑铃
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_dumbbell.html
   pink leg warmers:
-    name: pink leg warmers
+    name: 粉色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_leg_warmers.html
   hand jewel:
-    name: hand jewel
+    name: 手上的宝石
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_jewel.html
   too many hair ornaments:
-    name: too many hair ornaments
+    name: 太多的发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_hair_ornaments.html
     alias:
     - too many hairclips
   shiny eyes:
-    name: shiny eyes
+    name: 闪亮的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/shiny_eyes.html
   biting own tail:
-    name: biting own tail
+    name: 咬自己的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_own_tail.html
   leg focus:
-    name: leg focus
+    name: 腿部焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_focus.html
   leaf wings:
-    name: leaf wings
+    name: 叶翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/leaf_wings.html
   cable hair:
-    name: cable hair
+    name: 电缆毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/cable_hair.html
     alias:
     - wire hair
   mutsuki face (azur lane):
-    name: mutsuki face (azur lane)
+    name: 睦月脸（蔚蓝巷）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mutsuki_face_(azur_lane).html
   arm markings:
-    name: arm markings
+    name: 手臂标记
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_markings.html
   red arm warmers:
-    name: red arm warmers
+    name: 红色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_arm_warmers.html
   side sitting split:
-    name: side sitting split
+    name: 侧坐分体式
     wikiURL: https://danbooru.donmai.us/wiki_pages/side_sitting_split.html
   green arm warmers:
-    name: green arm warmers
+    name: 绿色手臂保暖器
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_arm_warmers.html
   excessive armpit hair:
-    name: excessive armpit hair
+    name: 腋毛过多
     wikiURL: https://danbooru.donmai.us/wiki_pages/excessive_armpit_hair.html
   puckered face:
-    name: puckered face
+    name: 皱起脸
     wikiURL: https://danbooru.donmai.us/wiki_pages/puckered_face.html
   gardening shears:
-    name: gardening shears
+    name: 园艺剪
     wikiURL: https://danbooru.donmai.us/wiki_pages/gardening_shears.html
     alias:
     - pruning shears
   grabbing another's thighs:
-    name: grabbing another's thighs
+    name: 抓住别人的大腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_thighs.html
   winged hair tie:
-    name: winged hair tie
+    name: 带翅膀的发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/winged_hair_tie.html
   holding miniperson:
-    name: holding miniperson
+    name: 抱着迷你人
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_miniperson.html
   looking at pectorals:
-    name: looking at pectorals
+    name: 看着胸肌
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_pectorals.html
   bite mark on arm:
-    name: bite mark on arm
+    name: 手臂上有咬痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_arm.html
   holding sandwich:
-    name: holding sandwich
+    name: 拿着三明治
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_sandwich.html
   orange armband:
-    name: orange armband
+    name: 橙色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_armband.html
   gauze on face:
-    name: gauze on face
+    name: 脸上敷纱布
     wikiURL: https://danbooru.donmai.us/wiki_pages/gauze_on_face.html
   looking at bulge:
-    name: looking at bulge
+    name: 看着凸起
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_bulge.html
   hand in another's mouth:
-    name: hand in another's mouth
+    name: 手放在别人嘴里
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_another's_mouth.html
   legless amputee:
-    name: legless amputee
+    name: 无腿截肢者
     wikiURL: https://danbooru.donmai.us/wiki_pages/legless_amputee.html
   bruise on arm:
-    name: bruise on arm
+    name: 手臂上有瘀伤
     wikiURL: https://danbooru.donmai.us/wiki_pages/bruise_on_arm.html
   bite mark on thigh:
-    name: bite mark on thigh
+    name: 大腿上有咬痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_thigh.html
   horn hair ornament:
-    name: horn hair ornament
+    name: 牛角发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/horn_hair_ornament.html
   square eyes:
-    name: square eyes
+    name: 方眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/square_eyes.html
   grey leg warmers:
-    name: grey leg warmers
+    name: 灰色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_leg_warmers.html
   frilled thigh strap:
-    name: frilled thigh strap
+    name: 褶边大腿带
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_thigh_strap.html
   aqua tail:
-    name: aqua tail
+    name: 水尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_tail.html
   abdomen tail:
-    name: abdomen tail
+    name: 腹尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/abdomen_tail.html
     alias:
     - insect tail
   holding razor:
-    name: holding razor
+    name: 拿着剃须刀
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_razor.html
   argyle footwear:
-    name: argyle footwear
+    name: 菱形鞋类
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_footwear.html
   tail around another's leg:
     name: tail around another's leg
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_around_another's_leg.html
   holding with chopsticks:
-    name: holding with chopsticks
+    name: 用筷子夹着
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_with_chopsticks.html
   grabbing another's tail:
-    name: grabbing another's tail
+    name: 抓住别人的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_tail.html
   fork hair ornament:
-    name: fork hair ornament
+    name: 叉形发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/fork_hair_ornament.html
   standing anilingus:
-    name: standing anilingus
+    name: 站立肛肠
     wikiURL: https://danbooru.donmai.us/wiki_pages/standing_anilingus.html
   taped hands:
-    name: taped hands
+    name: 手被胶带缠住
     wikiURL: https://danbooru.donmai.us/wiki_pages/taped_hands.html
   sticker on leg:
-    name: sticker on leg
+    name: 腿上的贴纸
     wikiURL: https://danbooru.donmai.us/wiki_pages/sticker_on_leg.html
   tail under clothes:
-    name: tail under clothes
+    name: 尾巴藏在衣服下面
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_under_clothes.html
   bandage on leg:
-    name: bandage on leg
+    name: 腿上缠绷带
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandage_on_leg.html
   holding another's wrists:
-    name: holding another's wrists
+    name: 握住别人的手腕
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_another's_wrists.html
   hair tuft:
-    name: hair tuft
+    name: 毛簇
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_tuft.html
   brushing tail:
-    name: brushing tail
+    name: 刷尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/brushing_tail.html
     alias:
     - tail brushing
   holding tera orb:
-    name: holding tera orb
+    name: 持有太拉球
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_tera_orb.html
   thighs together:
-    name: thighs together
+    name: 大腿并拢
     wikiURL: https://danbooru.donmai.us/wiki_pages/thighs_together.html
   squiggle eyes:
-    name: squiggle eyes
+    name: 弯弯曲曲的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/squiggle_eyes.html
   holding crystal:
-    name: holding crystal
+    name: 持有水晶
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_crystal.html
   holding rod:
-    name: holding rod
+    name: 握杆
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_rod.html
   holding shoe:
-    name: holding shoe
+    name: 拿着鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_shoe.html
   asymmetrical eyes:
-    name: asymmetrical eyes
+    name: 眼睛不对称
     wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_eyes.html
   raccoon hair ornament:
-    name: raccoon hair ornament
+    name: 浣熊发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/raccoon_hair_ornament.html
   looking around:
-    name: looking around
+    name: 环顾四周
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_around.html
   gauze on arm:
-    name: gauze on arm
+    name: 手臂上的纱布
     wikiURL: https://danbooru.donmai.us/wiki_pages/gauze_on_arm.html
   exposed internal machinery:
     name: exposed internal machinery
     wikiURL: https://danbooru.donmai.us/wiki_pages/exposed_internal_machinery.html
   trimmed tail:
-    name: trimmed tail
+    name: 修剪尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/trimmed_tail.html
   bat tail:
-    name: bat tail
+    name: 蝙蝠尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/bat_tail.html
   gauze on leg:
-    name: gauze on leg
+    name: 腿上缠着纱布
     wikiURL: https://danbooru.donmai.us/wiki_pages/gauze_on_leg.html
   holding veil:
-    name: holding veil
+    name: 拿着面纱
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_veil.html
   kongou pose:
-    name: kongou pose
+    name: 金刚姿势
     wikiURL: https://danbooru.donmai.us/wiki_pages/kongou_pose.html
   colombia pose (meme):
-    name: colombia pose (meme)
+    name: 哥伦比亚姿势（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/colombia_pose_(meme).html
     alias:
     - colombia pose
   metal hair tubes:
-    name: metal hair tubes
+    name: 金属发管
     wikiURL: https://danbooru.donmai.us/wiki_pages/metal_hair_tubes.html
   holding snack:
-    name: holding snack
+    name: 拿着零食
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_snack.html
   spiked thigh strap:
-    name: spiked thigh strap
+    name: 尖刺大腿带
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_thigh_strap.html
   tail around waist:
-    name: tail around waist
+    name: 尾巴绕腰
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_around_waist.html
   bruise on leg:
-    name: bruise on leg
+    name: 腿上有瘀伤
     wikiURL: https://danbooru.donmai.us/wiki_pages/bruise_on_leg.html
   blue leg warmers:
-    name: blue leg warmers
+    name: 蓝色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_leg_warmers.html
   hand on own hat:
-    name: hand on own hat
+    name: 手放在自己的帽子上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_own_hat.html
   holding tool:
-    name: holding tool
+    name: 夹持工具
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_tool.html
   holding pan:
-    name: holding pan
+    name: 保温盘
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_pan.html
   holding dustpan:
-    name: holding dustpan
+    name: 拿着簸箕
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_dustpan.html
   family guy death pose (meme):
     name: family guy death pose (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/family_guy_death_pose_(meme).html
   claw hair clip:
-    name: claw hair clip
+    name: 爪形发夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/claw_hair_clip.html
   looking through fingers:
-    name: looking through fingers
+    name: 透过手指看
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_through_fingers.html
   holding digital media player:
     name: holding digital media player
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_digital_media_player.html
   hands on own feet:
-    name: hands on own feet
+    name: 双手放在自己的脚上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_own_feet.html
   grabbing own hair:
-    name: grabbing own hair
+    name: 抓自己的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_own_hair.html
   white facepaint:
-    name: white facepaint
+    name: 白色面漆
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_facepaint.html
   holding matchstick:
-    name: holding matchstick
+    name: 拿着火柴
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_matchstick.html
   thick tail:
-    name: thick tail
+    name: 粗尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_tail.html
   ears under headwear:
-    name: ears under headwear
+    name: 耳朵在头饰下面
     wikiURL: https://danbooru.donmai.us/wiki_pages/ears_under_headwear.html
   unworn armband:
-    name: unworn armband
+    name: 未佩戴的臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_armband.html
     alias:
     - armband removed
   holding compact:
-    name: holding compact
+    name: 保持紧凑
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_compact.html
   hat horns:
-    name: hat horns
+    name: 帽角
     wikiURL: https://danbooru.donmai.us/wiki_pages/hat_horns.html
   print leggings:
-    name: print leggings
+    name: 印花打底裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_leggings.html
   sparse ass hair:
-    name: sparse ass hair
+    name: 屁股毛稀疏
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparse_ass_hair.html
   waving hands:
-    name: waving hands
+    name: 挥手
     wikiURL: https://danbooru.donmai.us/wiki_pages/waving_hands.html
   red leg warmers:
-    name: red leg warmers
+    name: 红色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_leg_warmers.html
   single arm hug:
-    name: single arm hug
+    name: 单臂拥抱
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_arm_hug.html
   wings through clothes:
-    name: wings through clothes
+    name: 翅膀穿过衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/wings_through_clothes.html
   tail around arm:
-    name: tail around arm
+    name: 尾巴绕着手臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_around_arm.html
   aran legwear:
-    name: aran legwear
+    name: 阿兰裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/aran_legwear.html
   uneven footing:
-    name: uneven footing
+    name: 不平坦的基础
     wikiURL: https://danbooru.donmai.us/wiki_pages/uneven_footing.html
   hand in another's clothes:
-    name: hand in another's clothes
+    name: 把手伸进别人的衣服里
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_another's_clothes.html
   hair belt:
-    name: hair belt
+    name: 发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_belt.html
   media player interface:
-    name: media player interface
+    name: 媒体播放器界面
     wikiURL: https://danbooru.donmai.us/wiki_pages/media_player_interface.html
   black ears:
-    name: black ears
+    name: 黑耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_ears.html
   leg cast:
-    name: leg cast
+    name: 腿部石膏
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_cast.html
   hand saw:
-    name: hand saw
+    name: 手锯
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_saw.html
   holding maracas:
-    name: holding maracas
+    name: 拿着沙球
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_maracas.html
   holding candle stand:
-    name: holding candle stand
+    name: 拿着烛台
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_candle_stand.html
   boku no ashiato kimi no yukusaki (project sekai):
-    name: boku no ashiato kimi no yukusaki (project sekai)
+    name: 我的灰烬君的行崎（Project Sekai）
     wikiURL: https://danbooru.donmai.us/wiki_pages/boku_no_ashiato_kimi_no_yukusaki_(project_sekai).html
     alias:
     - my footprints your destination (project sekai)
     - what lies behind what lies ahead (project sekai)
   four eyes:
-    name: four eyes
+    name: 四眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/four_eyes.html
   purple leg warmers:
-    name: purple leg warmers
+    name: 紫色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_leg_warmers.html
   leglet:
-    name: leglet
+    name: 小腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/leglet.html
   double-sided polearm:
-    name: double-sided polearm
+    name: 双面长柄武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/double-sided_polearm.html
   holding ear:
-    name: holding ear
+    name: 捂着耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_ear.html
   holding rag:
-    name: holding rag
+    name: 拿着抹布
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_rag.html
   silver armlet:
-    name: silver armlet
+    name: 银臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/silver_armlet.html
   holding banner:
-    name: holding banner
+    name: 拿着横幅
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_banner.html
   keikyoku no machi wa doko e (project sekai):
     name: keikyoku no machi wa doko e (project sekai)
@@ -1691,679 +1691,980 @@ content:
     - mizu5
     - where does the path of thorns lead to? (project sekai)
   hair in another's mouth:
-    name: hair in another's mouth
+    name: 头发在别人嘴里
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_in_another's_mouth.html
   polka dot thighhighs:
-    name: polka dot thighhighs
+    name: 圆点长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_thighhighs.html
   curved horns:
-    name: curved horns
+    name: 弯曲的喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/curved_horns.html
   cutting out below the eyes is hot (meme):
-    name: cutting out below the eyes is hot (meme)
+    name: 眼睛下方的切口很热（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/cutting_out_below_the_eyes_is_hot_(meme).html
   thick ass hair:
-    name: thick ass hair
+    name: 厚厚的屁股毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_ass_hair.html
   translucent horns:
-    name: translucent horns
+    name: 半透明的角
     wikiURL: https://danbooru.donmai.us/wiki_pages/translucent_horns.html
     alias:
     - transparent horns
   purple hands:
-    name: purple hands
+    name: 紫色的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_hands.html
   grey arm warmers:
-    name: grey arm warmers
+    name: 灰色暖臂套
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_arm_warmers.html
   bandage on thigh:
-    name: bandage on thigh
+    name: 大腿上缠绷带
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandage_on_thigh.html
   bandaged horn:
-    name: bandaged horn
+    name: 缠着绷带的号角
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandaged_horn.html
     alias:
     - bandaged horns
   russian army:
-    name: russian army
+    name: 俄罗斯军队
     wikiURL: https://danbooru.donmai.us/wiki_pages/russian_army.html
   hair clipper:
-    name: hair clipper
+    name: 理发器
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_clipper.html
     alias:
     - trimmer
   mismatched armpit hair:
-    name: mismatched armpit hair
+    name: 腋毛不匹配
     wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_armpit_hair.html
   leg on another's shoulder:
     name: leg on another's shoulder
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_on_another's_shoulder.html
   holding lyre:
-    name: holding lyre
+    name: 拿着七弦琴
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_lyre.html
   checkered thighhighs:
-    name: checkered thighhighs
+    name: 格纹长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_thighhighs.html
   holding sock:
-    name: holding sock
+    name: 拿着袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_sock.html
   dirty footwear:
-    name: dirty footwear
+    name: 脏鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/dirty_footwear.html
   holding power drill:
-    name: holding power drill
+    name: 手持电钻
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_power_drill.html
   black wings of corrosion:
-    name: black wings of corrosion
+    name: 腐蚀的黑色之翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_wings_of_corrosion.html
   bite mark on leg:
-    name: bite mark on leg
+    name: 腿上有咬痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_leg.html
   holding makeup brush:
-    name: holding makeup brush
+    name: 拿着化妆刷
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_makeup_brush.html
   holding ema:
-    name: holding ema
+    name: 持有EMA
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_ema.html
   foot hair:
-    name: foot hair
+    name: 脚毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_hair.html
   backward facing horns:
-    name: backward facing horns
+    name: 向后的喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/backward_facing_horns.html
   eyes of horus (warhammer 40k):
-    name: eyes of horus (warhammer 40k)
+    name: 荷鲁斯之眼（战锤40k）
     wikiURL: https://danbooru.donmai.us/wiki_pages/eyes_of_horus_(warhammer_40k).html
   face squeeze:
-    name: face squeeze
+    name: 脸部挤压
     wikiURL: https://danbooru.donmai.us/wiki_pages/face_squeeze.html
   shared handcuffs:
-    name: shared handcuffs
+    name: 共用手铐
     wikiURL: https://danbooru.donmai.us/wiki_pages/shared_handcuffs.html
   holding tissue:
-    name: holding tissue
+    name: 拿着组织
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_tissue.html
   grabbing another's face:
-    name: grabbing another's face
+    name: 抓别人的脸
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_face.html
   holding tenbou:
-    name: holding tenbou
+    name: 持有天望
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_tenbou.html
   clawed hands:
-    name: clawed hands
+    name: 有爪的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/clawed_hands.html
   bomb hair ornament:
-    name: bomb hair ornament
+    name: 炸弹发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/bomb_hair_ornament.html
   l hand:
-    name: l hand
+    name: 我的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/l_hand.html
   holding another's legs:
-    name: holding another's legs
+    name: 抱着别人的腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_another's_legs.html
   twintails with hair base:
-    name: twintails with hair base
+    name: 带发底的双马尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/twintails_with_hair_base.html
   liquid from eyes:
-    name: liquid from eyes
+    name: 眼睛流出液体
     wikiURL: https://danbooru.donmai.us/wiki_pages/liquid_from_eyes.html
   lollipop hair ornament:
-    name: lollipop hair ornament
+    name: 棒棒糖发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/lollipop_hair_ornament.html
   holding another's finger:
-    name: holding another's finger
+    name: 握住别人的手指
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_another's_finger.html
   ox tail:
-    name: ox tail
+    name: 牛尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/ox_tail.html
   holding mascot head:
-    name: holding mascot head
+    name: 拿着吉祥物头
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_mascot_head.html
   hand on another's foot:
-    name: hand on another's foot
+    name: 手放在别人的脚上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_another's_foot.html
   thigh marking:
-    name: thigh marking
+    name: 大腿标记
     wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_marking.html
   dorothea arnault (plegian) (cosplay):
-    name: dorothea arnault (plegian) (cosplay)
+    name: 多萝西娅·阿尔诺（普莱吉亚）（角色扮演）
     wikiURL: https://danbooru.donmai.us/wiki_pages/dorothea_arnault_(plegian)_(cosplay).html
   mutual handjob:
-    name: mutual handjob
+    name: 互相打手枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/mutual_handjob.html
   aqua armband:
-    name: aqua armband
+    name: 水绿色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_armband.html
   official alternate horns:
-    name: official alternate horns
+    name: 官方备用号角
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_alternate_horns.html
   red eyes (e.g.o):
-    name: red eyes (e.g.o)
+    name: 红眼睛（例如o）
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_eyes_(e.g.o).html
   mismatched arm warmers:
-    name: mismatched arm warmers
+    name: 不匹配的手臂保暖器
     wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_arm_warmers.html
   black legion:
-    name: black legion
+    name: 黑色军团
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_legion.html
   hair chart:
-    name: hair chart
+    name: 头发图
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_chart.html
   holding lasso:
-    name: holding lasso
+    name: 拿着套索
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_lasso.html
   see-through footwear:
-    name: see-through footwear
+    name: 透视鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_footwear.html
   holding cube:
-    name: holding cube
+    name: 持有立方体
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_cube.html
   hands on own arms:
-    name: hands on own arms
+    name: 双手放在自己的手臂上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_own_arms.html
   double-parted hair:
-    name: double-parted hair
+    name: 双分头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/double-parted_hair.html
   brown armband:
-    name: brown armband
+    name: 棕色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_armband.html
   nikke's shooting pose (meme):
-    name: nikke's shooting pose (meme)
+    name: 尼克的射击姿势（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nikke's_shooting_pose_(meme).html
   tail in ass:
-    name: tail in ass
+    name: 尾巴插在屁股上
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_in_ass.html
   grabbing own tail:
-    name: grabbing own tail
+    name: 抓住自己的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_own_tail.html
   untying hair:
-    name: untying hair
+    name: 解开头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/untying_hair.html
   holding ski pole:
-    name: holding ski pole
+    name: 拿着滑雪杆
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_ski_pole.html
   swarming hands:
-    name: swarming hands
+    name: 蜂拥而至的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/swarming_hands.html
   huge ears:
-    name: huge ears
+    name: 巨大的耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/huge_ears.html
   metal hair:
-    name: metal hair
+    name: 金属毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/metal_hair.html
   flying spittle:
-    name: flying spittle
+    name: 飞沫
     wikiURL: https://danbooru.donmai.us/wiki_pages/flying_spittle.html
   outstretched crossed arms:
-    name: outstretched crossed arms
+    name: 双臂交叉伸展
     wikiURL: https://danbooru.donmai.us/wiki_pages/outstretched_crossed_arms.html
   arm on own leg:
-    name: arm on own leg
+    name: 手臂放在自己的腿上
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_on_own_leg.html
   hand chains:
-    name: hand chains
+    name: 手链
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_chains.html
   legbinder:
-    name: legbinder
+    name: 绑腿带
     wikiURL: https://danbooru.donmai.us/wiki_pages/legbinder.html
   tickling arms:
-    name: tickling arms
+    name: 手臂发痒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_arms.html
   head tail:
-    name: head tail
+    name: 头尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_tail.html
   high braided ponytail:
-    name: high braided ponytail
+    name: 高马尾辫
     wikiURL: https://danbooru.donmai.us/wiki_pages/high_braided_ponytail.html
   possum tail:
-    name: possum tail
+    name: 负鼠尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/possum_tail.html
     alias:
     - opossum tail
   hand on cane:
-    name: hand on cane
+    name: 手拄着拐杖
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_cane.html
   arm across neck:
-    name: arm across neck
+    name: 手臂越过脖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_across_neck.html
   mutsuki face (blue archive):
-    name: mutsuki face (blue archive)
+    name: 睦月脸（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mutsuki_face_(blue_archive).html
   holding acorn:
-    name: holding acorn
+    name: 拿着橡子
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_acorn.html
   hand cursor:
-    name: hand cursor
+    name: 手形光标
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_cursor.html
   heartsteel (league of legends):
-    name: heartsteel (league of legends)
+    name: Heartsteel（英雄联盟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/heartsteel_(league_of_legends).html
   holding limb:
-    name: holding limb
+    name: 握持肢体
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_limb.html
     alias:
     - holding severed hand
   = hair ornament:
-    name: = hair ornament
+    name: = 发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/=_hair_ornament.html
   frilled arm warmers:
-    name: frilled arm warmers
+    name: 褶边暖臂套
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_arm_warmers.html
   detached eyes:
-    name: detached eyes
+    name: 冷漠的眼神
     wikiURL: https://danbooru.donmai.us/wiki_pages/detached_eyes.html
   holding flail:
-    name: holding flail
+    name: 持连枷
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_flail.html
   too many hands:
-    name: too many hands
+    name: 太多的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_hands.html
   kanji hair ornament:
-    name: kanji hair ornament
+    name: 汉字发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/kanji_hair_ornament.html
   leg support:
-    name: leg support
+    name: 腿部支撑
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_support.html
   doufang:
-    name: doufang
+    name: 豆坊
     wikiURL: https://danbooru.donmai.us/wiki_pages/doufang.html
   gold thighhighs:
-    name: gold thighhighs
+    name: 金色长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_thighhighs.html
   holding canteen:
-    name: holding canteen
+    name: 控股食堂
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_canteen.html
   crocodile hair ornament:
-    name: crocodile hair ornament
+    name: 鳄鱼发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/crocodile_hair_ornament.html
   holding vacuum cleaner:
-    name: holding vacuum cleaner
+    name: 拿着吸尘器
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_vacuum_cleaner.html
   velcro footwear:
-    name: velcro footwear
+    name: 魔术贴鞋类
     wikiURL: https://danbooru.donmai.us/wiki_pages/velcro_footwear.html
   melting tail:
-    name: melting tail
+    name: 融化的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/melting_tail.html
   yellow leg warmers:
-    name: yellow leg warmers
+    name: 黄色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_leg_warmers.html
   growing out of body:
-    name: growing out of body
+    name: 长出身体
     wikiURL: https://danbooru.donmai.us/wiki_pages/growing_out_of_body.html
   holding beaker:
-    name: holding beaker
+    name: 保持烧杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_beaker.html
   crying kasumi (blue archive) (meme):
-    name: crying kasumi (blue archive) (meme)
+    name: 哭泣的霞（蓝色档案）（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/crying_kasumi_(blue_archive)_(meme).html
   shrimp hair ornament:
-    name: shrimp hair ornament
+    name: 虾发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/shrimp_hair_ornament.html
   lying on ball:
-    name: lying on ball
+    name: 躺在球上
     wikiURL: https://danbooru.donmai.us/wiki_pages/lying_on_ball.html
   stay fresh (pose):
-    name: stay fresh (pose)
+    name: 保持新鲜（姿势）
     wikiURL: https://danbooru.donmai.us/wiki_pages/stay_fresh_(pose).html
   yellow arm warmers:
-    name: yellow arm warmers
+    name: 黄色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_arm_warmers.html
   holding lid:
-    name: holding lid
+    name: 保持盖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_lid.html
   holding diploma:
-    name: holding diploma
+    name: 持有文凭
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_diploma.html
   foot grab:
-    name: foot grab
+    name: 抓脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_grab.html
   fangtian ji:
-    name: fangtian ji
+    name: 方天姬
     wikiURL: https://danbooru.donmai.us/wiki_pages/fangtian_ji.html
   holding board:
-    name: holding board
+    name: 托板
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_board.html
   wheel of dharma:
-    name: wheel of dharma
+    name: 法轮
     wikiURL: https://danbooru.donmai.us/wiki_pages/wheel_of_dharma.html
   holding net:
-    name: holding net
+    name: 保持网
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_net.html
   lancer (gears of war):
-    name: lancer (gears of war)
+    name: 枪骑兵（战争机器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/lancer_(gears_of_war).html
   broken heart hair ornament:
-    name: broken heart hair ornament
+    name: 破碎的心发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/broken_heart_hair_ornament.html
   holding wheat:
-    name: holding wheat
+    name: 拿着小麦
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_wheat.html
   hands on another's ass:
-    name: hands on another's ass
+    name: 把手放在别人的屁股上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_another's_ass.html
   interface censor:
-    name: interface censor
+    name: 界面审查器
     wikiURL: https://danbooru.donmai.us/wiki_pages/interface_censor.html
   foot against wall:
-    name: foot against wall
+    name: 脚靠墙
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_against_wall.html
     alias:
     - foot on wall
   sweaty foot:
-    name: sweaty foot
+    name: 脚出汗
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweaty_foot.html
   fairy tail logo:
-    name: fairy tail logo
+    name: 妖精的尾巴标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/fairy_tail_logo.html
   saberface:
-    name: saberface
+    name: 剑面
     wikiURL: https://danbooru.donmai.us/wiki_pages/saberface.html
   hand on handle:
-    name: hand on handle
+    name: 手放在手柄上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_handle.html
   green hair ornament:
-    name: green hair ornament
+    name: 绿色发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_hair_ornament.html
   smiley hair ornament:
-    name: smiley hair ornament
+    name: 笑脸发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/smiley_hair_ornament.html
   tickling face:
-    name: tickling face
+    name: 脸痒痒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_face.html
   chained legs:
-    name: chained legs
+    name: 被锁住的腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/chained_legs.html
   pantyhose around legs:
-    name: pantyhose around legs
+    name: 连裤袜绕腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/pantyhose_around_legs.html
   official alternate skin color:
-    name: official alternate skin color
+    name: 官方替代肤色
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_alternate_skin_color.html
   triangle hands:
-    name: triangle hands
+    name: 三角手
     wikiURL: https://danbooru.donmai.us/wiki_pages/triangle_hands.html
   fur leg warmers:
-    name: fur leg warmers
+    name: 毛皮暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur_leg_warmers.html
   fur-trimmed arm warmers:
-    name: fur-trimmed arm warmers
+    name: 毛皮镶边暖臂套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_arm_warmers.html
   legs on another's shoulders:
-    name: legs on another's shoulders
+    name: 双腿搭在别人的肩膀上
     wikiURL: https://danbooru.donmai.us/wiki_pages/legs_on_another's_shoulders.html
   holding hoe:
-    name: holding hoe
+    name: 拿着锄头
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_hoe.html
   touhou user interface:
-    name: touhou user interface
+    name: 东方用户界面
     wikiURL: https://danbooru.donmai.us/wiki_pages/touhou_user_interface.html
   holding jump rope:
-    name: holding jump rope
+    name: 拿着跳绳
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_jump_rope.html
   self borrowed hairstyle:
-    name: self borrowed hairstyle
+    name: 自借的发型
     wikiURL: https://danbooru.donmai.us/wiki_pages/self_borrowed_hairstyle.html
   holding record:
-    name: holding record
+    name: 保持记录
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_record.html
   grey armband:
-    name: grey armband
+    name: 灰色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_armband.html
   holding chisel:
-    name: holding chisel
+    name: 拿着凿子
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_chisel.html
   holding clothes iron:
-    name: holding clothes iron
+    name: 拿着熨斗
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_clothes_iron.html
   armet:
-    name: armet
+    name: 阿尔梅特
     wikiURL: https://danbooru.donmai.us/wiki_pages/armet.html
   licking another's hand:
-    name: licking another's hand
+    name: 舔别人的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/licking_another's_hand.html
   holding back:
-    name: holding back
+    name: 阻止
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_back.html
   holding crutch:
-    name: holding crutch
+    name: 拿着拐杖
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_crutch.html
   holding kickboard:
-    name: holding kickboard
+    name: 拿着浮板
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_kickboard.html
   miracreation/elegance:
-    name: miracreation/elegance
+    name: 奇迹/优雅
     wikiURL: https://danbooru.donmai.us/wiki_pages/miracreation/elegance.html
   leg only:
-    name: leg only
+    name: 仅腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_only.html
   holding dart:
-    name: holding dart
+    name: 拿着飞镖
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_dart.html
   fade (haircut):
-    name: fade (haircut)
+    name: 褪色（理发）
     wikiURL: https://danbooru.donmai.us/wiki_pages/fade_(haircut).html
   print armband:
-    name: print armband
+    name: 印花臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_armband.html
   no skin:
-    name: no skin
+    name: 没有皮肤
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_skin.html
   darkin (league of legends):
-    name: darkin (league of legends)
+    name: 黑暗（英雄联盟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/darkin_(league_of_legends).html
   thick back hair:
-    name: thick back hair
+    name: 后背毛发浓密
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_back_hair.html
   howl and sophie airwalking:
-    name: howl and sophie airwalking
+    name: 哈尔和苏菲空中行走
     wikiURL: https://danbooru.donmai.us/wiki_pages/howl_and_sophie_airwalking.html
   closing eyes:
-    name: closing eyes
+    name: 闭上眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/closing_eyes.html
   looking at map:
-    name: looking at map
+    name: 看地图
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_map.html
   bite mark on hand:
-    name: bite mark on hand
+    name: 手上有咬痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_hand.html
   holding potion:
-    name: holding potion
+    name: 持有药水
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_potion.html
   holding slingshot:
-    name: holding slingshot
+    name: 拿着弹弓
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_slingshot.html
   tapping foot:
-    name: tapping foot
+    name: 轻敲脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/tapping_foot.html
   holding behind neck:
-    name: holding behind neck
+    name: 抱在脖子后面
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_behind_neck.html
   legs on another's lap:
-    name: legs on another's lap
+    name: 腿放在别人腿上
     wikiURL: https://danbooru.donmai.us/wiki_pages/legs_on_another's_lap.html
   shading face:
-    name: shading face
+    name: 阴影面
     wikiURL: https://danbooru.donmai.us/wiki_pages/shading_face.html
   holding kite:
-    name: holding kite
+    name: 拿着风筝
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_kite.html
   holding another's horns:
-    name: holding another's horns
+    name: 拿着别人的角
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_another's_horns.html
   thigh peek:
-    name: thigh peek
+    name: 大腿窥视
     wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_peek.html
   narutomaki hair ornament:
-    name: narutomaki hair ornament
+    name: 火影忍者发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/narutomaki_hair_ornament.html
   bandaid on tail:
-    name: bandaid on tail
+    name: 尾巴上有创可贴
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandaid_on_tail.html
   flushed face emoji:
-    name: flushed face emoji
+    name: 脸红的表情符号
     wikiURL: https://danbooru.donmai.us/wiki_pages/flushed_face_emoji.html
   hair knot:
-    name: hair knot
+    name: 发结
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_knot.html
   blinking inside eyes:
-    name: blinking inside eyes
+    name: 眼睛里面眨眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/blinking_inside_eyes.html
   holding machete:
-    name: holding machete
+    name: 拿着砍刀
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_machete.html
   holding waist:
-    name: holding waist
+    name: 抱腰
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_waist.html
   holding flyer:
-    name: holding flyer
+    name: 拿着传单
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_flyer.html
   arm behind another's back:
-    name: arm behind another's back
+    name: 将手臂放在另一个人的背后
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_behind_another's_back.html
   pixel eyes:
-    name: pixel eyes
+    name: 像素眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/pixel_eyes.html
   holding another's tongue:
-    name: holding another's tongue
+    name: 管住别人的舌头
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_another's_tongue.html
   holding ornament:
-    name: holding ornament
+    name: 拿着装饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_ornament.html
   hand in clothes:
-    name: hand in clothes
+    name: 手伸进衣服里
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_clothes.html
   seraph wings:
-    name: seraph wings
+    name: 六翼天使之翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/seraph_wings.html
   holding floatie:
-    name: holding floatie
+    name: 拿着浮标
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_floatie.html
   mixed horns:
-    name: mixed horns
+    name: 混合喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/mixed_horns.html
     alias:
     - horns and antlers
     - multiple horn types
   fur thighhighs:
-    name: fur thighhighs
+    name: 毛皮长筒袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur_thighhighs.html
   holding eye:
-    name: holding eye
+    name: 凝视
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_eye.html
   broken horns:
-    name: broken horns
+    name: 断角
     wikiURL: https://danbooru.donmai.us/wiki_pages/broken_horns.html
   mole on foot:
-    name: mole on foot
+    name: 脚上有痣
     wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_foot.html
     alias:
     - mole on sole
   bleached hair:
-    name: bleached hair
+    name: 漂白的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/bleached_hair.html
   biting own hand:
-    name: biting own hand
+    name: 咬自己的手
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_own_hand.html
   holding own ears:
-    name: holding own ears
+    name: 捂着自己的耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_own_ears.html
   studded thigh strap:
-    name: studded thigh strap
+    name: 铆钉大腿带
     wikiURL: https://danbooru.donmai.us/wiki_pages/studded_thigh_strap.html
   skinned:
-    name: skinned
+    name: 剥皮的
     wikiURL: https://danbooru.donmai.us/wiki_pages/skinned.html
   good thighs day:
-    name: good thighs day
+    name: 美好的大腿日
     wikiURL: https://danbooru.donmai.us/wiki_pages/good_thighs_day.html
   hand on own opposite hip:
-    name: hand on own opposite hip
+    name: 手放在自己的另一侧臀部
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_own_opposite_hip.html
   nut hair ornament:
-    name: nut hair ornament
+    name: 坚果发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/nut_hair_ornament.html
   taped arms:
-    name: taped arms
+    name: 手臂用胶带缠住
     wikiURL: https://danbooru.donmai.us/wiki_pages/taped_arms.html
   fake head wings:
-    name: fake head wings
+    name: 假头翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_head_wings.html
   foot blush:
-    name: foot blush
+    name: 脚红
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_blush.html
   holding pitcher:
-    name: holding pitcher
+    name: 拿着水罐
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_pitcher.html
   shedding skin:
-    name: shedding skin
+    name: 脱皮
     wikiURL: https://danbooru.donmai.us/wiki_pages/shedding_skin.html
   holding bamboo shoot:
-    name: holding bamboo shoot
+    name: 拿着竹笋
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_bamboo_shoot.html
   hair half over shoulder:
-    name: hair half over shoulder
+    name: 头发一半过肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_half_over_shoulder.html
   ear wings:
-    name: ear wings
+    name: 耳翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/ear_wings.html
   chocolate hair ornament:
-    name: chocolate hair ornament
+    name: 巧克力发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/chocolate_hair_ornament.html
   obscured eyes:
-    name: obscured eyes
+    name: 眼睛被遮挡
     wikiURL: https://danbooru.donmai.us/wiki_pages/obscured_eyes.html
   fuzzy handcuffs:
-    name: fuzzy handcuffs
+    name: 模糊的手铐
     wikiURL: https://danbooru.donmai.us/wiki_pages/fuzzy_handcuffs.html
   holding harp:
-    name: holding harp
+    name: 拿着竖琴
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_harp.html
   ofuda on leg:
-    name: ofuda on leg
+    name: 奥夫达 腿上
     wikiURL: https://danbooru.donmai.us/wiki_pages/ofuda_on_leg.html
   fluffy tail:
-    name: fluffy tail
+    name: 毛茸茸的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/fluffy_tail.html
   twintails with braided base:
-    name: twintails with braided base
+    name: 编织底座双马尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/twintails_with_braided_base.html
   candy cane hair ornament:
-    name: candy cane hair ornament
+    name: 拐杖糖发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/candy_cane_hair_ornament.html
   holding straw:
-    name: holding straw
+    name: 拿着稻草
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_straw.html
   official alternate hair ornament:
-    name: official alternate hair ornament
+    name: 官方备用发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_alternate_hair_ornament.html
   energy tail:
-    name: energy tail
+    name: 能量尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/energy_tail.html
   shawarma:
-    name: shawarma
+    name: 沙瓦玛
     wikiURL: https://danbooru.donmai.us/wiki_pages/shawarma.html
   mixed wings:
-    name: mixed wings
+    name: 混合翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/mixed_wings.html
   looking at doll:
-    name: looking at doll
+    name: 看着娃娃
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_doll.html
   licking own tail:
-    name: licking own tail
+    name: 舔自己的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/licking_own_tail.html
   broken skin:
-    name: broken skin
+    name: 破损的皮肤
     wikiURL: https://danbooru.donmai.us/wiki_pages/broken_skin.html
   hand towel:
-    name: hand towel
+    name: 手巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_towel.html
   pom pom footwear:
-    name: pom pom footwear
+    name: 绒球鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/pom_pom_footwear.html
   bloody footprints:
-    name: bloody footprints
+    name: 血脚印
     wikiURL: https://danbooru.donmai.us/wiki_pages/bloody_footprints.html
   holding trombone:
-    name: holding trombone
+    name: 拿着长号
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_trombone.html
+  sweat:
+    name: 汗水
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweat.html
+    alias:
+    - sweating
+  stomach:
+    name: 小腹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach.html
+  sweatdrop:
+    name: 汗珠
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweatdrop.html
+    alias:
+    - sweat drop
+    - sweat drops
+    - sweatdrops
+  muscular:
+    name: 肌肉发达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular.html
+    alias:
+    - muscles
+    - muscular male
+  abs:
+    name: 腹肌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abs.html
+    alias:
+    - six pack
+  freckles:
+    name: 雀斑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/freckles.html
+  muscular female:
+    name: 肌肉发达的女性
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_female.html
+  dimples of venus:
+    name: 女性的腰窝|维纳斯之眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dimples_of_venus.html
+  mole on neck:
+    name: 脖子上有痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_neck.html
+  stomach tattoo:
+    name: 腹部纹身
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_tattoo.html
+  colored tongue:
+    name: 有色舌头（非正常粉色的）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/colored_tongue.html
+  very sweaty:
+    name: very sweaty
+    wikiURL: https://danbooru.donmai.us/wiki_pages/very_sweaty.html
+  stomach cutout:
+    name: 腹部镂空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_cutout.html
+    alias:
+    - midriff cutout
+  tongue piercing:
+    name: 打舌钉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_piercing.html
+  covered abs:
+    name: 被覆盖（但能看见纹路）的腹肌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/covered_abs.html
+  mole under each eye:
+    name: mole under each eye
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_under_each_eye.html
+  sweatband:
+    name: 吸汗带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweatband.html
+    alias:
+    - sweat band
+    - sweat bands
+    - sweatbands
+  spoken sweatdrop:
+    name: 表(流汗)无语的会话气泡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_sweatdrop.html
+  small sweatdrop:
+    name: small sweatdrop
+    wikiURL: https://danbooru.donmai.us/wiki_pages/small_sweatdrop.html
+  blue tongue:
+    name: 蓝舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_tongue.html
+  mole on cheek:
+    name: 脸颊上的痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_cheek.html
+  sweaty clothes:
+    name: 汗湿的衣服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweaty_clothes.html
+  wiping sweat:
+    name: 擦汗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wiping_sweat.html
+  mole above mouth:
+    name: 嘴巴上方的痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_above_mouth.html
+  mole on stomach:
+    name: 肚子上的痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_stomach.html
+  purple tongue:
+    name: 紫舌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_tongue.html
+  no mole:
+    name: 没有痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_mole.html
+  absolutely everyone:
+    name: 大合影|全家福
+    wikiURL: https://danbooru.donmai.us/wiki_pages/absolutely_everyone.html
+  very long tongue:
+    name: 很长的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/very_long_tongue.html
+  mole above eye:
+    name: 眼睛上方的痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_above_eye.html
+  stomach growling:
+    name: 肚子咕咕叫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_growling.html
+    alias:
+    - stomach growl
+  green tongue:
+    name: 绿色的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_tongue.html
+  tongue grab:
+    name: 舌头抓
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_grab.html
+  full stomach:
+    name: 饱腹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/full_stomach.html
+    alias:
+    - stuffed stomach
+  yellow tongue:
+    name: 黄色的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_tongue.html
+  bandaid on stomach:
+    name: 肚子上的创可贴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bandaid_on_stomach.html
+  stomach punch:
+    name: 肠道冲孔哈拉潘冲到胃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_punch.html
+    alias:
+    - gut punch
+    - harapan
+    - punch to stomach
+  tonguejob:
+    name: 舌头工作
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tonguejob.html
+  prehensile tongue:
+    name: 抓握的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/prehensile_tongue.html
+  orange tongue:
+    name: 橙色的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tongue.html
+  tongue tattoo:
+    name: 舌头纹身
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_tattoo.html
+  mole on back:
+    name: 背上有痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_back.html
+  licking stomach:
+    name: 舔肚子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/licking_stomach.html
+  muscular child:
+    name: 肌肉发达的女性儿童肌肉萝莉肌肉发达的男性儿童肌肉发达的shota
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_child.html
+    alias:
+    - muscular female child
+    - muscular loli
+    - muscular male child
+    - muscular shota
+  aqua tongue:
+    name: 水舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_tongue.html
+  black tongue:
+    name: 黑舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_tongue.html
+  mole on nose:
+    name: 鼻子上的痣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_nose.html
+  grey tongue:
+    name: 灰色的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_tongue.html
+  head on another's stomach:
+    name: 头靠在别人的肚子上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/head_on_another's_stomach.html
+  stomach (organ):
+    name: 胃（器官）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_(organ).html
+  biting tongue:
+    name: 咬舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/biting_tongue.html
+  stomach ache:
+    name: 腹痛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_ache.html
+  pill on tongue:
+    name: 舌头上的药丸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pill_on_tongue.html
+  extra tongue:
+    name: 额外的舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/extra_tongue.html
+  abs cutout:
+    name: 腹肌镂空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abs_cutout.html
+  no freckles:
+    name: 没有雀斑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_freckles.html
+  tongue suck:
+    name: 吸舌头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_suck.html
+  grado labs:
+    name: 格拉多实验室
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grado_labs.html
+  absorbing:
+    name: 吸收
+    wikiURL: https://danbooru.donmai.us/wiki_pages/absorbing.html
+  whac-a-mole:
+    name: 打地鼠
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whac-a-mole.html
+  tongue clamp:
+    name: 舌夹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_clamp.html
+  white freckles:
+    name: 白色雀斑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_freckles.html
+  tongue twister:
+    name: 绕口令
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tongue_twister.html
+  absurdly fat mons:
+    name: 荒谬的肥胖怪物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/absurdly_fat_mons.html
+  muscular uke:
+    name: muscular uke
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_uke.html
+  tickling stomach:
+    name: tickling stomach
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_stomach.html
+  comedic sweatdrop:
+    name: comedic sweatdrop
+    wikiURL: https://danbooru.donmai.us/wiki_pages/comedic_sweatdrop.html
+  poking belly:
+    name: poking belly
+    wikiURL: https://danbooru.donmai.us/wiki_pages/poking_belly.html
+    alias:
+    - belly poke
+  sweat stain:
+    name: sweat stain
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sweat_stain.html
+  mole on chest:
+    name: mole on chest
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_chest.html
+  sparkling sweat:
+    name: sparkling sweat
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkling_sweat.html
+  mole on forehead:
+    name: mole on forehead
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_forehead.html
+  grabbing another's stomach:
+    name: grabbing another's stomach
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_stomach.html
+    alias:
+    - grabbing another's belly
+  neck blush:
+    name: neck blush
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neck_blush.html
+  navel peek:
+    name: navel peek
+    wikiURL: https://danbooru.donmai.us/wiki_pages/navel_peek.html
+  stomach jewel:
+    name: stomach jewel
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_jewel.html
+  saliva trail between teeth:
+    name: saliva trail between teeth
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saliva_trail_between_teeth.html
+  tickling navel:
+    name: tickling navel
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_navel.html
+  stomach mouth:
+    name: stomach mouth
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_mouth.html
+  absolution (genshin impact):
+    name: absolution (genshin impact)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/absolution_(genshin_impact).html
+  mole beside mouth:
+    name: mole beside mouth
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mole_beside_mouth.html
+  forehead blush:
+    name: forehead blush
+    wikiURL: https://danbooru.donmai.us/wiki_pages/forehead_blush.html
+  blush visible through clothes:
+    name: blush visible through clothes
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blush_visible_through_clothes.html
+  crooked teeth:
+    name: crooked teeth
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crooked_teeth.html
+  veiny belly:
+    name: veiny belly
+    wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_belly.html
+  hole in stomach:
+    name: hole in stomach
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hole_in_stomach.html
+  blood on tongue:
+    name: blood on tongue
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_tongue.html
+  ass blush:
+    name: ass blush
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ass_blush.html
+  white tongue:
+    name: white tongue
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_tongue.html

@@ -129,7 +129,7 @@ content:
     name: 渔网过膝袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_thighhighs.html
   stuffed rabbit:
-    name: stuffed rabbit
+    name: 毛绒兔子
     wikiURL: https://danbooru.donmai.us/wiki_pages/stuffed_rabbit.html
     alias:
     - stuffed bunny
@@ -156,7 +156,7 @@ content:
     name: 头上有动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_on_head.html
   male penetrated:
-    name: male penetrated
+    name: 男性插入
     wikiURL: https://danbooru.donmai.us/wiki_pages/male_penetrated.html
   head fins:
     name: 鱼人耳|人鱼耳|鳍状耳朵
@@ -201,7 +201,7 @@ content:
     - dogtag
     - dogtags
   mouse (animal):
-    name: mouse (animal)
+    name: 老鼠（动物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mouse_(animal).html
     alias:
     - mice
@@ -368,7 +368,7 @@ content:
     name: 有衣着的动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_animal.html
   computer mouse:
-    name: computer mouse
+    name: 电脑鼠标
     wikiURL: https://danbooru.donmai.us/wiki_pages/computer_mouse.html
     alias:
     - mouse (computer)
@@ -460,7 +460,7 @@ content:
     - snake tongue
     - split tongue
   wolf cut:
-    name: wolf cut
+    name: 狼切
     wikiURL: https://danbooru.donmai.us/wiki_pages/wolf_cut.html
   hand puppet:
     name: 手上套着玩偶
@@ -489,7 +489,7 @@ content:
     name: 猎鹿人
     wikiURL: https://danbooru.donmai.us/wiki_pages/deerstalker.html
   rabbit-shaped pupils:
-    name: rabbit-shaped pupils
+    name: 兔子形状的瞳孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit-shaped_pupils.html
     alias:
     - bunny-shaped pupils
@@ -503,7 +503,7 @@ content:
     name: 西部龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/western_dragon.html
   pink petals:
-    name: pink petals
+    name: 粉红色的花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_petals.html
   crate:
     name: 大木箱
@@ -570,7 +570,7 @@ content:
     alias:
     - fishman
   simple bird:
-    name: simple bird
+    name: 简单的鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/simple_bird.html
   reindeer:
     name: 驯鹿
@@ -592,7 +592,7 @@ content:
     name: 旁白
     wikiURL: https://danbooru.donmai.us/wiki_pages/narration.html
   red petals:
-    name: red petals
+    name: 红色花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_petals.html
   clownfish:
     name: 小丑鱼
@@ -647,7 +647,7 @@ content:
     name: 标志性台词
     wikiURL: https://danbooru.donmai.us/wiki_pages/catchphrase.html
   snow rabbit:
-    name: snow rabbit
+    name: 雪兔
     wikiURL: https://danbooru.donmai.us/wiki_pages/snow_rabbit.html
     alias:
     - snow bunny
@@ -677,7 +677,7 @@ content:
     name: 挠头
     wikiURL: https://danbooru.donmai.us/wiki_pages/scratching_head.html
   dogeza:
-    name: dogeza
+    name: 多下座
     wikiURL: https://danbooru.donmai.us/wiki_pages/dogeza.html
   animal on hand:
     name: 手边的动物
@@ -706,10 +706,10 @@ content:
     name: 恭喜
     wikiURL: https://danbooru.donmai.us/wiki_pages/congratulations.html
   covered penetration:
-    name: covered penetration
+    name: 覆盖渗透
     wikiURL: https://danbooru.donmai.us/wiki_pages/covered_penetration.html
   fender stratocaster:
-    name: stratocaster
+    name: 挡泥板 Stratocaster
     wikiURL: https://danbooru.donmai.us/wiki_pages/fender_stratocaster.html
     alias:
     - stratocaster
@@ -761,7 +761,7 @@ content:
     name: 橘猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_cat.html
   aristocratic clothes:
-    name: aristocratic clothes
+    name: 贵族服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/aristocratic_clothes.html
   horse boy:
     name: 马童
@@ -792,7 +792,7 @@ content:
     name: 抓挠
     wikiURL: https://danbooru.donmai.us/wiki_pages/scratching.html
   white rabbit (animal):
-    name: white rabbit (animal)
+    name: 白兔（动物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_rabbit_(animal).html
   spider print:
     name: 蜘蛛印
@@ -836,7 +836,7 @@ content:
     name: 花环（装饰）
     wikiURL: https://danbooru.donmai.us/wiki_pages/garland_(decoration).html
   animal-themed food:
-    name: animal-themed food
+    name: 动物主题食品
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal-themed_food.html
   crater:
     name: 陨石坑
@@ -860,7 +860,7 @@ content:
     name: 狼爪
     wikiURL: https://danbooru.donmai.us/wiki_pages/wolf_paws.html
   pony (animal):
-    name: pony (animal)
+    name: 小马（动物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/pony_(animal).html
     alias:
     - pony
@@ -916,7 +916,7 @@ content:
     name: 动物骨架
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_skeleton.html
   pgm hecate ii:
-    name: pgm hecate ii
+    name: 赫卡特二号PGM
     wikiURL: https://danbooru.donmai.us/wiki_pages/pgm_hecate_ii.html
   fish in mouth:
     name: 鱼在嘴里
@@ -1832,845 +1832,845 @@ content:
     name: 断奏
     wikiURL: https://danbooru.donmai.us/wiki_pages/staccato.html
   creature focus:
-    name: creature focus
+    name: 生物焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/creature_focus.html
   person and animalization:
-    name: person and animalization
+    name: 人与动物化
     wikiURL: https://danbooru.donmai.us/wiki_pages/person_and_animalization.html
   kamehameha (dragon ball):
-    name: kamehameha (dragon ball)
+    name: 卡美哈美哈（龙珠）
     wikiURL: https://danbooru.donmai.us/wiki_pages/kamehameha_(dragon_ball).html
     alias:
     - kamehameha
   yellow petals:
-    name: yellow petals
+    name: 黄色花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_petals.html
   rabbit platoon (blue archive):
-    name: rabbit platoon (blue archive)
+    name: 兔子排（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_platoon_(blue_archive).html
   tailcoat playboy bunny:
-    name: tailcoat playboy bunny
+    name: 燕尾服花花公子兔子
     wikiURL: https://danbooru.donmai.us/wiki_pages/tailcoat_playboy_bunny.html
   pet walking:
-    name: pet walking
+    name: 遛宠物
     wikiURL: https://danbooru.donmai.us/wiki_pages/pet_walking.html
     alias:
     - dog walking
     - walking pet
     - walking the dog
   rabbit mask:
-    name: rabbit mask
+    name: 兔子面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_mask.html
     alias:
     - bunny mask
   red spider lily:
-    name: red spider lily
+    name: 红蜘蛛百合
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_spider_lily.html
   bear trap:
-    name: bear trap
+    name: 熊陷阱
     wikiURL: https://danbooru.donmai.us/wiki_pages/bear_trap.html
     alias:
     - foothold trap
   spider lily print:
-    name: spider lily print
+    name: 蜘蛛百合印花
     wikiURL: https://danbooru.donmai.us/wiki_pages/spider_lily_print.html
   two-tone beard:
-    name: two-tone beard
+    name: 双色胡须
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_beard.html
   holding rabbit:
-    name: holding rabbit
+    name: 抱着兔子
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_rabbit.html
     alias:
     - holding bunny
   connected beard:
-    name: connected beard
+    name: 连接的胡须
     wikiURL: https://danbooru.donmai.us/wiki_pages/connected_beard.html
   tamagotchi (virtual pet):
-    name: tamagotchi (virtual pet)
+    name: 电子宠物（虚拟宠物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tamagotchi_(virtual_pet).html
   rabbit ear headphones:
-    name: rabbit ear headphones
+    name: 兔耳耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_ear_headphones.html
     alias:
     - bunny ear headphones
   rabbit earrings:
-    name: rabbit earrings
+    name: 兔子耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_earrings.html
     alias:
     - bunny earrings
   rabbit ornament:
-    name: rabbit ornament
+    name: 兔子饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_ornament.html
     alias:
     - bunny ornament
   riding dragon:
-    name: riding dragon
+    name: 骑龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/riding_dragon.html
     alias:
     - dragon rider
     - dragon riding
   cat-shaped pillow:
-    name: cat-shaped pillow
+    name: 猫形枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/cat-shaped_pillow.html
     alias:
     - cat pillow
   saturated:
-    name: saturated
+    name: 饱和的
     wikiURL: https://danbooru.donmai.us/wiki_pages/saturated.html
   lappet:
-    name: lappet
+    name: 垂饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/lappet.html
   downward dog:
-    name: downward dog
+    name: 下犬式
     wikiURL: https://danbooru.donmai.us/wiki_pages/downward_dog.html
   ai-generated art (topic):
-    name: ai-generated art (topic)
+    name: 人工智能生成艺术（主题）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ai-generated_art_(topic).html
   pal (creature):
-    name: pal (creature)
+    name: 朋友（生物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/pal_(creature).html
   seabird:
-    name: seabird
+    name: 海鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/seabird.html
   kuuhaku to catharsis:
-    name: kuuhaku to catharsis
+    name: 宣泄
     wikiURL: https://danbooru.donmai.us/wiki_pages/kuuhaku_to_catharsis.html
     alias:
     - emptiness and catharsis
   chinstrap beard:
-    name: chinstrap beard
+    name: 下巴胡须
     wikiURL: https://danbooru.donmai.us/wiki_pages/chinstrap_beard.html
   animal charm:
-    name: animal charm
+    name: 动物魅力
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_charm.html
     alias:
     - animal keychain
   kissing animal:
-    name: kissing animal
+    name: 接吻动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/kissing_animal.html
   rabbit background:
-    name: rabbit background
+    name: 兔子背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_background.html
     alias:
     - bunny background
     - /rabbitbg
   utnapishtim operator uniform (blue archive):
-    name: utnapishtim operator uniform (blue archive)
+    name: utnapishtim 操作员制服（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/utnapishtim_operator_uniform_(blue_archive).html
     alias:
     - ark uniform (blue archive)
   multiple dogs:
-    name: multiple dogs
+    name: 多只狗
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_dogs.html
     alias:
     - pack of dogs
   slime sex:
-    name: slime sex
+    name: 粘液性
     wikiURL: https://danbooru.donmai.us/wiki_pages/slime_sex.html
   apple rabbit:
-    name: apple rabbit
+    name: 苹果兔
     wikiURL: https://danbooru.donmai.us/wiki_pages/apple_rabbit.html
   body exploration:
-    name: body exploration
+    name: 身体探索
     wikiURL: https://danbooru.donmai.us/wiki_pages/body_exploration.html
     alias:
     - exploration
   cooperative grinding:
-    name: cooperative grinding
+    name: 协同磨削
     wikiURL: https://danbooru.donmai.us/wiki_pages/cooperative_grinding.html
     alias:
     - double grinding
   purple petals:
-    name: purple petals
+    name: 紫色花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_petals.html
   pleading eyes:
-    name: pleading eyes
+    name: 恳求的眼神
     wikiURL: https://danbooru.donmai.us/wiki_pages/pleading_eyes.html
     alias:
     - puppy dog eyes
   earth federation space forces:
-    name: earth federation space forces
+    name: 地球联邦太空部队
     wikiURL: https://danbooru.donmai.us/wiki_pages/earth_federation_space_forces.html
   creature as food:
-    name: creature as food
+    name: 作为食物的生物
     wikiURL: https://danbooru.donmai.us/wiki_pages/creature_as_food.html
     alias:
     - pokemon as food
   beard over mouth:
-    name: beard over mouth
+    name: 嘴上长胡子
     wikiURL: https://danbooru.donmai.us/wiki_pages/beard_over_mouth.html
   looking at creature:
-    name: looking at creature
+    name: 看着生物
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_creature.html
   red snake:
-    name: red snake
+    name: 红蛇
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_snake.html
   rabbit ear legwear:
-    name: rabbit ear legwear
+    name: 兔耳袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_ear_legwear.html
     alias:
     - bunny band legwear
     - bunny ear legwear
   bimbofication:
-    name: bimbofication
+    name: 双信息化
     wikiURL: https://danbooru.donmai.us/wiki_pages/bimbofication.html
   dezombification:
-    name: dezombification
+    name: 去僵尸化
     wikiURL: https://danbooru.donmai.us/wiki_pages/dezombification.html
   fender musical instruments corporation:
-    name: fender musical instruments corporation
+    name: 芬达乐器公司
     wikiURL: https://danbooru.donmai.us/wiki_pages/fender_musical_instruments_corporation.html
   bongo cat (meme):
-    name: bongo cat (meme)
+    name: 邦戈猫（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/bongo_cat_(meme).html
     alias:
     - bongo cat
   rabbit earmuffs:
-    name: rabbit earmuffs
+    name: 兔子耳罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_earmuffs.html
     alias:
     - bunny earmuffs
   rabbit bag:
-    name: rabbit bag
+    name: 兔子包
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_bag.html
     alias:
     - bunny backpack
     - bunny bag
   yellow bird:
-    name: yellow bird
+    name: 黄鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_bird.html
   white spider lily:
-    name: white spider lily
+    name: 白蜘蛛百合
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_spider_lily.html
   animal legs:
-    name: animal legs
+    name: 动物腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_legs.html
   omocat (style):
-    name: omocat (style)
+    name: 奥莫猫（风格）
     wikiURL: https://danbooru.donmai.us/wiki_pages/omocat_(style).html
   animal-shaped pillow:
-    name: animal-shaped pillow
+    name: 动物形状的枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal-shaped_pillow.html
     alias:
     - animal pillow
   splatoonification:
-    name: splatoonification
+    name: 喷射化
     wikiURL: https://danbooru.donmai.us/wiki_pages/splatoonification.html
   tied beard:
-    name: tied beard
+    name: 绑着胡子
     wikiURL: https://danbooru.donmai.us/wiki_pages/tied_beard.html
   holding trumpet:
-    name: holding trumpet
+    name: 拿着喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_trumpet.html
   'origami bird (honkai: star rail)':
-    name: 'origami bird (honkai: star rail)'
+    name: 折纸鸟（崩坏：星轨）
     wikiURL: https://danbooru.donmai.us/wiki_pages/origami_bird_(honkai:_star_rail).html
   marshall amplification:
-    name: marshall amplification
+    name: 马歇尔放大
     wikiURL: https://danbooru.donmai.us/wiki_pages/marshall_amplification.html
   catcher (baseball):
-    name: catcher (baseball)
+    name: 捕手（棒球）
     wikiURL: https://danbooru.donmai.us/wiki_pages/catcher_(baseball).html
   large teddy bear:
-    name: large teddy bear
+    name: 大泰迪熊
     wikiURL: https://danbooru.donmai.us/wiki_pages/large_teddy_bear.html
   small dragon:
-    name: small dragon
+    name: 小龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/small_dragon.html
   cat feet:
-    name: cat feet
+    name: 猫脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/cat_feet.html
   bear position:
-    name: bear position
+    name: 熊位
     wikiURL: https://danbooru.donmai.us/wiki_pages/bear_position.html
   rabbit symbol:
-    name: rabbit symbol
+    name: 兔子符号
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_symbol.html
     alias:
     - bunny symbol
   golden generation (umamusume):
-    name: golden generation (umamusume)
+    name: 黄金一代（umamusume）
     wikiURL: https://danbooru.donmai.us/wiki_pages/golden_generation_(umamusume).html
   tactical playboy bunny:
-    name: tactical playboy bunny
+    name: 战术花花公子兔子
     wikiURL: https://danbooru.donmai.us/wiki_pages/tactical_playboy_bunny.html
   multiple animal ears:
-    name: multiple animal ears
+    name: 多个动物耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_animal_ears.html
   furry and animal:
-    name: furry and animal
+    name: 毛茸茸的和动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/furry_and_animal.html
   catcher's mask:
-    name: catcher's mask
+    name: 捕手的面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/catcher's_mask.html
   ocean sunfish:
-    name: ocean sunfish
+    name: 海洋翻车鱼
     wikiURL: https://danbooru.donmai.us/wiki_pages/ocean_sunfish.html
     alias:
     - mola (fish)
     - sunfish
   dragonborn (d&d):
-    name: dragonborn (d&d)
+    name: 龙裔（d&d）
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragonborn_(d&d).html
   snake head tail:
-    name: snake head tail
+    name: 蛇头尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/snake_head_tail.html
   dogwood (flower):
-    name: dogwood (flower)
+    name: 山茱萸（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/dogwood_(flower).html
   fish grill:
-    name: fish grill
+    name: 烤鱼
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_grill.html
   tuxedo cat:
-    name: tuxedo cat
+    name: 燕尾服猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/tuxedo_cat.html
   animal name:
-    name: animal name
+    name: 动物名称
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_name.html
   purple cat:
-    name: purple cat
+    name: 紫猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_cat.html
   salmon (fish):
-    name: salmon (fish)
+    name: 鲑鱼（鱼）
     wikiURL: https://danbooru.donmai.us/wiki_pages/salmon_(fish).html
   slugcat:
-    name: slugcat
+    name: 蛞蝓猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/slugcat.html
   calico cat:
-    name: calico cat
+    name: 印花布猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/calico_cat.html
   horseback archery:
-    name: horseback archery
+    name: 骑马射箭
     wikiURL: https://danbooru.donmai.us/wiki_pages/horseback_archery.html
   petroleum:
-    name: petroleum
+    name: 石油
     wikiURL: https://danbooru.donmai.us/wiki_pages/petroleum.html
     alias:
     - crude oil
   blue cat:
-    name: blue cat
+    name: 蓝猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_cat.html
   rabbit head:
-    name: rabbit head
+    name: 兔子头
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_head.html
     alias:
     - bunny head
   jewelpet (creature):
-    name: jewelpet (creature)
+    name: 宝石宠物（生物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/jewelpet_(creature).html
   monstera deliciosa:
-    name: monstera deliciosa
+    name: 龟背竹
     wikiURL: https://danbooru.donmai.us/wiki_pages/monstera_deliciosa.html
   horse print:
-    name: horse print
+    name: 马印
     wikiURL: https://danbooru.donmai.us/wiki_pages/horse_print.html
   gallente federation (eve online):
-    name: gallente federation (eve online)
+    name: 加伦特联盟（前夕在线）
     wikiURL: https://danbooru.donmai.us/wiki_pages/gallente_federation_(eve_online).html
   ratline:
-    name: ratline
+    name: 拉线
     wikiURL: https://danbooru.donmai.us/wiki_pages/ratline.html
   spider web tattoo:
-    name: spider web tattoo
+    name: 蜘蛛网纹身
     wikiURL: https://danbooru.donmai.us/wiki_pages/spider_web_tattoo.html
   butterfly ring:
-    name: butterfly ring
+    name: 蝴蝶戒指
     wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly_ring.html
   leaning on animal:
-    name: leaning on animal
+    name: 倚在动物身上
     wikiURL: https://danbooru.donmai.us/wiki_pages/leaning_on_animal.html
   time patrol (dragon ball):
-    name: time patrol (dragon ball)
+    name: 时间巡逻队（龙珠）
     wikiURL: https://danbooru.donmai.us/wiki_pages/time_patrol_(dragon_ball).html
   rabbit on shoulder:
-    name: rabbit on shoulder
+    name: 肩膀上的兔子
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_on_shoulder.html
     alias:
     - bunny on shoulder
   bird pin:
-    name: bird pin
+    name: 鸟别针
     wikiURL: https://danbooru.donmai.us/wiki_pages/bird_pin.html
   border operator uniform (world trigger):
-    name: border operator uniform (world trigger)
+    name: 边境操作员制服（世界触发）
     wikiURL: https://danbooru.donmai.us/wiki_pages/border_operator_uniform_(world_trigger).html
   infinite stratos academy school uniform:
-    name: infinite stratos academy school uniform
+    name: 无限斯特拉托斯学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/infinite_stratos_academy_school_uniform.html
     alias:
     - infinite stratos academy uniform
   green bird:
-    name: green bird
+    name: 绿鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_bird.html
   lying on animal:
-    name: lying on animal
+    name: 躺在动物身上
     wikiURL: https://danbooru.donmai.us/wiki_pages/lying_on_animal.html
   fish-shaped pupils:
-    name: fish-shaped pupils
+    name: 鱼形瞳孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish-shaped_pupils.html
   east germany:
-    name: east germany
+    name: 东德
     wikiURL: https://danbooru.donmai.us/wiki_pages/east_germany.html
     alias:
     - german democratic republic
   rabbit charm:
-    name: rabbit charm
+    name: 兔子魅力
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_charm.html
     alias:
     - bunny keychain
     - rabbit keychain
   butterfly over eye:
-    name: butterfly over eye
+    name: 蝴蝶飞过眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly_over_eye.html
   snake hood:
-    name: snake hood
+    name: 蛇罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/snake_hood.html
   holding computer mouse:
-    name: holding computer mouse
+    name: 拿着电脑鼠标
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_computer_mouse.html
     alias:
     - holding mouse (computer)
   cat o-ring:
-    name: cat o-ring
+    name: 猫 O 形圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/cat_o-ring.html
   fish bottle:
-    name: fish bottle
+    name: 鱼瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_bottle.html
   neopet (creature):
-    name: neopet (creature)
+    name: 尼奥宠物（生物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/neopet_(creature).html
   starfish bikini:
-    name: starfish bikini
+    name: 海星比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/starfish_bikini.html
   black rabbit (animal):
-    name: black rabbit (animal)
+    name: 黑兔（动物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_rabbit_(animal).html
   release celebration:
-    name: release celebration
+    name: 发布庆典
     wikiURL: https://danbooru.donmai.us/wiki_pages/release_celebration.html
   snake on shoulder:
-    name: snake on shoulder
+    name: 肩上有蛇
     wikiURL: https://danbooru.donmai.us/wiki_pages/snake_on_shoulder.html
   papillon (dog):
-    name: papillon (dog)
+    name: 蝴蝶犬（狗）
     wikiURL: https://danbooru.donmai.us/wiki_pages/papillon_(dog).html
   simple fish:
-    name: simple fish
+    name: 简单的鱼
     wikiURL: https://danbooru.donmai.us/wiki_pages/simple_fish.html
   biblically accurate angel:
-    name: biblically accurate angel
+    name: 圣经准确的天使
     wikiURL: https://danbooru.donmai.us/wiki_pages/biblically_accurate_angel.html
     alias:
     - biblically correct angel
   mackerel (fish):
-    name: mackerel (fish)
+    name: 鲭鱼（鱼）
     wikiURL: https://danbooru.donmai.us/wiki_pages/mackerel_(fish).html
   himitsu no valentine daisakusen! (project sekai):
-    name: himitsu no valentine daisakusen! (project sekai)
+    name: 秘密的情人节大作战！ （世界计划）
     wikiURL: https://danbooru.donmai.us/wiki_pages/himitsu_no_valentine_daisakusen!_(project_sekai).html
     alias:
     - operation secret valentine! (project sekai)
     - secret operation valentine's day (project sekai)
   butterfly on face:
-    name: butterfly on face
+    name: 脸上有蝴蝶
     wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly_on_face.html
   rabbit pin:
-    name: rabbit pin
+    name: 兔子别针
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_pin.html
     alias:
     - bunny pin
   petal on head:
-    name: petal on head
+    name: 头上有花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/petal_on_head.html
   lace lappet:
-    name: lace lappet
+    name: 蕾丝垂褶
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_lappet.html
   damselfish:
-    name: damselfish
+    name: 雀鲷
     wikiURL: https://danbooru.donmai.us/wiki_pages/damselfish.html
   orange petals:
-    name: orange petals
+    name: 橙色花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_petals.html
   earphones on animal ears:
-    name: earphones on animal ears
+    name: 动物耳朵上的耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/earphones_on_animal_ears.html
   canned fish:
-    name: canned fish
+    name: 鱼罐头
     wikiURL: https://danbooru.donmai.us/wiki_pages/canned_fish.html
   prairie dog:
-    name: prairie dog
+    name: 草原土拨鼠
     wikiURL: https://danbooru.donmai.us/wiki_pages/prairie_dog.html
   virtual pet (toy):
-    name: virtual pet (toy)
+    name: 虚拟宠物（玩具）
     wikiURL: https://danbooru.donmai.us/wiki_pages/virtual_pet_(toy).html
   mythological creature:
-    name: mythological creature
+    name: 神话生物
     wikiURL: https://danbooru.donmai.us/wiki_pages/mythological_creature.html
   black horse:
-    name: black horse
+    name: 黑马
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_horse.html
   snakebite (piercing):
-    name: snakebite (piercing)
+    name: 蛇咬伤（穿刺）
     wikiURL: https://danbooru.donmai.us/wiki_pages/snakebite_(piercing).html
   petal in mouth:
-    name: petal in mouth
+    name: 嘴里的花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/petal_in_mouth.html
   desperation:
-    name: desperation
+    name: 绝望
     wikiURL: https://danbooru.donmai.us/wiki_pages/desperation.html
   iterator (rain world):
-    name: iterator (rain world)
+    name: 迭代器（雨世界）
     wikiURL: https://danbooru.donmai.us/wiki_pages/iterator_(rain_world).html
   brown horse:
-    name: brown horse
+    name: 棕色的马
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_horse.html
   furry and humanization:
-    name: furry and humanization
+    name: 毛茸茸和人性化
     wikiURL: https://danbooru.donmai.us/wiki_pages/furry_and_humanization.html
   deer cracker:
-    name: deer cracker
+    name: 鹿饼干
     wikiURL: https://danbooru.donmai.us/wiki_pages/deer_cracker.html
     alias:
     - shika senbei
   pet rock:
-    name: pet rock
+    name: 宠物石
     wikiURL: https://danbooru.donmai.us/wiki_pages/pet_rock.html
   jack (fish):
-    name: jack (fish)
+    name: 杰克（鱼）
     wikiURL: https://danbooru.donmai.us/wiki_pages/jack_(fish).html
   woe plague be upon ye (meme):
-    name: woe plague be upon ye (meme)
+    name: 瘟疫降临在你们身上（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/woe_plague_be_upon_ye_(meme).html
     alias:
     - eminem throwing a fat rat (meme)
   white beard:
-    name: white beard
+    name: 白胡子
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_beard.html
   myers-briggs type indicator:
-    name: myers-briggs type indicator
+    name: 迈尔斯-布里格斯类型指标
     wikiURL: https://danbooru.donmai.us/wiki_pages/myers-briggs_type_indicator.html
   aqua butterfly:
-    name: aqua butterfly
+    name: 水蝴蝶
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_butterfly.html
   wa bunny:
-    name: wa bunny
+    name: 佤兔
     wikiURL: https://danbooru.donmai.us/wiki_pages/wa_bunny.html
   snake bite:
-    name: snake bite
+    name: 蛇咬伤
     wikiURL: https://danbooru.donmai.us/wiki_pages/snake_bite.html
   barbed tongue:
-    name: barbed tongue
+    name: 带刺的舌头
     wikiURL: https://danbooru.donmai.us/wiki_pages/barbed_tongue.html
     alias:
     - cat tongue
     - spiked tongue
   dragon ornament:
-    name: dragon ornament
+    name: 龙饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ornament.html
   blue spider lily:
-    name: blue spider lily
+    name: 蓝色蜘蛛百合
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_spider_lily.html
   anthias (fish):
-    name: anthias (fish)
+    name: 安蒂亚斯（鱼）
     wikiURL: https://danbooru.donmai.us/wiki_pages/anthias_(fish).html
   'dr. ratio''s book (honkai: star rail)':
-    name: 'dr. ratio''s book (honkai: star rail)'
+    name: 博士。 Ratio的书（崩坏：星轨）
     wikiURL: https://danbooru.donmai.us/wiki_pages/dr._ratio's_book_(honkai:_star_rail).html
   fish bone print:
-    name: fish bone print
+    name: 鱼骨印
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_bone_print.html
   rattail:
-    name: rattail
+    name: 鼠尾草
     wikiURL: https://danbooru.donmai.us/wiki_pages/rattail.html
   scratching chin:
-    name: scratching chin
+    name: 抓下巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/scratching_chin.html
   rabbit brooch:
-    name: rabbit brooch
+    name: 兔子胸针
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_brooch.html
   red bird:
-    name: red bird
+    name: 红鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_bird.html
   shaving beard:
-    name: shaving beard
+    name: 剃须
     wikiURL: https://danbooru.donmai.us/wiki_pages/shaving_beard.html
   rabbit-shaped eyewear:
-    name: rabbit-shaped eyewear
+    name: 兔子形状的眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit-shaped_eyewear.html
     alias:
     - bunny-shaped eyewear
   chili dog:
-    name: chili dog
+    name: 辣椒热狗
     wikiURL: https://danbooru.donmai.us/wiki_pages/chili_dog.html
   yoshi and toad kissing (meme):
-    name: yoshi and toad kissing (meme)
+    name: 耀西和蟾蜍接吻（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/yoshi_and_toad_kissing_(meme).html
     alias:
     - muppet mouth characters making out (meme)
   hand grater:
-    name: hand grater
+    name: 手持刨丝器
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_grater.html
   fox platoon (blue archive):
-    name: fox platoon (blue archive)
+    name: 狐狸排（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/fox_platoon_(blue_archive).html
   lifting animal:
-    name: lifting animal
+    name: 举起动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/lifting_animal.html
   fishnet dress:
-    name: fishnet dress
+    name: 渔网连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_dress.html
   rabbit cutout:
-    name: rabbit cutout
+    name: 兔子剪影
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_cutout.html
     alias:
     - bunny cutout
   rabbit puppet:
-    name: rabbit puppet
+    name: 兔子布偶
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_puppet.html
     alias:
     - bunny puppet
   marlin (fish):
-    name: marlin (fish)
+    name: 马林鱼（鱼）
     wikiURL: https://danbooru.donmai.us/wiki_pages/marlin_(fish).html
   ultra ego (dragon ball):
-    name: ultra ego (dragon ball)
+    name: 超我（龙珠）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ultra_ego_(dragon_ball).html
   upward dog:
-    name: upward dog
+    name: 向上的狗
     wikiURL: https://danbooru.donmai.us/wiki_pages/upward_dog.html
   wing decorations:
-    name: wing decorations
+    name: 机翼装饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/wing_decorations.html
   robin (bird):
-    name: robin (bird)
+    name: 知更鸟（鸟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/robin_(bird).html
   holding cat teaser:
-    name: holding cat teaser
+    name: 拿着逗猫棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_cat_teaser.html
   wolf head:
-    name: wolf head
+    name: 狼头
     wikiURL: https://danbooru.donmai.us/wiki_pages/wolf_head.html
   butterfly in eye:
-    name: butterfly in eye
+    name: 眼睛里的蝴蝶
     wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly_in_eye.html
   dragon horn:
-    name: dragon horn
+    name: 龙角
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_horn.html
   streaked beard:
-    name: streaked beard
+    name: 条纹胡须
     wikiURL: https://danbooru.donmai.us/wiki_pages/streaked_beard.html
   animal ear headband:
-    name: animal ear headband
+    name: 动物耳朵头带
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_headband.html
   whitebeard pirates jolly roger:
-    name: whitebeard pirates jolly roger
+    name: 白胡子海贼团 海盗旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/whitebeard_pirates_jolly_roger.html
   liberation (fire emblem):
-    name: liberation (fire emblem)
+    name: 解放（火焰纹章）
     wikiURL: https://danbooru.donmai.us/wiki_pages/liberation_(fire_emblem).html
   cat covering ears (meme):
-    name: cat covering ears (meme)
+    name: 猫捂住耳朵（表情包）
     wikiURL: https://danbooru.donmai.us/wiki_pages/cat_covering_ears_(meme).html
   whoop catsuit:
-    name: whoop catsuit
+    name: 百日咳紧身连衣裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/whoop_catsuit.html
   object and personification:
-    name: object and personification
+    name: 物体与拟人化
     wikiURL: https://danbooru.donmai.us/wiki_pages/object_and_personification.html
   crying cat (meme):
-    name: crying cat (meme)
+    name: 哭泣的猫（表情包）
     wikiURL: https://danbooru.donmai.us/wiki_pages/crying_cat_(meme).html
   reindeer boy:
-    name: reindeer boy
+    name: 驯鹿男孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/reindeer_boy.html
   animal earrings:
-    name: animal earrings
+    name: 动物耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_earrings.html
   2nd generation (hololive):
-    name: 2nd generation (hololive)
+    name: 第二代（hololive）
     wikiURL: https://danbooru.donmai.us/wiki_pages/2nd_generation_(hololive).html
   animal crossing (style):
-    name: animal crossing (style)
+    name: 动物穿越（风格）
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_crossing_(style).html
   rabbit hat ornament:
-    name: rabbit hat ornament
+    name: 兔子帽子装饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_hat_ornament.html
   k9 (dog):
-    name: k9 (dog)
+    name: k9（狗）
     wikiURL: https://danbooru.donmai.us/wiki_pages/k9_(dog).html
     alias:
     - military dog
     - police dog
     - rescue dog
   fish background:
-    name: fish background
+    name: 鱼背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_background.html
   cat hat ornament:
-    name: cat hat ornament
+    name: 猫帽子装饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/cat_hat_ornament.html
   huh? cat (meme):
-    name: huh? cat (meme)
+    name: 嗯？猫（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/huh?_cat_(meme).html
   marine angelfish:
-    name: marine angelfish
+    name: 海洋神仙鱼
     wikiURL: https://danbooru.donmai.us/wiki_pages/marine_angelfish.html
   turkey (bird):
-    name: turkey (bird)
+    name: 火鸡（鸟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/turkey_(bird).html
   silicon creature (blame!):
-    name: silicon creature (blame!)
+    name: 硅生物（责备！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/silicon_creature_(blame!).html
   fishnet cutout:
-    name: fishnet cutout
+    name: 渔网镂空
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_cutout.html
   sea bunny:
-    name: sea bunny
+    name: 海兔
     wikiURL: https://danbooru.donmai.us/wiki_pages/sea_bunny.html
   dragon hood:
-    name: dragon hood
+    name: 龙罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_hood.html
   twitter rabbit ears (meme):
-    name: twitter rabbit ears (meme)
+    name: 推特兔耳朵（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_rabbit_ears_(meme).html
   ford mustang (1st generation):
-    name: ford mustang (1st generation)
+    name: 福特野马（第一代）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ford_mustang_(1st_generation).html
   shiny tambourine (heartcatch precure!):
-    name: shiny tambourine (heartcatch precure!)
+    name: 闪亮的手鼓（心动光之美少女！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/shiny_tambourine_(heartcatch_precure!).html
   spider web hair ornament:
-    name: spider web hair ornament
+    name: 蜘蛛网发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/spider_web_hair_ornament.html
   demonic creature:
-    name: demonic creature
+    name: 恶魔生物
     wikiURL: https://danbooru.donmai.us/wiki_pages/demonic_creature.html
   fish skeleton hair ornament:
-    name: fish skeleton hair ornament
+    name: 鱼骨架发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_skeleton_hair_ornament.html
   snake wrapped around body:
-    name: snake wrapped around body
+    name: 蛇缠绕身体
     wikiURL: https://danbooru.donmai.us/wiki_pages/snake_wrapped_around_body.html
   heart pirates jolly roger:
-    name: heart pirates jolly roger
+    name: 红心海盗海盗旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_pirates_jolly_roger.html
   teddy bear ornament:
-    name: teddy bear ornament
+    name: 泰迪熊装饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/teddy_bear_ornament.html
   dragon li cat:
-    name: dragon li cat
+    name: 龙李猫
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_li_cat.html
   grey butterfly:
-    name: grey butterfly
+    name: 灰蝴蝶
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_butterfly.html
   kitten heels:
-    name: kitten heels
+    name: 小猫跟
     wikiURL: https://danbooru.donmai.us/wiki_pages/kitten_heels.html
   adoration (e.g.o):
-    name: adoration (e.g.o)
+    name: 崇拜（例如o）
     wikiURL: https://danbooru.donmai.us/wiki_pages/adoration_(e.g.o).html
   fish-flavored toast (genshin impact):
-    name: fish-flavored toast (genshin impact)
+    name: 鱼味吐司（原神冲击）
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish-flavored_toast_(genshin_impact).html
   rabbit paws:
-    name: rabbit paws
+    name: 兔子爪子
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_paws.html
     alias:
     - bunny paws
   horse-drawn:
-    name: horse-drawn
+    name: 马车的
     wikiURL: https://danbooru.donmai.us/wiki_pages/horse-drawn.html
   slime on head:
-    name: slime on head
+    name: 头上有粘液
     wikiURL: https://danbooru.donmai.us/wiki_pages/slime_on_head.html
   rabbit pajamas:
-    name: rabbit pajamas
+    name: 兔子睡衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_pajamas.html
     alias:
     - bunny pajamas
   black petals:
-    name: black petals
+    name: 黑色花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_petals.html
   dragon hat:
-    name: dragon hat
+    name: 龙帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_hat.html
   too many fish:
-    name: too many fish
+    name: 鱼太多
     wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_fish.html
   deer costume:
-    name: deer costume
+    name: 鹿服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/deer_costume.html
   holding grater:
-    name: holding grater
+    name: 拿着刨丝器
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_grater.html
   fish bone hair ornament:
-    name: fish bone hair ornament
+    name: 鱼骨发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_bone_hair_ornament.html
   cats are liquid (meme):
-    name: cats are liquid (meme)
+    name: 猫是液体（表情包）
     wikiURL: https://danbooru.donmai.us/wiki_pages/cats_are_liquid_(meme).html
   animal in mouth:
-    name: animal in mouth
+    name: 嘴里的动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_in_mouth.html
   bird feeding:
-    name: bird feeding
+    name: 喂鸟
     wikiURL: https://danbooru.donmai.us/wiki_pages/bird_feeding.html
   dragon mask:
-    name: dragon mask
+    name: 龙面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_mask.html
   bunny hood (zelda):
-    name: bunny hood (zelda)
+    name: 兔子兜帽（塞尔达）
     wikiURL: https://danbooru.donmai.us/wiki_pages/bunny_hood_(zelda).html
   facing animal:
-    name: facing animal
+    name: 面对动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/facing_animal.html
   wolfsbane (flower):
-    name: wolfsbane (flower)
+    name: 狼毒（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/wolfsbane_(flower).html
   neckbeard:
-    name: neckbeard
+    name: 颈须
     wikiURL: https://danbooru.donmai.us/wiki_pages/neckbeard.html
   ancient dragon (elden ring):
-    name: ancient dragon (elden ring)
+    name: 远古龙（埃尔登之环）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ancient_dragon_(elden_ring).html
   scratching back:
-    name: scratching back
+    name: 抓回来
     wikiURL: https://danbooru.donmai.us/wiki_pages/scratching_back.html
   rabbit tattoo:
-    name: rabbit tattoo
+    name: 兔子纹身
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_tattoo.html
     alias:
     - bunny tattoo
   animal hairband:
-    name: animal hairband
+    name: 动物发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_hairband.html
   fox shadow puppet kiss:
-    name: fox shadow puppet kiss
+    name: 狐狸皮影偶之吻
     wikiURL: https://danbooru.donmai.us/wiki_pages/fox_shadow_puppet_kiss.html
   fishnet veil:
-    name: fishnet veil
+    name: 渔网面纱
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_veil.html
   chinese trumpet vine:
-    name: chinese trumpet vine
+    name: 中国喇叭藤
     wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_trumpet_vine.html
   lobotomy corporation logo:
-    name: lobotomy corporation logo
+    name: 脑白质切除术公司徽标
     wikiURL: https://danbooru.donmai.us/wiki_pages/lobotomy_corporation_logo.html
   tetra (fish):
-    name: tetra (fish)
+    name: 四（鱼）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tetra_(fish).html
   word bearers:
-    name: word bearers
+    name: 传言者
     wikiURL: https://danbooru.donmai.us/wiki_pages/word_bearers.html
   rabbit-shaped pillow:
-    name: rabbit-shaped pillow
+    name: 兔子形枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit-shaped_pillow.html
     alias:
     - bunny pillow
     - rabbit pillow
   tripod (laboratory):
-    name: tripod (laboratory)
+    name: 三脚架（实验室）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tripod_(laboratory).html
   fish-shaped pillow:
-    name: fish-shaped pillow
+    name: 鱼形枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish-shaped_pillow.html
     alias:
     - fish pillow

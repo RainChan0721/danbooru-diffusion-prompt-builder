@@ -1,7 +1,7 @@
 name: 饮料
 category:
-  - 人文景观
-  - 食物
+- 人文
+- 食物
 content:
   alcohol:
     name: 酒精
@@ -30,7 +30,7 @@ content:
     name: 鸡尾酒伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/cocktail_umbrella.html
     alias:
-      - drink umbrella
+    - drink umbrella
   margarita:
     name: 玛格丽塔
     wikiURL: https://danbooru.donmai.us/wiki_pages/margarita.html
@@ -101,7 +101,7 @@ content:
     name: 苏打
     wikiURL: https://danbooru.donmai.us/wiki_pages/soda.html
     alias:
-      - soft drink
+    - soft drink
   7up:
     name: 7up
     wikiURL: https://danbooru.donmai.us/wiki_pages/7up.html
@@ -116,7 +116,7 @@ content:
     name: Dr Pepper
     wikiURL: https://danbooru.donmai.us/wiki_pages/dr_pepper.html
     alias:
-      - dr. pepper
+    - dr. pepper
   fanta:
     name: 芬达
     wikiURL: https://danbooru.donmai.us/wiki_pages/fanta.html
@@ -144,7 +144,7 @@ content:
     name: 汽水罐
     wikiURL: https://danbooru.donmai.us/wiki_pages/soda_can.html
     alias:
-      - pop can
+    - pop can
   tea:
     name: 茶
     wikiURL: https://danbooru.donmai.us/wiki_pages/tea.html
@@ -159,7 +159,7 @@ content:
     name: 珍珠奶茶
     wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_tea.html
     alias:
-      - boba tea
+    - boba tea
   darjeeling tea:
     name: 达吉岭茶
     wikiURL: https://danbooru.donmai.us/wiki_pages/darjeeling_tea.html
