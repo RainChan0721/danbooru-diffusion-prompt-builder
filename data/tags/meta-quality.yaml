@@ -1,0 +1,1050 @@
+name: 画质与格式 (正向)
+category:
+- 元标签
+- 正向质量
+restricted: false
+content:
+  photoshop (medium):
+    name: photoshop（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/photoshop_(medium).html
+  translated:
+    name: 翻译
+    wikiURL: https://danbooru.donmai.us/wiki_pages/translated.html
+    alias:
+    - translatied
+    - translation
+  translation request:
+    name: 翻译
+    wikiURL: https://danbooru.donmai.us/wiki_pages/translation_request.html
+    alias:
+    - /tr
+    - translate request
+    - translationrequest
+    - translation requested
+  commission:
+    name: 委员会
+    wikiURL: https://danbooru.donmai.us/wiki_pages/commission.html
+  chinese commentary:
+    name: 中国评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_commentary.html
+  md5 mismatch:
+    name: md5不匹配
+    wikiURL: https://danbooru.donmai.us/wiki_pages/md5_mismatch.html
+  non-web source:
+    name: 非网络资源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/non-web_source.html
+  korean commentary:
+    name: 韩国评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/korean_commentary.html
+  copyright request:
+    name: 系列请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/copyright_request.html
+    alias:
+    - /copy
+    - series request
+  partial commentary:
+    name: 部分评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/partial_commentary.html
+  skeb commission:
+    name: 委员会
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skeb_commission.html
+  variant set:
+    name: variant set
+    wikiURL: https://danbooru.donmai.us/wiki_pages/variant_set.html
+  paid reward available:
+    name: 奖励可用
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paid_reward_available.html
+    alias:
+    - reward available
+  character request:
+    name: tagme（字符）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_request.html
+    alias:
+    - /char
+    - tagme (character)
+  mixed-language commentary:
+    name: 双语解说 多语解说
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mixed-language_commentary.html
+    alias:
+    - bilingual commentary
+    - multilingual commentary
+  second-party source:
+    name: 第二方来源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/second-party_source.html
+  check translation:
+    name: 翻译检查
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_translation.html
+    alias:
+    - translation check
+  spoilers:
+    name: 剧透
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spoilers.html
+    alias:
+    - spoiler
+  source request:
+    name: cg请求需要来源没有来源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/source_request.html
+    alias:
+    - cg request
+    - need source
+    - no source
+    - /src
+  resolution mismatch:
+    name: 分辨率不匹配
+    wikiURL: https://danbooru.donmai.us/wiki_pages/resolution_mismatch.html
+  third-party source:
+    name: 第三方来源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/third-party_source.html
+  protected link:
+    name: 受保护的链接
+    wikiURL: https://danbooru.donmai.us/wiki_pages/protected_link.html
+  pixiv commission:
+    name: pixiv commission
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pixiv_commission.html
+    alias:
+    - pixiv request
+  self-upload:
+    name: self-upload
+    wikiURL: https://danbooru.donmai.us/wiki_pages/self-upload.html
+    alias:
+    - self upload
+  partially translated:
+    name: 部分翻译 部分翻译
+    wikiURL: https://danbooru.donmai.us/wiki_pages/partially_translated.html
+    alias:
+    - partial translation
+    - partly translated
+  large variant set:
+    name: large variant set
+    wikiURL: https://danbooru.donmai.us/wiki_pages/large_variant_set.html
+  inactive account:
+    name: 闲置帐户
+    wikiURL: https://danbooru.donmai.us/wiki_pages/inactive_account.html
+  hashtag-only commentary:
+    name: hashtag-only commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hashtag-only_commentary.html
+    alias:
+    - hashtag only commentary
+  sound:
+    name: 有声闪光灯 有声视频
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sound.html
+    alias:
+    - flash with sound
+    - has audio
+    - video with sound
+  ugoira:
+    name: 乌戈伊拉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ugoira.html
+  photo (medium):
+    name: 照片（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/photo_(medium).html
+  paid reward:
+    name: 支付报酬
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paid_reward.html
+  check commentary:
+    name: 检查评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_commentary.html
+  derivative work:
+    name: 衍生抄袭
+    wikiURL: https://danbooru.donmai.us/wiki_pages/derivative_work.html
+    alias:
+    - derivative
+    - plagiarism
+  anime screenshot:
+    name: anime screenshot
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anime_screenshot.html
+  source smaller:
+    name: 来源更小
+    wikiURL: https://danbooru.donmai.us/wiki_pages/source_smaller.html
+  imageboard desourced:
+    name: 图像板去源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/imageboard_desourced.html
+  painttool sai (medium):
+    name: painttool sai （中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/painttool_sai_(medium).html
+  source larger:
+    name: 来源更大
+    wikiURL: https://danbooru.donmai.us/wiki_pages/source_larger.html
+  dated commentary:
+    name: 过时的评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dated_commentary.html
+  image sample:
+    name: 图像样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/image_sample.html
+  promotional art:
+    name: 宣传艺术
+    wikiURL: https://danbooru.donmai.us/wiki_pages/promotional_art.html
+  patreon reward:
+    name: 赞助奖励
+    wikiURL: https://danbooru.donmai.us/wiki_pages/patreon_reward.html
+  artist collaboration:
+    name: artist collaboration
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artist_collaboration.html
+    alias:
+    - collaboration
+    - multiple artists
+  commissioner upload:
+    name: 专员上传
+    wikiURL: https://danbooru.donmai.us/wiki_pages/commissioner_upload.html
+  clip studio paint (medium):
+    name: 剪辑工作室油漆（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clip_studio_paint_(medium).html
+  making-of available:
+    name: 制作可用
+    wikiURL: https://danbooru.donmai.us/wiki_pages/making-of_available.html
+  novel illustration:
+    name: 小说插画
+    wikiURL: https://danbooru.donmai.us/wiki_pages/novel_illustration.html
+  audible music:
+    name: 有音乐
+    wikiURL: https://danbooru.donmai.us/wiki_pages/audible_music.html
+    alias:
+    - song
+  ai-generated:
+    name: 人工智能生成
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ai-generated.html
+  photo-referenced:
+    name: 照片参考
+    wikiURL: https://danbooru.donmai.us/wiki_pages/photo-referenced.html
+    alias:
+    - photo reference
+  hard-translated:
+    name: hard-translated
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hard-translated.html
+    alias:
+    - hardsub
+    - hard translated
+    - hard translation
+  audible speech:
+    name: 有人声
+    wikiURL: https://danbooru.donmai.us/wiki_pages/audible_speech.html
+  concept art:
+    name: 概念艺术
+    wikiURL: https://danbooru.donmai.us/wiki_pages/concept_art.html
+  resized:
+    name: 调整大小
+    wikiURL: https://danbooru.donmai.us/wiki_pages/resized.html
+  off-topic:
+    name: 非动漫相关
+    wikiURL: https://danbooru.donmai.us/wiki_pages/off-topic.html
+    alias:
+    - non-anime related
+  corrupted twitter file:
+    name: corrupted twitter file
+    wikiURL: https://danbooru.donmai.us/wiki_pages/corrupted_twitter_file.html
+  magazine scan:
+    name: 杂志扫描
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magazine_scan.html
+  pixiv sample:
+    name: pixiv漫画样本pixiv缩略图
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pixiv_sample.html
+    alias:
+    - pixiv manga sample
+    - pixiv thumbnail
+  procreate (medium):
+    name: 生育（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/procreate_(medium).html
+  clothing request:
+    name: 服装要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clothing_request.html
+  fanbox reward:
+    name: 粉丝箱奖励
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fanbox_reward.html
+  screenshot redraw:
+    name: screenshot redraw
+    wikiURL: https://danbooru.donmai.us/wiki_pages/screenshot_redraw.html
+    alias:
+    - screencap redraw
+  paint.net (medium):
+    name: paint.net（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paint.net_(medium).html
+  check copyright:
+    name: 检查版权
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_copyright.html
+  ai-assisted:
+    name: 人工智能辅助
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ai-assisted.html
+  archived source:
+    name: 存档源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/archived_source.html
+  annotated:
+    name: 注释的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/annotated.html
+  mixed media:
+    name: 手绘和数绘并存风格
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mixed_media.html
+  gender request:
+    name: 性别要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gender_request.html
+  flower request:
+    name: 鲜花请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flower_request.html
+  blender (medium):
+    name: 搅拌机（中型）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blender_(medium).html
+  has censored revision:
+    name: 已审查修订
+    wikiURL: https://danbooru.donmai.us/wiki_pages/has_censored_revision.html
+  downscaled:
+    name: 缩小的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/downscaled.html
+  upscaled:
+    name: 高档的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/upscaled.html
+    alias:
+    - upscale
+  spanish commentary:
+    name: 西班牙评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spanish_commentary.html
+  gimp (medium):
+    name: gimp（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gimp_(medium).html
+  production art:
+    name: 生产艺术
+    wikiURL: https://danbooru.donmai.us/wiki_pages/production_art.html
+  key visual:
+    name: 关键点
+    wikiURL: https://danbooru.donmai.us/wiki_pages/key_visual.html
+  making-of:
+    name: 在制品制作中
+    wikiURL: https://danbooru.donmai.us/wiki_pages/making-of.html
+    alias:
+    - making of
+  romaji commentary:
+    name: 罗马字解说
+    wikiURL: https://danbooru.donmai.us/wiki_pages/romaji_commentary.html
+  check character:
+    name: 检查字符
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_character.html
+  english audio:
+    name: 英语音频
+    wikiURL: https://danbooru.donmai.us/wiki_pages/english_audio.html
+  alternate language:
+    name: 替代语言
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_language.html
+  redrawn:
+    name: 重新绘制
+    wikiURL: https://danbooru.donmai.us/wiki_pages/redrawn.html
+  cosplay photo:
+    name: 角色扮演照片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cosplay_photo.html
+  check artist:
+    name: 检查艺术家
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_artist.html
+  has downscaled revision:
+    name: 已缩小修订
+    wikiURL: https://danbooru.donmai.us/wiki_pages/has_downscaled_revision.html
+  alpha transparency:
+    name: 透明度
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alpha_transparency.html
+  japanese audio:
+    name: japanese audio
+    wikiURL: https://danbooru.donmai.us/wiki_pages/japanese_audio.html
+  tagme:
+    name: 图片有一些上传者未知的项目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tagme.html
+    alias:
+    - tag me
+  adversarial noise:
+    name: adversarial noise
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adversarial_noise.html
+    alias:
+    - glaze artifacts
+    - glaze protected image
+  russian commentary:
+    name: 俄罗斯评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/russian_commentary.html
+  headwear request:
+    name: 头饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/headwear_request.html
+    alias:
+    - headwear
+  unconventional media:
+    name: 非常规媒体
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unconventional_media.html
+  lossy-lossless:
+    name: 有损无损
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lossy-lossless.html
+  food request:
+    name: 食物要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/food_request.html
+  decensored:
+    name: 审查
+    wikiURL: https://danbooru.donmai.us/wiki_pages/decensored.html
+    alias:
+    - descensored
+  weapon request:
+    name: 武器要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_request.html
+  gift art:
+    name: 礼品艺术
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gift_art.html
+  engrish commentary:
+    name: 英文解说
+    wikiURL: https://danbooru.donmai.us/wiki_pages/engrish_commentary.html
+  end card:
+    name: 尾牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/end_card.html
+    alias:
+    - endcard
+  thai commentary:
+    name: 泰国评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thai_commentary.html
+  fantia reward:
+    name: 幻想曲奖励
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantia_reward.html
+  ibispaint (medium):
+    name: ibispaint（中号）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ibispaint_(medium).html
+  commentary typo:
+    name: 评论错别字
+    wikiURL: https://danbooru.donmai.us/wiki_pages/commentary_typo.html
+  album cover redraw:
+    name: 专辑封面重绘
+    wikiURL: https://danbooru.donmai.us/wiki_pages/album_cover_redraw.html
+  annotation request:
+    name: 注释请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/annotation_request.html
+  merchandise available:
+    name: merchandise available
+    wikiURL: https://danbooru.donmai.us/wiki_pages/merchandise_available.html
+  guest art:
+    name: 客座艺术
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guest_art.html
+  aliasing:
+    name: 重采样工件调整工件大小
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aliasing.html
+    alias:
+    - resampling artifacts
+    - resizing artifacts
+  enty reward:
+    name: 实体奖励
+    wikiURL: https://danbooru.donmai.us/wiki_pages/enty_reward.html
+  60+fps:
+    name: 60+帧/秒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/60+fps.html
+  tumblr sample:
+    name: tumblr 样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tumblr_sample.html
+  koikatsu (medium):
+    name: 小猪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/koikatsu_(medium).html
+    alias:
+    - koikatu
+  waifu2x:
+    name: 外服2x
+    wikiURL: https://danbooru.donmai.us/wiki_pages/waifu2x.html
+  twitter sample:
+    name: 推特样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_sample.html
+  mikumikudance (medium):
+    name: mikumikudance（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mikumikudance_(medium).html
+  ruffle compatible:
+    name: 荷叶边兼容
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ruffle_compatible.html
+  game screenshot:
+    name: 游戏截图
+    wikiURL: https://danbooru.donmai.us/wiki_pages/game_screenshot.html
+  corrupted metadata:
+    name: 损坏的 exif 数据
+    wikiURL: https://danbooru.donmai.us/wiki_pages/corrupted_metadata.html
+    alias:
+    - corrupted exif data
+  self-portrait:
+    name: 自画像
+    wikiURL: https://danbooru.donmai.us/wiki_pages/self-portrait.html
+    alias:
+    - self portrait
+  source filmmaker (medium):
+    name: 来源电影制作人（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/source_filmmaker_(medium).html
+  comic panel redraw:
+    name: comic panel redraw
+    wikiURL: https://danbooru.donmai.us/wiki_pages/comic_panel_redraw.html
+    alias:
+    - manga panel redraw
+  hard-translated (non-english):
+    name: hard-translated (non-english)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hard-translated_(non-english).html
+    alias:
+    - hard translated (non-english)
+  source mismatch:
+    name: 源不匹配
+    wikiURL: https://danbooru.donmai.us/wiki_pages/source_mismatch.html
+  extraction:
+    name: 萃取
+    wikiURL: https://danbooru.donmai.us/wiki_pages/extraction.html
+  eyecatch:
+    name: 吸引眼球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eyecatch.html
+    alias:
+    - eye catch
+  reverse translation:
+    name: 反向翻译
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reverse_translation.html
+  artstation sample:
+    name: artstation样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artstation_sample.html
+  bmp-to-png conversion:
+    name: bmp-to-png conversion
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bmp-to-png_conversion.html
+  art study:
+    name: 艺术学习
+    wikiURL: https://danbooru.donmai.us/wiki_pages/art_study.html
+  pdf available:
+    name: 可用pdf
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pdf_available.html
+  completion time:
+    name: 完成时间
+    wikiURL: https://danbooru.donmai.us/wiki_pages/completion_time.html
+    alias:
+    - drawing time
+  object request:
+    name: 对象请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/object_request.html
+  spine (medium):
+    name: spine (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spine_(medium).html
+  deviantart sample:
+    name: deviantart样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deviantart_sample.html
+  screenshot:
+    name: 截屏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/screenshot.html
+  costume request:
+    name: 服装要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/costume_request.html
+  indonesian commentary:
+    name: 印尼评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/indonesian_commentary.html
+  yandere sample:
+    name: 病娇样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yandere_sample.html
+  papercraft (medium):
+    name: 纸模（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/papercraft_(medium).html
+  vehicle request:
+    name: 车辆要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vehicle_request.html
+  parody request:
+    name: 模仿请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/parody_request.html
+  headshop:
+    name: 总店
+    wikiURL: https://danbooru.donmai.us/wiki_pages/headshop.html
+  partially annotated:
+    name: 部分注释
+    wikiURL: https://danbooru.donmai.us/wiki_pages/partially_annotated.html
+  tegaki draw and tweet:
+    name: tegaki 画图和鸣叫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tegaki_draw_and_tweet.html
+  adoptable:
+    name: adoptable
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adoptable.html
+  cosplay request:
+    name: 角色扮演请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cosplay_request.html
+  emofuri:
+    name: emofuri
+    wikiURL: https://danbooru.donmai.us/wiki_pages/emofuri.html
+  french commentary:
+    name: 法国评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/french_commentary.html
+  exif rotation:
+    name: exif旋转
+    wikiURL: https://danbooru.donmai.us/wiki_pages/exif_rotation.html
+  game model:
+    name: 游戏模型
+    wikiURL: https://danbooru.donmai.us/wiki_pages/game_model.html
+  ugoira conversion:
+    name: 乌戈伊拉转换
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ugoira_conversion.html
+  medium request:
+    name: 中等要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/medium_request.html
+  epilepsy warning:
+    name: 闪光灯癫痫发作警告频闪灯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/epilepsy_warning.html
+    alias:
+    - flashing lights
+    - seizure warning
+    - strobing lights
+  psd available:
+    name: 可用psd
+    wikiURL: https://danbooru.donmai.us/wiki_pages/psd_available.html
+  thumbnail collage:
+    name: thumbnail collage
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thumbnail_collage.html
+    alias:
+    - twitter thumbnail collage
+  portuguese commentary:
+    name: 葡萄牙语解说
+    wikiURL: https://danbooru.donmai.us/wiki_pages/portuguese_commentary.html
+  vgen commission:
+    name: vgen commission
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vgen_commission.html
+  microsoft paint (medium):
+    name: microsoft paint (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/microsoft_paint_(medium).html
+    alias:
+    - ms paint (medium)
+    - mspaint (medium)
+  figure available:
+    name: figure available
+    wikiURL: https://danbooru.donmai.us/wiki_pages/figure_available.html
+  german commentary:
+    name: 德国评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/german_commentary.html
+  gesture request:
+    name: 手势请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gesture_request.html
+  hairstyle request:
+    name: 发型要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hairstyle_request.html
+    alias:
+    - hair request
+    - hair style request
+  zbrush (medium):
+    name: zbrush（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zbrush_(medium).html
+  reversed:
+    name: 颠倒的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reversed.html
+  nicoseiga sample:
+    name: 尼塞加样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nicoseiga_sample.html
+  app filter:
+    name: app filter
+    wikiURL: https://danbooru.donmai.us/wiki_pages/app_filter.html
+  gumroad reward:
+    name: 胶路奖励
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gumroad_reward.html
+  countdown illustration:
+    name: countdown illustration
+    wikiURL: https://danbooru.donmai.us/wiki_pages/countdown_illustration.html
+  bird request:
+    name: 鸟类请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bird_request.html
+  art trade:
+    name: art trade
+    wikiURL: https://danbooru.donmai.us/wiki_pages/art_trade.html
+  stable diffusion:
+    name: stable diffusion
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stable_diffusion.html
+  custom maid 3d 2:
+    name: 自定义女仆 3d 2
+    wikiURL: https://danbooru.donmai.us/wiki_pages/custom_maid_3d_2.html
+  krita (medium):
+    name: krita（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/krita_(medium).html
+  color halftone:
+    name: 放映
+    wikiURL: https://danbooru.donmai.us/wiki_pages/color_halftone.html
+    alias:
+    - screening
+  flash game:
+    name: 游戏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flash_game.html
+    alias:
+    - game
+  vietnamese commentary:
+    name: 越南评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vietnamese_commentary.html
+  nai diffusion:
+    name: 奈扩散
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nai_diffusion.html
+  plant request:
+    name: 工厂要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/plant_request.html
+  collaboration request:
+    name: 协作请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/collaboration_request.html
+  flipnote studio (medium):
+    name: flipnote工作室（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flipnote_studio_(medium).html
+  animal request:
+    name: 动物要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animal_request.html
+  zip available:
+    name: 可用拉链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zip_available.html
+  check clothing:
+    name: check clothing
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_clothing.html
+  fixed:
+    name: 固定的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fixed.html
+  medibang paint (medium):
+    name: medibang 油漆（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/medibang_paint_(medium).html
+  volume warning:
+    name: volume warning
+    wikiURL: https://danbooru.donmai.us/wiki_pages/volume_warning.html
+  check gender:
+    name: check gender
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_gender.html
+  meme request:
+    name: meme request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/meme_request.html
+  pose request:
+    name: pose request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pose_request.html
+    alias:
+    - posture request
+  neckwear request:
+    name: 领带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neckwear_request.html
+    alias:
+    - neckwear
+  character counter request:
+    name: 字符计数器请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_counter_request.html
+  reference request:
+    name: 参考请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reference_request.html
+  hair ornament request:
+    name: 发饰要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hair_ornament_request.html
+  song request:
+    name: 歌曲请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/song_request.html
+  naver sample:
+    name: naver sample
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naver_sample.html
+  recolored:
+    name: 重新着色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/recolored.html
+  style request:
+    name: 款式要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/style_request.html
+  number-only commentary:
+    name: number-only commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/number-only_commentary.html
+  italian commentary:
+    name: 意大利评论
+    wikiURL: https://danbooru.donmai.us/wiki_pages/italian_commentary.html
+  bleed through:
+    name: 流血
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bleed_through.html
+  thumbnail surprise:
+    name: 缩略图惊喜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thumbnail_surprise.html
+  metadata pun:
+    name: metadata pun
+    wikiURL: https://danbooru.donmai.us/wiki_pages/metadata_pun.html
+  food art (medium):
+    name: food art (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/food_art_(medium).html
+  color banding:
+    name: 色带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/color_banding.html
+    alias:
+    - posterization
+  mecha request:
+    name: 机甲识别
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mecha_request.html
+    alias:
+    - mecha to identify
+  autodesk 3ds max (medium):
+    name: autodesk 3ds max（中）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/autodesk_3ds_max_(medium).html
+  model kit (medium):
+    name: model kit (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/model_kit_(medium).html
+  check source:
+    name: 检查来源
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_source.html
+  mojibake commentary:
+    name: mojibake commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mojibake_commentary.html
+  cleaned:
+    name: 清理干净
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cleaned.html
+  animal ear request:
+    name: 动物耳朵要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_request.html
+  magazine request:
+    name: 杂志要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magazine_request.html
+  paper cutout (medium):
+    name: paper cutout (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/paper_cutout_(medium).html
+  reference photo:
+    name: 参考照片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reference_photo.html
+  ko-fi commission:
+    name: ko-fi commission
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ko-fi_commission.html
+  avatar generator:
+    name: 头像生成器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/avatar_generator.html
+  easytoon (medium):
+    name: easytoon (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/easytoon_(medium).html
+  fanfiction available:
+    name: fanfiction available
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fanfiction_available.html
+  stop motion animation:
+    name: stop motion animation
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stop_motion_animation.html
+  kisekae:
+    name: 喜世凯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kisekae.html
+  video game cover redraw:
+    name: video game cover redraw
+    wikiURL: https://danbooru.donmai.us/wiki_pages/video_game_cover_redraw.html
+  font request:
+    name: font request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/font_request.html
+  color issue:
+    name: 颜色问题
+    wikiURL: https://danbooru.donmai.us/wiki_pages/color_issue.html
+  footwear request:
+    name: footwear request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/footwear_request.html
+  dog request:
+    name: dog request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dog_request.html
+  3d custom girl:
+    name: 3d自定义女孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/3d_custom_girl.html
+  has adversarial noise revision:
+    name: has adversarial noise revision
+    wikiURL: https://danbooru.donmai.us/wiki_pages/has_adversarial_noise_revision.html
+    alias:
+    - has glazed revision
+  instrument request:
+    name: 仪器请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/instrument_request.html
+  chinese audio:
+    name: chinese audio
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_audio.html
+  maya (medium):
+    name: maya (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maya_(medium).html
+  creature request:
+    name: creature request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/creature_request.html
+  exif thumbnail surprise:
+    name: exif 缩略图惊喜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/exif_thumbnail_surprise.html
+  fake translation:
+    name: 假翻译
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fake_translation.html
+  picrew (medium):
+    name: picrew (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/picrew_(medium).html
+  adobe illustrator (medium):
+    name: adobe illustrator (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adobe_illustrator_(medium).html
+  twitter banner:
+    name: 推特横幅
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_banner.html
+  latin commentary:
+    name: latin commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/latin_commentary.html
+  location request:
+    name: 位置请求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/location_request.html
+  fish request:
+    name: 鱼的要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fish_request.html
+  has lossy revision:
+    name: 有损修订
+    wikiURL: https://danbooru.donmai.us/wiki_pages/has_lossy_revision.html
+  daz studio (medium):
+    name: daz studio (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/daz_studio_(medium).html
+  binding discoloration:
+    name: 装订变色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/binding_discoloration.html
+  korean audio:
+    name: korean audio
+    wikiURL: https://danbooru.donmai.us/wiki_pages/korean_audio.html
+  webp-to-png conversion:
+    name: webp到png的转换
+    wikiURL: https://danbooru.donmai.us/wiki_pages/webp-to-png_conversion.html
+  noise reduction:
+    name: 降噪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/noise_reduction.html
+  rotoscoping:
+    name: 转描
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rotoscoping.html
+  constellation request:
+    name: constellation request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/constellation_request.html
+  book cover redraw:
+    name: book cover redraw
+    wikiURL: https://danbooru.donmai.us/wiki_pages/book_cover_redraw.html
+  reference work request:
+    name: 参考工作要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reference_work_request.html
+  midjourney:
+    name: 途中
+    wikiURL: https://danbooru.donmai.us/wiki_pages/midjourney.html
+  wallpaper forced:
+    name: 壁纸 强迫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wallpaper_forced.html
+  drawcrowd sample:
+    name: 抽签样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drawcrowd_sample.html
+  animatic:
+    name: 动画的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animatic.html
+  arabic commentary:
+    name: arabic commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arabic_commentary.html
+  expression request:
+    name: expression request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/expression_request.html
+  aseprite (medium):
+    name: aseprite (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aseprite_(medium).html
+  lossless-lossy:
+    name: 无损-有损
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lossless-lossy.html
+  language request:
+    name: language request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/language_request.html
+  spanish audio:
+    name: spanish audio
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spanish_audio.html
+  xnalara:
+    name: 纳拉拉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xnalara.html
+  acrylic gouache (medium):
+    name: acrylic gouache (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/acrylic_gouache_(medium).html
+  opencanvas (medium):
+    name: opencanvas (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/opencanvas_(medium).html
+  upside-down commentary:
+    name: upside-down commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/upside-down_commentary.html
+  mixed-language audio:
+    name: mixed-language audio
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mixed-language_audio.html
+  konachan sample:
+    name: konachan样本
+    wikiURL: https://danbooru.donmai.us/wiki_pages/konachan_sample.html
+  low bitrate:
+    name: low bitrate
+    wikiURL: https://danbooru.donmai.us/wiki_pages/low_bitrate.html
+  check spoilers:
+    name: check spoilers
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_spoilers.html
+  latte art (medium):
+    name: latte art (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/latte_art_(medium).html
+    alias:
+    - coffee art (medium)
+  scan dust:
+    name: 扫描灰尘
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scan_dust.html
+    alias:
+    - scanning dust
+  huashijie (medium):
+    name: huashijie (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/huashijie_(medium).html
+  slideshow animation:
+    name: slideshow animation
+    wikiURL: https://danbooru.donmai.us/wiki_pages/slideshow_animation.html
+  masking tape (medium):
+    name: masking tape (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/masking_tape_(medium).html
+  swedish audio:
+    name: swedish audio
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swedish_audio.html
+  vrchat (medium):
+    name: vrchat (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vrchat_(medium).html
+  fantia sample:
+    name: fantia sample
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantia_sample.html
+  check annotation:
+    name: check annotation
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_annotation.html
+  gelbooru sample:
+    name: gelbooru sample
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gelbooru_sample.html
+  check weapon:
+    name: check weapon
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_weapon.html
+  fruit request:
+    name: fruit request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fruit_request.html
+  anatomy study:
+    name: anatomy study
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anatomy_study.html
+  fantia commission:
+    name: 芳提亚佣金
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantia_commission.html
+  check flower:
+    name: check flower
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_flower.html
+  rebelle (medium):
+    name: rebelle (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rebelle_(medium).html
+  gibberish commentary:
+    name: gibberish commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gibberish_commentary.html
+  unreal engine (medium):
+    name: unreal engine (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unreal_engine_(medium).html
+    alias:
+    - unreal (medium)
+  download link:
+    name: 下载链接
+    wikiURL: https://danbooru.donmai.us/wiki_pages/download_link.html
+  pattern request:
+    name: pattern request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pattern_request.html
+  line sticker available:
+    name: line sticker available
+    wikiURL: https://danbooru.donmai.us/wiki_pages/line_sticker_available.html
+  flipaclip (medium):
+    name: flipaclip (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flipaclip_(medium).html
+  postcard (medium):
+    name: postcard (medium)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/postcard_(medium).html
+  aircraft request:
+    name: 飞机要求
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aircraft_request.html
+  pixiv banner:
+    name: pixiv banner
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pixiv_banner.html
+  color study:
+    name: color study
+    wikiURL: https://danbooru.donmai.us/wiki_pages/color_study.html
+  polish commentary:
+    name: polish commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polish_commentary.html
+  greek commentary:
+    name: greek commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/greek_commentary.html
+  open in internet explorer:
+    name: 在 Internet Explorer 中打开
+    wikiURL: https://danbooru.donmai.us/wiki_pages/open_in_internet_explorer.html
+  swedish commentary:
+    name: swedish commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swedish_commentary.html
+  check animal:
+    name: check animal
+    wikiURL: https://danbooru.donmai.us/wiki_pages/check_animal.html
+  ukrainian commentary:
+    name: ukrainian commentary
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ukrainian_commentary.html
+  video crop:
+    name: video crop
+    wikiURL: https://danbooru.donmai.us/wiki_pages/video_crop.html
+  background request:
+    name: background request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/background_request.html
+  custom order maid 3d 2:
+    name: custom order maid 3d 2
+    wikiURL: https://danbooru.donmai.us/wiki_pages/custom_order_maid_3d_2.html
+  sound effect request:
+    name: sound effect request
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sound_effect_request.html
