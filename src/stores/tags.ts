@@ -35,16 +35,6 @@ export const useTagStore = defineStore('tags', {
         loaded: (state) => {
             return state.tags.length > 0
         },
-        // categories: (state) => {
-        //     const settings = useSettingsStore()
-        //     const filtered = new Set(
-        //         state.tags
-        //             .filter((t) => settings.showRestricted || !t.restricted)
-        //             .map((t) => t.category)
-        //             .sort((a, b) => a.join('/').localeCompare(b.join('/')))
-        //     )
-        //     return filtered
-        // },
         categoryHierarchy: (state) => {
             const settings = useSettingsStore()
             const dedup: Record<string, boolean> = {}

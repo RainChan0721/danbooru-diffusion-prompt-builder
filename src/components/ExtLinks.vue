@@ -39,7 +39,7 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
         </ElTooltip>
         <ElTooltip content="GitHub" :show-after="750">
             <a
-                href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder"
+                href="https://github.com/RainChan0721/danbooru-diffusion-prompt-builder"
                 target="_blank">
                 <ElButton link size="large">
                     <FontAwesomeIcon :icon="faGithub" class="square-icon" />
