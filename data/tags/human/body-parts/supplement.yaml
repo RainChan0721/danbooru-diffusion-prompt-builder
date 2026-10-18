@@ -10,12 +10,6 @@ content:
     alias:
     - <3
     - hearts
-  black footwear:
-    name: 黑色的鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_footwear.html
-    alias:
-    - black boots
-    - black shoes
   dark skin:
     name: 褐色皮肤
     wikiURL: https://danbooru.donmai.us/wiki_pages/dark_skin.html
@@ -60,7 +54,7 @@ content:
     alias:
     - cat tails
   upper teeth only:
-    name: upper teeth only
+    name: 仅上牙
     wikiURL: https://danbooru.donmai.us/wiki_pages/upper_teeth_only.html
   legs:
     name: 双腿
@@ -93,23 +87,11 @@ content:
   skindentation:
     name: 皮肤的凹陷
     wikiURL: https://danbooru.donmai.us/wiki_pages/skindentation.html
-  brown footwear:
-    name: 棕色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_footwear.html
-    alias:
-    - brown boots
-    - brown shoes
   glowing:
     name: 发光的
     wikiURL: https://danbooru.donmai.us/wiki_pages/glowing.html
     alias:
     - glow
-  white footwear:
-    name: 白色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_footwear.html
-    alias:
-    - white boots
-    - white shoes
   thick eyebrows:
     name: 浓眉
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_eyebrows.html
@@ -150,12 +132,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_wings.html
     alias:
     - headwings
-  red footwear:
-    name: 红色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_footwear.html
-    alias:
-    - red boots
-    - red shoes
   rabbit tail:
     name: 兔尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_tail.html
@@ -205,9 +181,6 @@ content:
     - multi tail
     - multitail
     - multi tails
-  beard:
-    name: 胡须
-    wikiURL: https://danbooru.donmai.us/wiki_pages/beard.html
   interlocked fingers:
     name: 紧扣的双手
     wikiURL: https://danbooru.donmai.us/wiki_pages/interlocked_fingers.html
@@ -263,12 +236,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_alternate_hairstyle.html
     alias:
     - alternate hairstyle (official)
-  blue footwear:
-    name: 蓝色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_footwear.html
-    alias:
-    - blue boots
-    - blue shoes
   single horn:
     name: 单侧长着角
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_horn.html
@@ -327,7 +294,7 @@ content:
     - paw
     - paws
   unworn headwear:
-    name: unworn headwear
+    name: 未佩戴过的头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_headwear.html
     alias:
     - headwear off
@@ -341,7 +308,7 @@ content:
     name: 挎包|单肩背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_bag.html
   hands on own hips:
-    name: hands on own hips
+    name: 双手放在自己的臀部
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_own_hips.html
   legs together:
     name: 双腿并拢
@@ -357,12 +324,6 @@ content:
   short eyebrows:
     name: 豆豆眉|短眉毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/short_eyebrows.html
-  teddy bear:
-    name: 泰迪熊
-    wikiURL: https://danbooru.donmai.us/wiki_pages/teddy_bear.html
-    alias:
-    - stuffed bear
-    - teddybear
   black horns:
     name: 黑色的角
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_horns.html
@@ -374,12 +335,6 @@ content:
   eyebrows hidden by hair:
     name: 眉毛被头发遮住
     wikiURL: https://danbooru.donmai.us/wiki_pages/eyebrows_hidden_by_hair.html
-  pink footwear:
-    name: 粉色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_footwear.html
-    alias:
-    - pink boots
-    - pink shoes
   snowing:
     name: 下雪
     wikiURL: https://danbooru.donmai.us/wiki_pages/snowing.html
@@ -405,11 +360,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/sharp_fingernails.html
     alias:
     - pointy fingernails
-  spear:
-    name: 矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spear.html
-    alias:
-    - spears
   sportswear:
     name: 运动服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sportswear.html
@@ -536,13 +486,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/split-color_hair.html
     alias:
     - split hair colors
-  grey footwear:
-    name: 灰色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_footwear.html
-    alias:
-    - gray footwear
-    - grey boots
-    - grey shoes
   happy new year:
     name: 新年快乐
     wikiURL: https://danbooru.donmai.us/wiki_pages/happy_new_year.html
@@ -552,12 +495,6 @@ content:
   rabbit hair ornament:
     name: 兔子形头发装饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_hair_ornament.html
-  purple footwear:
-    name: 紫色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_footwear.html
-    alias:
-    - purple boots
-    - purple shoes
   earmuffs:
     name: 耳罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/earmuffs.html
@@ -567,9 +504,6 @@ content:
   ice wings:
     name: 冰翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/ice_wings.html
-  shoulder blades:
-    name: 肩胛骨
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_blades.html
   tilted headwear:
     name: 歪着的头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/tilted_headwear.html
@@ -589,12 +523,6 @@ content:
   red eyeshadow:
     name: 红色眼影
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_eyeshadow.html
-  platform footwear:
-    name: 平台鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/platform_footwear.html
-    alias:
-    - platforms
-    - platform shoes
   two tails:
     name: 有两条尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/two_tails.html
@@ -642,26 +570,6 @@ content:
   goat horns:
     name: 山羊角
     wikiURL: https://danbooru.donmai.us/wiki_pages/goat_horns.html
-  green footwear:
-    name: 绿色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/green_footwear.html
-    alias:
-    - green boots
-    - green shoes
-  arm cannon:
-    name: 手炮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_cannon.html
-    alias:
-    - mega buster
-    - x buster
-    - z buster
-    - zero buster
-  yellow footwear:
-    name: 黄色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_footwear.html
-    alias:
-    - yellow boots
-    - yellow shoes
   ears through headwear:
     name: 为耳朵留洞的头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/ears_through_headwear.html
@@ -676,7 +584,7 @@ content:
     - bloody fingers
     - bloody hands
   lower teeth only:
-    name: lower teeth only
+    name: 仅下牙
     wikiURL: https://danbooru.donmai.us/wiki_pages/lower_teeth_only.html
     alias:
     - lower teeth
@@ -689,13 +597,13 @@ content:
     alias:
     - tanuki tail
   floating earring:
-    name: floating earring
+    name: 漂浮耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_earring.html
     alias:
     - dangle earrings
     - drop earrings
   cube hair ornament:
-    name: cube hair ornament
+    name: 立方体发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/cube_hair_ornament.html
     alias:
     - hair cubes
@@ -829,12 +737,6 @@ content:
   black skin:
     name: 黑色皮肤
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_skin.html
-  toeless footwear:
-    name: 露指鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/toeless_footwear.html
-    alias:
-    - open toe shoes
-    - toeless shoes
   swivel chair:
     name: 旋转椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/swivel_chair.html
@@ -853,7 +755,7 @@ content:
     alias:
     - ear clip
   two-tone eyes:
-    name: two-tone eyes
+    name: 双色眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_eyes.html
   teardrop:
     name: 泪珠
@@ -949,16 +851,13 @@ content:
   hand on own arm:
     name: 手放在自己手臂上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_own_arm.html
-  beard stubble:
-    name: beard stubble
-    wikiURL: https://danbooru.donmai.us/wiki_pages/beard_stubble.html
   braided hair rings:
-    name: braided hair rings
+    name: 编织发圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/braided_hair_rings.html
     alias:
     - looped braids
   animal ear piercing:
-    name: animal ear piercing
+    name: 动物耳洞
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_piercing.html
   forked eyebrows:
     name: 分叉眉毛
@@ -1045,9 +944,6 @@ content:
   arm rest:
     name: 手臂靠着某物休息
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_rest.html
-  bear:
-    name: 熊
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear.html
   mechanical wings:
     name: 机械翼
     wikiURL: https://danbooru.donmai.us/wiki_pages/mechanical_wings.html
@@ -1055,13 +951,10 @@ content:
     name: 手放在他人手臂上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_another's_arm.html
   animal ear hairband:
-    name: animal ear hairband
+    name: 动物耳朵发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_hairband.html
-  asymmetrical footwear:
-    name: 不对称鞋子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_footwear.html
   blowing bubbles:
-    name: blowing bubbles
+    name: 吹泡泡
     wikiURL: https://danbooru.donmai.us/wiki_pages/blowing_bubbles.html
     alias:
     - bubble blowing
@@ -1099,14 +992,8 @@ content:
     - tail cutout
     - tail slit clothes
   loose hair strand:
-    name: loose hair strand
+    name: 松散的发丝
     wikiURL: https://danbooru.donmai.us/wiki_pages/loose_hair_strand.html
-  orange footwear:
-    name: 橙色鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_footwear.html
-    alias:
-    - orange boots
-    - orange shoes
   glowing weapon:
     name: 发光的武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_weapon.html
@@ -1132,7 +1019,7 @@ content:
     alias:
     - hair pom pom
   biting own lip:
-    name: biting own lip
+    name: 咬着自己的嘴唇
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_own_lip.html
     alias:
     - lip bite
@@ -1150,7 +1037,7 @@ content:
     name: 单手搂腰
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_around_waist.html
   4-finger heart hands:
-    name: 4-finger heart hands
+    name: 四指心形手
     wikiURL: https://danbooru.donmai.us/wiki_pages/4-finger_heart_hands.html
     alias:
     - 4-fingers heart hands
@@ -1176,7 +1063,7 @@ content:
     name: 手放在对方的头发上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_another's_hair.html
   tucking hair:
-    name: tucking hair
+    name: 扎起头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/tucking_hair.html
   finger on trigger:
     name: 准备扣扳机的手势
@@ -1216,7 +1103,7 @@ content:
     name: 带角头盔
     wikiURL: https://danbooru.donmai.us/wiki_pages/horned_helmet.html
   long hair between eyes:
-    name: long hair between eyes
+    name: 两眼之间的长毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_hair_between_eyes.html
   squirrel tail:
     name: 松鼠尾巴
@@ -1225,7 +1112,7 @@ content:
     name: 在肩上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_shoulder.html
   twirling hair:
-    name: twirling hair
+    name: 捻头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/twirling_hair.html
   hand on another's waist:
     name: 把手放在别人的腰上
@@ -1274,14 +1161,11 @@ content:
   earbuds:
     name: 耳塞
     wikiURL: https://danbooru.donmai.us/wiki_pages/earbuds.html
-  mismatched footwear:
-    name: 双色鞋子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_footwear.html
   monkey tail:
     name: 猴尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/monkey_tail.html
   high side ponytail:
-    name: high side ponytail
+    name: 高侧马尾辫
     wikiURL: https://danbooru.donmai.us/wiki_pages/high_side_ponytail.html
   skin fangs:
     name: 皮肤毒牙
@@ -1313,10 +1197,10 @@ content:
     name: 兽耳头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_headwear.html
   cone horns:
-    name: cone horns
+    name: 锥形喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/cone_horns.html
   covering own eyes:
-    name: covering own eyes
+    name: 遮住自己的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/covering_own_eyes.html
   bandaid on arm:
     name: 手臂上贴着创可贴
@@ -1324,7 +1208,7 @@ content:
     alias:
     - bandaid on elbow
   heart-shaped pillow:
-    name: heart-shaped pillow
+    name: 心形枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart-shaped_pillow.html
     alias:
     - heart pillow
@@ -1364,7 +1248,7 @@ content:
     - finger licking
     - licking fingers
   drawing (object):
-    name: drawing (object)
+    name: 绘图（物体）
     wikiURL: https://danbooru.donmai.us/wiki_pages/drawing_(object).html
     alias:
     - picture (object)
@@ -1376,9 +1260,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/large_tail.html
     alias:
     - big tail
-  full beard:
-    name: full beard
-    wikiURL: https://danbooru.donmai.us/wiki_pages/full_beard.html
   yellow horns:
     name: 黄角
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_horns.html
@@ -1386,7 +1267,7 @@ content:
     name: 脚的画法错误
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_feet.html
   single off shoulder:
-    name: single off shoulder
+    name: 单肩露肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_off_shoulder.html
   mechanical tail:
     name: 机械尾巴
@@ -1449,9 +1330,6 @@ content:
   veiny arms:
     name: 静脉手臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_arms.html
-  year of the rabbit:
-    name: 兔年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_rabbit.html
   snake tail:
     name: 蛇尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/snake_tail.html
@@ -1460,9 +1338,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_lips.html
     alias:
     - green lipstick
-  year of the tiger:
-    name: 虎年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_tiger.html
   blue eyeshadow:
     name: 蓝色眼影
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_eyeshadow.html
@@ -1471,12 +1346,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_balloon.html
     alias:
     - heart-shaped balloon
-  glowing sword:
-    name: 发光的剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_sword.html
-  bear hair ornament:
-    name: 熊印花头饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_hair_ornament.html
   bird legs:
     name: 鸟腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/bird_legs.html
@@ -1544,7 +1413,7 @@ content:
     name: 飘落的羽毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/falling_feathers.html
   shoulder boards:
-    name: shoulder boards
+    name: 肩板
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_boards.html
   pearl (gemstone):
     name: 珍珠
@@ -1600,9 +1469,6 @@ content:
     - tailbell
     - tail bells
     - tailbells
-  year of the ox:
-    name: 牛年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_ox.html
   claw (weapon):
     name: 爪(武器)
     wikiURL: https://danbooru.donmai.us/wiki_pages/claw_(weapon).html
@@ -1612,18 +1478,12 @@ content:
   purple horns:
     name: 紫色的角
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_horns.html
-  two-tone footwear:
-    name: 双色鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_footwear.html
   gold hairband:
     name: 金发箍
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_hairband.html
   bandaid hair ornament:
     name: 创可贴发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandaid_hair_ornament.html
-  long beard:
-    name: 长胡子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/long_beard.html
   hands on headwear:
     name: 双手碰到头上的饰物
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_headwear.html
@@ -1678,9 +1538,6 @@ content:
   yellow wings:
     name: 黄色的翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_wings.html
-  bear girl:
-    name: 熊女孩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_girl.html
   triangle hair ornament:
     name: 三角发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/triangle_hair_ornament.html
@@ -1713,7 +1570,7 @@ content:
     name: 卷曲的手指
     wikiURL: https://danbooru.donmai.us/wiki_pages/curled_fingers.html
   strongman waist:
-    name: strongman waist
+    name: 强人腰
     wikiURL: https://danbooru.donmai.us/wiki_pages/strongman_waist.html
   blood in hair:
     name: 头发上有血
@@ -1725,16 +1582,13 @@ content:
     name: 脸上有瘀伤
     wikiURL: https://danbooru.donmai.us/wiki_pages/bruise_on_face.html
   uneven horns:
-    name: uneven horns
+    name: 不均匀的角
     wikiURL: https://danbooru.donmai.us/wiki_pages/uneven_horns.html
   rabbit ear hairband:
-    name: rabbit ear hairband
+    name: 兔耳发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_ear_hairband.html
-  arm blade:
-    name: 手臂刀刃
-    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_blade.html
   yellow armband:
-    name: yellow armband
+    name: 黄色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_armband.html
   purple tail:
     name: 紫色的尾巴
@@ -1748,9 +1602,6 @@ content:
   very long fingernails:
     name: 很长的指甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/very_long_fingernails.html
-  thick beard:
-    name: thick beard
-    wikiURL: https://danbooru.donmai.us/wiki_pages/thick_beard.html
   index fingers together:
     name: 食指并拢
     wikiURL: https://danbooru.donmai.us/wiki_pages/index_fingers_together.html
@@ -1762,9 +1613,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/lizard_tail.html
     alias:
     - salamander tail
-  bird on shoulder:
-    name: 肩上的鸟
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bird_on_shoulder.html
   crystal wings:
     name: 水晶翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/crystal_wings.html
@@ -1789,9 +1637,6 @@ content:
   spiked tail:
     name: 带刺的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_tail.html
-  sword over shoulder:
-    name: 靠在肩上的剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_over_shoulder.html
   wheelchair:
     name: 轮椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/wheelchair.html
@@ -1801,9 +1646,6 @@ content:
   heart facial mark:
     name: 心形面部标记
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_facial_mark.html
-  year of the dragon:
-    name: 龙年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_dragon.html
   body hair:
     name: 体毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/body_hair.html
@@ -1822,7 +1664,7 @@ content:
     name: 向日葵发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunflower_hair_ornament.html
   hair in own mouth:
-    name: hair in own mouth
+    name: 头发在自己嘴里
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_in_own_mouth.html
   brown corset:
     name: 棕色紧身胸衣
@@ -1830,9 +1672,6 @@ content:
   in the face:
     name: 有某物冲到脸上
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_the_face.html
-  spear the gungnir:
-    name: 神枪朗基努斯
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spear_the_gungnir.html
   orange skin:
     name: 橙皮
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_skin.html
@@ -1848,9 +1687,6 @@ content:
   multiple drawing challenge:
     name: 多图挑战
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_drawing_challenge.html
-  multicolored footwear:
-    name: 多彩多姿的鞋子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_footwear.html
   pearl bracelet:
     name: 珍珠手链
     wikiURL: https://danbooru.donmai.us/wiki_pages/pearl_bracelet.html
@@ -1870,7 +1706,7 @@ content:
     - weighing scales
     - weight scale
   grabbing another's arm:
-    name: grabbing another's arm
+    name: 抓住别人的手臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_arm.html
   jaguar ears:
     name: 美洲豹耳朵
@@ -1906,7 +1742,7 @@ content:
     name: 粉红色的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_tail.html
   sweaty armpits:
-    name: sweaty armpits
+    name: 腋下出汗
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweaty_armpits.html
   grey tail:
     name: 灰尾巴
@@ -1914,9 +1750,6 @@ content:
   no eyebrows:
     name: 没有眉毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_eyebrows.html
-  bear print:
-    name: 熊印花
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_print.html
   pokemon on shoulder:
     name: 肩上的口袋妖怪
     wikiURL: https://danbooru.donmai.us/wiki_pages/pokemon_on_shoulder.html
@@ -1924,7 +1757,7 @@ content:
     name: 透明的翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/transparent_wings.html
   colored inner animal ears:
-    name: colored inner animal ears
+    name: 彩色动物内耳
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_inner_animal_ears.html
   yellow tail:
     name: 黄尾巴
@@ -1950,9 +1783,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/ear_wiggle.html
     alias:
     - ear twitch
-  brown sleeves:
-    name: 棕色袖子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_sleeves.html
   tail grab:
     name: 抓着尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_grab.html
@@ -1961,15 +1791,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_legwear.html
     alias:
     - animal band legwear
-  winged footwear:
-    name: 带翅膀的鞋子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/winged_footwear.html
-    alias:
-    - winged boots
-    - winged shoes
-  fur-trimmed footwear:
-    name: 毛皮边饰鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_footwear.html
   earth (ornament):
     name: 土（饰品）
     wikiURL: https://danbooru.donmai.us/wiki_pages/earth_(ornament).html
@@ -1982,16 +1803,11 @@ content:
   strawberry hair ornament:
     name: 草莓发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/strawberry_hair_ornament.html
-  aqua footwear:
-    name: 水上运动鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_footwear.html
-    alias:
-    - aqua shoes
   prehensile tail:
     name: 抓握的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/prehensile_tail.html
   red hands:
-    name: red hands
+    name: 红手
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_hands.html
   gradient legwear:
     name: 渐变色袜子
@@ -2042,9 +1858,6 @@ content:
   two-tone hairband:
     name: 双色发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_hairband.html
-  drawing sword:
-    name: 拔剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/drawing_sword.html
   polka dot headwear:
     name: 圆点帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_headwear.html
@@ -2062,12 +1875,6 @@ content:
   brushing another's hair:
     name: 梳别人的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/brushing_another's_hair.html
-  gold footwear:
-    name: 金鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_footwear.html
-  heart maebari:
-    name: 心前张
-    wikiURL: https://danbooru.donmai.us/wiki_pages/heart_maebari.html
   black armband:
     name: 黑色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_armband.html
@@ -2082,11 +1889,8 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_wings.html
     alias:
     - gray wings
-  cardigan around waist:
-    name: 腰部开衫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cardigan_around_waist.html
   sparse chest hair:
-    name: sparse chest hair
+    name: 胸毛稀疏
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparse_chest_hair.html
   brown nails:
     name: 棕色指甲
@@ -2116,14 +1920,11 @@ content:
   hands on own stomach:
     name: 双手放在自己的肚子上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_own_stomach.html
-  cat ear hairband:
-    name: 猫耳发箍
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_ear_hairband.html
   folding chair:
     name: 折叠椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/folding_chair.html
   streetwear:
-    name: streetwear
+    name: 街头服饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/streetwear.html
     alias:
     - urban style
@@ -2136,21 +1937,15 @@ content:
   orange tail:
     name: 橙色的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tail.html
-  brown leotard:
-    name: 棕色紧身衣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_leotard.html
   short sidetail:
     name: 短侧尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/short_sidetail.html
   multiple hairpins:
-    name: multiple hairpins
+    name: 多个发夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_hairpins.html
   tail around own leg:
-    name: tail around own leg
+    name: 尾巴绕着自己的腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_around_own_leg.html
-  bear boy:
-    name: 熊孩子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_boy.html
   heart-shaped lock:
     name: 心形锁
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart-shaped_lock.html
@@ -2160,7 +1955,7 @@ content:
     alias:
     - stoat ears
   heart in heart hands:
-    name: heart in heart hands
+    name: 心在心手
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_in_heart_hands.html
   arms between legs:
     name: 双臂夹在两腿之间
@@ -2220,7 +2015,7 @@ content:
     name: 替代肌肉大小
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_muscle_size.html
   partially shaded face:
-    name: partially shaded face
+    name: 部分阴影的脸
     wikiURL: https://danbooru.donmai.us/wiki_pages/partially_shaded_face.html
   pursed lips:
     name: 噘起嘴唇
@@ -2248,7 +2043,7 @@ content:
     alias:
     - big ears
   child's drawing:
-    name: child's drawing
+    name: 儿童画
     wikiURL: https://danbooru.donmai.us/wiki_pages/child's_drawing.html
     alias:
     - child drawing
@@ -2262,7 +2057,7 @@ content:
     name: 晴朗的天空
     wikiURL: https://danbooru.donmai.us/wiki_pages/clear_sky.html
   chinese hairpin:
-    name: chinese hairpin
+    name: 中国发夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_hairpin.html
   single shoulder pad:
     name: 单肩垫
@@ -2270,9 +2065,6 @@ content:
   high-waist pantyhose:
     name: 高腰连裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/high-waist_pantyhose.html
-  shoulder cannon:
-    name: 肩炮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_cannon.html
   green armband:
     name: 绿色臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_armband.html
@@ -2318,16 +2110,11 @@ content:
     alias:
     - glaive
   black scales:
-    name: black scales
+    name: 黑色鳞片
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_scales.html
   owl ears:
     name: 猫头鹰耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/owl_ears.html
-  cat ear legwear:
-    name: 猫带紧身裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_ear_legwear.html
-    alias:
-    - cat band legwear
   gaming chair:
     name: 游戏椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/gaming_chair.html
@@ -2337,7 +2124,7 @@ content:
     name: 尖头发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_hairband.html
   biting ear:
-    name: biting ear
+    name: 咬耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_ear.html
     alias:
     - ear bite
@@ -2359,9 +2146,6 @@ content:
   official alternate hair color:
     name: 官方备用发色
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_alternate_hair_color.html
-  animal slippers:
-    name: 动物拖鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/animal_slippers.html
   pearl hair ornament:
     name: 珍珠发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/pearl_hair_ornament.html
@@ -2385,9 +2169,6 @@ content:
   detached hair:
     name: 头发脱落
     wikiURL: https://danbooru.donmai.us/wiki_pages/detached_hair.html
-  facebook username:
-    name: 脸书用户名
-    wikiURL: https://danbooru.donmai.us/wiki_pages/facebook_username.html
   swinging:
     name: 摆动
     wikiURL: https://danbooru.donmai.us/wiki_pages/swinging.html
@@ -2423,7 +2204,7 @@ content:
     name: 黑色眼影
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_eyeshadow.html
   ring hair extensions:
-    name: ring hair extensions
+    name: 环接发
     wikiURL: https://danbooru.donmai.us/wiki_pages/ring_hair_extensions.html
   wavy eyes:
     name: 波浪形的眼睛
@@ -2452,9 +2233,6 @@ content:
   animal on arm:
     name: 手臂上的动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_on_arm.html
-  year of the rat:
-    name: 鼠年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_rat.html
   pink horns:
     name: 粉红色的角
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_horns.html
@@ -2462,7 +2240,7 @@ content:
     name: 羊驼耳
     wikiURL: https://danbooru.donmai.us/wiki_pages/alpaca_ears.html
   animal ear hood:
-    name: animal ear hood
+    name: 动物耳罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/animal_ear_hood.html
   arm on knee:
     name: 手臂放在膝盖上
@@ -2490,7 +2268,7 @@ content:
     alias:
     - seashell hair ornament
   hand on own ear:
-    name: hand on own ear
+    name: 手放在自己的耳朵上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_own_ear.html
     alias:
     - touching own ear
@@ -2504,14 +2282,11 @@ content:
     name: 水绿色发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_hairband.html
   kishimen hair:
-    name: kishimen hair
+    name: 岸边头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/kishimen_hair.html
   bear tail:
     name: 熊尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/bear_tail.html
-  very long beard:
-    name: 很长的胡子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/very_long_beard.html
   index fingers raised:
     name: 食指举起
     wikiURL: https://danbooru.donmai.us/wiki_pages/index_fingers_raised.html
@@ -2529,15 +2304,9 @@ content:
   extra faces:
     name: 多余的面孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/extra_faces.html
-  brown bra:
-    name: 棕色文胸
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_bra.html
   fluffy hair:
-    name: fluffy hair
+    name: 蓬松的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/fluffy_hair.html
-  eastern dragon horns:
-    name: eastern dragon horns
-    wikiURL: https://danbooru.donmai.us/wiki_pages/eastern_dragon_horns.html
   heart (organ):
     name: 心脏（器官）
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_(organ).html
@@ -2553,7 +2322,7 @@ content:
     alias:
     - stuffed alicorn
   self-harm:
-    name: self-harm
+    name: 自残
     wikiURL: https://danbooru.donmai.us/wiki_pages/self-harm.html
     alias:
     - self harm
@@ -2567,14 +2336,11 @@ content:
   arm cutout:
     name: 手臂切口
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_cutout.html
-  polar bear:
-    name: 北极熊
-    wikiURL: https://danbooru.donmai.us/wiki_pages/polar_bear.html
   wing brooch:
     name: 翅膀胸针
     wikiURL: https://danbooru.donmai.us/wiki_pages/wing_brooch.html
   ear birthmark:
-    name: ear birthmark
+    name: 耳朵胎记
     wikiURL: https://danbooru.donmai.us/wiki_pages/ear_birthmark.html
   otter ears:
     name: 水獭耳朵
@@ -2648,7 +2414,7 @@ content:
     name: 可以看到耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/ears_visible_through_hair.html
   thick chest hair:
-    name: thick chest hair
+    name: 厚厚的胸毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_chest_hair.html
   shoulder blush:
     name: 肩部腮红
@@ -2674,9 +2440,6 @@ content:
   covering another's eyes:
     name: 遮住别人的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/covering_another's_eyes.html
-  cat on shoulder:
-    name: 肩上的猫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_on_shoulder.html
   bandaged fingers:
     name: 包扎手指
     wikiURL: https://danbooru.donmai.us/wiki_pages/bandaged_fingers.html
@@ -2707,15 +2470,15 @@ content:
     name: 闪电发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/lightning_bolt_hair_ornament.html
   arm on another's shoulder:
-    name: arm on another's shoulder
+    name: 手臂搭在别人的肩膀上
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_on_another's_shoulder.html
     alias:
     - arm on shoulder
   mark under both eyes:
-    name: mark under both eyes
+    name: 双眼下方做记号
     wikiURL: https://danbooru.donmai.us/wiki_pages/mark_under_both_eyes.html
   winged heart tattoo:
-    name: winged heart tattoo
+    name: 带翅膀的心纹身
     wikiURL: https://danbooru.donmai.us/wiki_pages/winged_heart_tattoo.html
   forked tail:
     name: 分叉的尾巴
@@ -2772,7 +2535,7 @@ content:
     name: 缝纫
     wikiURL: https://danbooru.donmai.us/wiki_pages/sewing.html
   unworn hair ornament:
-    name: unworn hair ornament
+    name: 未佩戴的发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hair_ornament.html
     alias:
     - hair ornament removed
@@ -2800,9 +2563,6 @@ content:
   starfish hair ornament:
     name: 海星发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/starfish_hair_ornament.html
-  bear hood:
-    name: 熊罩
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_hood.html
   sparkle hair ornament:
     name: 闪光发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparkle_hair_ornament.html
@@ -2813,7 +2573,7 @@ content:
     name: 低胸袖笼
     wikiURL: https://danbooru.donmai.us/wiki_pages/low-cut_armhole.html
   pink arm warmers:
-    name: pink arm warmers
+    name: 粉色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_arm_warmers.html
   hole on body:
     name: 身体上的洞
@@ -2833,7 +2593,7 @@ content:
     - face on floor
     - face on ground
   single ear down:
-    name: single ear down
+    name: 单耳朝下
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_ear_down.html
     alias:
     - ear down
@@ -2856,7 +2616,7 @@ content:
     - fire tail
     - flaming tail
   self-harm scar:
-    name: self-harm scar
+    name: 自残伤疤
     wikiURL: https://danbooru.donmai.us/wiki_pages/self-harm_scar.html
   glowing hand:
     name: 发光的手
@@ -2884,13 +2644,13 @@ content:
     name: 肩甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_plates.html
   armpit hair peek:
-    name: armpit hair peek
+    name: 腋毛窥视
     wikiURL: https://danbooru.donmai.us/wiki_pages/armpit_hair_peek.html
   single head wing:
     name: 单侧头上有翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_head_wing.html
   fanged bangs:
-    name: fanged bangs
+    name: 尖牙刘海
     wikiURL: https://danbooru.donmai.us/wiki_pages/fanged_bangs.html
   wing ears:
     name: 翼耳
@@ -2922,19 +2682,19 @@ content:
     name: 手臂举过头顶
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_over_head.html
   eastern dragon tail:
-    name: eastern dragon tail
+    name: 东方龙尾
     wikiURL: https://danbooru.donmai.us/wiki_pages/eastern_dragon_tail.html
   thick arm hair:
-    name: thick arm hair
+    name: 浓密的手臂毛发
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_arm_hair.html
   knives between fingers:
     name: 指间刀
     wikiURL: https://danbooru.donmai.us/wiki_pages/knives_between_fingers.html
   dragon ears:
-    name: dragon ears
+    name: 龙耳
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_ears.html
   character charm:
-    name: character charm
+    name: 人物魅力
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_charm.html
     alias:
     - character keychain
@@ -2959,13 +2719,13 @@ content:
     alias:
     - brown jabot
   black leg warmers:
-    name: black leg warmers
+    name: 黑色暖腿套
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_leg_warmers.html
   spiked ear piercing:
     name: 尖刺耳洞
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_ear_piercing.html
   black arm warmers:
-    name: black arm warmers
+    name: 黑色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_arm_warmers.html
   spade hair ornament:
     name: 铲形发饰
@@ -2982,28 +2742,17 @@ content:
   shoulder guard:
     name: 护肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_guard.html
-  bird on arm:
-    name: 手臂上的鸟
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bird_on_arm.html
   orange horns:
     name: 橙色角
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_horns.html
-  bishamonten's spear:
-    name: 毘沙门天之矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bishamonten's_spear.html
   tickling feet:
-    name: tickling feet
+    name: 脚痒痒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_feet.html
     alias:
     - foot tickling
   umbrella over shoulder:
-    name: umbrella over shoulder
+    name: 肩上撑伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/umbrella_over_shoulder.html
-  unworn footwear:
-    name: unworn footwear
-    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_footwear.html
-    alias:
-    - footwear removed
   veiny hands:
     name: 静脉手
     wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_hands.html
@@ -3016,21 +2765,21 @@ content:
     alias:
     - sewing needles
   thick navel hair:
-    name: thick navel hair
+    name: 浓密的肚脐毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_navel_hair.html
   tickling armpits:
-    name: tickling armpits
+    name: 腋窝发痒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_armpits.html
     alias:
     - armpit tickling
   grabbing another's ear:
-    name: grabbing another's ear
+    name: 抓住别人的耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_ear.html
     alias:
     - ear grab
     - ear pull
   gold armlet:
-    name: gold armlet
+    name: 金臂章
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_armlet.html
   slim legs:
     name: 修长的腿
@@ -3045,7 +2794,7 @@ content:
     name: 双手放在自己的腿上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_own_legs.html
   covering own ears:
-    name: covering own ears
+    name: 捂住自己的耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/covering_own_ears.html
   suspenders slip:
     name: 吊带衬裙
@@ -3060,23 +2809,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/gae_dearg_(fate).html
     alias:
     - gae dearg
-  year of the pig:
-    name: 猪年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_pig.html
-    alias:
-    - year of the boar
-  stirrup footwear:
-    name: 马镫鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stirrup_footwear.html
   two-tone wings:
     name: 双色翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_wings.html
-  year of the dog:
-    name: 狗年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_dog.html
-  facebook logo:
-    name: 脸书标志
-    wikiURL: https://danbooru.donmai.us/wiki_pages/facebook_logo.html
   letter hair ornament:
     name: 字母发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/letter_hair_ornament.html
@@ -3084,7 +2819,7 @@ content:
     name: 水獭尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/otter_tail.html
   snow leopard tail:
-    name: snow leopard tail
+    name: 雪豹尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/snow_leopard_tail.html
   heart-shaped gem:
     name: 心形宝石
@@ -3096,22 +2831,17 @@ content:
     name: 长角
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_horns.html
   sparse navel hair:
-    name: sparse navel hair
+    name: 稀疏的脐毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparse_navel_hair.html
   moose ears:
     name: 驼鹿耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/moose_ears.html
   snow leopard ears:
-    name: snow leopard ears
+    name: 雪豹耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/snow_leopard_ears.html
   twintails day:
     name: 双马尾节
     wikiURL: https://danbooru.donmai.us/wiki_pages/twintails_day.html
-  balance scale:
-    name: 天平
-    wikiURL: https://danbooru.donmai.us/wiki_pages/balance_scale.html
-    alias:
-    - balance scales
   no hair ornament:
     name: 没有发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_hair_ornament.html
@@ -3136,7 +2866,7 @@ content:
     name: 手指到脸颊
     wikiURL: https://danbooru.donmai.us/wiki_pages/fingers_to_cheeks.html
   empire waist:
-    name: empire waist
+    name: 帝国腰
     wikiURL: https://danbooru.donmai.us/wiki_pages/empire_waist.html
   hands on own chin:
     name: 双手托着自己的下巴
@@ -3154,7 +2884,7 @@ content:
     name: 爪足浴缸
     wikiURL: https://danbooru.donmai.us/wiki_pages/claw_foot_bathtub.html
   checkered hairband:
-    name: checkered hairband
+    name: 格子发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_hairband.html
   fur-tipped tail:
     name: 毛尖的尾巴
@@ -3176,14 +2906,11 @@ content:
     alias:
     - wideface
   large horns:
-    name: large horns
+    name: 大角
     wikiURL: https://danbooru.donmai.us/wiki_pages/large_horns.html
   asymmetrical arms:
     name: 手臂不对称
     wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_arms.html
-  print footwear:
-    name: 印花鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/print_footwear.html
   peacock feathers:
     name: 孔雀羽毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/peacock_feathers.html
@@ -3191,7 +2918,7 @@ content:
     name: 超大的前臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_forearms.html
   horn hairband:
-    name: horn hairband
+    name: 牛角发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/horn_hairband.html
   heart-shaped buckle:
     name: 心扣
@@ -3202,7 +2929,7 @@ content:
     name: 把手放在别人的背上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_another's_back.html
   sparse arm hair:
-    name: sparse arm hair
+    name: 手臂毛发稀疏
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparse_arm_hair.html
   scorpion tail:
     name: 蝎尾
@@ -3211,7 +2938,7 @@ content:
     name: 棕色羽毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_feathers.html
   scar on shoulder:
-    name: scar on shoulder
+    name: 肩膀上有疤痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_shoulder.html
   feet on chair:
     name: 椅子上的脚
@@ -3224,9 +2951,6 @@ content:
   fanning face:
     name: 扇面
     wikiURL: https://danbooru.donmai.us/wiki_pages/fanning_face.html
-  load bearing equipment:
-    name: 承重设备
-    wikiURL: https://danbooru.donmai.us/wiki_pages/load_bearing_equipment.html
   spread navel:
     name: 传播肚脐
     wikiURL: https://danbooru.donmai.us/wiki_pages/spread_navel.html
@@ -3242,7 +2966,7 @@ content:
     name: 发型开关
     wikiURL: https://danbooru.donmai.us/wiki_pages/hairstyle_switch.html
   white arm warmers:
-    name: white arm warmers
+    name: 白色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_arm_warmers.html
   face punch:
     name: 打脸 打脸
@@ -3257,18 +2981,15 @@ content:
     name: 格纹裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_legwear.html
   gem hair ornament:
-    name: gem hair ornament
+    name: 宝石发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/gem_hair_ornament.html
   heart hands failure:
     name: 心手竖起大拇指二人组
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_hands_failure.html
     alias:
     - heart hand thumb up duo
-  creature on shoulder:
-    name: 肩膀上的生物
-    wikiURL: https://danbooru.donmai.us/wiki_pages/creature_on_shoulder.html
   floating neckwear:
-    name: floating neckwear
+    name: 浮动领带
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_neckwear.html
     alias:
     - floating bowtie
@@ -3319,7 +3040,7 @@ content:
     alias:
     - tail lift
   sparse leg hair:
-    name: sparse leg hair
+    name: 腿毛稀疏
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparse_leg_hair.html
   goat tail:
     name: 山羊尾巴
@@ -3337,11 +3058,8 @@ content:
     name: 玻璃鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/glass_slipper.html
   judgement armband (toaru):
-    name: judgement armband (toaru)
+    name: 审判臂章（toaru）
     wikiURL: https://danbooru.donmai.us/wiki_pages/judgement_armband_(toaru).html
-  year of the rooster:
-    name: 鸡年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_rooster.html
   brushing own hair:
     name: 梳理自己的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/brushing_own_hair.html
@@ -3365,11 +3083,6 @@ content:
   long eyebrows:
     name: 长眉毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_eyebrows.html
-  footwear flower:
-    name: footwear flower
-    wikiURL: https://danbooru.donmai.us/wiki_pages/footwear_flower.html
-    alias:
-    - shoe flower
   dog hair ornament:
     name: 狗毛饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/dog_hair_ornament.html
@@ -3377,7 +3090,7 @@ content:
     name: 背后的长柄武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/polearm_behind_back.html
   arm on own head:
-    name: arm on own head
+    name: 手臂放在自己的头上
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_on_own_head.html
     alias:
     - arm on head
@@ -3388,7 +3101,7 @@ content:
     name: 蕾丝边饰头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_headwear.html
   very hairy:
-    name: very hairy
+    name: 非常毛茸茸的
     wikiURL: https://danbooru.donmai.us/wiki_pages/very_hairy.html
   arrow in body:
     name: 身体中的箭头
@@ -3409,13 +3122,13 @@ content:
     name: 宽阔的肩膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/broad_shoulders.html
   shoulder peek:
-    name: shoulder peek
+    name: 肩部窥视
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_peek.html
   biting own finger:
-    name: biting own finger
+    name: 咬自己的手指
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_own_finger.html
   winged halo:
-    name: winged halo
+    name: 有翼光环
     wikiURL: https://danbooru.donmai.us/wiki_pages/winged_halo.html
   swallowing:
     name: 吞咽
@@ -3472,10 +3185,10 @@ content:
     name: 南瓜灯发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/jack-o'-lantern_hair_ornament.html
   lipstick mark on face:
-    name: lipstick mark on face
+    name: 脸上有口红印
     wikiURL: https://danbooru.donmai.us/wiki_pages/lipstick_mark_on_face.html
   unworn hairband:
-    name: unworn hairband
+    name: 未佩戴的发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hairband.html
     alias:
     - hairband removed
@@ -3485,9 +3198,6 @@ content:
   x arms:
     name: 臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/x_arms.html
-  adjusting footwear:
-    name: 调整鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_footwear.html
   paint on body:
     name: 涂在身体上
     wikiURL: https://danbooru.donmai.us/wiki_pages/paint_on_body.html
@@ -3527,9 +3237,6 @@ content:
   cocktail shaker:
     name: 调酒器
     wikiURL: https://danbooru.donmai.us/wiki_pages/cocktail_shaker.html
-  spiked footwear:
-    name: 钉鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_footwear.html
   hands on floor:
     name: 手放在地板上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_floor.html
@@ -3549,14 +3256,8 @@ content:
     name: 涂口红
     wikiURL: https://danbooru.donmai.us/wiki_pages/smeared_lipstick.html
   electric plug tail:
-    name: electric plug tail
+    name: 电插头尾部
     wikiURL: https://danbooru.donmai.us/wiki_pages/electric_plug_tail.html
-  brown cat:
-    name: 棕猫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_cat.html
-  uneven footwear:
-    name: 不对称鞋履
-    wikiURL: https://danbooru.donmai.us/wiki_pages/uneven_footwear.html
   chipmunk tail:
     name: 花栗鼠尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/chipmunk_tail.html
@@ -3596,7 +3297,7 @@ content:
     name: 橙色的翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_wings.html
   purple arm warmers:
-    name: purple arm warmers
+    name: 紫色暖臂器
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_arm_warmers.html
   pokemon tail:
     name: 宠物小精灵的尾巴
@@ -3611,7 +3312,7 @@ content:
     name: anya 的 heh 脸（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/anya's_heh_face_(meme).html
   tree horns:
-    name: tree horns
+    name: 树角
     wikiURL: https://danbooru.donmai.us/wiki_pages/tree_horns.html
   brown hakama:
     name: 棕色袴
@@ -3629,36 +3330,36 @@ content:
     name: 断臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/severed_arm.html
   scar on tail:
-    name: scar on tail
+    name: 尾巴上的疤痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_tail.html
   tall hair:
-    name: tall hair
+    name: 高头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/tall_hair.html
   wireless earphones:
     name: 无线耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/wireless_earphones.html
   thick leg hair:
-    name: thick leg hair
+    name: 腿毛粗
     wikiURL: https://danbooru.donmai.us/wiki_pages/thick_leg_hair.html
   heart wand:
     name: 心形魔杖
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_wand.html
   unworn legwear:
-    name: unworn legwear
+    name: 未穿过的裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_legwear.html
     alias:
     - legwear removed
   flower hairpin:
-    name: flower hairpin
+    name: 花发夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_hairpin.html
   ofuda between fingers:
-    name: ofuda between fingers
+    name: 手指之间的奥夫达
     wikiURL: https://danbooru.donmai.us/wiki_pages/ofuda_between_fingers.html
   head on arm:
     name: 头靠在胳膊上
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_on_arm.html
   floating hair ornament:
-    name: floating hair ornament
+    name: 漂浮发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_hair_ornament.html
   moth wings:
     name: 飞蛾的翅膀
@@ -3683,11 +3384,8 @@ content:
   underwear writing:
     name: 内衣写作
     wikiURL: https://danbooru.donmai.us/wiki_pages/underwear_writing.html
-  arm shield:
-    name: 臂盾
-    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_shield.html
   ponytail with braided base:
-    name: ponytail with braided base
+    name: 辫子马尾辫
     wikiURL: https://danbooru.donmai.us/wiki_pages/ponytail_with_braided_base.html
   body pillow:
     name: 抱枕
@@ -3710,7 +3408,7 @@ content:
     name: 手臂枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_pillow.html
   hand hair:
-    name: hand hair
+    name: 手毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_hair.html
     alias:
     - hairy hands
@@ -3735,11 +3433,6 @@ content:
   single bare arm:
     name: 单裸臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_bare_arm.html
-  unworn slippers:
-    name: unworn slippers
-    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_slippers.html
-    alias:
-    - slippers removed
   face grab:
     name: 抓脸
     wikiURL: https://danbooru.donmai.us/wiki_pages/face_grab.html
@@ -3756,7 +3449,7 @@ content:
     name: 耳机被取下
     wikiURL: https://danbooru.donmai.us/wiki_pages/earphones_removed.html
   drawing (action):
-    name: drawing (action)
+    name: 绘画（动作）
     wikiURL: https://danbooru.donmai.us/wiki_pages/drawing_(action).html
   whale tail (clothing):
     name: 鲸尾巴
@@ -3778,7 +3471,7 @@ content:
     alias:
     - yellow lipstick
   two-tone horns:
-    name: two-tone horns
+    name: 双音号角
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_horns.html
   headwear with attached mittens:
     name: 带连指手套的头饰
@@ -3792,7 +3485,7 @@ content:
     name: 单耳机取下
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_earphone_removed.html
   forward facing horns:
-    name: forward facing horns
+    name: 向前的喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/forward_facing_horns.html
   orange eyeshadow:
     name: 橙色眼影
@@ -3807,7 +3500,7 @@ content:
     name: 黄牙
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_teeth.html
   fake claws:
-    name: fake claws
+    name: 假爪子
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_claws.html
   horn (instrument):
     name: 号角（乐器）
@@ -3818,9 +3511,6 @@ content:
   beaver ears:
     name: 海狸耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/beaver_ears.html
-  shiny footwear:
-    name: 闪亮的鞋子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shiny_footwear.html
   alpaca tail:
     name: 羊驼尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/alpaca_tail.html
@@ -3838,9 +3528,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/ankle_wings.html
     alias:
     - foot wings
-  bunny slippers:
-    name: 兔子拖鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bunny_slippers.html
   adjusting another's hair:
     name: 调整别人的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_another's_hair.html
@@ -3968,15 +3655,9 @@ content:
   yellow tulip:
     name: 黄色郁金香
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_tulip.html
-  frilled footwear:
-    name: 褶边鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_footwear.html
   brown overalls:
     name: 棕色工作服
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_overalls.html
-  fake beard:
-    name: 假胡子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fake_beard.html
   lemon hair ornament:
     name: 柠檬发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/lemon_hair_ornament.html
@@ -4012,12 +3693,6 @@ content:
   ox ears:
     name: 牛耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/ox_ears.html
-  alternate footwear:
-    name: 替代鞋类
-    wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_footwear.html
-  silver footwear:
-    name: 银鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_footwear.html
   hands on another's shoulder:
     name: 把手放在另一个人的肩膀上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_on_another's_shoulder.html
@@ -4083,15 +3758,6 @@ content:
   tapir ears:
     name: 貘的耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/tapir_ears.html
-  tying footwear:
-    name: 系鞋带 系鞋带
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tying_footwear.html
-    alias:
-    - tying boots
-    - tying shoes
-  primordial jade winged-spear (genshin impact):
-    name: 和璞鸢（原神长柄武器）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/primordial_jade_winged-spear_(genshin_impact).html
   neck warmer:
     name: 颈部保暖器
     wikiURL: https://danbooru.donmai.us/wiki_pages/neck_warmer.html
@@ -4155,18 +3821,12 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/putting_on_headwear.html
     alias:
     - putting on hat
-  bra slip:
-    name: 文胸滑落
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bra_slip.html
   heart-shaped bag:
     name: 心形包
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart-shaped_bag.html
   hanging legs:
     name: 吊腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanging_legs.html
-  braided beard:
-    name: 辫子胡须
-    wikiURL: https://danbooru.donmai.us/wiki_pages/braided_beard.html
   belly-to-belly:
     name: 腹部到腹部 胃到胃
     wikiURL: https://danbooru.donmai.us/wiki_pages/belly-to-belly.html
@@ -4338,9 +3998,6 @@ content:
   rocking chair:
     name: 摇椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/rocking_chair.html
-  muscle car:
-    name: 肌肉车
-    wikiURL: https://danbooru.donmai.us/wiki_pages/muscle_car.html
   veiny thighs:
     name: 静脉大腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_thighs.html
@@ -4386,16 +4043,13 @@ content:
     name: 胸口口红印
     wikiURL: https://danbooru.donmai.us/wiki_pages/lipstick_mark_on_breast.html
   browning m2:
-    name: m2hb
+    name: 布朗宁米2
     wikiURL: https://danbooru.donmai.us/wiki_pages/browning_m2.html
     alias:
     - m2hb
   phone with ears:
     name: 有耳朵的电话
     wikiURL: https://danbooru.donmai.us/wiki_pages/phone_with_ears.html
-  off-shoulder leotard:
-    name: 露肩紧身衣
-    wikiURL: https://danbooru.donmai.us/wiki_pages/off-shoulder_leotard.html
   smelling hair:
     name: 闻头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/smelling_hair.html
@@ -4506,9 +4160,6 @@ content:
   extra tails:
     name: 额外的尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/extra_tails.html
-  zipper footwear:
-    name: 拉链鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_footwear.html
   eyes of grima:
     name: 格里玛之眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/eyes_of_grima.html
@@ -4543,9 +4194,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/winged_unicorn.html
     alias:
     - alicorn
-  year of the monkey:
-    name: 猴年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_monkey.html
   anteater tail:
     name: 食蚁兽尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/anteater_tail.html
@@ -4611,9 +4259,6 @@ content:
   snowman hair ornament:
     name: 雪人发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/snowman_hair_ornament.html
-  feathered dragon:
-    name: 羽毛龙
-    wikiURL: https://danbooru.donmai.us/wiki_pages/feathered_dragon.html
   unibrow:
     name: 一字眉
     wikiURL: https://danbooru.donmai.us/wiki_pages/unibrow.html
@@ -4641,9 +4286,6 @@ content:
   heart-shaped mouth:
     name: 心形嘴巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart-shaped_mouth.html
-  bear bag:
-    name: 熊包
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_bag.html
   polka dot hair:
     name: 波点头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_hair.html
@@ -4685,23 +4327,12 @@ content:
   hair undone:
     name: 头发松散
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_undone.html
-  year of the goat:
-    name: 羊年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_goat.html
-    alias:
-    - year of the sheep
-  airplane wing:
-    name: 机翼
-    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane_wing.html
   giraffe tail:
     name: 长颈鹿尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/giraffe_tail.html
   coral hair ornament:
     name: 珊瑚发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/coral_hair_ornament.html
-  brown sports bra:
-    name: 棕色运动文胸
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_sports_bra.html
   winged animal:
     name: 有翅膀的动物
     wikiURL: https://danbooru.donmai.us/wiki_pages/winged_animal.html
@@ -4816,9 +4447,6 @@ content:
   creepy eyes:
     name: 令人毛骨悚然的眼睛
     wikiURL: https://danbooru.donmai.us/wiki_pages/creepy_eyes.html
-  long-tailed tit:
-    name: 长尾山雀
-    wikiURL: https://danbooru.donmai.us/wiki_pages/long-tailed_tit.html
   finger cots:
     name: 指套
     wikiURL: https://danbooru.donmai.us/wiki_pages/finger_cots.html
@@ -4889,9 +4517,6 @@ content:
   spiral-only eyes:
     name: 螺旋眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiral-only_eyes.html
-  javelin (spear):
-    name: 标枪（矛）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/javelin_(spear).html
   arm mounted weapon:
     name: 臂装武器
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_mounted_weapon.html
@@ -4921,9 +4546,6 @@ content:
   blowing in ear:
     name: 在耳边吹
     wikiURL: https://danbooru.donmai.us/wiki_pages/blowing_in_ear.html
-  cat slippers:
-    name: 猫拖鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_slippers.html
   pearl clan outfit:
     name: 珍珠氏族装
     wikiURL: https://danbooru.donmai.us/wiki_pages/pearl_clan_outfit.html
@@ -4968,9 +4590,6 @@ content:
   glowing headgear:
     name: 发光头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_headgear.html
-  gummy bear:
-    name: 小熊软糖
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gummy_bear.html
   burger hair ornament:
     name: 汉堡发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/burger_hair_ornament.html
@@ -4998,9 +4617,6 @@ content:
   innertube with ears:
     name: 带耳朵的内胎
     wikiURL: https://danbooru.donmai.us/wiki_pages/innertube_with_ears.html
-  gradient footwear:
-    name: 渐变鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_footwear.html
   skunk tail:
     name: 臭鼬尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/skunk_tail.html
@@ -5188,9 +4804,6 @@ content:
   scissors hair ornament:
     name: 剪刀发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/scissors_hair_ornament.html
-  brown dog:
-    name: 棕色的狗
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_dog.html
   nuclear weapon:
     name: 原子弹核弹核弹
     wikiURL: https://danbooru.donmai.us/wiki_pages/nuclear_weapon.html
@@ -5207,11 +4820,6 @@ content:
   fan over face:
     name: 扇面
     wikiURL: https://danbooru.donmai.us/wiki_pages/fan_over_face.html
-  airplane arms:
-    name: 包子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane_arms.html
-    alias:
-    - bu-n
   boar ears:
     name: 野猪耳朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/boar_ears.html
@@ -5247,9 +4855,6 @@ content:
   severed finger:
     name: 断指
     wikiURL: https://danbooru.donmai.us/wiki_pages/severed_finger.html
-  snake armband:
-    name: 蛇臂章
-    wikiURL: https://danbooru.donmai.us/wiki_pages/snake_armband.html
   shoulder angel:
     name: 肩天使
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_angel.html
@@ -5308,9 +4913,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/doughnut_hair_ornament.html
     alias:
     - donut hair ornament
-  dragon (arms):
-    name: 龙（武器）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_(arms).html
   zebra tail:
     name: 斑马尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/zebra_tail.html
@@ -5332,9 +4934,6 @@ content:
   golden wings:
     name: 金色的翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/golden_wings.html
-  spear of cassius:
-    name: 卡修斯之矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spear_of_cassius.html
   spiked horns:
     name: 尖角
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_horns.html
@@ -5380,9 +4979,6 @@ content:
   colored armpit hair:
     name: 彩色腋毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_armpit_hair.html
-  planted spear:
-    name: 种植长矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/planted_spear.html
   full-body blush:
     name: 全身腮红
     wikiURL: https://danbooru.donmai.us/wiki_pages/full-body_blush.html
@@ -5400,15 +4996,9 @@ content:
   jellyfish hair ornament:
     name: 水母发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/jellyfish_hair_ornament.html
-  transparent footwear:
-    name: 透明鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/transparent_footwear.html
   ski gear:
     name: 滑雪装备
     wikiURL: https://danbooru.donmai.us/wiki_pages/ski_gear.html
-  energy spear:
-    name: 能量矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/energy_spear.html
   carro armato p40:
     name: 卡罗阿玛托p40
     wikiURL: https://danbooru.donmai.us/wiki_pages/carro_armato_p40.html
@@ -5469,9 +5059,6 @@ content:
   cutout below navel:
     name: 肚脐下方镂空
     wikiURL: https://danbooru.donmai.us/wiki_pages/cutout_below_navel.html
-  body modification:
-    name: 身体改造
-    wikiURL: https://danbooru.donmai.us/wiki_pages/body_modification.html
   bound feet:
     name: 小脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/bound_feet.html
@@ -5496,9 +5083,6 @@ content:
   biting arm:
     name: 咬手臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_arm.html
-  torn footwear:
-    name: 破鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_footwear.html
   brown umbrella:
     name: 棕色雨伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_umbrella.html
@@ -5552,9 +5136,6 @@ content:
   ferret tail:
     name: 雪貂尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/ferret_tail.html
-  finger cannon:
-    name: 手指炮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/finger_cannon.html
   body chain:
     name: 身体链
     wikiURL: https://danbooru.donmai.us/wiki_pages/body_chain.html
@@ -5582,9 +5163,6 @@ content:
   armlock:
     name: 臂锁
     wikiURL: https://danbooru.donmai.us/wiki_pages/armlock.html
-  polka dot footwear:
-    name: 圆点鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_footwear.html
   umbrella hair ornament:
     name: 雨伞发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/umbrella_hair_ornament.html
@@ -5642,9 +5220,6 @@ content:
   alternate horns:
     name: 备用喇叭
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_horns.html
-  horn lance:
-    name: 喇叭枪
-    wikiURL: https://danbooru.donmai.us/wiki_pages/horn_lance.html
   colored tears:
     name: 彩色的眼泪
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_tears.html
@@ -5663,9 +5238,6 @@ content:
   flower swing:
     name: 花秋千
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_swing.html
-  teddy bear hair ornament:
-    name: 泰迪熊发饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/teddy_bear_hair_ornament.html
   crab hair ornament:
     name: 螃蟹发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/crab_hair_ornament.html
@@ -5677,9 +5249,6 @@ content:
   metal gear (robot):
     name: 金属齿轮（机器人）
     wikiURL: https://danbooru.donmai.us/wiki_pages/metal_gear_(robot).html
-  winged sword:
-    name: 有翼的剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/winged_sword.html
   whisking:
     name: 搅拌
     wikiURL: https://danbooru.donmai.us/wiki_pages/whisking.html
@@ -5735,9 +5304,6 @@ content:
   onigiri hair ornament:
     name: 饭团发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/onigiri_hair_ornament.html
-  stroking beard:
-    name: 抚摸胡子
-    wikiURL: https://danbooru.donmai.us/wiki_pages/stroking_beard.html
   tail removed:
     name: 尾巴被移除
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_removed.html
@@ -5751,7 +5317,7 @@ content:
     name: 霍加皮尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/okapi_tail.html
   x-drive (symphogear):
-    name: x-drive （symphogear）
+    name: x-drive（symphogear）
     wikiURL: https://danbooru.donmai.us/wiki_pages/x-drive_(symphogear).html
   braided tail:
     name: 编织的尾巴
@@ -5774,9 +5340,6 @@ content:
   bugles on fingers:
     name: 手指上的军号
     wikiURL: https://danbooru.donmai.us/wiki_pages/bugles_on_fingers.html
-  year of the snake:
-    name: 蛇年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_snake.html
   fingers between toes:
     name: 脚趾间的手指
     wikiURL: https://danbooru.donmai.us/wiki_pages/fingers_between_toes.html
@@ -5822,9 +5385,6 @@ content:
   heart ring bottom:
     name: 心形圈底
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_ring_bottom.html
-  checkered footwear:
-    name: 方格鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_footwear.html
   finger puppet:
     name: 手指木偶
     wikiURL: https://danbooru.donmai.us/wiki_pages/finger_puppet.html
@@ -5886,9 +5446,6 @@ content:
   clothes on shoulders:
     name: 肩膀上的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothes_on_shoulders.html
-  dragon on shoulder:
-    name: 肩上的龙
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_on_shoulder.html
   marmot girl:
     name: 土拨鼠女孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/marmot_girl.html
@@ -5913,9 +5470,6 @@ content:
   headphones for animal ears:
     name: 动物耳朵的耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/headphones_for_animal_ears.html
-  bear mask:
-    name: 熊面具
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_mask.html
   crab on shoulder:
     name: 螃蟹在肩膀上
     wikiURL: https://danbooru.donmai.us/wiki_pages/crab_on_shoulder.html
@@ -6009,11 +5563,8 @@ content:
   alternate wing color:
     name: 备用机翼颜色
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_wing_color.html
-  plaid footwear:
-    name: 格子鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_footwear.html
   nine years in a coma (meme):
-    name: ii desu ka ochitsuite kiite kudasai （meme）
+    name: 昏迷九年（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nine_years_in_a_coma_(meme).html
     alias:
     - ii desu ka ochitsuite kiite kudasai (meme)
@@ -6052,18 +5603,12 @@ content:
   mole on ear:
     name: 耳朵上的痣
     wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_ear.html
-  heart bra:
-    name: 心形文胸
-    wikiURL: https://danbooru.donmai.us/wiki_pages/heart_bra.html
   chair tipping:
     name: 椅子小费
     wikiURL: https://danbooru.donmai.us/wiki_pages/chair_tipping.html
   manly tears:
     name: 男人的眼泪
     wikiURL: https://danbooru.donmai.us/wiki_pages/manly_tears.html
-  sword between thighs:
-    name: 大腿之间的剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_between_thighs.html
   faceplate:
     name: 面板
     wikiURL: https://danbooru.donmai.us/wiki_pages/faceplate.html
@@ -6140,15 +5685,9 @@ content:
   constellation hair ornament:
     name: 星座发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/constellation_hair_ornament.html
-  year of the horse:
-    name: 马年
-    wikiURL: https://danbooru.donmai.us/wiki_pages/year_of_the_horse.html
   waistband:
     name: 腰带
     wikiURL: https://danbooru.donmai.us/wiki_pages/waistband.html
-  bear slippers:
-    name: 熊拖鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_slippers.html
   no hairclip:
     name: 没有发夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_hairclip.html
@@ -6226,9 +5765,6 @@ content:
   bodyboard:
     name: 趴板
     wikiURL: https://danbooru.donmai.us/wiki_pages/bodyboard.html
-  beast spear:
-    name: 兽矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/beast_spear.html
   banana hair ornament:
     name: 香蕉发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/banana_hair_ornament.html
@@ -6290,9 +5826,6 @@ content:
   tail mouth:
     name: 尾口
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_mouth.html
-  helicopter tail:
-    name: 直升机尾翼
-    wikiURL: https://danbooru.donmai.us/wiki_pages/helicopter_tail.html
   tapping shoulder:
     name: 拍肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/tapping_shoulder.html
@@ -6336,7 +5869,7 @@ content:
     name: 备用领带
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_neckwear.html
   fabarm sat-8:
-    name: fabarm sat-8
+    name: 法巴姆卫星 8
     wikiURL: https://danbooru.donmai.us/wiki_pages/fabarm_sat-8.html
   hole in ears:
     name: 耳洞
@@ -6362,9 +5895,6 @@ content:
   hex tails:
     name: 六边形尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/hex_tails.html
-  leather footwear:
-    name: 皮鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/leather_footwear.html
   fishing gear:
     name: 捕鱼装置
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishing_gear.html
@@ -6374,23 +5904,12 @@ content:
   alpaca hair ornament:
     name: 羊驼发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/alpaca_hair_ornament.html
-  dancing pallbearers (meme):
-    name: 跳舞的抬棺人
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dancing_pallbearers_(meme).html
-    alias:
-    - dancing pallbearers
   spiked legwear:
     name: 尖刺裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_legwear.html
   dirty legwear:
     name: 脏裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/dirty_legwear.html
-  501st joint fighter wing (emblem):
-    name: 第 501 联合战斗机联队（徽章）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/501st_joint_fighter_wing_(emblem).html
-  studded footwear:
-    name: 铆钉鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/studded_footwear.html
   hair salon:
     name: 美发沙龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_salon.html
@@ -6409,9 +5928,6 @@ content:
   transparent headwear:
     name: 透明头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/transparent_headwear.html
-  drillhorn sword:
-    name: 钻角剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/drillhorn_sword.html
   washing face:
     name: 洗脸
     wikiURL: https://danbooru.donmai.us/wiki_pages/washing_face.html
@@ -6445,9 +5961,6 @@ content:
   megawatt (arms):
     name: 兆瓦（arms）
     wikiURL: https://danbooru.donmai.us/wiki_pages/megawatt_(arms).html
-  straight-laced footwear:
-    name: 直筒鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/straight-laced_footwear.html
   directional arrow hair ornament:
     name: 方向箭头发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/directional_arrow_hair_ornament.html
@@ -6457,9 +5970,6 @@ content:
   hunting horn:
     name: 狩猎的号角
     wikiURL: https://danbooru.donmai.us/wiki_pages/hunting_horn.html
-  bear head:
-    name: 熊头
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_head.html
   finger piercing:
     name: 手指穿孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/finger_piercing.html
@@ -6501,9 +6011,6 @@ content:
   diamond hands:
     name: 钻石手
     wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_hands.html
-  camouflage footwear:
-    name: 迷彩鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_footwear.html
   hand on thighs:
     name: 手放在大腿上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_thighs.html
@@ -6548,9 +6055,6 @@ content:
   boar tail:
     name: 野猪尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/boar_tail.html
-  dog slippers:
-    name: 狗拖鞋
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dog_slippers.html
   under armour:
     name: 盔甲下
     wikiURL: https://danbooru.donmai.us/wiki_pages/under_armour.html
@@ -6623,9 +6127,6 @@ content:
   glowing finger:
     name: 发光的手指
     wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_finger.html
-  aspear berry:
-    name: 芦笋浆果
-    wikiURL: https://danbooru.donmai.us/wiki_pages/aspear_berry.html
   tomato hair ornament:
     name: 番茄发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/tomato_hair_ornament.html
@@ -6644,9 +6145,6 @@ content:
   finger wrap:
     name: 手指包裹
     wikiURL: https://danbooru.donmai.us/wiki_pages/finger_wrap.html
-  spats (footwear):
-    name: 口角（鞋类）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spats_(footwear).html
   borrowing race:
     name: 借款竞赛
     wikiURL: https://danbooru.donmai.us/wiki_pages/borrowing_race.html
@@ -6664,9 +6162,6 @@ content:
   rooster tail:
     name: 公鸡尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/rooster_tail.html
-  logo hair ornament:
-    name: 标志发饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/logo_hair_ornament.html
   earth badge:
     name: 地球徽章
     wikiURL: https://danbooru.donmai.us/wiki_pages/earth_badge.html
@@ -6691,9 +6186,6 @@ content:
   intestine hair:
     name: 肠毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/intestine_hair.html
-  cat between legs:
-    name: 两腿之间的猫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_between_legs.html
   shoulder rest:
     name: 肩托
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_rest.html
@@ -6753,33 +6245,21 @@ content:
   sparky (arms):
     name: 闪亮的（手臂）
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparky_(arms).html
-  longhorn lance:
-    name: 长角牛矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/longhorn_lance.html
   makna armour:
     name: 马克纳盔甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/makna_armour.html
-  armads (fire emblem):
-    name: armads（火焰纹章）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/armads_(fire_emblem).html
   hamster tail:
     name: 仓鼠尾巴
     wikiURL: https://danbooru.donmai.us/wiki_pages/hamster_tail.html
   school wear (idolmaster):
     name: 校服（偶像大师）
     wikiURL: https://danbooru.donmai.us/wiki_pages/school_wear_(idolmaster).html
-  friulian spear:
-    name: 弗留利矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/friulian_spear.html
   crested hair:
     name: 有顶饰的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/crested_hair.html
   blackberry hair ornament:
     name: 黑莓发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/blackberry_hair_ornament.html
-  snake charmer:
-    name: 耍蛇人
-    wikiURL: https://danbooru.donmai.us/wiki_pages/snake_charmer.html
   hedge clippers:
     name: 对冲快船
     wikiURL: https://danbooru.donmai.us/wiki_pages/hedge_clippers.html
@@ -6816,15 +6296,9 @@ content:
   body parts:
     name: 身体部位
     wikiURL: https://danbooru.donmai.us/wiki_pages/body_parts.html
-  502nd joint fighter wing (emblem):
-    name: 第 502 联合战斗机联队（徽章）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/502nd_joint_fighter_wing_(emblem).html
   water in navel:
     name: 肚脐里有水
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_in_navel.html
-  broken spear:
-    name: 断矛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/broken_spear.html
   sailor beach wear (no.s project):
     name: 水手沙滩装（no.s项目）
     wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_beach_wear_(no.s_project).html

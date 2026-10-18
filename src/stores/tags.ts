@@ -49,13 +49,14 @@ export const useTagStore = defineStore('tags', {
                 let parent = hierarchy
                 for (const [i, category] of categoryList.entries()) {
                     if (i === categoryList.length - 1) {
-                        parent[category] = true
-                    } else {
-                        const newParent = parent[category] ?? {}
-                        parent[category] ||= newParent
-                        if (typeof newParent === 'object') {
-                            parent = newParent
+                        if (parent[category] === undefined || parent[category] === true) {
+                            parent[category] = true
                         }
+                    } else {
+                        if (!parent[category] || parent[category] === true) {
+                            parent[category] = {}
+                        }
+                        parent = parent[category] as CategoryHierarchy
                     }
                 }
             }

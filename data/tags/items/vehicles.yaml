@@ -229,12 +229,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/enpera.html
     alias:
     - hair in scarf
-  toon (style):
-    name: 卡通卡通
-    wikiURL: https://danbooru.donmai.us/wiki_pages/toon_(style).html
-    alias:
-    - cartoon
-    - toon
   scar on neck:
     name: 颈部疤痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_neck.html
@@ -1187,7 +1181,7 @@ content:
     name: 10式（坦克）
     wikiURL: https://danbooru.donmai.us/wiki_pages/type_10_(tank).html
   sks:
-    name: skS
+    name: SKS
     wikiURL: https://danbooru.donmai.us/wiki_pages/sks.html
     alias:
     - type 56 carbine
@@ -1775,21 +1769,12 @@ content:
   e pluribus unum (fate/grand order):
     name: e pluribus unum（命运/大秩序）
     wikiURL: https://danbooru.donmai.us/wiki_pages/e_pluribus_unum_(fate/grand_order).html
-  kero (cardcaptor sakura) (cosplay):
-    name: kero（魔卡少女樱）（cosplay）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/kero_(cardcaptor_sakura)_(cosplay).html
-  daiwa scarlet (umamusume) (cosplay):
-    name: 大和猩红 (umamusume) (cosplay)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/daiwa_scarlet_(umamusume)_(cosplay).html
   alpine (carmaker):
     name: 阿尔派（汽车制造商）
     wikiURL: https://danbooru.donmai.us/wiki_pages/alpine_(carmaker).html
   red bustier:
     name: 红色紧身胸衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_bustier.html
-  ghostbusters uniform:
-    name: 捉鬼敢死队制服
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ghostbusters_uniform.html
   scar on lip:
     name: 嘴唇上有疤痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/scar_on_lip.html
@@ -1840,3 +1825,61 @@ content:
   carrot juice:
     name: 胡萝卜汁
     wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_juice.html
+  subaru impreza:
+    name: 斯巴鲁翼豹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_impreza.html
+  mazda mx-5:
+    name: 马自达MX-5
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mazda_mx-5.html
+    alias:
+    - eunos roadster
+    - mazda miata
+  subaru wrx:
+    name: 斯巴鲁wrx
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_wrx.html
+  walker (robot):
+    name: 步行者（机器人）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/walker_(robot).html
+    alias:
+    - walker
+  muscle car:
+    name: 肌肉车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/muscle_car.html
+  airplane wing:
+    name: 机翼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane_wing.html
+  airplane arms:
+    name: 包子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/airplane_arms.html
+    alias:
+    - bu-n
+  helicopter tail:
+    name: 直升机尾翼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/helicopter_tail.html
+  armored vehicle:
+    name: 装甲车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/armored_vehicle.html
+  armored personnel carrier:
+    name: 装甲运兵车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/armored_personnel_carrier.html
+    alias:
+    - btr
+    - btr-80
+  watercraft:
+    name: 船艇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/watercraft.html
+  locomotive:
+    name: 机车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/locomotive.html
+  submarine:
+    name: 潜艇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/submarine.html
+  diesel locomotive:
+    name: 内燃机车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diesel_locomotive.html
+  electric locomotive:
+    name: 电力机车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/electric_locomotive.html
+  steam locomotive:
+    name: 蒸汽机车
+    wikiURL: https://danbooru.donmai.us/wiki_pages/steam_locomotive.html

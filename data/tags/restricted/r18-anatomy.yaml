@@ -1,63 +1,63 @@
 name: 器官部位与裸露
 category:
-- 限制级
+  - 限制级
 restricted: true
 content:
   completely nude:
     name: 完全裸露
     wikiURL: https://danbooru.donmai.us/wiki_pages/completely_nude.html
     alias:
-    - completely naked
+      - completely naked
     restricted: true
   groin:
     name: 腹股沟|耻丘
     wikiURL: https://danbooru.donmai.us/wiki_pages/groin.html
     alias:
-    - adonis belt
-    - hip lines
+      - adonis belt
+      - hip lines
     restricted: true
   erection:
     name: 勃起
     wikiURL: https://danbooru.donmai.us/wiki_pages/erection.html
     alias:
-    - erect penis
+      - erect penis
     restricted: true
   female pubic hair:
     name: 女性阴毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/female_pubic_hair.html
     alias:
-    - pubic hair (female)
+      - pubic hair (female)
     restricted: true
   male pubic hair:
     name: 男性的阴毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/male_pubic_hair.html
     alias:
-    - pubic hair (male)
+      - pubic hair (male)
     restricted: true
   clothed female nude male:
     name: 穿着衣服的女性和裸男
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_female_nude_male.html
     alias:
-    - /cfnm
-    - cfnm
-    - clothed female naked male
-    - /nmcf
-    - nmcf
+      - /cfnm
+      - cfnm
+      - clothed female naked male
+      - /nmcf
+      - nmcf
     restricted: true
   spread pussy:
     name: 掰开阴部|掰穴|掰开的阴部
     wikiURL: https://danbooru.donmai.us/wiki_pages/spread_pussy.html
     alias:
-    - open pussy
-    - pussy spread
-    - spreadpussy
-    - spread vagina
+      - open pussy
+      - pussy spread
+      - spreadpussy
+      - spread vagina
     restricted: true
   large penis:
     name: 大阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/large_penis.html
     alias:
-    - big penis
+      - big penis
     restricted: true
   veiny penis:
     name: 静脉凸起的阴茎
@@ -71,29 +71,29 @@ content:
     name: （男性）露出胸肌
     wikiURL: https://danbooru.donmai.us/wiki_pages/bare_pectorals.html
     alias:
-    - bare pecs
-    - pectorals out of clothes
+      - bare pecs
+      - pectorals out of clothes
     restricted: true
   pectoral cleavage:
     name: 胸肌沟|胸肌事业线
     wikiURL: https://danbooru.donmai.us/wiki_pages/pectoral_cleavage.html
     alias:
-    - cleavage (male)
-    - male cleavage
+      - cleavage (male)
+      - male cleavage
     restricted: true
   naked towel:
     name: 裸体且裹着毛巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_towel.html
     alias:
-    - nude towel
-    - towel wrap
+      - nude towel
+      - towel wrap
     restricted: true
   pubic tattoo:
     name: 淫纹
     wikiURL: https://danbooru.donmai.us/wiki_pages/pubic_tattoo.html
     alias:
-    - crotch tattoo
-    - womb tattoo
+      - crotch tattoo
+      - womb tattoo
     restricted: true
   spreading own pussy:
     name: 自掰小穴
@@ -103,7 +103,7 @@ content:
     name: 老二立帐篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/erection_under_clothes.html
     alias:
-    - covered erection
+      - covered erection
     restricted: true
   huge penis:
     name: 大阴茎
@@ -113,11 +113,11 @@ content:
     name: 穿着衣服的男性和裸女
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_male_nude_female.html
     alias:
-    - clothed male naked female
-    - /cmnf
-    - cmnf
-    - /nfcm
-    - nfcm
+      - clothed male naked female
+      - /cmnf
+      - cmnf
+      - /nfcm
+      - nfcm
     restricted: true
   see-through cleavage:
     name: 透明乳沟
@@ -127,14 +127,14 @@ content:
     name: 开裆的
     wikiURL: https://danbooru.donmai.us/wiki_pages/crotchless.html
     alias:
-    - crotchless clothes
-    - crotchless clothing
+      - crotchless clothes
+      - crotchless clothing
     restricted: true
   disembodied penis:
     name: 断掉的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/disembodied_penis.html
     alias:
-    - magic penis
+      - magic penis
     restricted: true
   crotch:
     name: 胯部
@@ -144,8 +144,8 @@ content:
     name: 掰开肛门
     wikiURL: https://danbooru.donmai.us/wiki_pages/spread_anus.html
     alias:
-    - anus spread
-    - anus spreading
+      - anus spread
+      - anus spreading
     restricted: true
   underboob cutout:
     name: 衣服有下半乳开口
@@ -163,19 +163,19 @@ content:
     name: 亮“枪”
     wikiURL: https://danbooru.donmai.us/wiki_pages/penis_awe.html
     alias:
-    - cock shock
+      - cock shock
     restricted: true
   huge nipples:
     name: 大乳头|长乳头
     wikiURL: https://danbooru.donmai.us/wiki_pages/huge_nipples.html
     alias:
-    - large nipples
+      - large nipples
     restricted: true
   small penis:
     name: 小阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/small_penis.html
     alias:
-    - little penis
+      - little penis
     restricted: true
   stray pubic hair:
     name: 沾着阴毛|掉落的阴毛
@@ -189,14 +189,14 @@ content:
     name: 颤动的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/twitching_penis.html
     alias:
-    - trembling penis
+      - trembling penis
     restricted: true
   naked jacket:
     name: naked gakuran naked 运动夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_jacket.html
     alias:
-    - naked gakuran
-    - naked track jacket
+      - naked gakuran
+      - naked track jacket
     restricted: true
   black pubic hair:
     name: 黑色阴毛
@@ -206,23 +206,23 @@ content:
     name: 穿着衣服的女性和裸女
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_female_nude_female.html
     alias:
-    - /cfnf
-    - cfnf
-    - clothed female naked female
-    - nude female clothed female
+      - /cfnf
+      - cfnf
+      - clothed female naked female
+      - nude female clothed female
     restricted: true
   censored nipples:
     name: 乳头检查器
     wikiURL: https://danbooru.donmai.us/wiki_pages/censored_nipples.html
     alias:
-    - nipple censor
+      - nipple censor
     restricted: true
   naked coat:
     name: 裸体且披着大衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_coat.html
     alias:
-    - naked fur coat
-    - nude coat
+      - naked fur coat
+      - nude coat
     restricted: true
   sparse pubic hair:
     name: 稀疏的阴毛
@@ -232,7 +232,7 @@ content:
     name: 裸体且裹着绷带
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_bandage.html
     alias:
-    - nude bandage
+      - nude bandage
     restricted: true
   surrounded by penises:
     name: 被阴茎包围
@@ -242,14 +242,14 @@ content:
     name: 肛门起皱
     wikiURL: https://danbooru.donmai.us/wiki_pages/puckered_anus.html
     alias:
-    - puffy anus
+      - puffy anus
     restricted: true
   eyewear strap:
     name: 眼镜链眼镜链
     wikiURL: https://danbooru.donmai.us/wiki_pages/eyewear_strap.html
     alias:
-    - eyewear chain
-    - glasses chain
+      - eyewear chain
+      - glasses chain
     restricted: true
   mismatched pubic hair:
     name: 头发和阴毛颜色不一
@@ -259,7 +259,7 @@ content:
     name: 裸体且裹着被子
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_sheet.html
     alias:
-    - nude sheet
+      - nude sheet
     restricted: true
   groin tendon:
     name: 腹股沟肌腱
@@ -269,7 +269,7 @@ content:
     name: 阴茎伸出
     wikiURL: https://danbooru.donmai.us/wiki_pages/penis_out.html
     alias:
-    - penis outside
+      - penis outside
     restricted: true
   large testicles:
     name: 大睾丸
@@ -287,13 +287,13 @@ content:
     name: 粗壮的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/girthy_penis.html
     alias:
-    - thick penis
+      - thick penis
     restricted: true
   nude filter:
     name: 裸滤镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/nude_filter.html
     alias:
-    - nudefilter
+      - nudefilter
     restricted: true
   pussy piercing:
     name: 私处穿刺/阴环
@@ -303,7 +303,7 @@ content:
     name: 隐去阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/invisible_penis.html
     alias:
-    - invisicock
+      - invisicock
     restricted: true
   blonde pubic hair:
     name: 金色阴毛
@@ -325,7 +325,7 @@ content:
     name: 深色的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/dark_penis.html
     alias:
-    - black cock
+      - black cock
     restricted: true
   naked kimono:
     name: 裸体且穿着和服
@@ -335,13 +335,13 @@ content:
     name: 露出屁股的服饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass_cutout.html
     alias:
-    - heart ass cutout
+      - heart ass cutout
     restricted: true
   naked hoodie:
     name: 裸体且穿着连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_hoodie.html
     alias:
-    - nude hoodie
+      - nude hoodie
     restricted: true
   hands on own ass:
     name: 手放在自己的屁股上
@@ -351,8 +351,8 @@ content:
     name: 无女阴扶他
     wikiURL: https://danbooru.donmai.us/wiki_pages/futa_without_pussy.html
     alias:
-    - newhalf
-    - shemale
+      - newhalf
+      - shemale
     restricted: true
   dark anus:
     name: 黑暗的肛门
@@ -378,9 +378,9 @@ content:
     name: 晃屁股
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass_shake.html
     alias:
-    - shaking ass
-    - twerk
-    - twerking
+      - shaking ass
+      - twerk
+      - twerking
     restricted: true
   colored nipples:
     name: 彩色乳头
@@ -402,7 +402,7 @@ content:
     name: 心形镂空
     wikiURL: https://danbooru.donmai.us/wiki_pages/crotch_cutout.html
     alias:
-    - heart crotch cutout
+      - heart crotch cutout
     restricted: true
   knotted penis:
     name: 打结的阴茎
@@ -412,7 +412,7 @@ content:
     name: 只穿着内衣(或泳衣)和围裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/nearly_naked_apron.html
     alias:
-    - nearly nude apron
+      - nearly nude apron
     restricted: true
   presenting pussy:
     name: 呈现阴部
@@ -426,7 +426,7 @@ content:
     name: 裸体且裹着围巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_scarf.html
     alias:
-    - nude scarf
+      - nude scarf
     restricted: true
   crotch focus:
     name: 胯部焦点
@@ -440,7 +440,7 @@ content:
     name: 衣服下的睾丸
     wikiURL: https://danbooru.donmai.us/wiki_pages/covered_testicles.html
     alias:
-    - testicles under clothes
+      - testicles under clothes
     restricted: true
   penis over eyes:
     name: 阴茎在眼睛上
@@ -454,22 +454,22 @@ content:
     name: 剃光
     wikiURL: https://danbooru.donmai.us/wiki_pages/pubic_stubble.html
     alias:
-    - shaved
+      - shaved
     restricted: true
   ass-to-ass:
     name: 屁股贴屁股
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass-to-ass.html
     alias:
-    - ass to ass
+      - ass to ass
     restricted: true
   clothed male nude male:
     name: 穿衣男 裸男 cmnm 裸男 穿衣男
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_male_nude_male.html
     alias:
-    - clothed male naked male
-    - /cmnm
-    - cmnm
-    - nude male clothed male
+      - clothed male naked male
+      - /cmnm
+      - cmnm
+      - nude male clothed male
     restricted: true
   crotch zipper:
     name: 裆部拉链
@@ -483,7 +483,7 @@ content:
     name: 阴茎上用过的避孕套
     wikiURL: https://danbooru.donmai.us/wiki_pages/used_condom_on_penis.html
     alias:
-    - condom filling
+      - condom filling
     restricted: true
   blue pubic hair:
     name: 蓝色阴毛
@@ -497,13 +497,13 @@ content:
     name: 抓裆部
     wikiURL: https://danbooru.donmai.us/wiki_pages/crotch_grab.html
     alias:
-    - bulge grab
+      - bulge grab
     restricted: true
   naked tabard:
     name: 裸体且穿着搭肩衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_tabard.html
     alias:
-    - nude tabard
+      - nude tabard
     restricted: true
   glansjob:
     name: 龟头作业
@@ -513,14 +513,14 @@ content:
     name: 面对乳房摩托艇
     wikiURL: https://danbooru.donmai.us/wiki_pages/face_between_breasts.html
     alias:
-    - face in breasts
-    - motorboating
+      - face in breasts
+      - motorboating
     restricted: true
   penis to breast:
     name: 阴茎到乳头
     wikiURL: https://danbooru.donmai.us/wiki_pages/penis_to_breast.html
     alias:
-    - penis to nipple
+      - penis to nipple
     restricted: true
   naked cloak:
     name: 裸斗篷
@@ -562,7 +562,7 @@ content:
     name: 血淋淋的乳房
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_breasts.html
     alias:
-    - bloody breasts
+      - bloody breasts
     restricted: true
   lipstick mark on penis:
     name: 阴茎上有口红印
@@ -584,8 +584,8 @@ content:
     name: 鸡尾酒阴茎收缩
     wikiURL: https://danbooru.donmai.us/wiki_pages/tucked_penis.html
     alias:
-    - cock-tail
-    - penis tucking
+      - cock-tail
+      - penis tucking
     restricted: true
   covered anus:
     name: 覆盖肛门
@@ -607,7 +607,7 @@ content:
     name: 衣服下的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/penis_under_another's_clothes.html
     alias:
-    - penis under clothes
+      - penis under clothes
     restricted: true
   smelling penis:
     name: 闻阴茎
@@ -633,7 +633,7 @@ content:
     name: 面对屁股
     wikiURL: https://danbooru.donmai.us/wiki_pages/face_in_ass.html
     alias:
-    - head between ass
+      - head between ass
     restricted: true
   spreading another's pussy:
     name: 掰开对方小穴
@@ -675,7 +675,7 @@ content:
     name: 额外的
     wikiURL: https://danbooru.donmai.us/wiki_pages/extra_penises.html
     alias:
-    - multi cock
+      - multi cock
     restricted: true
   gigantic penis:
     name: 巨大的阴茎
@@ -693,26 +693,26 @@ content:
     name: 裸巧克力
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_chocolate.html
     alias:
-    - nude chocolate
+      - nude chocolate
     restricted: true
   ass hair:
     name: 屁股毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass_hair.html
     alias:
-    - hairy ass
+      - hairy ass
     restricted: true
   spiked penis:
     name: 带刺的阴茎 镶嵌的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_penis.html
     alias:
-    - barbed penis
-    - studded penis
+      - barbed penis
+      - studded penis
     restricted: true
   bulge to ass:
     name: 屁股隆起
     wikiURL: https://danbooru.donmai.us/wiki_pages/bulge_to_ass.html
     alias:
-    - bulge on ass
+      - bulge on ass
     restricted: true
   bursting ass:
     name: 爆裂的屁股
@@ -754,7 +754,7 @@ content:
     name: 裸色吊带
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_suspenders.html
     alias:
-    - nude suspenders
+      - nude suspenders
     restricted: true
   pink pubic hair:
     name: 粉红色的阴毛
@@ -772,7 +772,7 @@ content:
     name: 包皮回缩
     wikiURL: https://danbooru.donmai.us/wiki_pages/foreskin_pull.html
     alias:
-    - foreskin retraction
+      - foreskin retraction
     restricted: true
   bouncing testicles:
     name: 弹跳的睾丸
@@ -794,7 +794,7 @@ content:
     name: 胯部踢
     wikiURL: https://danbooru.donmai.us/wiki_pages/crotch_kick.html
     alias:
-    - groin kick
+      - groin kick
     restricted: true
   scar on breasts:
     name: 乳房上的疤痕
@@ -804,9 +804,9 @@ content:
     name: ass pillow buttsnuggle 头靠在屁股上
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_on_ass.html
     alias:
-    - ass pillow
-    - buttsnuggle
-    - head on butt
+      - ass pillow
+      - buttsnuggle
+      - head on butt
     restricted: true
   heart-shaped pubic hair:
     name: 心形阴毛
@@ -816,8 +816,8 @@ content:
     name: 阴蒂片
     wikiURL: https://danbooru.donmai.us/wiki_pages/clitoris_slip.html
     alias:
-    - clit slip
-    - clitslip
+      - clit slip
+      - clitslip
     restricted: true
   naked skirt:
     name: 裸裙
@@ -899,21 +899,21 @@ content:
     name: 额外的乳房
     wikiURL: https://danbooru.donmai.us/wiki_pages/extra_breasts.html
     alias:
-    - multibreast
-    - multiple breasts
-    - polymastia
+      - multibreast
+      - multiple breasts
+      - polymastia
     restricted: true
   nude modeling:
     name: 裸体模特
     wikiURL: https://danbooru.donmai.us/wiki_pages/nude_modeling.html
     alias:
-    - nude model
+      - nude model
     restricted: true
   squeezing testicles:
     name: 球挤压
     wikiURL: https://danbooru.donmai.us/wiki_pages/squeezing_testicles.html
     alias:
-    - ball squeeze
+      - ball squeeze
     restricted: true
   ass worship:
     name: 屁股崇拜
@@ -935,7 +935,7 @@ content:
     name: 沙鲁屁股
     wikiURL: https://danbooru.donmai.us/wiki_pages/saruanu.html
     alias:
-    - saru ass
+      - saru ass
     restricted: true
   spread anus under clothes:
     name: 把肛门伸到衣服下面
@@ -953,7 +953,7 @@ content:
     name: 阴蒂调整
     wikiURL: https://danbooru.donmai.us/wiki_pages/clitoris_tweak.html
     alias:
-    - clit tweak
+      - clit tweak
     restricted: true
   spread cleavage:
     name: 扩散裂解
@@ -967,7 +967,7 @@ content:
     name: 踩裆
     wikiURL: https://danbooru.donmai.us/wiki_pages/crotch_stomping.html
     alias:
-    - crotch stomp
+      - crotch stomp
     restricted: true
   high-waist sideboob:
     name: 高腰侧臂
@@ -989,7 +989,7 @@ content:
     name: 屁股嗅
     wikiURL: https://danbooru.donmai.us/wiki_pages/smelling_ass.html
     alias:
-    - ass sniffing
+      - ass sniffing
     restricted: true
   naked costume:
     name: 裸装
@@ -1059,7 +1059,7 @@ content:
     name: 剃阴毛
     wikiURL: https://danbooru.donmai.us/wiki_pages/shaving_crotch.html
     alias:
-    - shaving pussy
+      - shaving pussy
     restricted: true
   huge clitoris:
     name: 巨大的阴蒂
@@ -1081,7 +1081,7 @@ content:
     name: 公鸡上的袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/sock_on_penis.html
     alias:
-    - socks on cocks
+      - socks on cocks
     restricted: true
   penis chart:
     name: 阴茎图
@@ -1116,7 +1116,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_penis.html
     restricted: true
   dynamite pussy cat:
-    name: 炸药猫
+    name: 炸药猫娘
     wikiURL: https://danbooru.donmai.us/wiki_pages/dynamite_pussy_cat.html
     restricted: true
   pussy juice in mouth:
@@ -1227,7 +1227,7 @@ content:
     name: 折磨阴蒂
     wikiURL: https://danbooru.donmai.us/wiki_pages/clitoris_torture.html
     alias:
-    - clit torture
+      - clit torture
     restricted: true
   erection under blanket:
     name: 毯子下勃起
@@ -1257,7 +1257,7 @@ content:
     name: 钳
     wikiURL: https://danbooru.donmai.us/wiki_pages/clitoris_clamp.html
     alias:
-    - clit clamp
+      - clit clamp
     restricted: true
   ass mousepad:
     name: 屁股鼠标垫
@@ -1299,7 +1299,7 @@ content:
     name: 睾丸穿孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/scrotum_piercing.html
     alias:
-    - testicle piercing
+      - testicle piercing
     restricted: true
   groin attack:
     name: 腹股沟发作
@@ -1365,9 +1365,9 @@ content:
     name: 阴唇夹 阴部夹 阴部夹
     wikiURL: https://danbooru.donmai.us/wiki_pages/labia_clamps.html
     alias:
-    - labia clamp
-    - pussy clamp
-    - pussy clamps
+      - labia clamp
+      - pussy clamp
+      - pussy clamps
     restricted: true
   naked pumpkin:
     name: 裸南瓜
@@ -1381,7 +1381,7 @@ content:
     name: 白痴
     wikiURL: https://danbooru.donmai.us/wiki_pages/penis_head.html
     alias:
-    - dickhead
+      - dickhead
     restricted: true
   wiping pussy:
     name: 擦阴户
@@ -1411,7 +1411,7 @@ content:
     name: 切断的阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/severed_penis.html
     alias:
-    - penectomy
+      - penectomy
     restricted: true
   servants holding aphrodite's breasts (meme):
     name: 手捧阿佛洛狄忒乳房的仆人（meme）
@@ -1429,14 +1429,14 @@ content:
     name: 阴蒂拉
     wikiURL: https://danbooru.donmai.us/wiki_pages/clitoris_pull.html
     alias:
-    - clit pull
+      - clit pull
     restricted: true
   biting testicles:
     name: 咬球 咬球
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_testicles.html
     alias:
-    - ball bite
-    - ball biting
+      - ball bite
+      - ball biting
     restricted: true
   penis in swimsuit:
     name: 泳装的阴茎
@@ -1506,7 +1506,7 @@ content:
     name: 眼交
     wikiURL: https://danbooru.donmai.us/wiki_pages/penis_in_eye.html
     alias:
-    - cock in eye
+      - cock in eye
     restricted: true
   pokemon between breasts:
     name: 乳房之间的口袋妖怪
@@ -1516,7 +1516,7 @@ content:
     name: 胯部鼠标垫
     wikiURL: https://danbooru.donmai.us/wiki_pages/crotch_mousepad.html
     alias:
-    - chinkopad
+      - chinkopad
     restricted: true
   the naked sun:
     name: 赤裸的太阳
@@ -1538,26 +1538,26 @@ content:
     name: 乳房在别人的背上
     wikiURL: https://danbooru.donmai.us/wiki_pages/breasts_on_another's_back.html
     alias:
-    - breasts on back
+      - breasts on back
     restricted: true
   nipple indents:
     name: 乳头凹陷
     wikiURL: https://danbooru.donmai.us/wiki_pages/nipple_indents.html
     alias:
-    - innie nipples
+      - innie nipples
     restricted: true
   covered groin:
     name: 覆盖腹股沟
     wikiURL: https://danbooru.donmai.us/wiki_pages/covered_groin.html
     alias:
-    - crotch outline
-    - groin outline
+      - crotch outline
+      - groin outline
     restricted: true
   naked lab coat:
     name: 赤裸的实验室外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/naked_lab_coat.html
     alias:
-    - naked labcoat
+      - naked labcoat
     restricted: true
   pussy jewelry:
     name: 私处饰品
@@ -1635,14 +1635,14 @@ content:
     name: 乌尔皮亚努斯（方舟骑士）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ulpianus_(arknights).html
     alias:
-    - ulpian (arknights)
+      - ulpian (arknights)
     restricted: true
   cooperative buttjob:
     name: 合作对接
     wikiURL: https://danbooru.donmai.us/wiki_pages/cooperative_buttjob.html
     alias:
-    - double buttjob
-    - multiple buttjob
+      - double buttjob
+      - multiple buttjob
     restricted: true
   seven association (identity) (project moon):
     name: 七协会（身份）（月亮计划）
@@ -1656,8 +1656,8 @@ content:
     name: 咬阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_penis.html
     alias:
-    - penis bite
-    - penis biting
+      - penis bite
+      - penis biting
     restricted: true
   goggles around breasts:
     name: 乳房周围的护目镜
@@ -1763,7 +1763,7 @@ content:
     name: 带身体的人工阴部
     wikiURL: https://danbooru.donmai.us/wiki_pages/artificial_vagina_with_body.html
     alias:
-    - body onahole
+      - body onahole
     restricted: true
   spreading another's anus:
     name: 传播他人的肛门
@@ -1777,7 +1777,7 @@ content:
     name: 咬包皮
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_foreskin.html
     alias:
-    - foreskin biting
+      - foreskin biting
     restricted: true
   pussy tentacle:
     name: 触手侵犯私处
@@ -1987,7 +1987,7 @@ content:
     name: 闪电胯部（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/lightning_crotch_(meme).html
     alias:
-    - lightning crotch
+      - lightning crotch
     restricted: true
   penis slip:
     name: 阴茎滑脱
@@ -2081,7 +2081,7 @@ content:
     name: 即将切断阴茎
     wikiURL: https://danbooru.donmai.us/wiki_pages/imminent_penis_severing.html
     alias:
-    - imminent penectomy
+      - imminent penectomy
     restricted: true
   cloth glansjob:
     name: 布龟头工作
@@ -2092,7 +2092,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/censored_clitoris.html
     restricted: true
   apulaz (crossbow pussycat):
-    name: apulaz（十字弓小猫）
+    name: apulaz（十字弓猫娘）
     wikiURL: https://danbooru.donmai.us/wiki_pages/apulaz_(crossbow_pussycat).html
     restricted: true
   anus piercing:

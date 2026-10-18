@@ -706,7 +706,7 @@ content:
     name: 菱形图案裤子
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_pants.html
   bokutachi no seizon tousou (project sekai):
-    name: bokutachi no seizon tousou (project sekai)
+    name: bokutachi no seizon tousou (Project Sekai)
     wikiURL: https://danbooru.donmai.us/wiki_pages/bokutachi_no_seizon_tousou_(project_sekai).html
     alias:
     - our escape for survival (project sekai)
@@ -994,7 +994,7 @@ content:
     alias:
     - brand name
   buttoned cuffs:
-    name: buttoned cuffs
+    name: 纽扣袖口
     wikiURL: https://danbooru.donmai.us/wiki_pages/buttoned_cuffs.html
   shower (place):
     name: 淋浴（处）
@@ -1049,7 +1049,7 @@ content:
     name: 印花袖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_sleeves.html
   yellow trim:
-    name: yellow trim
+    name: 黄色装饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_trim.html
   puff and slash sleeves:
     name: 斜纹泡泡袖
@@ -1073,13 +1073,13 @@ content:
     name: 蕾丝袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_sleeves.html
   aqua trim:
-    name: aqua trim
+    name: 水色装饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_trim.html
   object in pocket:
-    name: object in pocket
+    name: 口袋里的物体
     wikiURL: https://danbooru.donmai.us/wiki_pages/object_in_pocket.html
   black trim:
-    name: black trim
+    name: 黑色装饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_trim.html
   lace border:
     name: 花边边框
@@ -1091,7 +1091,7 @@ content:
     name: 紫色饰边
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_trim.html
   furisode sleeves:
-    name: furisode sleeves
+    name: 长袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/furisode_sleeves.html
   pleated sleeves:
     name: 百褶袖
@@ -1279,143 +1279,1037 @@ content:
     name: 比赛按钮
     wikiURL: https://danbooru.donmai.us/wiki_pages/contest_button.html
   shoulder patch:
-    name: shoulder patch
+    name: 肩章
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_patch.html
   orange trim:
-    name: orange trim
+    name: 橙色饰边
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_trim.html
   double strap slip:
-    name: double strap slip
+    name: 双带滑脱
     wikiURL: https://danbooru.donmai.us/wiki_pages/double_strap_slip.html
   bite mark on shoulder:
-    name: bite mark on shoulder
+    name: 肩膀上有咬痕
     wikiURL: https://danbooru.donmai.us/wiki_pages/bite_mark_on_shoulder.html
   cross-laced corset:
-    name: cross-laced corset
+    name: 交叉系带紧身胸衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_corset.html
   front zipper:
-    name: front zipper
+    name: 前拉链
     wikiURL: https://danbooru.donmai.us/wiki_pages/front_zipper.html
   strap break:
-    name: strap break
+    name: 表带断裂
     wikiURL: https://danbooru.donmai.us/wiki_pages/strap_break.html
   gold buttons:
-    name: gold buttons
+    name: 金色纽扣
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_buttons.html
   center cross lace:
-    name: center cross lace
+    name: 中心交叉花边
     wikiURL: https://danbooru.donmai.us/wiki_pages/center_cross_lace.html
   two-sided sleeves:
-    name: two-sided sleeves
+    name: 双面袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-sided_sleeves.html
   zipper top:
-    name: zipper top
+    name: 拉链上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/zipper_top.html
   cross-laced leotard:
-    name: cross-laced leotard
+    name: 交叉系带紧身衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_leotard.html
   floral print sleeves:
-    name: floral print sleeves
+    name: 花卉印花袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_sleeves.html
   shanghai neckline:
-    name: shanghai neckline
+    name: 上海领口
     wikiURL: https://danbooru.donmai.us/wiki_pages/shanghai_neckline.html
   paw sleeves:
-    name: paw sleeves
+    name: 爪子袖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/paw_sleeves.html
   gloved sleeves:
-    name: gloved sleeves
+    name: 戴手套的袖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/gloved_sleeves.html
   pressing button:
-    name: pressing button
+    name: 按下按钮
     wikiURL: https://danbooru.donmai.us/wiki_pages/pressing_button.html
   feather sleeves:
-    name: feather sleeves
+    name: 羽毛袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/feather_sleeves.html
   unworn sleeves:
-    name: unworn sleeves
+    name: 未穿过的袖子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_sleeves.html
     alias:
     - detached sleeves removed
     - sleeves removed
   argyle sleeves:
-    name: argyle sleeves
+    name: 菱形袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_sleeves.html
   pause button:
-    name: pause button
+    name: 暂停按钮
     wikiURL: https://danbooru.donmai.us/wiki_pages/pause_button.html
   person on shoulder:
-    name: person on shoulder
+    name: 肩上的人
     wikiURL: https://danbooru.donmai.us/wiki_pages/person_on_shoulder.html
   leather wrist straps:
-    name: leather wrist straps
+    name: 皮革腕带
     wikiURL: https://danbooru.donmai.us/wiki_pages/leather_wrist_straps.html
   lace pantyhose:
-    name: lace pantyhose
+    name: 蕾丝连裤袜
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace_pantyhose.html
   checkered trim:
-    name: checkered trim
+    name: 方格镶边
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_trim.html
   biting shoulder:
-    name: biting shoulder
+    name: 咬肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/biting_shoulder.html
   brown trim:
-    name: brown trim
+    name: 棕色饰边
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_trim.html
   fur-trimmed poncho:
-    name: fur-trimmed poncho
+    name: 毛皮边饰斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_poncho.html
   grey trim:
-    name: grey trim
+    name: 灰色饰边
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_trim.html
   meandros trim:
-    name: meandros trim
+    name: 曼德罗斯修剪
     wikiURL: https://danbooru.donmai.us/wiki_pages/meandros_trim.html
   bicep strap:
-    name: bicep strap
+    name: 二头肌带
     wikiURL: https://danbooru.donmai.us/wiki_pages/bicep_strap.html
   blood on shoulder:
-    name: blood on shoulder
+    name: 肩膀上有血
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_shoulder.html
   above cleavage cutout:
-    name: above cleavage cutout
+    name: 上面的解理切口
     wikiURL: https://danbooru.donmai.us/wiki_pages/above_cleavage_cutout.html
   inside pocket:
-    name: inside pocket
+    name: 内袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/inside_pocket.html
   cow print sleeves:
-    name: cow print sleeves
+    name: 牛印花袖
     wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print_sleeves.html
   fur-trimmed tube top:
-    name: fur-trimmed tube top
+    name: 毛皮边饰抹胸
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_tube_top.html
   notched neckline:
-    name: notched neckline
+    name: 凹口领口
     wikiURL: https://danbooru.donmai.us/wiki_pages/notched_neckline.html
   torn straps:
-    name: torn straps
+    name: 撕裂的带子
     wikiURL: https://danbooru.donmai.us/wiki_pages/torn_straps.html
   shoulderstand:
-    name: shoulderstand
+    name: 肩倒立
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulderstand.html
   fur-trimmed bandeau:
-    name: fur-trimmed bandeau
+    name: 毛皮边饰抹胸式连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_bandeau.html
   sleeves tied together:
-    name: sleeves tied together
+    name: 袖子绑在一起
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeves_tied_together.html
   grabbing another's shoulder:
-    name: grabbing another's shoulder
+    name: 抓住别人的肩膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_shoulder.html
   currency strap:
-    name: currency strap
+    name: 货币带
     wikiURL: https://danbooru.donmai.us/wiki_pages/currency_strap.html
   cross-laced vest:
-    name: cross-laced vest
+    name: 交叉系带背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_vest.html
   ass zipper:
-    name: ass zipper
+    name: 屁股拉链
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass_zipper.html
   necktie in pocket:
-    name: necktie in pocket
+    name: 领带在口袋里
     wikiURL: https://danbooru.donmai.us/wiki_pages/necktie_in_pocket.html
+  puffy long sleeves:
+    name: 蓬蓬的长袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/puffy_long_sleeves.html
+    alias:
+    - bishop sleeves
+    - long puffy sleeves
+  tabard:
+    name: 搭肩衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tabard.html
+  blue tabard:
+    name: 蓝色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_tabard.html
+  hospital gown:
+    name: 病号服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hospital_gown.html
+  red tabard:
+    name: 红色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_tabard.html
+  purple tabard:
+    name: 紫色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_tabard.html
+  orange tabard:
+    name: 橙色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_tabard.html
+  white tabard:
+    name: 白色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_tabard.html
+  bridgeless bra:
+    name: 无桥文胸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bridgeless_bra.html
+  tabard lift:
+    name: 战袍电梯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tabard_lift.html
+  torn tabard:
+    name: 撕裂的战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_tabard.html
+    alias:
+    - ripped tabard
+  seiren academy school uniform:
+    name: 青莲学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seiren_academy_school_uniform.html
+  salt middle school uniform:
+    name: 盐中学制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/salt_middle_school_uniform.html
+  rouman academy school uniform:
+    name: 鲁曼学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rouman_academy_school_uniform.html
+    alias:
+    - rouman academy uniform
+  lydian academy school uniform:
+    name: 利迪亚学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lydian_academy_school_uniform.html
+    alias:
+    - lydian academy uniform
+  tohmi higashi high school uniform:
+    name: 东美高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tohmi_higashi_high_school_uniform.html
+  selene girls school uniform:
+    name: 塞琳娜女校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/selene_girls_school_uniform.html
+  hoshinoumi academy school uniform:
+    name: 星之海学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hoshinoumi_academy_school_uniform.html
+    alias:
+    - hoshinoumi academy uniform
+  shibahama high school uniform:
+    name: 芝滨高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shibahama_high_school_uniform.html
+  tape maebari:
+    name: 前张磁带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tape_maebari.html
+    alias:
+    - tape on pussy
+  rokubanchou school uniform:
+    name: 六番长校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rokubanchou_school_uniform.html
+  saikai academy school uniform:
+    name: 西海学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saikai_academy_school_uniform.html
+    alias:
+    - saikai academy uniform
+  abydos high school swimsuit:
+    name: 阿比多斯高中泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abydos_high_school_swimsuit.html
+  national verbena academy school uniform:
+    name: 国立马鞭草学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/national_verbena_academy_school_uniform.html
+  raira academy school uniform:
+    name: 莱拉学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/raira_academy_school_uniform.html
+    alias:
+    - raira academy uniform
+  magic school uniform (mahou girls precure!):
+    name: 魔法校服（魔法少女光之美少女！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/magic_school_uniform_(mahou_girls_precure!).html
+  daito academy school uniform:
+    name: 大东学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/daito_academy_school_uniform.html
+    alias:
+    - daito academy uniform
+    - daitou academy school uniform
+  seiyo academy school uniform:
+    name: 圣阳学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seiyo_academy_school_uniform.html
+    alias:
+    - seiyo academy uniform
+  ranoa magic academy school uniform:
+    name: 拉诺阿魔法学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ranoa_magic_academy_school_uniform.html
+  karakura high school uniform:
+    name: 唐仓高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/karakura_high_school_uniform.html
+  atlas academy school uniform:
+    name: 阿特拉斯学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/atlas_academy_school_uniform.html
+    alias:
+    - atlas academy uniform
+  kirigaoka girls' academy school uniform:
+    name: 桐冈女子学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kirigaoka_girls'_academy_school_uniform.html
+  a certain high school gym uniform:
+    name: 某高中体操服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/a_certain_high_school_gym_uniform.html
+  l'avenir academy school uniform:
+    name: 拉文尼尔学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/l'avenir_academy_school_uniform.html
+    alias:
+    - l'avenir academy uniform
+  fuuka academy school uniform:
+    name: 风花学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fuuka_academy_school_uniform.html
+    alias:
+    - fuuka academy uniform
+  habataki academy school uniform:
+    name: 哈巴塔克学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/habataki_academy_school_uniform.html
+    alias:
+    - habataki academy uniform
+  red prison magic school uniform:
+    name: 红色监狱魔法校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_prison_magic_school_uniform.html
+  soviet school uniform:
+    name: 苏联校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/soviet_school_uniform.html
+  katagiri senior high school uniform:
+    name: 片桐高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/katagiri_senior_high_school_uniform.html
+  private misaki high school uniform:
+    name: 私立美咲高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/private_misaki_high_school_uniform.html
+  ame no kisaki academy school uniform:
+    name: 天之崎学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ame_no_kisaki_academy_school_uniform.html
+    alias:
+    - ame no kisaki academy uniform
+  thai school uniform:
+    name: 泰国校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thai_school_uniform.html
+  yotsuboshi academy school uniform:
+    name: 四星学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yotsuboshi_academy_school_uniform.html
+    alias:
+    - yotsuboshi academy uniform
+  holohoneygaoka high school uniform:
+    name: Holohoneygaoka 高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holohoneygaoka_high_school_uniform.html
+  themis legal academy school uniform:
+    name: 忒弥斯法学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/themis_legal_academy_school_uniform.html
+  pk academy school uniform:
+    name: pk学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pk_academy_school_uniform.html
+  chuo academy school uniform:
+    name: 中央学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chuo_academy_school_uniform.html
+    alias:
+    - chuo academy uniform
+    - chuuou academy school uniform
+  amanogawa high school uniform:
+    name: 天之川高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/amanogawa_high_school_uniform.html
+  black tabard:
+    name: 黑色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_tabard.html
+  yokosuka girls marine high school swimsuit:
+    name: 横须贺女子海洋高中泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yokosuka_girls_marine_high_school_swimsuit.html
+  black vinegar middle school uniform:
+    name: 黑醋中学制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_vinegar_middle_school_uniform.html
+  sjms school uniform:
+    name: 澳体育校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sjms_school_uniform.html
+  marehoshi academy school uniform:
+    name: 丸星学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/marehoshi_academy_school_uniform.html
+  southern cross academy school uniform:
+    name: 南十字星学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/southern_cross_academy_school_uniform.html
+    alias:
+    - southern cross academy uniform
+  jouin high school uniform:
+    name: 上院高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jouin_high_school_uniform.html
+  sonobeno high school uniform:
+    name: 园野野高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sonobeno_high_school_uniform.html
+  kawakami academy school uniform:
+    name: 川上学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kawakami_academy_school_uniform.html
+    alias:
+    - kawakami academy uniform
+  mihoshi academy school uniform:
+    name: 三星学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mihoshi_academy_school_uniform.html
+    alias:
+    - mihoshi academy uniform
+  dream academy school uniform:
+    name: 梦想学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dream_academy_school_uniform.html
+    alias:
+    - dream academy uniform
+  green tabard:
+    name: 绿色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_tabard.html
+  dahlia academy boarding school uniform:
+    name: 大丽花学院寄宿校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dahlia_academy_boarding_school_uniform.html
+  osafune girls academy school uniform:
+    name: 大船女子学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/osafune_girls_academy_school_uniform.html
+    alias:
+    - osafune girls academy uniform
+  second wangan school uniform:
+    name: 第二湾安校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/second_wangan_school_uniform.html
+  ahnenerbe shop uniform:
+    name: ahnerbe店制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ahnenerbe_shop_uniform.html
+  kosho academy school uniform:
+    name: 工商学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kosho_academy_school_uniform.html
+    alias:
+    - koushou academy school uniform
+  nevermore academy school uniform:
+    name: 永莫学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nevermore_academy_school_uniform.html
+  hirasawa yui's middle school uniform:
+    name: 平泽由衣的中学制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hirasawa_yui's_middle_school_uniform.html
+  tsubame nishi high school uniform:
+    name: 西燕高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tsubame_nishi_high_school_uniform.html
+  bellwall school uniform:
+    name: 钟墙校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bellwall_school_uniform.html
+  seijou academy school uniform:
+    name: 圣城学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seijou_academy_school_uniform.html
+    alias:
+    - seijou academy uniform
+  saint mary's academy school uniform:
+    name: 圣玛丽学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saint_mary's_academy_school_uniform.html
+    alias:
+    - saint mary's academy uniform
+  saotome academy school uniform:
+    name: 早乙女学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saotome_academy_school_uniform.html
+    alias:
+    - saotome academy uniform
+  indigo academy school uniform:
+    name: 靛蓝学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/indigo_academy_school_uniform.html
+  seigetsu academy school uniform:
+    name: 青月学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seigetsu_academy_school_uniform.html
+    alias:
+    - seigetsu academy uniform
+  thors military academy school uniform:
+    name: 托斯军事学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thors_military_academy_school_uniform.html
+    alias:
+    - thors military academy uniform
+  aramis high school uniform:
+    name: 阿拉米斯高中制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aramis_high_school_uniform.html
+  barber cape:
+    name: 理发师斗篷
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barber_cape.html
+  sankyoin academy school uniform:
+    name: 三共院学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sankyoin_academy_school_uniform.html
+    alias:
+    - sankyouin academy school uniform
+  sorashido academy school uniform:
+    name: 空志堂学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sorashido_academy_school_uniform.html
+  ototachibana academy school uniform:
+    name: 乙橘学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ototachibana_academy_school_uniform.html
+    alias:
+    - ototachibana academy uniform
+  print tabard:
+    name: 印花战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/print_tabard.html
+  pink tabard:
+    name: 粉红色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_tabard.html
+  tennomifune academy school uniform:
+    name: 天王船学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tennomifune_academy_school_uniform.html
+    alias:
+    - tennomifune academy uniform
+  shinju-kan school uniform:
+    name: 新住馆校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shinju-kan_school_uniform.html
+  minaminagi liberty academy school uniform:
+    name: 南无自由学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/minaminagi_liberty_academy_school_uniform.html
+  royal officer academy school uniform:
+    name: 皇家军官学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/royal_officer_academy_school_uniform.html
+  seio girls' academy school uniform:
+    name: 圣王女子学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seio_girls'_academy_school_uniform.html
+    alias:
+    - seio girls' academy uniform
+  avocado academy school uniform:
+    name: 鳄梨学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/avocado_academy_school_uniform.html
+  brown tabard:
+    name: 棕色战袍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_tabard.html
+  hanegasaki academy school uniform:
+    name: 羽崎学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hanegasaki_academy_school_uniform.html
+    alias:
+    - hanegasaki academy uniform
+  playboy bunny:
+    name: playboy兔女郎
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playboy_bunny.html
+    alias:
+    - bunnygirl
+    - bunny suit
+    - bunnysuit
+  juliet sleeves:
+    name: 朱丽叶袖
+    wikiURL: https://danbooru.donmai.us/wiki_pages/juliet_sleeves.html
+    alias:
+    - puffy shoulder long sleeves
+    - puffy shoulders long sleeves
+  blue one-piece swimsuit:
+    name: 蓝色连体泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_one-piece_swimsuit.html
+    alias:
+    - blue swimsuit
+  holding unworn clothes:
+    name: 拿着未穿过的衣服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_unworn_clothes.html
+    alias:
+    - holding clothes
+  black one-piece swimsuit:
+    name: 黑色连体泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_one-piece_swimsuit.html
+    alias:
+    - black swimsuit
+  skirt hold:
+    name: 优雅地提着裙子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skirt_hold.html
+    alias:
+    - dress hold
+  white one-piece swimsuit:
+    name: 白色连体泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_one-piece_swimsuit.html
+    alias:
+    - white swimsuit
+  cross-laced clothes:
+    name: 交叉花边服饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_clothes.html
+    alias:
+    - cross-laced clothing
+  highleg one-piece swimsuit:
+    name: 高腿连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/highleg_one-piece_swimsuit.html
+  swimsuit under clothes:
+    name: 里面穿着泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_under_clothes.html
+    alias:
+    - /suc
+  open fly:
+    name: 解开的裤子拉链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/open_fly.html
+    alias:
+    - unbuttoned pants
+    - unbuttoned shorts
+  male swimwear:
+    name: 男用泳裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/male_swimwear.html
+    alias:
+    - swimwear (male)
+  holding hat:
+    name: 拿着帽子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_hat.html
+  old school swimsuit:
+    name: 旧式死库水
+    wikiURL: https://danbooru.donmai.us/wiki_pages/old_school_swimsuit.html
+  layered clothes:
+    name: 多层衣物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/layered_clothes.html
+    alias:
+    - layered clothing
+  one-piece swimsuit pull:
+    name: 连体泳衣拉力
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one-piece_swimsuit_pull.html
+    alias:
+    - one-piece swimsuit down
+    - swimsuit down
+    - swimsuit pull
+  frilled one-piece swimsuit:
+    name: 褶边连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_one-piece_swimsuit.html
+  demon slayer uniform:
+    name: 鬼灭制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/demon_slayer_uniform.html
+  two-tone swimsuit:
+    name: 双色泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_swimsuit.html
+  adjusting swimsuit:
+    name: 拨弄泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_swimsuit.html
+  wet swimsuit:
+    name: 湿泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wet_swimsuit.html
+  multicolored swimsuit:
+    name: 五彩泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_swimsuit.html
+  nontraditional playboy bunny:
+    name: 非传统的花花公子兔子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nontraditional_playboy_bunny.html
+  hands in opposite sleeves:
+    name: 双手交叉伸进袖子里
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hands_in_opposite_sleeves.html
+    alias:
+    - hands in sleeves
+  red one-piece swimsuit:
+    name: 红色连体泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_one-piece_swimsuit.html
+    alias:
+    - red swimsuit
+  male playboy bunny:
+    name: 兔女装（男） 兔女装（男） 花花公子兔女郎（男）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/male_playboy_bunny.html
+    alias:
+    - bunny suit (male)
+    - bunnysuit (male)
+    - playboy bunny (male)
+  cross-laced dress:
+    name: 交叉系带连衣裙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_dress.html
+  holding jacket:
+    name: 拿着夹克
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_jacket.html
+  pink one-piece swimsuit:
+    name: 粉色泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_one-piece_swimsuit.html
+    alias:
+    - pink swimsuit
+  purple one-piece swimsuit:
+    name: 紫色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_one-piece_swimsuit.html
+    alias:
+    - purple swimsuit
+  new school swimsuit:
+    name: 新式死库水
+    wikiURL: https://danbooru.donmai.us/wiki_pages/new_school_swimsuit.html
+  impossible swimsuit:
+    name: 人体彩绘般的泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/impossible_swimsuit.html
+  tracen swimsuit:
+    name: Tracen 泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tracen_swimsuit.html
+  cross-laced sleeves:
+    name: 交叉系带袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_sleeves.html
+  jacket over swimsuit:
+    name: 夹克套在泳衣上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jacket_over_swimsuit.html
+  polka dot swimsuit:
+    name: 圆斑泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_swimsuit.html
+    alias:
+    - polka-dot swimsuit
+  military combat uniform:
+    name: 军事作战服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/military_combat_uniform.html
+  swimsuit cover-up:
+    name: 掩饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_cover-up.html
+    alias:
+    - cover-up
+  layered shirt:
+    name: 分层衬衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/layered_shirt.html
+    alias:
+    - layered blouse
+  torn swimsuit:
+    name: 破损的泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/torn_swimsuit.html
+    alias:
+    - ripped swimsuit
+  pointy hat:
+    name: 尖头帽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pointy_hat.html
+  off-shoulder one-piece swimsuit:
+    name: 露肩泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/off-shoulder_one-piece_swimsuit.html
+    alias:
+    - off-shoulder swimsuit
+  dress swimsuit:
+    name: 礼服泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dress_swimsuit.html
+  black slingshot swimsuit:
+    name: 黑色弹弓泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_slingshot_swimsuit.html
+  black male swimwear:
+    name: 黑色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_male_swimwear.html
+  green one-piece swimsuit:
+    name: 绿色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_one-piece_swimsuit.html
+    alias:
+    - green swimsuit
+  holding swimsuit:
+    name: 手持泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_swimsuit.html
+    alias:
+    - holding bikini
+    - holding bikini bottom
+    - holding bikini top
+  two-tone one-piece swimsuit:
+    name: 双色连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_one-piece_swimsuit.html
+  holding shirt:
+    name: 拿着衬衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_shirt.html
+  o-ring swimsuit:
+    name: 形圈泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/o-ring_swimsuit.html
+  taut swimsuit:
+    name: 紧身泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taut_swimsuit.html
+  cross-laced skirt:
+    name: 交叉系带裙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_skirt.html
+  backless swimsuit:
+    name: 露背泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/backless_swimsuit.html
+  yellow one-piece swimsuit:
+    name: 黄色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_one-piece_swimsuit.html
+    alias:
+    - yellow swimsuit
+  crosshatching:
+    name: 交叉影线
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crosshatching.html
+  sailor swimsuit (idolmaster):
+    name: 水手泳装（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_swimsuit_(idolmaster).html
+  print swimsuit:
+    name: 印花泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/print_swimsuit.html
+  shiny swimsuit:
+    name: 闪亮的泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shiny_swimsuit.html
+  blue male swimwear:
+    name: 蓝色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_male_swimwear.html
+  cross-laced bikini:
+    name: 交叉系带比基尼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_bikini.html
+  grey one-piece swimsuit:
+    name: 灰色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_one-piece_swimsuit.html
+    alias:
+    - grey swimsuit
+  side-tie swimsuit:
+    name: 侧系带泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/side-tie_swimsuit.html
+  selection university military uniform:
+    name: 挑选大学军装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/selection_university_military_uniform.html
+  see-through one-piece swimsuit:
+    name: 透明连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_one-piece_swimsuit.html
+  trinity general school swimsuit:
+    name: 三一普通学校泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trinity_general_school_swimsuit.html
+  white slingshot swimsuit:
+    name: 白色弹弓泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_slingshot_swimsuit.html
+  kamihama university affiliated school uniform:
+    name: 神滨大学附属校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kamihama_university_affiliated_school_uniform.html
+  swimsuit skirt:
+    name: 泳装裙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_skirt.html
+  hololive summer 2023 swimsuit:
+    name: Hololive 2023 年夏季泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hololive_summer_2023_swimsuit.html
+  layered gloves:
+    name: 分层手套
+    wikiURL: https://danbooru.donmai.us/wiki_pages/layered_gloves.html
+  hololive dance practice uniform:
+    name: Hololive舞蹈练习服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hololive_dance_practice_uniform.html
+  unworn swimsuit:
+    name: 未穿过的泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_swimsuit.html
+    alias:
+    - swimsuit removed
+  school swimsuit flap:
+    name: sukumizu皮瓣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_swimsuit_flap.html
+    alias:
+    - sukumizu flap
+  hand under swimsuit:
+    name: 交上泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hand_under_swimsuit.html
+    alias:
+    - hand in swimsuit
+  red male swimwear:
+    name: 红色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_male_swimwear.html
+  holding clothes hanger:
+    name: 拿着衣架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_clothes_hanger.html
+  male swimwear challenge:
+    name: 男性泳装挑战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/male_swimwear_challenge.html
+  aqua one-piece swimsuit:
+    name: 水上泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_one-piece_swimsuit.html
+    alias:
+    - aqua swimsuit
+  holding coat:
+    name: 拿着外套
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_coat.html
+  swimsuit lift:
+    name: 泳衣升降机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_lift.html
+  nontraditional school swimsuit:
+    name: 非传统学校泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nontraditional_school_swimsuit.html
+  white male swimwear:
+    name: 白色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_male_swimwear.html
+  holding gloves:
+    name: 拿着手套
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_gloves.html
+  orange one-piece swimsuit:
+    name: 橙色泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_one-piece_swimsuit.html
+    alias:
+    - orange swimsuit
+  gris swimsuit:
+    name: 灰色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gris_swimsuit.html
+  ribbed swimsuit:
+    name: 罗纹泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ribbed_swimsuit.html
+  shirt hold:
+    name: 衬衫保持
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_hold.html
+  cavalier hat:
+    name: 骑士帽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cavalier_hat.html
+  green male swimwear:
+    name: 绿色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_male_swimwear.html
+  swimsuit theft:
+    name: 泳衣贼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_theft.html
+    alias:
+    - swimsuit thief
+  tokiwadai school swimsuit:
+    name: 常盘台学校泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tokiwadai_school_swimsuit.html
+  butterfly hat ornament:
+    name: 蝴蝶帽装饰品
+    wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly_hat_ornament.html
+  ribbon-trimmed swimsuit:
+    name: 丝带边饰连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_swimsuit.html
+  swimsuit costume:
+    name: 泳装服装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_costume.html
+  swimsuit tug:
+    name: 泳衣拖船
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_tug.html
+  brown one-piece swimsuit:
+    name: 棕色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_one-piece_swimsuit.html
+    alias:
+    - brown swimsuit
+  bow swimsuit:
+    name: 蝴蝶结泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bow_swimsuit.html
+  kissuisou uniform:
+    name: kissuiso制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kissuisou_uniform.html
+  dancer's costume (dq):
+    name: 舞者服装（dq）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dancer's_costume_(dq).html
+  object in swimsuit:
+    name: 泳装中的物体
+    wikiURL: https://danbooru.donmai.us/wiki_pages/object_in_swimsuit.html
+  yellow male swimwear:
+    name: 黄色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_male_swimwear.html
+  sailor one-piece swimsuit:
+    name: 水手连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_one-piece_swimsuit.html
+  cross-laced gloves:
+    name: 交叉系带手套
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_gloves.html
+  cross-laced pants:
+    name: 交叉系带裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_pants.html
+  playboy bunny swimsuit:
+    name: 花花公子兔子泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playboy_bunny_swimsuit.html
+  swimwear (module):
+    name: 泳装（模块）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimwear_(module).html
+  print male swimwear:
+    name: 印花男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/print_male_swimwear.html
+  swimsuit over clothes:
+    name: 泳衣套在衣服上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_over_clothes.html
+  male swimwear pull:
+    name: 男泳装拉力
+    wikiURL: https://danbooru.donmai.us/wiki_pages/male_swimwear_pull.html
+  orange male swimwear:
+    name: 橙色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_male_swimwear.html
+  gravure swimsuit (idolmaster):
+    name: 凹版泳装（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gravure_swimsuit_(idolmaster).html
+  layered swimsuit:
+    name: 分层泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/layered_swimsuit.html
+  gold one-piece swimsuit:
+    name: 黄金泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_one-piece_swimsuit.html
+    alias:
+    - gold swimsuit
+  revealing swimsuit (dq):
+    name: 暴露泳装（dq）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/revealing_swimsuit_(dq).html
+  ashford academy swimsuit:
+    name: 阿什福德学院泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ashford_academy_swimsuit.html
+  grey male swimwear:
+    name: 灰色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_male_swimwear.html
+  holding pants:
+    name: 拿着裤子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_pants.html
+  fishnet swimsuit:
+    name: 网眼泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_swimsuit.html
+  beauty swimsuit (idolmaster):
+    name: 美女泳装（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beauty_swimsuit_(idolmaster).html
+  swimsuit under swimsuit:
+    name: 泳衣下的泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_under_swimsuit.html
+  angel's swimsuit (idolmaster):
+    name: 天使泳装（idolmaster）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/angel's_swimsuit_(idolmaster).html
+  purple male swimwear:
+    name: 紫色男泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_male_swimwear.html
+  old-fashioned swimsuit:
+    name: 老式泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/old-fashioned_swimsuit.html
+  lace-trimmed swimsuit:
+    name: 蕾丝边饰连体泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_swimsuit.html
+  swimsuit around one leg:
+    name: 泳衣绕在一条腿上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swimsuit_around_one_leg.html
+  untied swimsuit:
+    name: 解开泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/untied_swimsuit.html
+  american flag swimsuit:
+    name: 美国国旗泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/american_flag_swimsuit.html
+  garderobe swimsuit:
+    name: 衣橱泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/garderobe_swimsuit.html
+  checkered swimsuit:
+    name: 格纹泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_swimsuit.html
+  pantyhose over swimsuit:
+    name: 连裤袜套在泳衣上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pantyhose_over_swimsuit.html
+  lydian academy swimsuit:
+    name: lydian学院泳装
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lydian_academy_swimsuit.html
+  carrying clothes:
+    name: 提着衣服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/carrying_clothes.html
+  silver one-piece swimsuit:
+    name: 银色泳衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_one-piece_swimsuit.html
+    alias:
+    - silver swimsuit
+  night raven college gym uniform:
+    name: 夜鸦学院体操服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/night_raven_college_gym_uniform.html
+  star harmony academy school uniform:
+    name: 星和谐学园校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_harmony_academy_school_uniform.html
+    alias:
+    - star harmony academy uniform
+  utnapishtim operator uniform (blue archive):
+    name: utnapishtim 操作员制服（蓝色档案）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/utnapishtim_operator_uniform_(blue_archive).html
+    alias:
+    - ark uniform (blue archive)
+  border operator uniform (world trigger):
+    name: 边境操作员制服（世界触发）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/border_operator_uniform_(world_trigger).html
+  infinite stratos academy school uniform:
+    name: 无限斯特拉托斯学院校服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/infinite_stratos_academy_school_uniform.html
+    alias:
+    - infinite stratos academy uniform
+  fishnet dress:
+    name: 渔网连衣裙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_dress.html
+  ghostbusters uniform:
+    name: 捉鬼敢死队制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ghostbusters_uniform.html
+  wandenreich uniform:
+    name: 万登帝国制服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wandenreich_uniform.html
+  white bloomers:
+    name: 白色灯笼裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_bloomers.html
+  training outfit (fire emblem engage):
+    name: 火焰纹章训练服
+  striped scarf:
+    name: 条纹围巾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/striped_scarf.html
+    restricted: true
+  vertical-striped scarf:
+    name: 竖条纹围巾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vertical-striped_scarf.html
+    restricted: true
+  striped cardigan:
+    name: 条纹开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/striped_cardigan.html
+    restricted: true
+  brown sleeves:
+    name: 棕色袖子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_sleeves.html
+  heart maebari:
+    name: 心前张
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heart_maebari.html
+  cardigan around waist:
+    name: 腰部开衫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cardigan_around_waist.html
+  brown leotard:
+    name: 棕色紧身衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_leotard.html
+  brown bra:
+    name: 棕色文胸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_bra.html
+  bra slip:
+    name: 文胸滑落
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bra_slip.html
+  off-shoulder leotard:
+    name: 露肩紧身衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/off-shoulder_leotard.html
+  brown sports bra:
+    name: 棕色运动文胸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_sports_bra.html
+  heart bra:
+    name: 心形文胸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heart_bra.html

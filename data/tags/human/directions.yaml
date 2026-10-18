@@ -16,20 +16,6 @@ content:
     name: 正脸
     image: 2565c0f7b19c600a73a5f57543946d003bdee8538569715b70fb731c692eceac
     wikiURL: https://danbooru.donmai.us/wiki_pages/straight-on.html
-  full body:
-    name: 全身
-    image: a8671d8d903d27826c41b6247ab7c3e35ff8bb7e586a492bfd806a6ea2427402
-    wikiURL: https://danbooru.donmai.us/wiki_pages/full_body.html
-  upper body:
-    name: 上半身
-    image: 718a39279a041597edd6cf45027282eb39d75f9d3baa87c1032f6c130c0cb6ee
-    wikiURL: https://danbooru.donmai.us/wiki_pages/upper_body.html
-    alias:
-      - bust
-  lower body:
-    name: 下半身
-    image: aee72f9f18bc46b12cfe7c9bfeeefb0f93af17df0fdbc29a332d62d6c2cfdaaf
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lower_body.html
   cropped torso upper body:
     name: 上半身出框
     image: dacb91dd9e48ce74cd9ea82f79948662c33ebc0924fcc6a1212284ff127f3d26
@@ -62,16 +48,6 @@ content:
   looking afar:
     name: 远眺
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_afar.html
-  staring:
-    name: 盯着看
-    image: 094181949013e918cdd6483877a1d959f342ea4cb6d7f4ef5a467a041025e39d
-    wikiURL: https://danbooru.donmai.us/wiki_pages/staring.html
-    alias:
-      - stare
-  eye contact:
-    name: 对视
-    image: 269d4031e218d5f256dafd96e40ffc6c2841d5200c9be9009051199691f740bd
-    wikiURL: https://danbooru.donmai.us/wiki_pages/eye_contact.html
   female pov:
     name: 女性视角
     wikiURL: https://danbooru.donmai.us/wiki_pages/female_pov.html
@@ -82,11 +58,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_breasts.html
     alias:
       - staring at breasts
-  looking at penis:
-    restricted: true
-    name: 看着阴茎
-    image: 12f414e3fe8d3c38624557da3d97c7caceb57d3704d11509c0aca4a3b6674e82
-    wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_penis.html
   looking at phone:
     name: 看手机
     image: c9b2dc148d6bb45ca7a7b70b182c79a45db529bddf8da8b42c93cb0b3c914f25
@@ -123,12 +94,6 @@ content:
     name: 仰视
     image: 44bd8096bb3519b85d5ba0a5ffabf77ec385ac7d05c5ea85b9956c93e6fbaf68
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_up.html
-  peeping:
-    name: 偷窥(强调视角)
-    image: 431d051b8a21007271ff36acbf0edf2c7b868953f8c3ade74b91c24d0b1f9e81
-    wikiURL: https://danbooru.donmai.us/wiki_pages/peeping.html
-    alias:
-      - spying
   pov crotch:
     name: 看向裤裆的视角
     wikiURL: https://danbooru.donmai.us/wiki_pages/pov_crotch.html
@@ -143,19 +108,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideways_glance.html
     alias:
       - side glance
-  taking picture:
-    name: 拍照/自拍
-    wikiURL: https://danbooru.donmai.us/wiki_pages/taking_picture.html
-  upshirt:
-    name: 从衬衫下方瞥
-    wikiURL: https://danbooru.donmai.us/wiki_pages/upshirt.html
-  upshorts:
-    name: 从裙底瞥
-    wikiURL: https://danbooru.donmai.us/wiki_pages/upshorts.html
-  upskirt:
-    name: 从人的下方往上瞥
-    image: 77efccfec9e8ba5483833d3aeeedd0b89256aadd718131c40e119df66b6da1c1
-    wikiURL: https://danbooru.donmai.us/wiki_pages/upskirt.html
   solo focus:
     name: 单人焦点
     image: f7370a51081d049e85a2e22611912f1d7e26dd454964da207d10f4c534fb8d8a
@@ -177,7 +129,3 @@ content:
     alias:
       - pov feet
       - feet focus
-  portrait:
-    name: 半身像
-    image: 0417df7c88fdf1dddcbde49361551732bebc07bfcd2e62cd3177400ff3e33a4a
-    wikiURL: https://danbooru.donmai.us/wiki_pages/portrait.html

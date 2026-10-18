@@ -53,7 +53,7 @@ content:
     name: gif 工件
     wikiURL: https://danbooru.donmai.us/wiki_pages/gif_artifacts.html
   blurry edges:
-    name: blurry edges
+    name: 边缘模糊
     wikiURL: https://danbooru.donmai.us/wiki_pages/blurry_edges.html
   has cropped revision:
     name: 已裁剪修订
@@ -62,78 +62,78 @@ content:
     name: 长宽比不好
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_aspect_ratio.html
   bluesky username:
-    name: bluesky username
+    name: 蓝天用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/bluesky_username.html
   miyoushe watermark:
-    name: miyoushe watermark
+    name: 米有舍水印
     wikiURL: https://danbooru.donmai.us/wiki_pages/miyoushe_watermark.html
   error1980:
-    name: errorer1980
+    name: 错误1980
     wikiURL: https://danbooru.donmai.us/wiki_pages/error1980.html
     alias:
     - errorer1980
   bcy username:
-    name: bcy username
+    name: bcy 用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/bcy_username.html
   homicipher text:
-    name: homicipher text
+    name: 同密文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/homicipher_text.html
   arm out of frame:
-    name: arm out of frame
+    name: 手臂脱离框架
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_out_of_frame.html
   cropped arm:
-    name: cropped arm
+    name: 短臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/cropped_arm.html
   pixel text:
-    name: pixel text
+    name: 像素文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/pixel_text.html
   gradient text:
-    name: gradient text
+    name: 渐变文字
     wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_text.html
   canvas texture:
-    name: canvas texture
+    name: 画布纹理
     wikiURL: https://danbooru.donmai.us/wiki_pages/canvas_texture.html
   misskey.io username:
-    name: misskey.io username
+    name: misskey.io 用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/misskey.io_username.html
   has artifacted revision:
-    name: has artifacted revision
+    name: 已进行人工修订
     wikiURL: https://danbooru.donmai.us/wiki_pages/has_artifacted_revision.html
   tiktok username:
-    name: tiktok username
+    name: 抖音用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/tiktok_username.html
   artist name (singer):
-    name: artist name (singer)
+    name: 艺术家姓名（歌手）
     wikiURL: https://danbooru.donmai.us/wiki_pages/artist_name_(singer).html
   has watermarked revision:
     name: 有水印修改
     wikiURL: https://danbooru.donmai.us/wiki_pages/has_watermarked_revision.html
   bilibili username:
-    name: bilibili username
+    name: 哔哩哔哩用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/bilibili_username.html
   boosty username:
-    name: boosty username
+    name: 增强用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/boosty_username.html
   colored text highlight:
-    name: colored text highlight
+    name: 彩色文本突出显示
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_text_highlight.html
   ko-fi username:
-    name: ko-fi username
+    name: ko-fi 用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/ko-fi_username.html
   blurry border:
-    name: blurry border
+    name: 模糊的边界
     wikiURL: https://danbooru.donmai.us/wiki_pages/blurry_border.html
   text hair ornament:
-    name: text hair ornament
+    name: 文字发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/text_hair_ornament.html
   fake text:
-    name: fake text
+    name: 假文字
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_text.html
     alias:
     - fictional text
     - mysterious text
   polish text:
-    name: polish text
+    name: 波兰语文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/polish_text.html
     alias:
     - polish
@@ -141,25 +141,25 @@ content:
     name: 错误1945
     wikiURL: https://danbooru.donmai.us/wiki_pages/error1945.html
   vkontakte username:
-    name: vkontakte username
+    name: vkontakte 用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/vkontakte_username.html
   disfigured:
-    name: disfigured
+    name: 毁容的
     wikiURL: https://danbooru.donmai.us/wiki_pages/disfigured.html
   hoshino terror (blue archive):
-    name: hoshino terror (blue archive)
+    name: 星野恐怖（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hoshino_terror_(blue_archive).html
   mouth out of frame:
-    name: mouth out of frame
+    name: 嘴巴超出框架
     wikiURL: https://danbooru.donmai.us/wiki_pages/mouth_out_of_frame.html
   gibberish text:
-    name: gibberish text
+    name: 乱码文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/gibberish_text.html
   cropped kimono:
-    name: cropped kimono
+    name: 短款和服
     wikiURL: https://danbooru.donmai.us/wiki_pages/cropped_kimono.html
   stippling (texture):
-    name: stippling (texture)
+    name: 点画（纹理）
     wikiURL: https://danbooru.donmai.us/wiki_pages/stippling_(texture).html
   zankyou no terror:
     name: zankyou 没有恐怖
@@ -167,54 +167,54 @@ content:
     alias:
     - terror in resonance
   metal band text:
-    name: metal band text
+    name: 金属带文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/metal_band_text.html
   error dot:
     name: 错误点
     wikiURL: https://danbooru.donmai.us/wiki_pages/error_dot.html
   text tattoo:
-    name: text tattoo
+    name: 文字纹身
     wikiURL: https://danbooru.donmai.us/wiki_pages/text_tattoo.html
   cropped cardigan:
-    name: cropped cardigan
+    name: 短款开衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/cropped_cardigan.html
   blurry eyes:
-    name: blurry eyes
+    name: 眼睛模糊
     wikiURL: https://danbooru.donmai.us/wiki_pages/blurry_eyes.html
   pinyin text:
-    name: pinyin text
+    name: 拼音文字
     wikiURL: https://danbooru.donmai.us/wiki_pages/pinyin_text.html
   ringing artifacts:
-    name: ringing artifacts
+    name: 振铃伪影
     wikiURL: https://danbooru.donmai.us/wiki_pages/ringing_artifacts.html
   text in mouth:
-    name: text in mouth
+    name: 嘴里的文字
     wikiURL: https://danbooru.donmai.us/wiki_pages/text_in_mouth.html
   textolyte:
-    name: textolyte
+    name: 纺织物
     wikiURL: https://danbooru.donmai.us/wiki_pages/textolyte.html
   archaic japanese text:
-    name: archaic japanese text
+    name: 古老的日语文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/archaic_japanese_text.html
   discord username:
-    name: discord username
+    name: 不和谐的用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/discord_username.html
     alias:
     - discord tag
   bad ci-en id:
-    name: bad ci-en id
+    name: 错误的ci-en id
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_ci-en_id.html
   hoyolab username:
-    name: hoyolab username
+    name: 浩约实验室用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/hoyolab_username.html
   early modern english text:
-    name: early modern english text
+    name: 早期现代英语文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/early_modern_english_text.html
   blurry text:
-    name: blurry text
+    name: 模糊的文字
     wikiURL: https://danbooru.donmai.us/wiki_pages/blurry_text.html
   plurk username:
-    name: plurk username
+    name: 普鲁克用户名
     wikiURL: https://danbooru.donmai.us/wiki_pages/plurk_username.html
   oliverror:
     name: 橄榄球
@@ -225,44 +225,93 @@ content:
     alias:
     - hisami touji
   omuretu (butterroru):
-    name: omuretu （butterroru）
+    name: 欧姆雷图（butterroru）
     wikiURL: https://danbooru.donmai.us/wiki_pages/omuretu_(butterroru).html
   bad bilibili id:
-    name: bad bilibili id
+    name: 错误的bilibili ID
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_bilibili_id.html
   bad misskey.io id:
-    name: bad misskey.io id
+    name: 错误 misskey.io id
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_misskey.io_id.html
   bad youtube id:
-    name: bad youtube id
+    name: 错误的 YouTube ID
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_youtube_id.html
   bad dropbox id:
-    name: bad dropbox id
+    name: 错误的保管箱 ID
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_dropbox_id.html
   hindi text:
-    name: hindi text
+    name: 印地文文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/hindi_text.html
     alias:
     - hindi
   photo date watermark:
-    name: photo date watermark
+    name: 照片日期水印
     wikiURL: https://danbooru.donmai.us/wiki_pages/photo_date_watermark.html
   error (errorless):
     name: 错误（无错误）
     wikiURL: https://danbooru.donmai.us/wiki_pages/error_(errorless).html
   turkish text:
-    name: turkish text
+    name: 土耳其语文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/turkish_text.html
     alias:
     - turkish
   danish text:
-    name: danish text
+    name: 丹麦语文本
     wikiURL: https://danbooru.donmai.us/wiki_pages/danish_text.html
     alias:
     - danish
   bad bluesky id:
-    name: bad bluesky id
+    name: 坏蓝天 ID
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_bluesky_id.html
   bad artstreet id:
-    name: bad artstreet id
+    name: 错误的艺术街 ID
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_artstreet_id.html
+  sample watermark:
+    name: sample字样的水印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sample_watermark.html
+  weibo watermark:
+    name: 微博水印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/weibo_watermark.html
+    alias:
+    - weibo username
+  too many watermarks:
+    name: 水印太多
+    wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_watermarks.html
+  watermark grid:
+    name: 水印网格
+    wikiURL: https://danbooru.donmai.us/wiki_pages/watermark_grid.html
+  character watermark:
+    name: 字符水印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_watermark.html
+  bad anatomy:
+    name: 身体结构错误
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bad_anatomy.html
+  bad hands:
+    name: 手型错误
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bad_hands.html
+  fewer digits:
+    alias:
+    - missing fingers
+    name: 缺少手指
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fewer_digits.html
+  extra digit:
+    name: 多余手指
+  missing arms:
+    name: 缺少手臂
+  text:
+    name: 含文字
+    wikiURL: https://danbooru.donmai.us/wiki_pages/text.html
+  signature:
+    name: 含签名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/signature.html
+    alias:
+    - artist signature
+    - autograph
+    - signed
+  watermark:
+    name: 含水印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/watermark.html
+    alias:
+    - watermarked
+  username:
+    name: 含用户名

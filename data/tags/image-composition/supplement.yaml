@@ -12,63 +12,11 @@ content:
     - male only
     - man
     - men
-  grey background:
-    name: 灰色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_background.html
-    alias:
-    - gray background
-    - /graybg
-    - /greybg
-  blue sky:
-    name: 蓝天
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_sky.html
-  blurry background:
-    name: 模糊的背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blurry_background.html
-  blue background:
-    name: 蓝色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_background.html
-    alias:
-    - /bluebg
-    - light blue background
   shadow:
     name: 阴影
     wikiURL: https://danbooru.donmai.us/wiki_pages/shadow.html
     alias:
     - shadows
-  pink background:
-    name: 粉色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_background.html
-    alias:
-    - /pinkbg
-  black background:
-    name: 黑色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_background.html
-    alias:
-    - /blackbg
-  sunlight:
-    name: 阳光
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sunlight.html
-    alias:
-    - sunshine
-  cloudy sky:
-    name: 多云天气
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cloudy_sky.html
-  yellow background:
-    name: 黄色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_background.html
-    alias:
-    - /yellowbg
-  red background:
-    name: 红色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_background.html
-    alias:
-    - /redbg
-  star (sky):
-    name: 星星(天空中的)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_(sky).html
-    alias:
-    - stars (sky)
   light particles:
     name: 光粒子
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_particles.html
@@ -79,36 +27,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/scenery.html
     alias:
     - scenic
-  two-tone background:
-    name: 双色调背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_background.html
-    alias:
-    - /two-tonebg
-  green background:
-    name: 绿色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/green_background.html
-    alias:
-    - dark green background
-    - /greenbg
-    - light green background
   happy birthday:
     name: 生日快乐
     wikiURL: https://danbooru.donmai.us/wiki_pages/happy_birthday.html
-  purple background:
-    name: 紫色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_background.html
-    alias:
-    - /purplebg
-  broom:
-    name: 扫帚
-    wikiURL: https://danbooru.donmai.us/wiki_pages/broom.html
-    alias:
-    - broomstick
-  orange background:
-    name: 橙色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_background.html
-    alias:
-    - /orangebg
   water drop:
     name: 水滴
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_drop.html
@@ -129,12 +50,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/underwater.html
     alias:
     - under water
-  floral background:
-    name: 花朵点缀的背景|有花香的感觉
-    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_background.html
-    alias:
-    - /floralbg
-    - flower background
   electricity:
     name: 电
     wikiURL: https://danbooru.donmai.us/wiki_pages/electricity.html
@@ -144,36 +59,12 @@ content:
   text focus:
     name: 文字元素
     wikiURL: https://danbooru.donmai.us/wiki_pages/text_focus.html
-  sample watermark:
-    name: sample字样的水印
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sample_watermark.html
   triangle mouth:
     name: 三角嘴
     wikiURL: https://danbooru.donmai.us/wiki_pages/triangle_mouth.html
-  polka dot background:
-    name: 圆斑背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_background.html
-    alias:
-    - /pdbg
-    - polka-dot background
-    - /polkadotbg
   hip focus:
     name: 臀部为焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/hip_focus.html
-  multicolored background:
-    name: 多色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_background.html
-    alias:
-    - colorful background
-    - /multicoloredbg
-  weibo watermark:
-    name: weibo watermark
-    wikiURL: https://danbooru.donmai.us/wiki_pages/weibo_watermark.html
-    alias:
-    - weibo username
-  watercraft:
-    name: 船艇
-    wikiURL: https://danbooru.donmai.us/wiki_pages/watercraft.html
   vehicle focus:
     name: 载具的特写
     wikiURL: https://danbooru.donmai.us/wiki_pages/vehicle_focus.html
@@ -187,45 +78,18 @@ content:
   crescent moon:
     name: 新月
     wikiURL: https://danbooru.donmai.us/wiki_pages/crescent_moon.html
-  water bottle:
-    name: 水瓶
-    wikiURL: https://danbooru.donmai.us/wiki_pages/water_bottle.html
-  dark background:
-    name: 深色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dark_background.html
-    alias:
-    - /darkbg
   food focus:
     name: 以食物为焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_focus.html
-  aqua background:
-    name: 水蓝色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_background.html
-    alias:
-    - /aquabg
-    - cyan background
   sunbeam:
     name: 阳光
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunbeam.html
     alias:
     - crepuscular rays
     - light shaft
-  dappled sunlight:
-    name: 透过树叶洒下的阳光
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dappled_sunlight.html
-    alias:
-    - komorebi
-    - sunlight through trees
   birthday:
     name: 生日
     wikiURL: https://danbooru.donmai.us/wiki_pages/birthday.html
-  checkered background:
-    name: 方格背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_background.html
-    alias:
-    - /checkbg
-    - /checkeredbg
-    - /ckbg
   broom riding:
     name: 骑扫帚
     wikiURL: https://danbooru.donmai.us/wiki_pages/broom_riding.html
@@ -238,15 +102,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/infection_monitor_(arknights).html
     alias:
     - oripathy monitor (arknights)
-  photo background:
-    name: 照片为背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/photo_background.html
-    alias:
-    - anime in real life
-    - /photobg
-  white bloomers:
-    name: 白色灯笼裤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_bloomers.html
   knight:
     name: 骑士
     wikiURL: https://danbooru.donmai.us/wiki_pages/knight.html
@@ -255,16 +110,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/oripathy_lesion_(arknights).html
     alias:
     - ore lesion (arknights)
-  water gun:
-    name: 水枪
-    wikiURL: https://danbooru.donmai.us/wiki_pages/water_gun.html
-    alias:
-    - squirt gun
-    - watergun
-    - water pistol
-  twilight:
-    name: 黄昏
-    wikiURL: https://danbooru.donmai.us/wiki_pages/twilight.html
   lightning:
     name: 闪电
     wikiURL: https://danbooru.donmai.us/wiki_pages/lightning.html
@@ -276,55 +121,15 @@ content:
     - electricity symbol
     - lightning bolt
     - lightning bolts
-  gradient sky:
-    name: 倾斜的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_sky.html
   three quarter view:
-    name: three quarter view
+    name: 四分之三视图
     wikiURL: https://danbooru.donmai.us/wiki_pages/three_quarter_view.html
-  star symbol background:
-    name: star symbol background
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_symbol_background.html
   sidelighting:
     name: 侧光
     wikiURL: https://danbooru.donmai.us/wiki_pages/sidelighting.html
-  halftone background:
-    name: 网点图背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/halftone_background.html
-    alias:
-    - /halftonebg
-    - /htbg
-  orange sky:
-    name: 橙色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sky.html
-  argyle background:
-    name: 菱形背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_background.html
-    alias:
-    - /argbg
-    - /argylebg
-    - diamond background
-  abstract background:
-    name: 抽象背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/abstract_background.html
-    alias:
-    - /abstractbg
-  grid background:
-    name: 网格背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grid_background.html
-    alias:
-    - tile background
-  shotgun:
-    name: 霰弹枪
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shotgun.html
   spotlight:
     name: 聚光灯
     wikiURL: https://danbooru.donmai.us/wiki_pages/spotlight.html
-  text background:
-    name: text background
-    wikiURL: https://danbooru.donmai.us/wiki_pages/text_background.html
-    alias:
-    - background text
   seagull:
     name: 海鸥
     wikiURL: https://danbooru.donmai.us/wiki_pages/seagull.html
@@ -342,18 +147,12 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_moon.html
     alias:
     - blood moon
-  grey sky:
-    name: 灰色天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_sky.html
   glowstick:
     name: 荧光棒|打call棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/glowstick.html
     alias:
     - glow stick
     - light stick
-  sparkle background:
-    name: 闪着星光的背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkle_background.html
   city lights:
     name: 城市灯光背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/city_lights.html
@@ -363,7 +162,7 @@ content:
     alias:
     - pov aiming
   mecha focus:
-    name: mecha focus
+    name: 机甲焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/mecha_focus.html
   stage lights:
     name: 舞台灯光
@@ -390,9 +189,6 @@ content:
   light trail:
     name: 光线移动的轨迹
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_trail.html
-  patterned background:
-    name: 重复图案的背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/patterned_background.html
   shoe dangle:
     name: 用脚趾吊着鞋
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoe_dangle.html
@@ -402,9 +198,6 @@ content:
   sunburst:
     name: 日出时突现的光照
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunburst.html
-  purple sky:
-    name: 紫色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_sky.html
   sunrise:
     name: 日出
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunrise.html
@@ -413,28 +206,19 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_bulb.html
     alias:
     - lightbulb
-  starry sky print:
-    name: 星空印花
-    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky_print.html
-  red sky:
-    name: 红色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_sky.html
   sun symbol:
     name: 太阳符号
     wikiURL: https://danbooru.donmai.us/wiki_pages/sun_symbol.html
     alias:
     - sun (symbol)
   fake phone screenshot:
-    name: fake phone screenshot
+    name: 假手机截图
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_phone_screenshot.html
     alias:
     - lock screen
     - phone screen
-  cloud print:
-    name: 云状印花
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_print.html
   window shadow:
-    name: window shadow
+    name: 窗影
     wikiURL: https://danbooru.donmai.us/wiki_pages/window_shadow.html
     alias:
     - window shade
@@ -464,25 +248,14 @@ content:
   spring (season):
     name: 春季
     wikiURL: https://danbooru.donmai.us/wiki_pages/spring_(season).html
-  plaid background:
-    name: 格子呢背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_background.html
-    alias:
-    - /plaidbg
   shallow water:
     name: 浅水
     wikiURL: https://danbooru.donmai.us/wiki_pages/shallow_water.html
-  3d background:
-    name: 3d 背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/3d_background.html
-  dust cloud:
-    name: 烟尘
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dust_cloud.html
   moon (ornament):
     name: 月亮（摆件）
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon_(ornament).html
   sunflower field:
-    name: sunflower field
+    name: 向日葵田
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunflower_field.html
   christmas lights:
     name: 圣诞彩灯
@@ -519,12 +292,6 @@ content:
   in water:
     name: 在水里
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_water.html
-  pink sky:
-    name: 粉红色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_sky.html
-  yellow sky:
-    name: 黄色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_sky.html
   light censor:
     name: 圣光
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_censor.html
@@ -533,11 +300,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/bamboo_broom.html
     alias:
     - bamboo-shafted broom
-  paw print background:
-    name: 爪子背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/paw_print_background.html
-    alias:
-    - paw background
   bunny day:
     name: 兔日
     wikiURL: https://danbooru.donmai.us/wiki_pages/bunny_day.html
@@ -555,12 +317,6 @@ content:
   light machine gun:
     name: 轻机枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_machine_gun.html
-  too many watermarks:
-    name: too many watermarks
-    wikiURL: https://danbooru.donmai.us/wiki_pages/too_many_watermarks.html
-  black sky:
-    name: 黑色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_sky.html
   lightsaber:
     name: 光剑
     wikiURL: https://danbooru.donmai.us/wiki_pages/lightsaber.html
@@ -578,30 +334,21 @@ content:
     name: 鬼正太
     wikiURL: https://danbooru.donmai.us/wiki_pages/onii-shota.html
   object focus:
-    name: object focus
+    name: 物体焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/object_focus.html
   maid day:
     name: 女佣日
     wikiURL: https://danbooru.donmai.us/wiki_pages/maid_day.html
-  above clouds:
-    name: 云之上
-    wikiURL: https://danbooru.donmai.us/wiki_pages/above_clouds.html
   rising sun flag:
-    name: rising sun flag
+    name: 旭日旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/rising_sun_flag.html
     alias:
     - rising sun
-  white sky:
-    name: 白色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/white_sky.html
   rhodes island logo (arknights):
-    name: rhodes island logo (arknights)
+    name: 罗德岛标志（明日方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/rhodes_island_logo_(arknights).html
     alias:
     - rhodes island logo
-  snowflake background:
-    name: 雪花背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_background.html
   candlelight:
     name: 烛光
     wikiURL: https://danbooru.donmai.us/wiki_pages/candlelight.html
@@ -623,9 +370,6 @@ content:
   tokyo (city):
     name: 东京（市）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tokyo_(city).html
-  flag background:
-    name: 国旗背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/flag_background.html
   shotgun shell:
     name: 猎枪弹
     wikiURL: https://danbooru.donmai.us/wiki_pages/shotgun_shell.html
@@ -645,21 +389,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/seal_(animal).html
     alias:
     - seal
-  dotted background:
-    name: 虚线背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dotted_background.html
-  monochrome background:
-    name: 单色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/monochrome_background.html
   reflection focus:
-    name: reflection focus
+    name: 反射焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/reflection_focus.html
-  honeycomb background:
-    name: 蜂窝风格背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/honeycomb_background.html
-    alias:
-    - hexagonal background
-    - /honeycombbg
   restroom:
     name: 卫生间
     wikiURL: https://danbooru.donmai.us/wiki_pages/restroom.html
@@ -667,12 +399,12 @@ content:
     name: 同季度动画角色模仿
     wikiURL: https://danbooru.donmai.us/wiki_pages/season_connection.html
   screenshot inset:
-    name: screenshot inset
+    name: 屏幕截图插图
     wikiURL: https://danbooru.donmai.us/wiki_pages/screenshot_inset.html
     alias:
     - screencap inset
   blake bloom (wuthering waves):
-    name: blake bloom (wuthering waves)
+    name: 布莱克·布鲁姆（呼啸波涛）
     wikiURL: https://danbooru.donmai.us/wiki_pages/blake_bloom_(wuthering_waves).html
   white nightgown:
     name: 白色睡衣
@@ -688,16 +420,13 @@ content:
   afterglow:
     name: 事后余韵
     wikiURL: https://danbooru.donmai.us/wiki_pages/afterglow.html
-  sky print:
-    name: 天空打印
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_print.html
   moon phases:
     name: 月相
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon_phases.html
     alias:
     - lunar phases
   penlight (glowstick):
-    name: penlight (glowstick)
+    name: 笔灯（荧光棒）
     wikiURL: https://danbooru.donmai.us/wiki_pages/penlight_(glowstick).html
   weapon focus:
     name: 武器表
@@ -708,35 +437,21 @@ content:
     name: 躺在水中
     wikiURL: https://danbooru.donmai.us/wiki_pages/lying_on_water.html
   game screenshot inset:
-    name: game screenshot inset
+    name: 游戏截图插图
     wikiURL: https://danbooru.donmai.us/wiki_pages/game_screenshot_inset.html
-  leaf background:
-    name: 叶背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/leaf_background.html
-    alias:
-    - /leafbg
-  sky lantern:
-    name: 天灯
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_lantern.html
   different shadow:
     name: 不同的影子
     wikiURL: https://danbooru.donmai.us/wiki_pages/different_shadow.html
-  dark clouds:
-    name: 乌云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dark_clouds.html
   pokemon focus:
-    name: pokemon focus
+    name: 口袋妖怪焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/pokemon_focus.html
   night vision device:
     name: 夜视镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/night_vision_device.html
     alias:
     - night vision goggles
-  green sky:
-    name: 绿色的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/green_sky.html
   monster focus:
-    name: monster focus
+    name: 怪物焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/monster_focus.html
   dark room:
     name: 暗室
@@ -759,14 +474,6 @@ content:
   originium arts (arknights):
     name: 源石艺术（方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/originium_arts_(arknights).html
-  screenshot background:
-    name: screenshot background
-    wikiURL: https://danbooru.donmai.us/wiki_pages/screenshot_background.html
-    alias:
-    - screencap background
-  cloud tattoo:
-    name: 云纹身
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_tattoo.html
   screen light:
     name: 监控灯
     wikiURL: https://danbooru.donmai.us/wiki_pages/screen_light.html
@@ -791,14 +498,11 @@ content:
   foot dangle:
     name: 脚悬垂
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_dangle.html
-  lace background:
-    name: 花边背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lace_background.html
   black nightgown:
     name: 黑色睡衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_nightgown.html
   triangle facial mark:
-    name: triangle facial mark
+    name: 三角形面部标记
     wikiURL: https://danbooru.donmai.us/wiki_pages/triangle_facial_mark.html
   suneate:
     name: 阳光
@@ -810,14 +514,8 @@ content:
     name: 在水上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_water.html
   flower focus:
-    name: flower focus
+    name: 花焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_focus.html
-  bubble background:
-    name: 气泡背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_background.html
-  game screenshot background:
-    name: 游戏截图背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/game_screenshot_background.html
   triangle-shaped pupils:
     name: 三角形瞳孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/triangle-shaped_pupils.html
@@ -827,40 +525,20 @@ content:
   seaplane:
     name: 水上飞机
     wikiURL: https://danbooru.donmai.us/wiki_pages/seaplane.html
-  fiery background:
-    name: 燃烧的背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fiery_background.html
-    alias:
-    - burning background
-    - /fierybg
-    - fire background
-    - /firebg
-    - flame background
   nori (seaweed):
     name: 紫菜（海藻）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nori_(seaweed).html
   lighting cigarette:
     name: 点燃香烟
     wikiURL: https://danbooru.donmai.us/wiki_pages/lighting_cigarette.html
-  starry sky background:
-    name: starry sky background
-    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky_background.html
-  multicolored sky:
-    name: 多彩多姿的天空
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_sky.html
   choshanland plushy (arknights):
-    name: choshanland plushy (arknights)
+    name: Choshanland 毛绒玩具（明日方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/choshanland_plushy_(arknights).html
-  sketch background:
-    name: sketch background
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sketch_background.html
-    alias:
-    - unfinished background
   shot glass:
     name: 小酒杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/shot_glass.html
   dragon bubble (arknights):
-    name: dragon bubble (arknights)
+    name: 龙泡泡（明日方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_bubble_(arknights).html
   water slide:
     name: 水上滑梯
@@ -871,17 +549,9 @@ content:
   mother's day:
     name: 母亲节
     wikiURL: https://danbooru.donmai.us/wiki_pages/mother's_day.html
-  watermark grid:
-    name: watermark grid
-    wikiURL: https://danbooru.donmai.us/wiki_pages/watermark_grid.html
   string of light bulbs:
     name: 一串灯泡
     wikiURL: https://danbooru.donmai.us/wiki_pages/string_of_light_bulbs.html
-  food-themed background:
-    name: 食物主题背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_background.html
-    alias:
-    - food themed background
   breasts day:
     name: 丰胸日
     wikiURL: https://danbooru.donmai.us/wiki_pages/breasts_day.html
@@ -912,15 +582,9 @@ content:
   mushroom on head:
     name: 头上的蘑菇
     wikiURL: https://danbooru.donmai.us/wiki_pages/mushroom_on_head.html
-  splatter background:
-    name: 飞溅背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/splatter_background.html
   sun print:
     name: 太阳印
     wikiURL: https://danbooru.donmai.us/wiki_pages/sun_print.html
-  rose background:
-    name: 玫瑰背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/rose_background.html
   car seat:
     name: 汽车座椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/car_seat.html
@@ -929,9 +593,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/night_elf_(warcraft).html
     alias:
     - night elf
-  sky focus:
-    name: 天空焦点
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_focus.html
   originium (arknights):
     name: 源石（方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/originium_(arknights).html
@@ -995,26 +656,15 @@ content:
   black bloomers:
     name: 黑色灯笼裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_bloomers.html
-  starry sky bright (idolmaster):
-    name: 星空明亮
-    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky_bright_(idolmaster).html
-    alias:
-    - starry sky bright
   book focus:
     name: 书籍焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/book_focus.html
-  character watermark:
-    name: 字符水印
-    wikiURL: https://danbooru.donmai.us/wiki_pages/character_watermark.html
   good ass day:
     name: 好日子
     wikiURL: https://danbooru.donmai.us/wiki_pages/good_ass_day.html
   love triangle:
     name: 三角恋
     wikiURL: https://danbooru.donmai.us/wiki_pages/love_triangle.html
-  nissan skyline:
-    name: 日产天际线
-    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline.html
   starry moon:
     name: 星月
     wikiURL: https://danbooru.donmai.us/wiki_pages/starry_moon.html
@@ -1029,15 +679,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/streetcar.html
     alias:
     - tram
-  on cloud:
-    name: 在云端
-    wikiURL: https://danbooru.donmai.us/wiki_pages/on_cloud.html
   black sun:
     name: 黑太阳
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_sun.html
-  husky:
-    name: 沙哑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/husky.html
   applying sunscreen:
     name: 涂抹防晒霜
     wikiURL: https://danbooru.donmai.us/wiki_pages/applying_sunscreen.html
@@ -1047,11 +691,6 @@ content:
   sun glare:
     name: 太阳眩光
     wikiURL: https://danbooru.donmai.us/wiki_pages/sun_glare.html
-  pink clouds:
-    name: 粉红色的云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_clouds.html
-    alias:
-    - pink cloud
   sock dangle:
     name: 袜子挂
     wikiURL: https://danbooru.donmai.us/wiki_pages/sock_dangle.html
@@ -1071,9 +710,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_light_bulb.html
     alias:
     - spoken lightbulb
-  sofmap background:
-    name: 软地图背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sofmap_background.html
   sunrise stance:
     name: 日出站姿
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunrise_stance.html
@@ -1100,17 +736,9 @@ content:
   dim lighting:
     name: 昏暗的灯光
     wikiURL: https://danbooru.donmai.us/wiki_pages/dim_lighting.html
-  watercolor background:
-    name: 水彩背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/watercolor_background.html
   sunflower seed:
     name: 葵花籽
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunflower_seed.html
-  fruit background:
-    name: 水果背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fruit_background.html
-    alias:
-    - /fruitbg
   under shot:
     name: 下射
     wikiURL: https://danbooru.donmai.us/wiki_pages/under_shot.html
@@ -1137,21 +765,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/lightning_glare.html
     alias:
     - electric eye contact
-  cloud focus:
-    name: 云焦点
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_focus.html
   engulfing lightning (genshin impact):
     name: 薙草之稻光（原神
     wikiURL: https://danbooru.donmai.us/wiki_pages/engulfing_lightning_(genshin_impact).html
-  mosaic background:
-    name: 马赛克背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mosaic_background.html
-  skylight:
-    name: 天空之光
-    wikiURL: https://danbooru.donmai.us/wiki_pages/skylight.html
-    alias:
-    - ceiling window
-    - skylight (architecture)
   penguin logistics (arknights):
     name: 企鹅物流（arknights）
     wikiURL: https://danbooru.donmai.us/wiki_pages/penguin_logistics_(arknights).html
@@ -1182,24 +798,15 @@ content:
   pink bloomers:
     name: 粉色灯笼裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_bloomers.html
-  nissan skyline gt-r:
-    name: 日产天际线GT-R
-    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline_gt-r.html
   happy holidays:
     name: 节日快乐
     wikiURL: https://danbooru.donmai.us/wiki_pages/happy_holidays.html
   double-barreled shotgun:
     name: 双管霰弹枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/double-barreled_shotgun.html
-  silver background:
-    name: 银色背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_background.html
   nail (hollow knight):
     name: 钉子（空洞骑士）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nail_(hollow_knight).html
-  paneled background:
-    name: 镶板背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/paneled_background.html
   day and night:
     name: 日夜
     wikiURL: https://danbooru.donmai.us/wiki_pages/day_and_night.html
@@ -1215,9 +822,6 @@ content:
   garden of the sun:
     name: 太阳花园
     wikiURL: https://danbooru.donmai.us/wiki_pages/garden_of_the_sun.html
-  mushroom cloud:
-    name: 蘑菇云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mushroom_cloud.html
   watermelon beachball:
     name: 西瓜沙滩球
     wikiURL: https://danbooru.donmai.us/wiki_pages/watermelon_beachball.html
@@ -1246,9 +850,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/illumination_stars_(idolmaster).html
     alias:
     - illumination stars
-  orange clouds:
-    name: 橙色的云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_clouds.html
   broom surfing:
     name: broomsurfing 站在扫帚上
     wikiURL: https://danbooru.donmai.us/wiki_pages/broom_surfing.html
@@ -1281,11 +882,6 @@ content:
   pedestrian lights:
     name: 行人灯
     wikiURL: https://danbooru.donmai.us/wiki_pages/pedestrian_lights.html
-  spiral background:
-    name: 螺旋背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spiral_background.html
-    alias:
-    - /spiralbg
   water tank:
     name: 水箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_tank.html
@@ -1324,9 +920,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/giant_mushroom.html
     alias:
     - oversized mushroom
-  paper background:
-    name: 纸张背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/paper_background.html
   outseal:
     name: 外封
     wikiURL: https://danbooru.donmai.us/wiki_pages/outseal.html
@@ -1348,15 +941,9 @@ content:
   room you can't get out of unless you x (meme):
     name: 除非你 x （meme）否则你无法离开的房间
     wikiURL: https://danbooru.donmai.us/wiki_pages/room_you_can't_get_out_of_unless_you_x_(meme).html
-  red clouds:
-    name: 红云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/red_clouds.html
   water tower:
     name: 水塔
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_tower.html
-  animal background:
-    name: 动物背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/animal_background.html
   dancing stars on me!:
     name: 在我身上跳舞的星星！
     wikiURL: https://danbooru.donmai.us/wiki_pages/dancing_stars_on_me!.html
@@ -1366,9 +953,6 @@ content:
   throne room:
     name: 金銮殿
     wikiURL: https://danbooru.donmai.us/wiki_pages/throne_room.html
-  cloud background:
-    name: 云背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_background.html
   dollhouse view:
     name: 玩具屋视图
     wikiURL: https://danbooru.donmai.us/wiki_pages/dollhouse_view.html
@@ -1404,18 +988,12 @@ content:
   flandre day:
     name: 法兰德斯日
     wikiURL: https://danbooru.donmai.us/wiki_pages/flandre_day.html
-  skydive:
-    name: 跳伞
-    wikiURL: https://danbooru.donmai.us/wiki_pages/skydive.html
   thunderseal:
     name: 雷封
     wikiURL: https://danbooru.donmai.us/wiki_pages/thunderseal.html
   sailor moon narikiri bra set:
     name: 美少女战士成切文胸套装
     wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_moon_narikiri_bra_set.html
-  lightning background:
-    name: 闪电背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lightning_background.html
   night clothes:
     name: 睡衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/night_clothes.html
@@ -1425,12 +1003,6 @@ content:
   maruchan akai kitsune udon:
     name: maruchan akai 狐狸乌冬面
     wikiURL: https://danbooru.donmai.us/wiki_pages/maruchan_akai_kitsune_udon.html
-  storm cloud:
-    name: 风暴云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/storm_cloud.html
-  strawberry background:
-    name: 草莓背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/strawberry_background.html
   black moon clan:
     name: 黑月氏族
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_moon_clan.html
@@ -1477,9 +1049,6 @@ content:
   moon gate:
     name: 月亮门
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon_gate.html
-  spider web background:
-    name: 蜘蛛网背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spider_web_background.html
   the sun (tarot):
     name: 太阳（塔罗牌）
     wikiURL: https://danbooru.donmai.us/wiki_pages/the_sun_(tarot).html
@@ -1489,9 +1058,6 @@ content:
   purple nightgown:
     name: 紫色睡衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_nightgown.html
-  dithered background:
-    name: 抖动背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dithered_background.html
   toilet seat:
     name: 马桶座圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/toilet_seat.html
@@ -1509,12 +1075,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/pantyshot_through_reflection.html
     alias:
     - pantyshot (reflection)
-  sky surfing:
-    name: 空中冲浪
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_surfing.html
-  collage background:
-    name: 拼贴画背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/collage_background.html
   recruitment bag (arknights):
     name: 招募包（明日方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/recruitment_bag_(arknights).html
@@ -1582,9 +1142,6 @@ content:
   needle (hollow knight):
     name: 针（空洞骑士）
     wikiURL: https://danbooru.donmai.us/wiki_pages/needle_(hollow_knight).html
-  firework background:
-    name: 烟花背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/firework_background.html
   thighhigh dangle:
     name: 大腿高垂
     wikiURL: https://danbooru.donmai.us/wiki_pages/thighhigh_dangle.html
@@ -1617,9 +1174,6 @@ content:
   tsunokakushi:
     name: 角隐
     wikiURL: https://danbooru.donmai.us/wiki_pages/tsunokakushi.html
-  black cloud:
-    name: 乌云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/black_cloud.html
   depth charge projector:
     name: 深水炸弹投射器
     wikiURL: https://danbooru.donmai.us/wiki_pages/depth_charge_projector.html
@@ -1632,33 +1186,21 @@ content:
   string lights:
     name: 灯串
     wikiURL: https://danbooru.donmai.us/wiki_pages/string_lights.html
-  fight cloud:
-    name: 斗云
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fight_cloud.html
   fantasy seal:
     name: 幻想海豹
     wikiURL: https://danbooru.donmai.us/wiki_pages/fantasy_seal.html
   blue bloomers:
     name: 蓝色灯笼裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_bloomers.html
-  macaron background:
-    name: 马卡龙背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/macaron_background.html
   children's day:
     name: 儿童节
     wikiURL: https://danbooru.donmai.us/wiki_pages/children's_day.html
   moon in daylight:
     name: 白天的月亮
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon_in_daylight.html
-  gingham background:
-    name: 格子背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gingham_background.html
   chi xiao (arknights):
     name: 赤霄（明日方舟）
     wikiURL: https://danbooru.donmai.us/wiki_pages/chi_xiao_(arknights).html
-  night sky sword:
-    name: 夜空剑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/night_sky_sword.html
   nightgown lift:
     name: 睡衣电梯
     wikiURL: https://danbooru.donmai.us/wiki_pages/nightgown_lift.html
@@ -1706,11 +1248,6 @@ content:
   half-nightmare:
     name: 半噩梦
     wikiURL: https://danbooru.donmai.us/wiki_pages/half-nightmare.html
-  card background:
-    name: 卡片背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/card_background.html
-    alias:
-    - /cardbg
   pink water:
     name: 粉红色的水
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_water.html
@@ -1759,9 +1296,6 @@ content:
   light gun:
     name: 光枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_gun.html
-  map background:
-    name: 地图背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/map_background.html
   strawberry pop moon (idolmaster):
     name: 草莓流行月亮（偶像大师）
     wikiURL: https://danbooru.donmai.us/wiki_pages/strawberry_pop_moon_(idolmaster).html
@@ -1774,9 +1308,6 @@ content:
   water pump:
     name: 水泵
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_pump.html
-  bat background:
-    name: 蝙蝠背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bat_background.html
   wind chime focus:
     name: 风铃焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/wind_chime_focus.html
@@ -1858,9 +1389,6 @@ content:
   water dragon:
     name: 水龙
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_dragon.html
-  camouflage background:
-    name: 迷彩背景
-    wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_background.html
   knights templar:
     name: 圣殿骑士团
     wikiURL: https://danbooru.donmai.us/wiki_pages/knights_templar.html
@@ -1935,7 +1463,7 @@ content:
     name: 轻于空气的煎饼（genshin impact）
     wikiURL: https://danbooru.donmai.us/wiki_pages/lighter-than-air_pancake_(genshin_impact).html
   kokodayo:
-    name: kokodayo
+    name: 科科达约
     wikiURL: https://danbooru.donmai.us/wiki_pages/kokodayo.html
   ecruteak city:
     name: 乌木市
@@ -1955,9 +1483,6 @@ content:
   store room:
     name: 储藏室
     wikiURL: https://danbooru.donmai.us/wiki_pages/store_room.html
-  cleasky (idolmaster):
-    name: cleasky（偶像大师）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cleasky_(idolmaster).html
   street hopper (idolmaster):
     name: 街斗
     wikiURL: https://danbooru.donmai.us/wiki_pages/street_hopper_(idolmaster).html

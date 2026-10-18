@@ -204,12 +204,6 @@ content:
   round window:
     name: 圆窗
     wikiURL: https://danbooru.donmai.us/wiki_pages/round_window.html
-  star tattoo:
-    name: 明星纹身
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_tattoo.html
-  star ornament:
-    name: 明星饰品
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_ornament.html
   screwdriver:
     name: 螺丝刀
     wikiURL: https://danbooru.donmai.us/wiki_pages/screwdriver.html
@@ -275,9 +269,6 @@ content:
   star guardian (league of legends):
     name: 星之守护者(英雄联盟)
     wikiURL: https://danbooru.donmai.us/wiki_pages/star_guardian_(league_of_legends).html
-  brain:
-    name: 脑
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brain.html
   coconut tree:
     name: 椰子树
     wikiURL: https://danbooru.donmai.us/wiki_pages/coconut_tree.html
@@ -413,11 +404,6 @@ content:
   cherry tree:
     name: 樱桃树
     wikiURL: https://danbooru.donmai.us/wiki_pages/cherry_tree.html
-  brain freeze:
-    name: 大脑冻结
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brain_freeze.html
-    alias:
-    - brainfreeze
   spoken star:
     name: 口语明星
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_star.html
@@ -458,9 +444,6 @@ content:
   maple tree:
     name: 枫树
     wikiURL: https://danbooru.donmai.us/wiki_pages/maple_tree.html
-  star bracelet:
-    name: 星星手链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_bracelet.html
   energy drain:
     name: 能量消耗
     wikiURL: https://danbooru.donmai.us/wiki_pages/energy_drain.html
@@ -469,9 +452,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/l85.html
     alias:
     - enfield sa-80
-  snowflake ornament:
-    name: 雪花装饰品
-    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_ornament.html
   starpiece memories (idolmaster):
     name: 明星回忆
     wikiURL: https://danbooru.donmai.us/wiki_pages/starpiece_memories_(idolmaster).html
@@ -647,9 +627,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/ukrainian_text.html
     alias:
     - ukrainian
-  brain injection:
-    name: 脑部注射
-    wikiURL: https://danbooru.donmai.us/wiki_pages/brain_injection.html
   start:dash!!:
     name: 开始：冲！！
     wikiURL: https://danbooru.donmai.us/wiki_pages/start:dash!!.html
@@ -768,7 +745,8 @@ content:
     name: 开始！！真正的梦想（爱生活！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/start!!_true_dreams_(love_live!).html
   hawker harrier:
-    name: 裴海鹞 裴海Harrier 裴海Harrier frs.mk.1 裴海Harrier frs.mk.2 Harrier 海Harrier 海Harrier frs.mk.1 海Harrier frs.mk.2
+    name: 裴海鹞 裴海Harrier 裴海Harrier frs.mk.1 裴海Harrier frs.mk.2 Harrier 海Harrier 海Harrier
+      frs.mk.1 海Harrier frs.mk.2
     wikiURL: https://danbooru.donmai.us/wiki_pages/hawker_harrier.html
     alias:
     - bae harrier
@@ -950,9 +928,6 @@ content:
   galactic empire (star wars):
     name: 银河帝国（星球大战）
     wikiURL: https://danbooru.donmai.us/wiki_pages/galactic_empire_(star_wars).html
-  shooting star hair ornament:
-    name: 流星发饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/shooting_star_hair_ornament.html
   valkyrie (ensemble stars!):
     name: 瓦尔基里（合奏明星！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/valkyrie_(ensemble_stars!).html
@@ -982,9 +957,6 @@ content:
   donbei kitsune udon:
     name: 豚兵卫狐乌冬面
     wikiURL: https://danbooru.donmai.us/wiki_pages/donbei_kitsune_udon.html
-  snowflake hat ornament:
-    name: 雪花帽子装饰品
-    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_hat_ornament.html
   crystal star (sailor moon):
     name: 水晶星（美少女战士）
     wikiURL: https://danbooru.donmai.us/wiki_pages/crystal_star_(sailor_moon).html
@@ -1050,11 +1022,6 @@ content:
   'trailblazer''s hat (honkai: star rail)':
     name: 开拓者的帽子（崩坏：星轨）
     wikiURL: https://danbooru.donmai.us/wiki_pages/trailblazer's_hat_(honkai:_star_rail).html
-  starry skin:
-    name: 星空皮肤
-    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_skin.html
-    alias:
-    - cosmic skin
   star on cheek:
     name: 脸颊上的星星
     wikiURL: https://danbooru.donmai.us/wiki_pages/star_on_cheek.html
@@ -1097,9 +1064,6 @@ content:
   'oak cake roll (honkai: star rail)':
     name: 橡木蛋糕卷（本会：星轨）
     wikiURL: https://danbooru.donmai.us/wiki_pages/oak_cake_roll_(honkai:_star_rail).html
-  water drop hair ornament:
-    name: 水滴发饰
-    wikiURL: https://danbooru.donmai.us/wiki_pages/water_drop_hair_ornament.html
   blue clouds:
     name: 蓝云
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_clouds.html
@@ -1151,11 +1115,6 @@ content:
   perfect night (le sserafim):
     name: 完美的夜晚（le sserafim）
     wikiURL: https://danbooru.donmai.us/wiki_pages/perfect_night_(le_sserafim).html
-  star harmony academy school uniform:
-    name: 星和谐学园校服
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_harmony_academy_school_uniform.html
-    alias:
-    - star harmony academy uniform
   holding wind chime:
     name: 拿着风铃
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_wind_chime.html
@@ -1189,9 +1148,6 @@ content:
   deneb (star):
     name: 天津四（恒星）
     wikiURL: https://danbooru.donmai.us/wiki_pages/deneb_(star).html
-  sessyoin kiara (swimsuit mooncancer) (cosplay):
-    name: sessyoin kiara（泳装月癌）（角色扮演）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sessyoin_kiara_(swimsuit_mooncancer)_(cosplay).html
   snow goggles:
     name: 雪地护目镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/snow_goggles.html
@@ -1219,9 +1175,6 @@ content:
   parting water:
     name: 离水
     wikiURL: https://danbooru.donmai.us/wiki_pages/parting_water.html
-  night raven college gym uniform:
-    name: 夜鸦学院体操服
-    wikiURL: https://danbooru.donmai.us/wiki_pages/night_raven_college_gym_uniform.html
   moon (symbol):
     name: 月亮（符号）
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon_(symbol).html
@@ -1251,18 +1204,12 @@ content:
   nissan skyline r33:
     name: 日产天际线 R33
     wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline_r33.html
-  'kafka (honkai: star rail) (cosplay)':
-    name: 卡夫卡（崩坏：星轨）（角色扮演）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/kafka_(honkai:_star_rail)_(cosplay).html
   red nightgown:
     name: 红色睡衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_nightgown.html
   tsunagaru connect (love live!):
     name: tsunagaru connect（爱生活！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tsunagaru_connect_(love_live!).html
-  funamusea (style):
-    name: funamusea（风格）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/funamusea_(style).html
   mountain climbing:
     name: 登山
     wikiURL: https://danbooru.donmai.us/wiki_pages/mountain_climbing.html
@@ -1286,3 +1233,9 @@ content:
   christmas tree print:
     name: 圣诞树打印
     wikiURL: https://danbooru.donmai.us/wiki_pages/christmas_tree_print.html
+  valley:
+    name: 谷
+    wikiURL: https://danbooru.donmai.us/wiki_pages/valley.html
+  whirlpool:
+    name: 漩涡
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whirlpool.html

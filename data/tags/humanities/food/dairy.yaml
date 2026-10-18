@@ -1,7 +1,7 @@
 name: 乳制品
 category:
-- 人文
-- 食物
+  - 人文
+  - 食物
 content:
   butter:
     name: 黄油
@@ -52,7 +52,7 @@ content:
     name: 牛奶周转桶
     wikiURL: https://danbooru.donmai.us/wiki_pages/milk_churn.html
     alias:
-    - milk can
+      - milk can
     image: 1ed22909367635ba07c7d8465d5354242493a7df71dfa1571e2c64c151f0f811
   milk mustache:
     name: 牛奶小胡子
@@ -70,4 +70,4 @@ content:
     name: 酸奶
     wikiURL: https://danbooru.donmai.us/wiki_pages/yogurt.html
     alias:
-    - yoghurt
+      - yoghurt

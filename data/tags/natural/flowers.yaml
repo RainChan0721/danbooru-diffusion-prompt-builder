@@ -1,20 +1,20 @@
 name: 花卉
 category:
-- 自然
+  - 自然
 content:
   petals:
     name: 花瓣
     image: a24afc328616fcd16cb2f60eb23c15646a0e039fb4d1c65f13f196d126e45aca
     wikiURL: https://danbooru.donmai.us/wiki_pages/petals.html
     alias:
-    - flower petals
-    - petal
+      - flower petals
+      - petal
   flower:
     name: 花
     image: cb577ef3b2f5d4920e4e9174a3e883ea34cacfadcca92704690f0ca497fe97cd
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower.html
     alias:
-    - flowers
+      - flowers
   rose petals:
     name: 玫瑰花瓣
     image: 94d16bafd7a539a60af95b68106f16ee4b66c55da3ca5a14a7fc750aaf5ae886
@@ -24,9 +24,9 @@ content:
     image: 96b7bee970789bd29f6a15e7c2aaa05f4109aefd9c2dc1f34107cc8b6d0b45c4
     wikiURL: https://danbooru.donmai.us/wiki_pages/cherry_blossoms.html
     alias:
-    - sakura blossoms
-    - cherry trees
-    - cherry blossom
+      - sakura blossoms
+      - cherry trees
+      - cherry blossom
   flowers meadows:
     name: 花田
     image: eb7130a6a25bf3cac7e8461827c5e6027bbdb6554a8181d8612312e8e681ee3e
@@ -62,7 +62,7 @@ content:
     name: 鹤望兰
     wikiURL: https://danbooru.donmai.us/wiki_pages/bird_of_paradise_flower.html
     alias:
-    - strelitzia (flower)
+      - strelitzia (flower)
   black-eyed susan:
     name: 黑心金光菊
   bleeding heart:
@@ -79,7 +79,7 @@ content:
     name: 山茶花
     wikiURL: https://danbooru.donmai.us/wiki_pages/camellia.html
     alias:
-    - camellia (flower)
+      - camellia (flower)
   carnation:
     name: 康乃馨
     wikiURL: https://danbooru.donmai.us/wiki_pages/carnation.html
@@ -116,7 +116,7 @@ content:
     name: 水仙
     wikiURL: https://danbooru.donmai.us/wiki_pages/daffodil.html
     alias:
-    - daffodils
+      - daffodils
     image: 1a80e06bd8515e0ba277e70b404ec2518635702cd67e449695c6431253e2248f
   dahlia:
     name: 大丽花
@@ -125,16 +125,16 @@ content:
     name: 雏菊
     wikiURL: https://danbooru.donmai.us/wiki_pages/daisy.html
     alias:
-    - daisies
-    - aster (flower)
-    - daisy (flower)
+      - daisies
+      - aster (flower)
+      - daisy (flower)
   dimorphotheca:
     name: 异果菊
   dandelion:
     name: 蒲公英
     wikiURL: https://danbooru.donmai.us/wiki_pages/dandelion.html
     alias:
-    - dandelions
+      - dandelions
   dianthus:
     name: 石竹
   dipsacaceae:
@@ -181,8 +181,8 @@ content:
     name: 紫阳花
     wikiURL: https://danbooru.donmai.us/wiki_pages/hydrangea.html
     alias:
-    - hydrangeas
-    - hortensia (flower)
+      - hydrangeas
+      - hortensia (flower)
   genista (flower):
     name: 染料木属
   gentiana (flower):
@@ -228,7 +228,7 @@ content:
     name: 铃兰
     wikiURL: https://danbooru.donmai.us/wiki_pages/lily_of_the_valley.html
     alias:
-    - suzuran
+      - suzuran
   lisianthus (flower):
     name: 洋桔梗属
   magnolia:
@@ -297,7 +297,7 @@ content:
     name: 植物
     wikiURL: https://danbooru.donmai.us/wiki_pages/plant.html
     alias:
-    - plants
+      - plants
   clover:
     name: 三叶草
     wikiURL: https://danbooru.donmai.us/wiki_pages/clover.html
@@ -309,20 +309,20 @@ content:
     name: 睡莲
     wikiURL: https://danbooru.donmai.us/wiki_pages/lily_pad.html
     alias:
-    - water lily
-    - lilypads
-    - lilypad
+      - water lily
+      - lilypads
+      - lilypad
     image: 3d8bc816b4b30b9212e5c23f9ad9f8f1c7d4cdad670910ebdb53c113b21a496f
   potted plant:
     name: 盆栽
     wikiURL: https://danbooru.donmai.us/wiki_pages/potted_plant.html
     alias:
-    - potted plants
+      - potted plants
   plum blossoms:
     name: 梅花
     wikiURL: https://danbooru.donmai.us/wiki_pages/plum_blossoms.html
     alias:
-    - plum blossom
+      - plum blossom
   plumeria:
     name: 缅栀花
     wikiURL: https://danbooru.donmai.us/wiki_pages/plumeria.html
@@ -362,13 +362,13 @@ content:
     name: 玫瑰/蔷薇
     wikiURL: https://danbooru.donmai.us/wiki_pages/rose.html
     alias:
-    - roses
+      - roses
     image: 6d6a604c68a657c107f653c72df77fa230d148901bfc32f1f6931ecc65b234d9
   black rose:
     name: 黑玫瑰
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_rose.html
     alias:
-    - black rose (flower)
+      - black rose (flower)
   blue rose:
     name: 蓝玫瑰
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_rose.html
@@ -384,7 +384,7 @@ content:
     name: 灰色玫瑰
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_rose.html
     alias:
-    - gray rose
+      - gray rose
   orange rose:
     name: 橙玫瑰
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_rose.html
@@ -422,17 +422,17 @@ content:
     name: 彼岸花
     wikiURL: https://danbooru.donmai.us/wiki_pages/spider_lily.html
     alias:
-    - higanbana
+      - higanbana
   strawberry blossoms:
     name: 草莓花
     wikiURL: https://danbooru.donmai.us/wiki_pages/strawberry_blossoms.html
     alias:
-    - strawberry blossom
+      - strawberry blossom
   sunflower:
     name: 向日葵
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunflower.html
     alias:
-    - sunflowers
+      - sunflowers
     image: 5d5e88ccae23b720c9ad4aba127a94fcf437a7785fbabc29b569eeffcb25d3cb
   thistle:
     name: 蓟属
@@ -444,7 +444,7 @@ content:
     name: 郁金香
     wikiURL: https://danbooru.donmai.us/wiki_pages/tulip.html
     alias:
-    - tulips
+      - tulips
     image: f2bbc0be1a7c1836421e99cf8af02fe2075f7ad13bcbe26aed159dc5f9deec01
   water lily flower:
     name: 睡莲科
@@ -493,14 +493,14 @@ content:
     name: 花束
     wikiURL: https://danbooru.donmai.us/wiki_pages/bouquet.html
     alias:
-    - bouquets
+      - bouquets
     image: d32ed4fa807e204ab51431839b08434cbcac3427246489d117e7ac8e4d57068b
   coughing flowers:
     name: 咳出花
     wikiURL: https://danbooru.donmai.us/wiki_pages/coughing_flowers.html
     alias:
-    - hanahaki disease
-    - vomiting flowers
+      - hanahaki disease
+      - vomiting flowers
   flower (symbol):
     name: 花(符号)
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_(symbol).html
@@ -521,8 +521,8 @@ content:
     name: 花朵图案(印花)
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print.html
     alias:
-    - floral pattern
-    - flower print
+      - floral pattern
+      - flower print
   hanafuda:
     name: 花札
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanafuda.html
@@ -537,8 +537,8 @@ content:
     name: 水面上漂着花瓣
     wikiURL: https://danbooru.donmai.us/wiki_pages/petals_on_liquid.html
     alias:
-    - petals on water
-    - rose petal bath
+      - petals on water
+      - rose petal bath
   wreath:
     name: 花环
     wikiURL: https://danbooru.donmai.us/wiki_pages/wreath.html

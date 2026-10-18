@@ -185,7 +185,7 @@ content:
     name: 漩涡棒棒糖
     wikiURL: https://danbooru.donmai.us/wiki_pages/swirl_lollipop.html
   m&m's:
-    name: M&M's
+    name: 巧克力豆
     wikiURL: https://danbooru.donmai.us/wiki_pages/m&m's.html
   marble chocolate:
     name: 大理石巧克力
@@ -266,7 +266,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/chocolate_chip_cookie.html
     image: c2247a7660f8a2966d23066116d3609c82c87e02bc9bf3c4bf3d511e9aad4492
   country ma'am:
-    name: COUNTRY MA'AM
+    name: 乡村女士
     wikiURL: https://danbooru.donmai.us/wiki_pages/country_ma'am.html
   gingerbread cookie:
     name: 姜饼饼干
@@ -369,7 +369,7 @@ content:
     name: 香蕉冰激凌
     image: f8e841adf652434e7d9efc8ece6192c3eea9c5a736eb6376155547b4017f7532
   coolish:
-    name: Coolish
+    name: 凉爽的
     description: Lotte 制小包装冰激凌。
     wikiURL: https://danbooru.donmai.us/wiki_pages/coolish.html
   ice cream cone:
@@ -594,3 +594,11 @@ content:
   umaibou:
     name: 美味棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/umaibou.html
+  mr.milk caramel:
+    name: 牛奶焦糖先生
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mr.milk_caramel.html
+    restricted: true
+  caramel (caramelmilk):
+    name: 焦糖（焦糖牛奶）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/caramel_(caramelmilk).html
+    restricted: true

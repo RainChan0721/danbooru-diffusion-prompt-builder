@@ -315,9 +315,6 @@ content:
     - fiery weapon
     - fire weapon
     - flame weapon
-  motorcycle helmet:
-    name: 摩托头盔
-    wikiURL: https://danbooru.donmai.us/wiki_pages/motorcycle_helmet.html
   battle rifle:
     name: 战术步枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/battle_rifle.html
@@ -575,9 +572,6 @@ content:
   staff of selection (fate):
     name: 选拔人员（命运）
     wikiURL: https://danbooru.donmai.us/wiki_pages/staff_of_selection_(fate).html
-  tank helmet:
-    name: 坦克头盔
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tank_helmet.html
   ballistic shield:
     name: 防弹盾
     wikiURL: https://danbooru.donmai.us/wiki_pages/ballistic_shield.html
@@ -718,9 +712,6 @@ content:
   weapon name:
     name: 武器名称
     wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_name.html
-  bicycle helmet:
-    name: 自行车头盔
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bicycle_helmet.html
   crosier:
     name: 牧师杖（西式）
     wikiURL: https://danbooru.donmai.us/wiki_pages/crosier.html
@@ -1485,9 +1476,6 @@ content:
     alias:
     - bullet trail
     - tracer fire
-  wandenreich uniform:
-    name: 万登帝国制服
-    wikiURL: https://danbooru.donmai.us/wiki_pages/wandenreich_uniform.html
   railgun (misaka mikoto):
     name: 超电磁炮（御坂美琴）
     wikiURL: https://danbooru.donmai.us/wiki_pages/railgun_(misaka_mikoto).html
@@ -1972,3 +1960,140 @@ content:
   brigandine (armor):
     name: 镶甲（盔甲）
     wikiURL: https://danbooru.donmai.us/wiki_pages/brigandine_(armor).html
+  barrett m82:
+    name: 巴雷特 m82a2 m-82a m82 m82a1
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barrett_m82.html
+    alias:
+    - barrett m107
+    - barrett m82a2
+    - m107
+    - m82
+    - m-82a
+  m1918 bar:
+    name: m1918酒吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/m1918_bar.html
+  double barrels:
+    name: 双桶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/double_barrels.html
+  fabarm fp6:
+    name: 法巴姆 fp6
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fabarm_fp6.html
+    alias:
+    - fp-6
+  barrel shroud:
+    name: 桶形护罩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barrel_shroud.html
+  splat dualies (splatoon):
+    name: splat 双重 (splatoon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/splat_dualies_(splatoon).html
+  dapple dualies (splatoon):
+    name: 斑纹双重 (splatoon)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dapple_dualies_(splatoon).html
+  spear:
+    name: 矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spear.html
+    alias:
+    - spears
+  shoulder blades:
+    name: 肩胛骨
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_blades.html
+  arm cannon:
+    name: 手炮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_cannon.html
+    alias:
+    - mega buster
+    - x buster
+    - z buster
+    - zero buster
+  glowing sword:
+    name: 发光的剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_sword.html
+  arm blade:
+    name: 手臂刀刃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_blade.html
+  sword over shoulder:
+    name: 靠在肩上的剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_over_shoulder.html
+  spear the gungnir:
+    name: 神枪朗基努斯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spear_the_gungnir.html
+  drawing sword:
+    name: 拔剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drawing_sword.html
+  shoulder cannon:
+    name: 肩炮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_cannon.html
+  bishamonten's spear:
+    name: 毘沙门天之矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishamonten's_spear.html
+  balance scale:
+    name: 天平
+    wikiURL: https://danbooru.donmai.us/wiki_pages/balance_scale.html
+    alias:
+    - balance scales
+  arm shield:
+    name: 臂盾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_shield.html
+  primordial jade winged-spear (genshin impact):
+    name: 和璞鸢（原神长柄武器）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/primordial_jade_winged-spear_(genshin_impact).html
+  javelin (spear):
+    name: 标枪（矛）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/javelin_(spear).html
+  spear of cassius:
+    name: 卡修斯之矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spear_of_cassius.html
+  planted spear:
+    name: 种植长矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/planted_spear.html
+  energy spear:
+    name: 能量矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/energy_spear.html
+  finger cannon:
+    name: 手指炮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/finger_cannon.html
+  horn lance:
+    name: 喇叭枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horn_lance.html
+  winged sword:
+    name: 有翼的剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/winged_sword.html
+  sword between thighs:
+    name: 大腿之间的剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sword_between_thighs.html
+  beast spear:
+    name: 兽矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beast_spear.html
+  drillhorn sword:
+    name: 钻角剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drillhorn_sword.html
+  aspear berry:
+    name: 芦笋浆果
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aspear_berry.html
+  longhorn lance:
+    name: 长角牛矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/longhorn_lance.html
+  friulian spear:
+    name: 弗留利矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/friulian_spear.html
+  broken spear:
+    name: 断矛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/broken_spear.html
+  bowgun:
+    name: 弓箭
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bowgun.html
+  water gun:
+    name: 水枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/water_gun.html
+    alias:
+    - squirt gun
+    - watergun
+    - water pistol
+  shotgun:
+    name: 霰弹枪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shotgun.html
+  bow (weapon):
+    name: 弓
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bow_(weapon).html
+    alias:
+    - bow and arrow

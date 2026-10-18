@@ -133,7 +133,7 @@ content:
     name: 红色裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_skirt.html
   black hat:
-    name: black hat
+    name: 黑帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_hat.html
   blue shirt:
     name: 蓝色衬衫
@@ -189,7 +189,7 @@ content:
     name: 蓝色丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_ribbon.html
   white hat:
-    name: white hat
+    name: 白帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_hat.html
   mob cap:
     name: 头巾式室内女帽
@@ -410,7 +410,7 @@ content:
     name: 紫色裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_skirt.html
   red hat:
-    name: red hat
+    name: 红帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_hat.html
   green shirt:
     name: 绿色衬衫
@@ -442,7 +442,7 @@ content:
     name: 皮带扣
     wikiURL: https://danbooru.donmai.us/wiki_pages/belt_buckle.html
   blue hat:
-    name: blue hat
+    name: 蓝帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_hat.html
   red-framed eyewear:
     name: 红框眼镜
@@ -537,7 +537,7 @@ content:
     alias:
     - military cap
   unworn hat:
-    name: unworn hat
+    name: 未戴过的帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_hat.html
     alias:
     - hat off
@@ -556,11 +556,6 @@ content:
   front-tie bikini top:
     name: 前系带比基尼上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/front-tie_bikini_top.html
-  bow (weapon):
-    name: 弓
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bow_(weapon).html
-    alias:
-    - bow and arrow
   purple ribbon:
     name: 紫色丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_ribbon.html
@@ -643,7 +638,7 @@ content:
     - pink bikini bottom
     - pink bikini top
   mecha pilot suit:
-    name: mecha pilot suit
+    name: 机甲飞行员服
     wikiURL: https://danbooru.donmai.us/wiki_pages/mecha_pilot_suit.html
   brown pants:
     name: 棕色长裤
@@ -675,7 +670,7 @@ content:
     name: 黑色连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_hoodie.html
   brown hat:
-    name: brown hat
+    name: 棕色帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_hat.html
   lace-up boots:
     name: 系带靴
@@ -729,7 +724,7 @@ content:
     alias:
     - print yukata
   green hat:
-    name: green hat
+    name: 绿帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_hat.html
   white choker:
     name: 白色项圈
@@ -770,7 +765,7 @@ content:
     name: 白色腰带
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_belt.html
   unworn eyewear:
-    name: unworn eyewear
+    name: 未佩戴的眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_eyewear.html
     alias:
     - eyewear removed
@@ -853,7 +848,7 @@ content:
     name: 腿部丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_ribbon.html
   pink hat:
-    name: pink hat
+    name: 粉红色的帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_hat.html
   blue coat:
     name: 蓝色外套
@@ -910,7 +905,7 @@ content:
     alias:
     - gray sweater
   headscarf:
-    name: headscarf
+    name: 头巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/headscarf.html
     alias:
     - head scarf
@@ -923,7 +918,7 @@ content:
     alias:
     - pants down
   unworn shoes:
-    name: unworn shoes
+    name: 未穿过的鞋子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_shoes.html
     alias:
     - shoes off
@@ -993,7 +988,7 @@ content:
     alias:
     - no blouse
   purple hat:
-    name: purple hat
+    name: 紫色帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_hat.html
   blue hoodie:
     name: 蓝色连帽衫
@@ -1019,7 +1014,7 @@ content:
     name: 樱丘女子高等学校校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sakuragaoka_high_school_uniform.html
   superhero costume:
-    name: superhero costume
+    name: 超级英雄服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/superhero_costume.html
     alias:
     - superhero
@@ -1132,7 +1127,7 @@ content:
     alias:
     - jester hat
   unworn skirt:
-    name: unworn skirt
+    name: 未穿过的裙子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_skirt.html
     alias:
     - skirt off
@@ -1186,7 +1181,7 @@ content:
     name: 手提箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/suitcase.html
   cow print bikini:
-    name: cow print bikini
+    name: 奶牛印花比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print_bikini.html
   brown bow:
     name: 棕色蝴蝶结
@@ -1307,7 +1302,7 @@ content:
     name: 尾巴系着缎带
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_ribbon.html
   hasu no sora school uniform:
-    name: hasu no sora school uniform
+    name: 哈苏之空校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hasu_no_sora_school_uniform.html
     alias:
     - hasunosora school uniform
@@ -1335,13 +1330,13 @@ content:
     - orange bikini bottom
     - orange bikini top
   grey hat:
-    name: grey hat
+    name: 灰帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_hat.html
   two-tone gloves:
     name: 双色手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_gloves.html
   unworn jacket:
-    name: unworn jacket
+    name: 未穿过的夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_jacket.html
     alias:
     - jacket off
@@ -1527,7 +1522,7 @@ content:
     alias:
     - polka-dot bikini
   cow print gloves:
-    name: cow print gloves
+    name: 奶牛印花手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print_gloves.html
   yellow kimono:
     name: 黄色和服
@@ -1541,7 +1536,7 @@ content:
     - flower earring
     - rose earrings
   bikini top lift:
-    name: bikini top lift
+    name: 比基尼上提拉
     wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_top_lift.html
   soccer uniform:
     name: 足球服
@@ -1555,7 +1550,7 @@ content:
     alias:
     - animal ear bow
   yellow hat:
-    name: yellow hat
+    name: 黄帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_hat.html
   two-sided cape:
     name: 双面斗篷
@@ -1629,7 +1624,7 @@ content:
     name: 瑜伽裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/yoga_pants.html
   colored extremities:
-    name: colored extremities
+    name: 有色四肢
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_extremities.html
     alias:
     - darker arms
@@ -1697,7 +1692,7 @@ content:
     name: 红色眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/red-tinted_eyewear.html
   sphere earrings:
-    name: sphere earrings
+    name: 球形耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/sphere_earrings.html
   paw shoes:
     name: 兽爪鞋
@@ -1797,7 +1792,7 @@ content:
     name: 格子领结
     wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_bowtie.html
   nijigasaki school uniform:
-    name: nijigasaki school uniform
+    name: 虹崎校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/nijigasaki_school_uniform.html
     alias:
     - nijigasaki academy school uniform
@@ -1846,7 +1841,7 @@ content:
     name: 绿色连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_hoodie.html
   unworn shirt:
-    name: unworn shirt
+    name: 未穿过的衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_shirt.html
     alias:
     - shirt off
@@ -1943,7 +1938,7 @@ content:
     name: 绿色项圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_choker.html
   turtleneck shirt:
-    name: turtleneck shirt
+    name: 高领衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/turtleneck_shirt.html
   purple belt:
     name: 紫带
@@ -1976,7 +1971,7 @@ content:
     - ricebowl
     - rice bowls
   orange hat:
-    name: orange hat
+    name: 橙色帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_hat.html
   dress flower:
     name: 礼服花
@@ -2008,7 +2003,7 @@ content:
     name: 北宇治高中校服（吹响吧！上低音号）
     wikiURL: https://danbooru.donmai.us/wiki_pages/kitauji_high_school_uniform.html
   floral print kimono:
-    name: floral print kimono
+    name: 花卉印花和服
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_kimono.html
   santa bikini:
     name: 圣诞老人比基尼
@@ -2021,9 +2016,6 @@ content:
   multicolored bodysuit:
     name: 多色款连体衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_bodysuit.html
-  carrot necklace:
-    name: 胡萝卜项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_necklace.html
   party hat:
     name: 派对帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/party_hat.html
@@ -2176,7 +2168,7 @@ content:
     name: 网球衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/tennis_uniform.html
   little busters! school uniform:
-    name: little busters! school uniform
+    name: 小克星！校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/little_busters!_school_uniform.html
   checkered necktie:
     name: 格纹领带
@@ -2226,7 +2218,7 @@ content:
     alias:
     - shuuchiin academy uniform
   low-tied sidelocks:
-    name: low-tied sidelocks
+    name: 低系侧锁
     wikiURL: https://danbooru.donmai.us/wiki_pages/low-tied_sidelocks.html
     alias:
     - low tied sidelocks
@@ -2334,7 +2326,7 @@ content:
     name: 圣葛罗莉安娜军装
     wikiURL: https://danbooru.donmai.us/wiki_pages/st._gloriana's_military_uniform.html
   square-end necktie:
-    name: square-end necktie
+    name: 方头领带
     wikiURL: https://danbooru.donmai.us/wiki_pages/square-end_necktie.html
   fur-trimmed skirt:
     name: 毛皮镶边短裙
@@ -2352,7 +2344,7 @@ content:
     name: 紫色连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_hoodie.html
   sideless kimono:
-    name: sideless kimono
+    name: 无侧和服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_kimono.html
   dixie cup hat:
     name: 狗盆帽
@@ -2370,7 +2362,7 @@ content:
     name: 绿色紧身衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_bodysuit.html
   homurabara academy school uniform:
-    name: homurabara academy school uniform
+    name: 焰原学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/homurabara_academy_school_uniform.html
     alias:
     - homurahara academy school uniform
@@ -2443,7 +2435,7 @@ content:
     name: 红围裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_apron.html
   unworn bikini top:
-    name: unworn bikini top
+    name: 未穿过的比基尼上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_bikini_top.html
   green capelet:
     name: 绿色披肩
@@ -2452,7 +2444,7 @@ content:
     name: 彩虹渐变
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_gradient.html
   unworn boots:
-    name: unworn boots
+    name: 未穿过的靴子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_boots.html
   no jacket:
     name: 没有夹克
@@ -2542,7 +2534,7 @@ content:
     name: 肩带
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoulder_belt.html
   unworn socks:
-    name: unworn socks
+    name: 未穿过的袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_socks.html
     alias:
     - socks off
@@ -2556,7 +2548,7 @@ content:
     name: 黄色毛衣背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_sweater_vest.html
   unworn gloves:
-    name: unworn gloves
+    name: 未戴过的手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_gloves.html
   lace choker:
     name: 蕾丝项圈
@@ -2626,16 +2618,11 @@ content:
     name: 遮阳板（盔甲）
     wikiURL: https://danbooru.donmai.us/wiki_pages/visor_(armor).html
   fourth east high school uniform:
-    name: fourth east high school uniform
+    name: 第四东高中校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/fourth_east_high_school_uniform.html
   embellished costume:
     name: 经润饰的服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/embellished_costume.html
-  food-themed earrings:
-    name: 食物主题耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_earrings.html
-    alias:
-    - food themed earrings
   pink capelet:
     name: 粉色披肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_capelet.html
@@ -2646,7 +2633,7 @@ content:
     name: 袖带
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeve_ribbon.html
   naranja academy school uniform:
-    name: naranja academy school uniform
+    name: 纳兰加学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/naranja_academy_school_uniform.html
     alias:
     - naranja academy uniform
@@ -2694,7 +2681,7 @@ content:
     name: 透视夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_jacket.html
   sideless shirt:
-    name: sideless shirt
+    name: 无边衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_shirt.html
   two-tone cape:
     name: 双色斗篷
@@ -2709,7 +2696,7 @@ content:
     name: 折叠靴
     wikiURL: https://danbooru.donmai.us/wiki_pages/fold-over_boots.html
   shuka high school uniform:
-    name: shuka high school uniform
+    name: 修卡高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/shuka_high_school_uniform.html
   shirt grab:
     name: 衬衫抢
@@ -2803,7 +2790,7 @@ content:
     name: 总武高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sobu_high_school_uniform.html
   eden academy school uniform:
-    name: eden academy school uniform
+    name: 伊甸园学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/eden_academy_school_uniform.html
     alias:
     - eden academy uniform
@@ -2877,7 +2864,7 @@ content:
     name: 侧领带偷看
     wikiURL: https://danbooru.donmai.us/wiki_pages/side-tie_peek.html
   uva academy school uniform:
-    name: uva academy school uniform
+    name: uva学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/uva_academy_school_uniform.html
     alias:
     - uva academy uniform
@@ -2894,7 +2881,7 @@ content:
     name: 灰色斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_cape.html
   unworn dress:
-    name: unworn dress
+    name: 未穿过的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_dress.html
   red robe:
     name: 红袍
@@ -2903,7 +2890,7 @@ content:
     name: 绿化带
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_belt.html
   side cape:
-    name: side cape
+    name: 侧角
     wikiURL: https://danbooru.donmai.us/wiki_pages/side_cape.html
     alias:
     - single-shoulder cape
@@ -2931,7 +2918,7 @@ content:
     alias:
     - loose blouse
   shuujin academy school uniform:
-    name: shuujin academy school uniform
+    name: 修真学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/shuujin_academy_school_uniform.html
     alias:
     - shuujin academy uniform
@@ -2959,7 +2946,7 @@ content:
     name: 清澄高中校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/kiyosumi_school_uniform.html
   plaid hat:
-    name: plaid hat
+    name: 格子帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_hat.html
   chat log:
     name: 聊天框风格
@@ -2968,14 +2955,14 @@ content:
     name: 牛仔靴
     wikiURL: https://danbooru.donmai.us/wiki_pages/cowboy_boots.html
   hard hat:
-    name: hard hat
+    name: 安全帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/hard_hat.html
     alias:
     - construction helmet
     - hardhat
     - safety helmet
   unworn coat:
-    name: unworn coat
+    name: 未穿过的外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_coat.html
     alias:
     - coat removed
@@ -3003,7 +2990,7 @@ content:
     name: 七色丘中学校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/nanairogaoka_middle_school_uniform.html
   hatsuboshi gakuen school uniform:
-    name: hatsuboshi gakuen school uniform
+    name: 初星学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hatsuboshi_gakuen_school_uniform.html
   hooded bodysuit:
     name: 连帽连体衣
@@ -3044,7 +3031,7 @@ content:
     alias:
     - griffin and kryuger military uniform
   fatui coat:
-    name: fatui coat
+    name: 法图伊外套
     wikiURL: https://danbooru.donmai.us/wiki_pages/fatui_coat.html
   multicolored cape:
     name: 多色款斗篷
@@ -3136,12 +3123,12 @@ content:
     name: 毛皮斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur_cloak.html
   miyamasuzaka girls' academy school uniform:
-    name: miyamasuzaka girls' academy school uniform
+    name: 宫须坂女子学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/miyamasuzaka_girls'_academy_school_uniform.html
     alias:
     - miyamasuzaka girls' academy uniform
   aqua hat:
-    name: aqua hat
+    name: 水帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_hat.html
   multicolored scarf:
     name: 五彩围巾
@@ -3186,13 +3173,13 @@ content:
     name: 桑德斯军装
     wikiURL: https://danbooru.donmai.us/wiki_pages/saunders_military_uniform.html
   barefoot sandals (jewelry):
-    name: barefoot sandals (jewelry)
+    name: 赤脚凉鞋（珠宝）
     wikiURL: https://danbooru.donmai.us/wiki_pages/barefoot_sandals_(jewelry).html
   sideless dress:
-    name: sideless dress
+    name: 无侧连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/sideless_dress.html
   virgin destroyer sweater:
-    name: virgin destroyer sweater
+    name: 处女破坏者毛衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/virgin_destroyer_sweater.html
   sidelocks tied back:
     name: 侧锁绑回
@@ -3207,7 +3194,7 @@ content:
     name: 塑胶手套
     wikiURL: https://danbooru.donmai.us/wiki_pages/rubber_gloves.html
   rabbit hat:
-    name: rabbit hat
+    name: 兔子帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_hat.html
     alias:
     - bunny hat
@@ -3260,7 +3247,7 @@ content:
     name: 无袖连体衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeveless_bodysuit.html
   hololive idol uniform (origin):
-    name: hololive idol uniform (origin)
+    name: Hololive偶像制服（起源）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hololive_idol_uniform_(origin).html
     alias:
     - hololive idol uniform
@@ -3272,7 +3259,7 @@ content:
     name: 铆钉项圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/studded_choker.html
   sophist's robe (ff14):
-    name: sophist's robe (ff14)
+    name: 诡辩者长袍 (ff14)
     wikiURL: https://danbooru.donmai.us/wiki_pages/sophist's_robe_(ff14).html
   green sweater vest:
     name: 绿色毛衣背心
@@ -3291,7 +3278,7 @@ content:
     alias:
     - tassel hat ornament
   shimokitazawa high school uniform:
-    name: shimokitazawa high school uniform
+    name: 下北泽高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/shimokitazawa_high_school_uniform.html
   apron lift:
     name: 停机坪升降机
@@ -3300,7 +3287,7 @@ content:
     name: 星形眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/star-shaped_eyewear.html
   youtou high school uniform:
-    name: youtou high school uniform
+    name: 优头高中校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/youtou_high_school_uniform.html
   polka dot ribbon:
     name: 圆点丝带
@@ -3324,7 +3311,7 @@ content:
     name: 点兔女仆装
     wikiURL: https://danbooru.donmai.us/wiki_pages/fleur_de_lapin_uniform.html
   ashford academy school uniform:
-    name: ashford academy school uniform
+    name: 阿什福德学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ashford_academy_school_uniform.html
     alias:
     - ashford academy uniform
@@ -3341,7 +3328,7 @@ content:
     name: 着装
     wikiURL: https://danbooru.donmai.us/wiki_pages/dressing_another.html
   multicolored hat:
-    name: multicolored hat
+    name: 五彩帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_hat.html
   seatbelt:
     name: 座位安全带
@@ -3362,7 +3349,7 @@ content:
     name: 安齐奥军服
     wikiURL: https://danbooru.donmai.us/wiki_pages/anzio_military_uniform.html
   short-sleeved jacket:
-    name: short-sleeved jacket
+    name: 短袖夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/short-sleeved_jacket.html
     alias:
     - short sleeved jacket
@@ -3451,7 +3438,7 @@ content:
     name: 夹克升降机
     wikiURL: https://danbooru.donmai.us/wiki_pages/jacket_lift.html
   teardrop earrings:
-    name: teardrop earrings
+    name: 泪珠耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/teardrop_earrings.html
   adapted uniform:
     name: 改装制服
@@ -3460,18 +3447,18 @@ content:
     name: 毛衣塞进去
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_tucked_in.html
   unworn necktie:
-    name: unworn necktie
+    name: 未佩戴的领带
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_necktie.html
   overall skirt:
     name: 连身裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/overall_skirt.html
   unworn bikini bottom:
-    name: unworn bikini bottom
+    name: 未穿过的比基尼泳裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_bikini_bottom.html
     alias:
     - bikini bottom removed
   pink track suit:
-    name: pink track suit
+    name: 粉色运动服
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_track_suit.html
   lowleg skirt:
     name: 低腿裙
@@ -3498,7 +3485,7 @@ content:
     name: 五彩连帽衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_hoodie.html
   unworn bikini:
-    name: unworn bikini
+    name: 未穿过的比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_bikini.html
     alias:
     - bikini removed
@@ -3555,7 +3542,7 @@ content:
     name: 灰色项圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_choker.html
   unworn jewelry:
-    name: unworn jewelry
+    name: 未佩戴过的珠宝
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_jewelry.html
     alias:
     - jewelry removed
@@ -3583,7 +3570,7 @@ content:
     name: 撕裂的斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/torn_cloak.html
   st. chronica academy school uniform:
-    name: st. chronica academy school uniform
+    name: 圣。慢性学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/st._chronica_academy_school_uniform.html
     alias:
     - st. chronica academy uniform
@@ -3594,10 +3581,10 @@ content:
     name: 斗笠
     wikiURL: https://danbooru.donmai.us/wiki_pages/rice_hat.html
   white undershirt:
-    name: white undershirt
+    name: 白色汗衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_undershirt.html
   motosu school uniform:
-    name: motosu school uniform
+    name: 本栖校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/motosu_school_uniform.html
   odaiba girls high school uniform:
     name: 台场女子高中制服
@@ -3638,7 +3625,7 @@ content:
     alias:
     - kibougamine gakuen school uniform
   lillian girls' academy school uniform:
-    name: lillian girls' academy school uniform
+    name: 莉莲女子学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/lillian_girls'_academy_school_uniform.html
     alias:
     - lillian girls' academy uniform
@@ -3684,7 +3671,7 @@ content:
     name: 渔网连体衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/fishnet_bodysuit.html
   normal suit:
-    name: normal suit
+    name: 普通套装
     wikiURL: https://danbooru.donmai.us/wiki_pages/normal_suit.html
   fast food uniform:
     name: 快餐制服
@@ -3696,7 +3683,7 @@ content:
     name: 腰间衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_around_waist.html
   belt skirt:
-    name: belt skirt
+    name: 腰带裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/belt_skirt.html
     alias:
     - beltskirt
@@ -3748,18 +3735,18 @@ content:
     name: 戒指项链
     wikiURL: https://danbooru.donmai.us/wiki_pages/ring_necklace.html
   waist ribbon:
-    name: waist ribbon
+    name: 腰部丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/waist_ribbon.html
   scale armor:
     name: 鳞甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/scale_armor.html
   shirt partially tucked in:
-    name: shirt partially tucked in
+    name: 衬衫部分塞进里面
     wikiURL: https://danbooru.donmai.us/wiki_pages/shirt_partially_tucked_in.html
     alias:
     - shirt half tucked in
   konohagakure shinobi uniform:
-    name: konohagakure shinobi uniform
+    name: 木叶忍者制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/konohagakure_shinobi_uniform.html
   wardrobe error:
     name: 穿衣方式错了
@@ -3781,7 +3768,7 @@ content:
     name: 迷你魔女帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/mini_witch_hat.html
   two-tone hat:
-    name: two-tone hat
+    name: 双色帽子
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_hat.html
   fur-trimmed bikini:
     name: 毛皮边饰比基尼
@@ -3802,7 +3789,7 @@ content:
     name: 印花裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_pants.html
   hololive idol uniform (bright):
-    name: hololive idol uniform (bright)
+    name: Hololive偶像制服（亮）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hololive_idol_uniform_(bright).html
     alias:
     - hololive bright outfit
@@ -3810,15 +3797,15 @@ content:
     name: 粉色毛衣背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_sweater_vest.html
   prehensile ribbon:
-    name: prehensile ribbon
+    name: 易抓带
     wikiURL: https://danbooru.donmai.us/wiki_pages/prehensile_ribbon.html
   starlight academy school uniform:
-    name: starlight academy school uniform
+    name: 星光学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/starlight_academy_school_uniform.html
     alias:
     - starlight academy uniform
   print socks:
-    name: print socks
+    name: 印花袜子
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_socks.html
   bc freedom school uniform:
     name: BC自由校服
@@ -3870,7 +3857,7 @@ content:
     name: 迷彩衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_shirt.html
   military dress uniform:
-    name: military dress uniform
+    name: 军装
     wikiURL: https://danbooru.donmai.us/wiki_pages/military_dress_uniform.html
   front-tie bra:
     name: 前系带文胸
@@ -3903,7 +3890,7 @@ content:
     name: 女军帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/female_service_cap.html
   torn socks:
-    name: torn socks
+    name: 袜子破了
     wikiURL: https://danbooru.donmai.us/wiki_pages/torn_socks.html
   fishbowl:
     name: 鱼缸
@@ -3917,13 +3904,13 @@ content:
     name: 强化套装
     wikiURL: https://danbooru.donmai.us/wiki_pages/fortified_suit.html
   itan private high school uniform:
-    name: itan private high school uniform
+    name: 私立伊坦高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/itan_private_high_school_uniform.html
   multicolored necktie:
     name: 五彩领带
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_necktie.html
   unworn pants:
-    name: unworn pants
+    name: 未穿过的裤子
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_pants.html
     alias:
     - pants removed
@@ -3937,7 +3924,7 @@ content:
     name: 心带
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_belt.html
   floral print dress:
-    name: floral print dress
+    name: 花卉印花连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_dress.html
   print ribbon:
     name: 打印色带
@@ -3949,7 +3936,7 @@ content:
     name: 丝带边披肩
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_capelet.html
   moegi high school uniform:
-    name: moegi high school uniform
+    name: 萌木高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/moegi_high_school_uniform.html
     alias:
     - kin-iro mosaic high school uniform
@@ -3963,7 +3950,7 @@ content:
     name: 渐变裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_skirt.html
   unworn necklace:
-    name: unworn necklace
+    name: 未佩戴的项链
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_necklace.html
     alias:
     - necklace removed
@@ -3971,7 +3958,7 @@ content:
     name: 领带
     wikiURL: https://danbooru.donmai.us/wiki_pages/box_tie.html
   bikini under shorts:
-    name: bikini under shorts
+    name: 短裤下的比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_under_shorts.html
   black bustier:
     name: 黑色紧身胸衣
@@ -4018,7 +4005,7 @@ content:
     name: 不对称裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/asymmetrical_pants.html
   unworn scarf:
-    name: unworn scarf
+    name: 未穿过的围巾
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_scarf.html
     alias:
     - scarf removed
@@ -4035,7 +4022,7 @@ content:
     name: 缎带耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon_earrings.html
   dongtan dress:
-    name: dongtan dress
+    name: 东滩连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/dongtan_dress.html
     alias:
     - dongtan lady (k pring) (cosplay)
@@ -4060,7 +4047,7 @@ content:
     name: 双色背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_vest.html
   unworn bowtie:
-    name: unworn bowtie
+    name: 未佩戴的领结
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_bowtie.html
     alias:
     - bowtie removed
@@ -4103,7 +4090,7 @@ content:
     name: 橙色框眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange-framed_eyewear.html
   just shoes:
-    name: just shoes
+    name: 只是鞋子
     wikiURL: https://danbooru.donmai.us/wiki_pages/just_shoes.html
   captive bead ring:
     name: 俘虏珠戒指
@@ -4182,13 +4169,13 @@ content:
     name: 棉袄
     wikiURL: https://danbooru.donmai.us/wiki_pages/padded_jacket.html
   summer pockets school uniform:
-    name: summer pockets school uniform
+    name: 夏季口袋校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/summer_pockets_school_uniform.html
   american flag shirt:
     name: 美国国旗衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/american_flag_shirt.html
   angel's 24 uniform (blue archive):
-    name: angel's 24 uniform (blue archive)
+    name: 天使24制服（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/angel's_24_uniform_(blue_archive).html
   orange planet uniform:
     name: 橙色星球制服
@@ -4215,7 +4202,7 @@ content:
     name: 单肘垫
     wikiURL: https://danbooru.donmai.us/wiki_pages/single_elbow_pad.html
   blueberry academy school uniform:
-    name: blueberry academy school uniform
+    name: 蓝莓学院校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/blueberry_academy_school_uniform.html
   ribbon-trimmed shirt:
     name: 缎带边饰衬衫
@@ -4227,7 +4214,7 @@ content:
     name: 皇家长袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/royal_robe.html
   bikini top pull:
-    name: bikini top pull
+    name: 比基尼上拉
     wikiURL: https://danbooru.donmai.us/wiki_pages/bikini_top_pull.html
   herensuge girls academy school uniform:
     name: herensuge 女子学院校服
@@ -4244,7 +4231,7 @@ content:
     name: tsab 空军军服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tsab_air_military_uniform.html
   undersuit:
-    name: undersuit
+    name: 内衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/undersuit.html
   email address:
     name: 电子邮件地址
@@ -4256,7 +4243,7 @@ content:
     name: 印花围裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_apron.html
   frilled bikini top:
-    name: frilled bikini top
+    name: 褶边比基尼上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_bikini_top.html
   dinosaur costume:
     name: 恐龙服装
@@ -4270,10 +4257,10 @@ content:
     alias:
     - ripped sweater
   kazamatsuri institute high school uniform:
-    name: kazamatsuri institute high school uniform
+    name: 风祭学院高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/kazamatsuri_institute_high_school_uniform.html
   floral print bikini:
-    name: floral print bikini
+    name: 花卉印花比基尼
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print_bikini.html
   nami junior high school uniform:
     name: 波路中学校服
@@ -4341,12 +4328,12 @@ content:
     name: 白男校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hakuo_school_uniform.html
   hyakkaou academy school uniform:
-    name: hyakkaou academy school uniform
+    name: 百花王学园校服
     wikiURL: https://danbooru.donmai.us/wiki_pages/hyakkaou_academy_school_uniform.html
     alias:
     - hyakkaou academy uniform
   tokiwadai school gym uniform:
-    name: tokiwadai school gym uniform
+    name: 常盘台学校体操服
     wikiURL: https://danbooru.donmai.us/wiki_pages/tokiwadai_school_gym_uniform.html
   advanced nurturing high school uniform:
     name: 高级培育高中校服
@@ -4358,12 +4345,12 @@ content:
     name: 帽针
     wikiURL: https://danbooru.donmai.us/wiki_pages/hat_pin.html
   unworn cape:
-    name: unworn cape
+    name: 未穿过的斗篷
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_cape.html
     alias:
     - cape removed
   untied bikini top:
-    name: untied bikini top
+    name: 解开的比基尼上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/untied_bikini_top.html
   elbow sleeve:
     name: 肘套
@@ -4375,7 +4362,7 @@ content:
     name: 猫项圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/cat_choker.html
   dress ribbon:
-    name: dress ribbon
+    name: 礼服丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/dress_ribbon.html
   ribbon-trimmed bra:
     name: 缎带边饰文胸
@@ -4533,9 +4520,6 @@ content:
   band shirt:
     name: 乐队衬衫
     wikiURL: https://danbooru.donmai.us/wiki_pages/band_shirt.html
-  armored vehicle:
-    name: 装甲车
-    wikiURL: https://danbooru.donmai.us/wiki_pages/armored_vehicle.html
   bonyari high school uniform:
     name: bonyari高中制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/bonyari_high_school_uniform.html
@@ -4754,12 +4738,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_socks.html
     alias:
     - aqua kneehighs
-  armored personnel carrier:
-    name: 装甲运兵车
-    wikiURL: https://danbooru.donmai.us/wiki_pages/armored_personnel_carrier.html
-    alias:
-    - btr
-    - btr-80
   ribbon-trimmed bow:
     name: 蝴蝶结
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_bow.html
@@ -5849,9 +5827,6 @@ content:
   boonie hat:
     name: 布尼帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/boonie_hat.html
-  food-themed hat ornament:
-    name: 以食物为主题的帽子装饰品
-    wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_hat_ornament.html
   rathalos (armor):
     name: rathalos（盔甲）
     wikiURL: https://danbooru.donmai.us/wiki_pages/rathalos_(armor).html
@@ -6082,9 +6057,6 @@ content:
   phrygian cap:
     name: 弗里吉亚帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/phrygian_cap.html
-  chi-hatan (emblem):
-    name: chi-hatan （会徽）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/chi-hatan_(emblem).html
   orange robe:
     name: 橙色长袍
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_robe.html
@@ -6188,7 +6160,7 @@ content:
     alias:
     - alternate glasses
   suiten nikkou amaterasu yanoshisu ishi:
-    name: suiten nikkou amaterasu yanoshisu ishi
+    name: 水天日光天照矢之石
     wikiURL: https://danbooru.donmai.us/wiki_pages/suiten_nikkou_amaterasu_yanoshisu_ishi.html
   latex skirt:
     name: 乳胶裙
@@ -6289,9 +6261,6 @@ content:
   escape room:
     name: 逃生室
     wikiURL: https://danbooru.donmai.us/wiki_pages/escape_room.html
-  bowgun:
-    name: 弓箭
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bowgun.html
   frilled bowtie:
     name: 褶边领结
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_bowtie.html
@@ -6622,9 +6591,6 @@ content:
   ultra recon squad uniform:
     name: 超侦察队制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/ultra_recon_squad_uniform.html
-  carrot earrings:
-    name: 胡萝卜耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/carrot_earrings.html
   ribbon hair:
     name: 丝带头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon_hair.html
@@ -7051,9 +7017,6 @@ content:
   sheep hat:
     name: 羊帽
     wikiURL: https://danbooru.donmai.us/wiki_pages/sheep_hat.html
-  food-themed necklace:
-    name: 食物主题项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_necklace.html
   n7 armor:
     name: n7装甲
     wikiURL: https://danbooru.donmai.us/wiki_pages/n7_armor.html
@@ -7167,9 +7130,6 @@ content:
   ribbon-trimmed choker:
     name: 丝带边项链
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_choker.html
-  bowser logo:
-    name: 鲍泽标志
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bowser_logo.html
   flotation belt:
     name: 漂浮带
     wikiURL: https://danbooru.donmai.us/wiki_pages/flotation_belt.html
@@ -7646,9 +7606,6 @@ content:
   meteor sweepers uniform:
     name: 流星清扫者制服
     wikiURL: https://danbooru.donmai.us/wiki_pages/meteor_sweepers_uniform.html
-  capture styler:
-    name: 捕获样式器
-    wikiURL: https://danbooru.donmai.us/wiki_pages/capture_styler.html
   super plugsuit:
     name: 超级plugsuit
     wikiURL: https://danbooru.donmai.us/wiki_pages/super_plugsuit.html

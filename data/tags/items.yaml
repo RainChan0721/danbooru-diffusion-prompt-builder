@@ -1,5 +1,6 @@
-name: 物品
-category: []
+name: 常用物品
+category:
+  - 物品
 content:
   camera:
     name: 相机

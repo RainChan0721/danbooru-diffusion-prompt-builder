@@ -1,15 +1,15 @@
 name: 体位姿势
 category:
-- 限制级
+  - 限制级
 restricted: true
 content:
   sex from behind:
     name: 泛指从身后插入的体位
     wikiURL: https://danbooru.donmai.us/wiki_pages/sex_from_behind.html
     alias:
-    - from behind position
-    - penetration from behind
-    - taken from behind
+      - from behind position
+      - penetration from behind
+      - taken from behind
     restricted: true
   standing sex:
     name: 站立后入
@@ -19,7 +19,7 @@ content:
     name: 口交后
     wikiURL: https://danbooru.donmai.us/wiki_pages/after_fellatio.html
     alias:
-    - after blowjob
+      - after blowjob
     restricted: true
   deepthroat:
     name: 深喉
@@ -29,7 +29,7 @@ content:
     name: 合作口交
     wikiURL: https://danbooru.donmai.us/wiki_pages/cooperative_fellatio.html
     alias:
-    - multiple fellatio
+      - multiple fellatio
     restricted: true
   mating press:
     name: 授精体位
@@ -51,7 +51,7 @@ content:
     name: 火车便当式体位
     wikiURL: https://danbooru.donmai.us/wiki_pages/suspended_congress.html
     alias:
-    - stand and carry
+      - stand and carry
     restricted: true
   cooperative paizuri:
     name: 合作乳交
@@ -69,7 +69,7 @@ content:
     name: 口腔物体插入
     wikiURL: https://danbooru.donmai.us/wiki_pages/simulated_fellatio.html
     alias:
-    - oral object insertion
+      - oral object insertion
     restricted: true
   handsfree paizuri:
     name: 免提 paizuri
@@ -107,7 +107,7 @@ content:
     name: 面纱下口交
     wikiURL: https://danbooru.donmai.us/wiki_pages/fellatio_under_mask.html
     alias:
-    - fellatio under veil
+      - fellatio under veil
     restricted: true
   paizuri on lap:
     name: 腿上的乳交
@@ -133,15 +133,15 @@ content:
     name: 隐藏的口交
     wikiURL: https://danbooru.donmai.us/wiki_pages/stealth_fellatio.html
     alias:
-    - hidden fellatio
+      - hidden fellatio
     restricted: true
   autofellatio:
     name: 自动口交
     wikiURL: https://danbooru.donmai.us/wiki_pages/autofellatio.html
     alias:
-    - auto fellatio
-    - licking own penis
-    - sucking own penis
+      - auto fellatio
+      - licking own penis
+      - sucking own penis
     restricted: true
   imminent cunnilingus:
     name: 迫在眉睫的舔阴
@@ -159,8 +159,8 @@ content:
     name: 自动舔阴
     wikiURL: https://danbooru.donmai.us/wiki_pages/autocunnilingus.html
     alias:
-    - auto cunnilingus
-    - licking own pussy
+      - auto cunnilingus
+      - licking own pussy
     restricted: true
   standing fellatio:
     name: 站立口交
@@ -242,3 +242,21 @@ content:
     name: 隔着衣服口交
     wikiURL: https://danbooru.donmai.us/wiki_pages/fellatio_through_clothes.html
     restricted: true
+  reverse cowgirl position:
+    name: 背面骑乘位
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reverse_cowgirl_position.html
+  squatting cowgirl position:
+    name: M字骑乘位
+    wikiURL: https://danbooru.donmai.us/wiki_pages/squatting_cowgirl_position.html
+  reach-around:
+    name: 从背后伸手过来刺激性伴侣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reach-around.html
+    alias:
+      - handjob from behind
+      - reach around
+      - reacharound
+  pet play:
+    name: 宠物play
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pet_play.html
+    alias:
+      - petboy

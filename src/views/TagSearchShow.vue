@@ -79,14 +79,12 @@ const hypernetworkStore = useHypernetworkStore()
 const categories = [
     { label: '全部', value: '' },
     { label: '🔞 限制级', value: '限制级' },
-    { label: '动作姿态', value: '姿势' },
+    { label: '画面构图', value: '画面构图' },
     { label: '服饰装扮', value: '服饰' },
-    { label: '身体部位', value: '人类' },
+    { label: '人物特征', value: '人物' },
     { label: '物品道具', value: '物品' },
     { label: '自然环境', value: '自然' },
     { label: '人文建筑', value: '人文' },
-    { label: '角色', value: '角色' },
-    { label: '作品版权', value: '作品' },
     { label: '热门画师', value: '画师' },
     { label: '负向/质量', value: '元标签' },
 ]

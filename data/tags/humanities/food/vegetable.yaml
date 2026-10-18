@@ -1,7 +1,7 @@
 name: 蔬菜与香料
 category:
-- 人文
-- 食物
+  - 人文
+  - 食物
 content:
   asparagus:
     name: 芦笋
@@ -10,17 +10,17 @@ content:
     name: 豆子
     wikiURL: https://danbooru.donmai.us/wiki_pages/beans.html
     alias:
-    - bean
+      - bean
   red bean paste:
     name: 红豆馅
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_bean_paste.html
     alias:
-    - bean paste
+      - bean paste
   nattou:
     name: 纳豆
     wikiURL: https://danbooru.donmai.us/wiki_pages/nattou.html
     alias:
-    - natto
+      - natto
   bitter melon:
     name: 苦瓜
     wikiURL: https://danbooru.donmai.us/wiki_pages/bitter_melon.html
@@ -38,7 +38,7 @@ content:
     name: 胡萝卜
     wikiURL: https://danbooru.donmai.us/wiki_pages/carrot.html
     alias:
-    - carrots
+      - carrots
     image: 529bd7db2ca547242270a9abcd7b9b6eec8a480d16343f68ee4872e48d215a7b
   cauliflower:
     name: 菜花
@@ -48,17 +48,17 @@ content:
     name: 椰子
     wikiURL: https://danbooru.donmai.us/wiki_pages/coconut.html
     alias:
-    - coconuts
+      - coconuts
   corn:
     name: 玉米
     wikiURL: https://danbooru.donmai.us/wiki_pages/corn.html
     alias:
-    - maize
+      - maize
   cucumber:
     name: 黄瓜
     wikiURL: https://danbooru.donmai.us/wiki_pages/cucumber.html
     alias:
-    - cucumbers
+      - cucumbers
     image: 4cec452b42601d867a1772b17056595c3f786d5afce14525e4aa23b957bdebd7
   pickle:
     name: 泡菜
@@ -67,7 +67,7 @@ content:
     name: 茄子
     wikiURL: https://danbooru.donmai.us/wiki_pages/eggplant.html
     alias:
-    - aubergine
+      - aubergine
   garlic:
     name: 大蒜
     wikiURL: https://danbooru.donmai.us/wiki_pages/garlic.html
@@ -85,7 +85,7 @@ content:
     name: 蘑菇
     wikiURL: https://danbooru.donmai.us/wiki_pages/mushroom.html
     alias:
-    - mushrooms
+      - mushrooms
     image: d322e507b4cf9373046a9947b84abc1ee544b88bf5372222b10825c7d5fd48fe
   onion:
     name: 洋葱
@@ -94,15 +94,15 @@ content:
     name: 洋葱圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/onion_rings.html
     alias:
-    - onion ring
+      - onion ring
     image: 2ed6b897af05163b017f39901f51f3876a50dad7fda881f6522a901a1278915b
   spring onion:
     name: 大葱
     wikiURL: https://danbooru.donmai.us/wiki_pages/spring_onion.html
     alias:
-    - scallion
-    - negi
-    - leek
+      - scallion
+      - negi
+      - leek
     image: f492d2f1da7dc2e3a530ee65d86e70ca2c8e4bb74854055ec4ff1f67b96deabb
   parsley:
     name: 欧芹
@@ -114,7 +114,7 @@ content:
     name: 板栗
     wikiURL: https://danbooru.donmai.us/wiki_pages/chestnut.html
     alias:
-    - chestnuts
+      - chestnuts
   peanut:
     name: 花生
     wikiURL: https://danbooru.donmai.us/wiki_pages/peanut.html
@@ -137,23 +137,23 @@ content:
     name: 辣椒
     wikiURL: https://danbooru.donmai.us/wiki_pages/chili_pepper.html
     alias:
-    - chili
+      - chili
     image: f009113eb1b367eefa28c933d7a3604db9b29a1dea5f5f2dd0121b1e8fddb874
   habanero pepper:
     name: 哈瓦那辣椒
     wikiURL: https://danbooru.donmai.us/wiki_pages/habanero_pepper.html
     alias:
-    - habanero
+      - habanero
   jalapeno pepper:
     name: 墨西哥辣椒
     wikiURL: https://danbooru.donmai.us/wiki_pages/jalapeno_pepper.html
     alias:
-    - jalapeno (chili)
+      - jalapeno (chili)
   potato:
     name: 土豆
     wikiURL: https://danbooru.donmai.us/wiki_pages/potato.html
     alias:
-    - potatoes
+      - potatoes
   radish:
     name: 萝卜
     wikiURL: https://danbooru.donmai.us/wiki_pages/radish.html
@@ -175,7 +175,7 @@ content:
     name: 南瓜
     wikiURL: https://danbooru.donmai.us/wiki_pages/pumpkin.html
     alias:
-    - pumpkins
+      - pumpkins
     image: 836092dc31589ecc5002f325678e9c27e29572dbc28c0e732dbbfcdd3de9669a
   jack-o'-lantern:
     name: 南瓜灯
@@ -185,8 +185,8 @@ content:
     name: 红薯
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweet_potato.html
     alias:
-    - yams
-    - yam
+      - yams
+      - yam
   yakiimo:
     name: 烤白薯
     wikiURL: https://danbooru.donmai.us/wiki_pages/yakiimo.html
@@ -194,7 +194,7 @@ content:
     name: 番茄
     wikiURL: https://danbooru.donmai.us/wiki_pages/tomato.html
     alias:
-    - tomatoes
+      - tomatoes
     image: cc2adf9639ce1490e2f5d128b7603315c67bf0ca97ea298930164bb4502ab33f
   cherry tomato:
     name: 圣女果（小西红柿

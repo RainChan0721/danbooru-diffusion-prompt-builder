@@ -313,10 +313,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/k/da_(league_of_legends).html
     alias:
       - kda
-  kirisame marisa (cosplay):
-    name: cos成雾雨魔理沙
-    image: 638f111cff1c7b5aa1a70a39bfeb78a7317a507b96107d905f9fcf2641f09f65
-    wikiURL: https://danbooru.donmai.us/wiki_pages/kirisame_marisa_(cosplay).html
   kitsune:
     name: 妖狐
     image: 563d7c723608e6bac8f6ea1dc19ec90b57e82c6381628178e80c9f3baeb53818
@@ -530,3 +526,48 @@ content:
     name: 长脖子
     image: 23717f013e6bc974797c27462f15930cc674c8c49fb29e68e9456aa599a4de9b
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_neck.html
+  bartender:
+    name: 酒保
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bartender.html
+  housewife:
+    name: 家庭主妇
+    wikiURL: https://danbooru.donmai.us/wiki_pages/housewife.html
+    alias:
+      - house wife
+  store clerk:
+    name: 店员
+    wikiURL: https://danbooru.donmai.us/wiki_pages/store_clerk.html
+  barista:
+    name: 咖啡师
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barista.html
+  school nurse:
+    name: 学校护士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_nurse.html
+  bard:
+    name: 诗人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bard.html
+  barbarian:
+    name: 野蛮人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbarian.html
+  merchant:
+    name: 店主
+    wikiURL: https://danbooru.donmai.us/wiki_pages/merchant.html
+    alias:
+      - shopkeeper
+  hostage:
+    name: 人质
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hostage.html
+  barber:
+    name: 理发师
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barber.html
+  barbarian set (zelda):
+    name: 野蛮人套装（塞尔达）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbarian_set_(zelda).html
+  'dancer (fire emblem: three houses)':
+    name: 舞者（火焰纹章：三宫）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dancer_(fire_emblem:_three_houses).html
+    alias:
+      - dancer (three houses)
+  snake charmer:
+    name: 耍蛇人
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snake_charmer.html

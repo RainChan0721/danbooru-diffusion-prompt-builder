@@ -128,7 +128,7 @@ content:
   g-pen (medium):
     name: G 笔
   google sketchup (medium):
-    name: Google Sketchup
+    name: 谷歌草图（中）
     image: ed8694bbe73ac9fc3a290d224f2c1bf5e28c6968e70e2a6f3255cb3a8cc7ba90
   gouache (medium):
     name: 水粉
@@ -144,7 +144,7 @@ content:
     name: 铅笔画/炭笔画
     wikiURL: https://danbooru.donmai.us/wiki_pages/graphite_%28medium%29
   illustrator (medium):
-    name: Illustrator
+    name: 插画师（中）
   impressionism:
     name: 印象派
     wikiURL: https://danbooru.donmai.us/wiki_pages/impressionism.html

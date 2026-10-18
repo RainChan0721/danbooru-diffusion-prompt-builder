@@ -75,12 +75,6 @@ content:
   3others:
     name: 3其他
     wikiURL: https://danbooru.donmai.us/wiki_pages/3others.html
-  multiple piercings:
-    name: 多个穿孔
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_piercings.html
-  multiple bracelets:
-    name: 多个手镯
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_bracelets.html
   multiple heads:
     name: 多头
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_heads.html
@@ -121,17 +115,29 @@ content:
     name: 多重式
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_shikishi.html
   multiple pov:
-    name: multiple pov
+    name: 多重视角
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_pov.html
-  multiple tattoos:
-    name: multiple tattoos
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_tattoos.html
   multiple tongues:
-    name: multiple tongues
+    name: 多种舌头
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_tongues.html
   multiple forms:
-    name: multiple forms
+    name: 多种形式
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_forms.html
-  multiple anklets:
-    name: multiple anklets
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_anklets.html
+  full body:
+    name: 全身
+    image: a8671d8d903d27826c41b6247ab7c3e35ff8bb7e586a492bfd806a6ea2427402
+    wikiURL: https://danbooru.donmai.us/wiki_pages/full_body.html
+  upper body:
+    name: 上半身
+    image: 718a39279a041597edd6cf45027282eb39d75f9d3baa87c1032f6c130c0cb6ee
+    wikiURL: https://danbooru.donmai.us/wiki_pages/upper_body.html
+    alias:
+    - bust
+  lower body:
+    name: 下半身
+    image: aee72f9f18bc46b12cfe7c9bfeeefb0f93af17df0fdbc29a332d62d6c2cfdaaf
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lower_body.html
+  portrait:
+    name: 半身像
+    image: 0417df7c88fdf1dddcbde49361551732bebc07bfcd2e62cd3177400ff3e33a4a
+    wikiURL: https://danbooru.donmai.us/wiki_pages/portrait.html

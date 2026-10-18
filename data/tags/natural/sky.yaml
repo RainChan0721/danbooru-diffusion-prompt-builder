@@ -1,13 +1,13 @@
 name: 天空/气象
 category:
-- 自然
+  - 自然
 content:
   cloud:
     name: 云
     image: ca0db455278ecfcadb93105e4d5d1b92976f88bb3b10a39659841f6129e29911
     wikiURL: https://danbooru.donmai.us/wiki_pages/cloud.html
     alias:
-    - clouds
+      - clouds
   full moon:
     name: 满月
     image: 2d1912b34dc9348d0fe001063512e1f62af2958651023ea65b8bb08558c10c62
@@ -37,7 +37,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/sky.html
   starry sky:
     alias:
-    - star sky
+      - star sky
     name: 星空
     image: 0f2a70eef1d64b011a956f1cd9eec3a3cdcd79842a8822a852cea6edd21b8ff2
     wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky.html
@@ -49,14 +49,14 @@ content:
     name: 天际线
     wikiURL: https://danbooru.donmai.us/wiki_pages/skyline.html
     alias:
-    - city skyline
+      - city skyline
     image: e79cd93b905868a88f617547d62ccbf0827b74b4bfb917cbe8b0faa21d5f5935
   shooting star:
     name: 流星
     image: 49934241bb59f594259cb54692089f3d63bd00a282cb5856d4a8a5f503de9d5a
     wikiURL: https://danbooru.donmai.us/wiki_pages/shooting_star.html
     alias:
-    - shooting stars
+      - shooting stars
   sunburst background:
     name: 旭日纹背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunburst_background.html
@@ -96,7 +96,7 @@ content:
     name: 下雨
     wikiURL: https://danbooru.donmai.us/wiki_pages/rain.html
     alias:
-    - raining
+      - raining
     image: fe7fc0569171c27193a34b7e1610792ff8776640e9ca9974a08e92b18c8aa8fe
   in the rain:
     name: 雨中
@@ -104,3 +104,151 @@ content:
   rainy days:
     name: 雨天
     image: dffd48094ddff8d2e90b802dd0ff95c92502e8e8355659b30f3dcab5ddb78dab
+  blue sky:
+    name: 蓝天
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_sky.html
+  sunlight:
+    name: 阳光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sunlight.html
+    alias:
+      - sunshine
+  cloudy sky:
+    name: 多云天气
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cloudy_sky.html
+  star (sky):
+    name: 星星(天空中的)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_(sky).html
+    alias:
+      - stars (sky)
+  dappled sunlight:
+    name: 透过树叶洒下的阳光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dappled_sunlight.html
+    alias:
+      - komorebi
+      - sunlight through trees
+  twilight:
+    name: 黄昏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twilight.html
+  gradient sky:
+    name: 倾斜的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_sky.html
+  orange sky:
+    name: 橙色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sky.html
+  grey sky:
+    name: 灰色天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_sky.html
+  purple sky:
+    name: 紫色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_sky.html
+  starry sky print:
+    name: 星空印花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky_print.html
+  red sky:
+    name: 红色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_sky.html
+  cloud print:
+    name: 云状印花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_print.html
+  dust cloud:
+    name: 烟尘
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dust_cloud.html
+  pink sky:
+    name: 粉红色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_sky.html
+  yellow sky:
+    name: 黄色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_sky.html
+  black sky:
+    name: 黑色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_sky.html
+  above clouds:
+    name: 云之上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/above_clouds.html
+  white sky:
+    name: 白色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_sky.html
+  sky print:
+    name: 天空打印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_print.html
+  sky lantern:
+    name: 天灯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_lantern.html
+  dark clouds:
+    name: 乌云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dark_clouds.html
+  green sky:
+    name: 绿色的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_sky.html
+  cloud tattoo:
+    name: 云纹身
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_tattoo.html
+  multicolored sky:
+    name: 多彩多姿的天空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_sky.html
+  sky focus:
+    name: 天空焦点
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_focus.html
+  starry sky bright (idolmaster):
+    name: 星空明亮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky_bright_(idolmaster).html
+    alias:
+      - starry sky bright
+  nissan skyline:
+    name: 日产天际线
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline.html
+  on cloud:
+    name: 在云端
+    wikiURL: https://danbooru.donmai.us/wiki_pages/on_cloud.html
+  husky:
+    name: 沙哑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/husky.html
+  pink clouds:
+    name: 粉红色的云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_clouds.html
+    alias:
+      - pink cloud
+  cloud focus:
+    name: 云焦点
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cloud_focus.html
+  skylight:
+    name: 天空之光
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skylight.html
+    alias:
+      - ceiling window
+      - skylight (architecture)
+  nissan skyline gt-r:
+    name: 日产天际线GT-R
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nissan_skyline_gt-r.html
+  mushroom cloud:
+    name: 蘑菇云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mushroom_cloud.html
+  orange clouds:
+    name: 橙色的云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_clouds.html
+  red clouds:
+    name: 红云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_clouds.html
+  skydive:
+    name: 跳伞
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skydive.html
+  storm cloud:
+    name: 风暴云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/storm_cloud.html
+  sky surfing:
+    name: 空中冲浪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sky_surfing.html
+  black cloud:
+    name: 乌云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_cloud.html
+  fight cloud:
+    name: 斗云
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fight_cloud.html
+  night sky sword:
+    name: 夜空剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/night_sky_sword.html
+  cleasky (idolmaster):
+    name: cleasky（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cleasky_(idolmaster).html
+  cumulonimbus cloud:
+    name: 积雨云

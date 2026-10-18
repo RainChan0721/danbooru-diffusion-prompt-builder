@@ -1,12 +1,12 @@
 name: 艺术破格
 category:
-- 画面构图
+  - 画面构图
 content:
   animalization:
     name: 动物化
     wikiURL: https://danbooru.donmai.us/wiki_pages/animalization.html
     alias:
-    - animalisation
+      - animalisation
     image: c4e9b8837b2c4d49ca6a0a24d0250fa5e3fa5c321612d46c332e7252f8e6e052
   foodification:
     name: 食物化
@@ -32,7 +32,7 @@ content:
     name: 拟人化
     wikiURL: https://danbooru.donmai.us/wiki_pages/personification.html
     alias:
-    - anthropomorphism
+      - anthropomorphism
   slimification:
     name: 史莱姆化
     wikiURL: https://danbooru.donmai.us/wiki_pages/slimification.html
@@ -47,56 +47,56 @@ content:
     name: 原设服装改编
     wikiURL: https://danbooru.donmai.us/wiki_pages/adapted_costume.html
     alias:
-    - adapted outfit
+      - adapted outfit
   alternate costume:
     name: 角色换装
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_costume.html
     alias:
-    - alternative costume
-    - alternate outfit
+      - alternative costume
+      - alternate outfit
   alternate headwear:
     name: 与原设不同头饰变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_headwear.html
     alias:
-    - alternative hat
-    - alternate hat
-    - alternative headwear
+      - alternative hat
+      - alternate hat
+      - alternative headwear
   alternate weapon:
     name: 与原设不同武器变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_weapon.html
     alias:
-    - alternative weapon
+      - alternative weapon
   headwear switch:
     name: 头饰互换
     wikiURL: https://danbooru.donmai.us/wiki_pages/headwear_switch.html
     alias:
-    - hat switch
+      - hat switch
   no eyewear:
     name: 去掉了(原设有的)眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_eyewear.html
     alias:
-    - no glasses
+      - no glasses
   no headwear:
     name: 去掉了(原设有的)头饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/no_headwear.html
     alias:
-    - no bandana
-    - no helmet
-    - no hat
-    - hatless
-    - hat-less
+      - no bandana
+      - no helmet
+      - no hat
+      - hatless
+      - hat-less
   costume switch:
     name: 服饰互换
     wikiURL: https://danbooru.donmai.us/wiki_pages/costume_switch.html
     alias:
-    - exchanging clothes
-    - costume swap
-    - outfit switch
+      - exchanging clothes
+      - costume swap
+      - outfit switch
   contemporary:
     name: 现代改编
     wikiURL: https://danbooru.donmai.us/wiki_pages/contemporary.html
     alias:
-    - modern clothing
+      - modern clothing
   enmaided:
     name: 女仆装
     wikiURL: https://danbooru.donmai.us/wiki_pages/enmaided.html
@@ -110,7 +110,7 @@ content:
     name: 与原设不同翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_wings.html
     alias:
-    - alternative wings
+      - alternative wings
   alternate skin color:
     name: 与原设不同肤色变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_skin_color.html
@@ -140,21 +140,21 @@ content:
     name: 与原设不同发色变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_hair_color.html
     alias:
-    - alternative hair color
-    - alternate haircolor
+      - alternative hair color
+      - alternate haircolor
   alternate hairstyle:
     name: 与原设不同发型变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_hairstyle.html
     alias:
-    - alternative hairstyle
-    - alternate hair style
-    - alternative hair style
+      - alternative hairstyle
+      - alternate hair style
+      - alternative hair style
   hair down:
     name: 披下来的头发
     image: c9dddfa79465f76c6d488f59f7247712f5b28c044165a96e2efe948d33401c2d
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_down.html
     alias:
-    - hairdown
+      - hairdown
   hair up:
     name: 盘起来的头发
     image: 4a865befbea040c4a3952add31c4d4413c49d7bbdfe7b96363ef235d19023dfc
@@ -163,12 +163,12 @@ content:
     name: 与原设不同头发长度变化
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_hair_length.html
     alias:
-    - alternative hair length
+      - alternative hair length
   alternate eye color:
     name: 与原设不同瞳色
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_eye_color.html
     alias:
-    - alternative eye color
+      - alternative eye color
   unusually open eyes:
     name: (与原设不同)睁眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/unusually_open_eyes.html
@@ -179,7 +179,7 @@ content:
     name: 人格替换
     wikiURL: https://danbooru.donmai.us/wiki_pages/personality_switch.html
     alias:
-    - personality swap
+      - personality swap
   role reversal:
     name: 角色转换
     wikiURL: https://danbooru.donmai.us/wiki_pages/role_reversal.html
@@ -194,13 +194,13 @@ content:
     name: 异色
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_color.html
     alias:
-    - alternate colors
-    - alternative color
+      - alternate colors
+      - alternative color
   alternate element:
     name: 与原设不同元素
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_element.html
     alias:
-    - alternative element
+      - alternative element
   palette swap:
     name: 色调互换
     wikiURL: https://danbooru.donmai.us/wiki_pages/palette_swap.html
@@ -217,13 +217,13 @@ content:
     name: 年龄减少
     wikiURL: https://danbooru.donmai.us/wiki_pages/aged_down.html
     alias:
-    - younger
-    - de-aged
+      - younger
+      - de-aged
   aged up:
     name: 年龄增加
     wikiURL: https://danbooru.donmai.us/wiki_pages/aged_up.html
     alias:
-    - older
+      - older
   character doll:
     name: 角色公仔
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_doll.html
@@ -234,10 +234,10 @@ content:
     name: 性转
     wikiURL: https://danbooru.donmai.us/wiki_pages/genderswap.html
     alias:
-    - crossgender
-    - genderbend
-    - sex change
-    - rule 63
+      - crossgender
+      - genderbend
+      - sex change
+      - rule 63
   genderswap (mtf):
     name: 女体化
     wikiURL: https://danbooru.donmai.us/wiki_pages/genderswap_(mtf).html
@@ -251,4 +251,1287 @@ content:
     name: 异世界
     wikiURL: https://danbooru.donmai.us/wiki_pages/alternate_universe.html
     alias:
-    - what if
+      - what if
+  school emblem:
+    name: 校徽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_emblem.html
+  gumroad username:
+    name: gumroad用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gumroad_username.html
+  stage connection:
+    name: 舞台连接
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stage_connection.html
+  late for school:
+    name: 上学迟到
+    wikiURL: https://danbooru.donmai.us/wiki_pages/late_for_school.html
+  pink check school (idolmaster):
+    name: 粉色支票学校
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_check_school_(idolmaster).html
+    alias:
+      - pink check school
+  artstation username:
+    name: 艺术站用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artstation_username.html
+  gumroad logo:
+    name: 口香糖路标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gumroad_logo.html
+  rough time school (idolmaster):
+    name: 艰难的学校
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rough_time_school_(idolmaster).html
+    alias:
+      - rough time school
+  subaru (brand):
+    name: 斯巴鲁（品牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/subaru_(brand).html
+  artstation logo:
+    name: 艺术站标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artstation_logo.html
+  adobe photoshop:
+    name: 土坯Photoshop
+    wikiURL: https://danbooru.donmai.us/wiki_pages/adobe_photoshop.html
+  pool party (league of legends):
+    name: 泳池派对（英雄联盟）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pool_party_(league_of_legends).html
+  rocking school (idolmaster):
+    name: 摇滚学校
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rocking_school_(idolmaster).html
+    alias:
+      - rocking school
+  stage of magic (idolmaster):
+    name: 魔法阶段
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stage_of_magic_(idolmaster).html
+    alias:
+      - stage of magic
+  summary:
+    name: 简略
+    wikiURL: https://danbooru.donmai.us/wiki_pages/summary.html
+    alias:
+      - abridged
+  the tower (tarot):
+    name: 塔（塔罗牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_tower_(tarot).html
+  the best schoolmate (idolmaster):
+    name: 最好的同学
+    wikiURL: https://danbooru.donmai.us/wiki_pages/the_best_schoolmate_(idolmaster).html
+    alias:
+      - the best schoolmate
+  school connection:
+    name: 学校联系
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_connection.html
+  oobari masami (style):
+    name: 大张正美（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oobari_masami_(style).html
+  schoolish girl (idolmaster):
+    name: 学生妹（idolmaster）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/schoolish_girl_(idolmaster).html
+  trinity general school logo:
+    name: 三一普通学校标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/trinity_general_school_logo.html
+  academic test:
+    name: 学术测试
+    wikiURL: https://danbooru.donmai.us/wiki_pages/academic_test.html
+    alias:
+      - examination paper
+      - school test
+      - test
+  after-school sweets club (blue archive):
+    name: 课后糖果俱乐部（蓝色档案）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/after-school_sweets_club_(blue_archive).html
+  millennium science school logo:
+    name: 千年科学学校标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/millennium_science_school_logo.html
+  playstation logo:
+    name: 游戏机标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_logo.html
+  playstation 1:
+    name: 游戏机1
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_1.html
+    alias:
+      - ps1
+      - psx
+  cafe maid (love live!):
+    name: 咖啡厅女仆（爱情现场！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cafe_maid_(love_live!).html
+    alias:
+      - cafe maid (love live)
+  channel (caststation) (style):
+    name: 频道（caststation）（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/channel_(caststation)_(style).html
+  guilty gear strive x tower records:
+    name: 有罪齿轮奋斗 x 塔记录
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guilty_gear_strive_x_tower_records.html
+  ryouran! victory road (love live!):
+    name: 凉兰！胜利之路（爱生活！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ryouran!_victory_road_(love_live!).html
+    alias:
+      - ryouran! victory road (love live)
+  high schoolmate (idolmaster):
+    name: 高中同学（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/high_schoolmate_(idolmaster).html
+  junior high schoolmate (idolmaster):
+    name: 初中同学（偶像大师）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/junior_high_schoolmate_(idolmaster).html
+  road of radiance (umamusume):
+    name: 光辉之路（umamusume）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/road_of_radiance_(umamusume).html
+  japan-korea yuri (meme):
+    name: 日韩尤里 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/japan-korea_yuri_(meme).html
+  killkiss (bang dream!):
+    name: Killkiss（爆炸梦！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/killkiss_(bang_dream!).html
+  happy shijo shugi!:
+    name: 四条修吉快乐！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/happy_shijo_shugi!.html
+  crossover:
+    name: 跨界作品
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossover.html
+  gameplay mechanics:
+    name: (融入了)游戏机制元素
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gameplay_mechanics.html
+  cross-section:
+    name: 透视人体内部
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-section.html
+    alias:
+      - crossection
+      - cross section
+      - crosssection
+  stand (jojo):
+    name: 替身(JOJO)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stand_(jojo).html
+  in-franchise crossover:
+    name: 特许经营内交叉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/in-franchise_crossover.html
+    alias:
+      - series connection
+  multiple crossover:
+    name: 多部作品的角色或元素同框
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_crossover.html
+  look-alike:
+    name: 撞脸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/look-alike.html
+    alias:
+      - appearance connection
+      - look alike
+      - lookalike
+  playstation 4:
+    name: 游戏机4
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_4.html
+    alias:
+      - ps4
+  playstation 5:
+    name: 游戏机 5
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_5.html
+    alias:
+      - ps5
+  playstation 2:
+    name: 游戏机2
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playstation_2.html
+    alias:
+      - ps2
+  kill la kill final episode scissor blade relay (meme):
+    name: Kill la Kill 最后一集 剪刀刀片接力 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kill_la_kill_final_episode_scissor_blade_relay_(meme).html
+  self cosplay:
+    name: 自我角色扮演
+    wikiURL: https://danbooru.donmai.us/wiki_pages/self_cosplay.html
+  luminosite eternelle:
+    name: 永恒发光石
+    wikiURL: https://danbooru.donmai.us/wiki_pages/luminosite_eternelle.html
+  facebook username:
+    name: 脸书用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/facebook_username.html
+  facebook logo:
+    name: 脸书标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/facebook_logo.html
+  501st joint fighter wing (emblem):
+    name: 第 501 联合战斗机联队（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/501st_joint_fighter_wing_(emblem).html
+  logo hair ornament:
+    name: 标志发饰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/logo_hair_ornament.html
+  armads (fire emblem):
+    name: armads（火焰纹章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/armads_(fire_emblem).html
+  502nd joint fighter wing (emblem):
+    name: 第 502 联合战斗机联队（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/502nd_joint_fighter_wing_(emblem).html
+  funamusea (style):
+    name: funamusea（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/funamusea_(style).html
+  omocat (style):
+    name: 奥莫猫（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/omocat_(style).html
+  animal crossing (style):
+    name: 动物穿越（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animal_crossing_(style).html
+  lobotomy corporation logo:
+    name: 脑白质切除术公司徽标
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lobotomy_corporation_logo.html
+  cat symbol:
+    name: 猫符号
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_symbol.html
+  rabbit symbol:
+    name: 兔子符号
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit_symbol.html
+    alias:
+      - bunny symbol
+  toon (style):
+    name: 卡通卡通
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toon_(style).html
+    alias:
+      - cartoon
+      - toon
+  chi-hatan (emblem):
+    name: chi-hatan （会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chi-hatan_(emblem).html
+  bowser logo:
+    name: 鲍泽标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bowser_logo.html
+  capture styler:
+    name: 捕获样式器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/capture_styler.html
+  twitter username:
+    name: 推特用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_username.html
+    alias:
+      - artist twitter
+  patreon username:
+    name: 有patreon用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/patreon_username.html
+  artist logo:
+    name: 艺术家logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/artist_logo.html
+  patreon logo:
+    name: 打了patreon的logo
+    wikiURL: https://danbooru.donmai.us/wiki_pages/patreon_logo.html
+  1990s (style):
+    name: 90年代(风格)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/1990s_(style).html
+    alias:
+      - 90's
+      - 90s
+  weibo logo:
+    name: 微博标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/weibo_logo.html
+  2000s (style):
+    name: 2000年代（款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/2000s_(style).html
+  1980s (style):
+    name: 20世纪80年代(风格)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/1980s_(style).html
+    alias:
+      - 80's
+      - 80s
+  twitter logo:
+    name: 推特标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_logo.html
+  instagram username:
+    name: 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/instagram_username.html
+  deviantart username:
+    name: deviantart用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deviantart_username.html
+  pixiv username:
+    name: pixiv用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pixiv_username.html
+  instagram logo:
+    name: Instagram 标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/instagram_logo.html
+  pixiv logo:
+    name: pixiv标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pixiv_logo.html
+  zun (style):
+    name: 尊（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zun_(style).html
+    alias:
+      - oota jun'ya (style)
+  tumblr username:
+    name: tumblr 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tumblr_username.html
+  chaldea logo:
+    name: 迦勒底标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chaldea_logo.html
+  logo parody:
+    name: 徽标模仿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/logo_parody.html
+  alphes (style):
+    name: 阿尔卑斯风格
+    wikiURL: https://danbooru.donmai.us/wiki_pages/alphes_(style).html
+  western comics (style):
+    name: 西方漫画（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/western_comics_(style).html
+  araki hirohiko (style):
+    name: 荒木飞吕彦风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/araki_hirohiko_(style).html
+  riyo (lyomsnpmp) (style):
+    name: リヨ画风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/riyo_(lyomsnpmp)_(style).html
+  1970s (style):
+    name: 20世纪70年代(风格)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/1970s_(style).html
+    alias:
+      - 70's
+      - 70s
+  rhine lab logo:
+    name: 莱茵实验室标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rhine_lab_logo.html
+  toriyama akira (style):
+    name: 鸟山明（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toriyama_akira_(style).html
+  takeuchi takashi (style):
+    name: 武内隆（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/takeuchi_takashi_(style).html
+  gaijin 4koma (meme):
+    name: gaijin4koma 盖金4koma
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gaijin_4koma_(meme).html
+    alias:
+      - gaijin 4koma
+      - gaijin4koma
+  pinup (style):
+    name: 海报（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pinup_(style).html
+  deviantart logo:
+    name: deviantart 标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deviantart_logo.html
+  bkub (style):
+    name: bkub （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bkub_(style).html
+  twitter x logo:
+    name: 推特 x 标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitter_x_logo.html
+  special feeling (meme):
+    name: 雪中打伞的恋人梗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/special_feeling_(meme).html
+  ishikei (style):
+    name: ishikei （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ishikei_(style).html
+  youtube logo:
+    name: youtube 标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/youtube_logo.html
+  deal with it (meme):
+    name: 处理它
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deal_with_it_(meme).html
+    alias:
+      - deal with it
+  pc-98 (style):
+    name: pc98 pc98 （款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pc-98_(style).html
+    alias:
+      - pc98
+      - pc98 (style)
+  fujiko f fujio (style):
+    name: 藤子·F·不二雄（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fujiko_f_fujio_(style).html
+  lofter username:
+    name: 阁楼用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lofter_username.html
+  komatsuzaki rui (style):
+    name: 小松崎瑠衣（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/komatsuzaki_rui_(style).html
+  fukumoto nobuyuki (style):
+    name: 福本伸之（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fukumoto_nobuyuki_(style).html
+  genshin impact sticker redraw (meme):
+    name: genshin_Impact 贴纸重绘（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/genshin_impact_sticker_redraw_(meme).html
+  vanripper (style):
+    name: 面包车（款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vanripper_(style).html
+  kubo tite (style):
+    name: 久保太藤（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kubo_tite_(style).html
+    alias:
+      - kubo taito (style)
+  sugimori ken (style):
+    name: 杉森健（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sugimori_ken_(style).html
+  too bad! it was just me! (meme):
+    name: 太糟糕了！只有我！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/too_bad!_it_was_just_me!_(meme).html
+    alias:
+      - too bad! it was just me!
+  just as planned (meme):
+    name: just according to keikaku 就像计划的那样
+    wikiURL: https://danbooru.donmai.us/wiki_pages/just_as_planned_(meme).html
+    alias:
+      - just according to keikaku
+      - just as planned
+  ohisashiburi (style):
+    name: ohisashiburi （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ohisashiburi_(style).html
+  image macro (meme):
+    name: 宏观
+    wikiURL: https://danbooru.donmai.us/wiki_pages/image_macro_(meme).html
+    alias:
+      - macro
+  here's johnny! (meme):
+    name: 这是强尼！
+    wikiURL: https://danbooru.donmai.us/wiki_pages/here's_johnny!_(meme).html
+    alias:
+      - here's johnny!
+  salt bae (meme):
+    name: 盐贝（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/salt_bae_(meme).html
+  padoru (meme):
+    name: 帕多鲁
+    wikiURL: https://danbooru.donmai.us/wiki_pages/padoru_(meme).html
+    alias:
+      - padoru
+  twitch logo:
+    name: 抽搐标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitch_logo.html
+  nasa logo:
+    name: 美国航空航天局标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nasa_logo.html
+  gyari (imagesdawn) (style):
+    name: 嘉日 （imagesdawn） （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gyari_(imagesdawn)_(style).html
+  itou ikuko (style):
+    name: 伊藤郁子（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/itou_ikuko_(style).html
+  pajamas challenge (meme):
+    name: 睡衣挑战（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pajamas_challenge_(meme).html
+  charles schulz (style):
+    name: 查尔斯·舒尔茨（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/charles_schulz_(style).html
+  aoki ume (style):
+    name: 青木梅（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aoki_ume_(style).html
+  404 logo (girls' frontline):
+    name: 404标志（少女前线）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/404_logo_(girls'_frontline).html
+    alias:
+      - 404 logo (girls frontline)
+  uohhhhhhhhh! (meme):
+    name: 啊啊啊啊啊啊！ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uohhhhhhhhh!_(meme).html
+  tiktok logo:
+    name: 抖音标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tiktok_logo.html
+  pokemon rgby (style):
+    name: 宠物小精灵 rgby （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pokemon_rgby_(style).html
+  1960s (style):
+    name: 60 年代 60 年代
+    wikiURL: https://danbooru.donmai.us/wiki_pages/1960s_(style).html
+    alias:
+      - 60's
+      - 60s
+  harukawa moe (style):
+    name: 春川萌（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/harukawa_moe_(style).html
+  walfie (style):
+    name: walfie （款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/walfie_(style).html
+  drakeposting (meme):
+    name: 发贴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drakeposting_(meme).html
+    alias:
+      - drakeposting
+  he wants to order (meme):
+    name: 她想点菜（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/he_wants_to_order_(meme).html
+    alias:
+      - she wants to order (meme)
+  hara tetsuo (style):
+    name: 原哲男（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hara_tetsuo_(style).html
+  kingdom of kazimierz logo:
+    name: 卡齐米日王国标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kingdom_of_kazimierz_logo.html
+  ijimeka (meme):
+    name: 伊梅卡（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ijimeka_(meme).html
+    alias:
+      - ijimeka
+  ueda masashi (style):
+    name: 植田正志（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ueda_masashi_(style).html
+  takemoto izumi (style):
+    name: 武本泉（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/takemoto_izumi_(style).html
+  kantoku (style):
+    name: 关德（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kantoku_(style).html
+  clamp (circle) (style):
+    name: 夹子 （圈） （款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/clamp_(circle)_(style).html
+  distracted boyfriend (meme):
+    name: 心烦意乱的男朋友（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/distracted_boyfriend_(meme).html
+  oda eiichirou (style):
+    name: 织田荣一郎（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oda_eiichirou_(style).html
+  saru (style):
+    name: saru （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saru_(style).html
+  himura kiseki (style):
+    name: 日村轨迹（式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/himura_kiseki_(style).html
+  tumblr logo:
+    name: tumblr 徽标
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tumblr_logo.html
+  arawi keiichi (style):
+    name: arawi keiichi （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arawi_keiichi_(style).html
+  ursus empire logo:
+    name: 乌萨斯帝国标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ursus_empire_logo.html
+  piper perri surrounded (meme):
+    name: 风笛手包围
+    wikiURL: https://danbooru.donmai.us/wiki_pages/piper_perri_surrounded_(meme).html
+    alias:
+      - piper perri surrounded
+  keikenchi (style):
+    name: keikenchi （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/keikenchi_(style).html
+  agemasen! (meme):
+    name: 年龄！ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/agemasen!_(meme).html
+  ke-ta (style):
+    name: ke-ta （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ke-ta_(style).html
+  seggs (meme):
+    name: 赛格斯（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seggs_(meme).html
+  shibafu (glock23) (style):
+    name: shibafu （glock23） （款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shibafu_(glock23)_(style).html
+  cicada block (meme):
+    name: 蝉块
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cicada_block_(meme).html
+    alias:
+      - cicada block
+  although she hurriedly put on clothes (meme):
+    name: 虽然她匆忙穿上衣服
+    wikiURL: https://danbooru.donmai.us/wiki_pages/although_she_hurriedly_put_on_clothes_(meme).html
+    alias:
+      - although she hurriedly put on clothes
+  youtube username:
+    name: youtube 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/youtube_username.html
+  ilya kuvshinov (style):
+    name: ilya kuvshinov （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ilya_kuvshinov_(style).html
+  curtain call challenge (meme):
+    name: 谢幕挑战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/curtain_call_challenge_(meme).html
+    alias:
+      - curtain call challenge
+  granblue fantasy (style):
+    name: 碧蓝幻想（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/granblue_fantasy_(style).html
+  cover them up slut (meme):
+    name: 把他们掩盖起来荡妇（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cover_them_up_slut_(meme).html
+  kimoi girls (meme):
+    name: 简单模式 kimoi 女孩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kimoi_girls_(meme).html
+    alias:
+      - easy mode
+      - kimoi girls
+  kjerag logo:
+    name: 谢拉格标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kjerag_logo.html
+  asanagi (style):
+    name: asanagi （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/asanagi_(style).html
+  bikkuriman (style):
+    name: bikkuriman （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bikkuriman_(style).html
+  usui yoshito (style):
+    name: 臼井义人（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/usui_yoshito_(style).html
+  namori (style):
+    name: namori （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/namori_(style).html
+  soejima shigenori (style):
+    name: 副岛重典（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/soejima_shigenori_(style).html
+  super smash bros. logo:
+    name: 超级粉碎兄弟。标识
+    wikiURL: https://danbooru.donmai.us/wiki_pages/super_smash_bros._logo.html
+  tatsuki (irodori) (style):
+    name: tatsuki （irodori） （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tatsuki_(irodori)_(style).html
+  terada tera (style):
+    name: terada tera （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/terada_tera_(style).html
+  sakana~ (meme):
+    name: 假名~（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sakana~_(meme).html
+  amano yoshitaka (style):
+    name: 天野义孝（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/amano_yoshitaka_(style).html
+  takahashi kazuki (style):
+    name: 高桥和树（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/takahashi_kazuki_(style).html
+  takahashi rumiko (style):
+    name: 高桥留美子（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/takahashi_rumiko_(style).html
+  twitch username:
+    name: 抽搐用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/twitch_username.html
+  horikoshi kouhei (style):
+    name: 堀越孝平（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horikoshi_kouhei_(style).html
+  1930s (style):
+    name: 30多岁
+    wikiURL: https://danbooru.donmai.us/wiki_pages/1930s_(style).html
+    alias:
+      - 30s
+  furaffinity username:
+    name: furaffinity 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/furaffinity_username.html
+  tezuka osamu (style):
+    name: 手冢治虫（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tezuka_osamu_(style).html
+  dvddvd (meme):
+    name: 影碟机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dvddvd_(meme).html
+    alias:
+      - dvddvd
+  reddit username:
+    name: reddit 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/reddit_username.html
+  fantia username:
+    name: 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantia_username.html
+  apu spills his tendies (meme):
+    name: apu 泄露了他的倾向（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/apu_spills_his_tendies_(meme).html
+  broly culo (meme):
+    name: 布罗利库洛（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/broly_culo_(meme).html
+    alias:
+      - thicc omni-man (meme)
+  oguri oguri (meme):
+    name: 小栗旬（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oguri_oguri_(meme).html
+  kei (keigarou) (style):
+    name: kei （keigarou） （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kei_(keigarou)_(style).html
+  ryuko redraw (meme):
+    name: 龙子重绘（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ryuko_redraw_(meme).html
+    alias:
+      - ryuuko redraw (meme)
+  yoshida akihiko (style):
+    name: 吉田明彦（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yoshida_akihiko_(style).html
+  scotch (cookie) (style):
+    name: 苏格兰威士忌（饼干）（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/scotch_(cookie)_(style).html
+  gigachad (meme):
+    name: gigachad （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gigachad_(meme).html
+  lycoris challenge (meme):
+    name: 石蒜挑战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lycoris_challenge_(meme).html
+    alias:
+      - lycoris challenge
+  drip (meme):
+    name: 滴（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drip_(meme).html
+  my little pogchamp (meme):
+    name: 我的小pogchamp（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/my_little_pogchamp_(meme).html
+  oh? you're approaching me? (meme):
+    name: 哦？你靠近我？ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/oh?_you're_approaching_me?_(meme).html
+  think mark think! (meme):
+    name: 想想马克想想！ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/think_mark_think!_(meme).html
+  vincent van gogh (style):
+    name: 文森特梵高（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vincent_van_gogh_(style).html
+  booba (meme):
+    name: 布巴（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/booba_(meme).html
+  great lungmen logo:
+    name: 大肺人标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/great_lungmen_logo.html
+  taste of a liar (meme):
+    name: 骗子的味道
+    wikiURL: https://danbooru.donmai.us/wiki_pages/taste_of_a_liar_(meme).html
+    alias:
+      - taste of a liar
+  don't you ever stop (meme):
+    name: 托马伦贾尼佐
+    wikiURL: https://danbooru.donmai.us/wiki_pages/don't_you_ever_stop_(meme).html
+    alias:
+      - tomarunjaneezo
+  will smith slapping chris rock (meme):
+    name: 威尔·史密斯打克里斯·洛克（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/will_smith_slapping_chris_rock_(meme).html
+  how to make sushi (meme):
+    name: 寿司的制作方法
+    wikiURL: https://danbooru.donmai.us/wiki_pages/how_to_make_sushi_(meme).html
+    alias:
+      - how to make sushi
+  studio ghibli (style):
+    name: 吉卜力工作室（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/studio_ghibli_(style).html
+  idiot sandwich (meme):
+    name: 白痴三明治（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/idiot_sandwich_(meme).html
+  kishimoto masashi (style):
+    name: 岸本正史（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kishimoto_masashi_(style).html
+  urushihara satoshi (style):
+    name: 漆原聪（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/urushihara_satoshi_(style).html
+  when mama isn't home (meme):
+    name: 当妈妈不在家时
+    wikiURL: https://danbooru.donmai.us/wiki_pages/when_mama_isn't_home_(meme).html
+    alias:
+      - when mama isn't home
+  shinkawa youji (style):
+    name: 新川佑司（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shinkawa_youji_(style).html
+  party parrot (meme):
+    name: 派对鹦鹉（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/party_parrot_(meme).html
+  1950s (style):
+    name: 50年代
+    wikiURL: https://danbooru.donmai.us/wiki_pages/1950s_(style).html
+    alias:
+      - 50s
+  how to talk to short people (meme):
+    name: 如何与矮个子交谈（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/how_to_talk_to_short_people_(meme).html
+  araizumi rui (style):
+    name: 新泉 rui （style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/araizumi_rui_(style).html
+  sos-dan logo:
+    name: sos-dan标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sos-dan_logo.html
+  this is fine (meme):
+    name: 这很好（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/this_is_fine_(meme).html
+  yoshizaki mine (style):
+    name: 吉崎峰（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yoshizaki_mine_(style).html
+  sakimichan (style):
+    name: sakimichan （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sakimichan_(style).html
+  for the better right? (meme):
+    name: 为了更好的权利？ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/for_the_better_right?_(meme).html
+  pawoo username:
+    name: pawoo用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pawoo_username.html
+  nijiura 7 (meme):
+    name: 虹浦 7
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nijiura_7_(meme).html
+    alias:
+      - nijiura 7
+  precure netorare (meme):
+    name: 预治愈 netorare (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/precure_netorare_(meme).html
+    alias:
+      - precure netorare
+  shirow masamune (style):
+    name: 士郎政宗（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shirow_masamune_(style).html
+  naver username:
+    name: 用户名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naver_username.html
+  umezu kazuo (style):
+    name: 梅津和夫（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/umezu_kazuo_(style).html
+  how to draw manga redraw challenge (meme):
+    name: 如何画漫画重绘挑战
+    wikiURL: https://danbooru.donmai.us/wiki_pages/how_to_draw_manga_redraw_challenge_(meme).html
+    alias:
+      - how to draw manga redraw challenge
+  how to draw an owl (meme):
+    name: 如何画一只猫头鹰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/how_to_draw_an_owl_(meme).html
+    alias:
+      - how to draw an owl
+  kono dio da (meme):
+    name: 科诺迪奥达
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kono_dio_da_(meme).html
+    alias:
+      - kono dio da
+  shihou (g-o-s) (style):
+    name: 诗厚 （gos） （style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shihou_(g-o-s)_(style).html
+  femboy hooters (meme):
+    name: 花花公子猫头鹰
+    wikiURL: https://danbooru.donmai.us/wiki_pages/femboy_hooters_(meme).html
+    alias:
+      - femboy hooters
+  misaki kurehito (style):
+    name: misaki kurehito （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/misaki_kurehito_(style).html
+  nagai gou (style):
+    name: 永居沟（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nagai_gou_(style).html
+  ryuukishi07 (style):
+    name: ryuukishi07 （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ryuukishi07_(style).html
+  matt groening (style):
+    name: 哑光（款式）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matt_groening_(style).html
+  tokiame (style):
+    name: tokiame （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tokiame_(style).html
+  hito komoru (style):
+    name: hito komoru （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hito_komoru_(style).html
+  isayama hajime (style):
+    name: 谏山始（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/isayama_hajime_(style).html
+  itou junji (style):
+    name: 伊藤润二（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/itou_junji_(style).html
+  gotouge koyoharu (style):
+    name: gotouge koyoharu （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gotouge_koyoharu_(style).html
+  kingdom of victoria logo:
+    name: 维多利亚王国标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kingdom_of_victoria_logo.html
+  get down (meme):
+    name: 趴下（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/get_down_(meme).html
+  yajuu no gankou (meme):
+    name: yajuu no gankou (模因)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yajuu_no_gankou_(meme).html
+  mujun-gatamari (meme):
+    name: mujun-gatamari（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mujun-gatamari_(meme).html
+    alias:
+      - mujun-gatamari
+  morino hon (style):
+    name: 森野本（style）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/morino_hon_(style).html
+  hirano kouta (style):
+    name: 平野幸太（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hirano_kouta_(style).html
+  danshi koukou valentine (meme):
+    name: 胆小口口情人节
+    wikiURL: https://danbooru.donmai.us/wiki_pages/danshi_koukou_valentine_(meme).html
+    alias:
+      - danshi koukou valentine
+  jigoku no misawa (style):
+    name: 地狱之三泽（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jigoku_no_misawa_(style).html
+  himaruya hidekazu (style):
+    name: himaruya hidekazu （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/himaruya_hidekazu_(style).html
+  abyssal hunters logo:
+    name: 深渊猎人标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/abyssal_hunters_logo.html
+  massakasama (style):
+    name: massakasama （风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/massakasama_(style).html
+  how is the progress (meme):
+    name: 进展如何（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/how_is_the_progress_(meme).html
+  ideolo (style):
+    name: ideolo（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ideolo_(style).html
+  mcnuggies (meme):
+    name: mcnuggies （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mcnuggies_(meme).html
+  daijoubu? oppai momu? (meme):
+    name: 大城部？欧派姆姆？ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/daijoubu?_oppai_momu?_(meme).html
+    alias:
+      - daijoubu? oppai momu?
+  pov cheek grabbing (meme):
+    name: POV 抓脸颊（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pov_cheek_grabbing_(meme).html
+  minecraft (style):
+    name: 我的世界（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/minecraft_(style).html
+  griffin & kryuger logo:
+    name: 格里芬和克鲁格标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/griffin_&_kryuger_logo.html
+    alias:
+      - griffin and kryuger
+      - griffin & kryuger
+  fan screaming at madison beer (meme):
+    name: 粉丝对着麦迪逊啤酒尖叫（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fan_screaming_at_madison_beer_(meme).html
+  pec pov (meme):
+    name: 佩奇 pov（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pec_pov_(meme).html
+    alias:
+      - yur oc like this (meme)
+  i've never seen a guy recreate this successfully tbh (meme):
+    name: 说实话，我从来没有见过有人成功地重新创造了这个（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/i've_never_seen_a_guy_recreate_this_successfully_tbh_(meme).html
+  why dis ninja look so mad (meme):
+    name: 为什么忍者看起来这么生气（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/why_dis_ninja_look_so_mad_(meme).html
+  thour (meme):
+    name: 你（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/thour_(meme).html
+  gehenna academy logo:
+    name: 地狱学院标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gehenna_academy_logo.html
+  frieren stuck in a mimic (meme):
+    name: 朋友陷入了模仿（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frieren_stuck_in_a_mimic_(meme).html
+  company logo:
+    name: 公司标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/company_logo.html
+  grimace shake (meme):
+    name: 做鬼脸摇晃（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grimace_shake_(meme).html
+  genba neko (meme):
+    name: 玄场猫 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/genba_neko_(meme).html
+  red winter federal academy logo:
+    name: 红色冬季联邦学院标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_winter_federal_academy_logo.html
+  teri derp (meme):
+    name: 泰瑞·德普 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/teri_derp_(meme).html
+  masanori sato (style):
+    name: 佐藤正德（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/masanori_sato_(style).html
+  can't show this (meme):
+    name: 无法显示这个（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/can't_show_this_(meme).html
+  guilty challenge (meme):
+    name: 有罪的挑战（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/guilty_challenge_(meme).html
+  shikairo days dance (meme):
+    name: 鹿天舞 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shikairo_days_dance_(meme).html
+  miiverse yeah! (meme):
+    name: 是啊！ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/miiverse_yeah!_(meme).html
+  motivator (meme):
+    name: 动机（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/motivator_(meme).html
+  kurokw (style):
+    name: 库洛库（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kurokw_(style).html
+  kessoku band logo:
+    name: kessoku 乐队标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kessoku_band_logo.html
+  seyana (meme):
+    name: 塞亚纳（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/seyana_(meme).html
+  zako (meme):
+    name: 扎科（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zako_(meme).html
+  no ai logo:
+    name: 没有艾标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_ai_logo.html
+  superman logo:
+    name: 超人标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/superman_logo.html
+  yusuf dikec (meme):
+    name: 优素福·迪凯克 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yusuf_dikec_(meme).html
+  nijihub (meme):
+    name: 尼吉胡布（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nijihub_(meme).html
+  copyright logo:
+    name: 版权标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/copyright_logo.html
+  character logo:
+    name: 人物标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/character_logo.html
+  bilibili logo:
+    name: 哔哩哔哩标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bilibili_logo.html
+  death momoi (meme):
+    name: 死亡桃井（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/death_momoi_(meme).html
+  discord logo:
+    name: 不和谐标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/discord_logo.html
+  i think we're gonna have to kill this guy steven (meme):
+    name: 我想我们必须杀了这个家伙史蒂文（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/i_think_we're_gonna_have_to_kill_this_guy_steven_(meme).html
+  atsuko's grin (meme):
+    name: 津子的笑容（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/atsuko's_grin_(meme).html
+  haruba negi (style):
+    name: 春叶奈吉（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/haruba_negi_(style).html
+  good morning my brother! (meme):
+    name: 早上好，我的兄弟！ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/good_morning_my_brother!_(meme).html
+  mayu-tan no kung fu (meme):
+    name: Mayu-tan no kung fu（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mayu-tan_no_kung_fu_(meme).html
+  imaishi hiroyuki (style):
+    name: 今石弘之（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/imaishi_hiroyuki_(style).html
+    alias:
+      - studio trigger (style)
+  114514 (meme):
+    name: 114514（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/114514_(meme).html
+  ankha zone (meme):
+    name: 安卡区（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ankha_zone_(meme).html
+    alias:
+      - ankha zone
+  cammy stretch (meme):
+    name: 卡米伸展（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cammy_stretch_(meme).html
+  logo print:
+    name: 标志印花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/logo_print.html
+  pogchamp (meme):
+    name: 博格冠军（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pogchamp_(meme).html
+  italian senate porn livestream (meme):
+    name: 意大利参议院色情直播（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/italian_senate_porn_livestream_(meme).html
+    alias:
+      - italian senate porn livestream
+  umakoshi yoshihiko (style):
+    name: 马越义彦（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/umakoshi_yoshihiko_(style).html
+  you look lonely (meme):
+    name: 你看起来很孤独（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/you_look_lonely_(meme).html
+  nah i'd win (meme):
+    name: 不，我会赢（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nah_i'd_win_(meme).html
+  mifune takashi (style):
+    name: 三船隆（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mifune_takashi_(style).html
+  medium support (meme):
+    name: 中等支持（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/medium_support_(meme).html
+  xiaohongshu logo:
+    name: 小红书标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xiaohongshu_logo.html
+  fujimoto tatsuki (style):
+    name: 藤本达希（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fujimoto_tatsuki_(style).html
+  masa ni (meme):
+    name: 玛莎妮（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/masa_ni_(meme).html
+  goslingposting (meme):
+    name: 小鹅发布（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/goslingposting_(meme).html
+    alias:
+      - goslingposting
+  gian punch (meme):
+    name: 吉安潘克（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gian_punch_(meme).html
+  ah eto... bleh (meme):
+    name: 啊 eto...bleh（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ah_eto..._bleh_(meme).html
+  hey i could have died (meme):
+    name: 嘿，我可能会死（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hey_i_could_have_died_(meme).html
+  ko-fi logo:
+    name: 科菲标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ko-fi_logo.html
+  you can just give this kind of thing to men and they will be thrilled (meme):
+    name: 你可以把这种东西给男人，他们会很兴奋（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/you_can_just_give_this_kind_of_thing_to_men_and_they_will_be_thrilled_(meme).html
+  miku miku beaaaam!! (meme):
+    name: miku miku 啊啊啊！！ （模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/miku_miku_beaaaam!!_(meme).html
+  anatomy of a gamer (meme):
+    name: 游戏玩家的解剖（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anatomy_of_a_gamer_(meme).html
+  lofter logo:
+    name: 阁楼标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lofter_logo.html
+  how to hold x (meme):
+    name: 如何握住x（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/how_to_hold_x_(meme).html
+  69 (meme):
+    name: 69（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/69_(meme).html
+  fried rice prank (meme):
+    name: 炒饭恶作剧（表情包）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fried_rice_prank_(meme).html
+    alias:
+      - rice wave (meme)
+  leekspin (meme):
+    name: 韭葱 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leekspin_(meme).html
+    alias:
+      - loituma
+  nemlei (style):
+    name: 内姆莱（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nemlei_(style).html
+  fantia logo:
+    name: 凡蒂亚标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantia_logo.html
+  sadamoto yoshiyuki (style):
+    name: 贞本义行（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sadamoto_yoshiyuki_(style).html
+  promotions (meme):
+    name: 促销（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/promotions_(meme).html
+  gustav klimt (style):
+    name: 古斯塔夫·克里姆特（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gustav_klimt_(style).html
+  draw me like one of your french girls (meme):
+    name: 把我画得像你的一个法国女孩一样（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/draw_me_like_one_of_your_french_girls_(meme).html
+  mochizuki kei (style):
+    name: 望月圭（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mochizuki_kei_(style).html
+  pokedance (meme):
+    name: 波德舞（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pokedance_(meme).html
+  matsumoto leiji (style):
+    name: 松本怜司（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/matsumoto_leiji_(style).html
+  jikkyou powerful pro yakyuu (style):
+    name: jikkyou强大的专业yakyuu（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jikkyou_powerful_pro_yakyuu_(style).html
+    alias:
+      - power pros (style)
+  xinzoruo (style):
+    name: 新佐若（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/xinzoruo_(style).html
+  chipi chipi chapa chapa (meme):
+    name: 奇皮奇皮查帕查帕 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chipi_chipi_chapa_chapa_(meme).html
+  kouno marika's silence suzuka drawing (meme):
+    name: 红野麻里香的沉默铃鹿画（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kouno_marika's_silence_suzuka_drawing_(meme).html
+  no lady on twitter can recreate this (meme):
+    name: 推特上没有女士可以重现这个（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_lady_on_twitter_can_recreate_this_(meme).html
+  deez nuts (meme):
+    name: 迪兹坚果（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/deez_nuts_(meme).html
+    alias:
+      - ligma (meme)
+  winnie the pooh reading (meme):
+    name: 小熊维尼读书（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/winnie_the_pooh_reading_(meme).html
+  mika pikazo (style):
+    name: 米卡·皮卡佐（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mika_pikazo_(style).html
+  princess toadstool redraw (meme):
+    name: 公主伞菌重画（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/princess_toadstool_redraw_(meme).html
+  fried hoshino (meme):
+    name: 炒星野 (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fried_hoshino_(meme).html
+  urasawa naoki (style):
+    name: 浦泽直树（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/urasawa_naoki_(style).html
+  ugoitenai no ni atsui yo (meme):
+    name: ugoitenai no ni atsui yo (meme)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ugoitenai_no_ni_atsui_yo_(meme).html
+  mikimoto haruhiko (style):
+    name: 御木本晴彦（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mikimoto_haruhiko_(style).html
+  uekawa yuji (style):
+    name: 上川雄二（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uekawa_yuji_(style).html
+  you should kill yourself now (meme):
+    name: 你现在应该自杀（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/you_should_kill_yourself_now_(meme).html
+  lesbians doing makeup (meme):
+    name: 女同性恋者化妆（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lesbians_doing_makeup_(meme).html
+  nomura tetsuya (style):
+    name: 野村哲也（风格）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nomura_tetsuya_(style).html
+  veil scene 14 redraw (meme):
+    name: 面纱场景14重画（meme）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/veil_scene_14_redraw_(meme).html
+  man levitating pizza (meme):
+    name: 男人悬浮披萨（模因）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/man_levitating_pizza_(meme).html
+  nokotan entering a classroom (meme):
+    name: 鹿乃子进教室（梗）
+  survey corps (emblem):
+    name: 调查兵团徽章
+    wikiURL: https://danbooru.donmai.us/wiki_pages/survey_corps_(emblem).html
+  st. gloriana's (emblem):
+    name: 圣葛罗莉安娜女学园校徽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/st._gloriana's_(emblem).html
+  kamisato clan (emblem):
+    name: 上里一族（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kamisato_clan_(emblem).html
+  ooarai (emblem):
+    name: 大洗联队徽章
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ooarai_(emblem).html
+  bc freedom (emblem):
+    name: 公元前自由（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bc_freedom_(emblem).html
+  sakura empire (emblem):
+    name: 樱花帝国（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sakura_empire_(emblem).html
+  iron blood (emblem):
+    name: 铁血（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iron_blood_(emblem).html
+  pravda (emblem):
+    name: 真理报（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pravda_(emblem).html
+  eagle union (emblem):
+    name: 雄鹰联盟（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eagle_union_(emblem).html
+  kuromorimine (emblem):
+    name: kuromorimine （会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kuromorimine_(emblem).html
+  anzio (emblem):
+    name: anzio （会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/anzio_(emblem).html
+  saunders (emblem):
+    name: 桑德斯（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saunders_(emblem).html
+  sanada clan (emblem):
+    name: 真田家（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sanada_clan_(emblem).html
+  keizoku (emblem):
+    name: 计织（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/keizoku_(emblem).html
+  sardegna empire (emblem):
+    name: 撒丁岛帝国（国徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sardegna_empire_(emblem).html
+  vichya dominion (emblem):
+    name: vichya dominion（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vichya_dominion_(emblem).html
+  northern parliament (emblem):
+    name: 北方议会（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/northern_parliament_(emblem).html
+  iris libre (emblem):
+    name: 鸢尾花（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iris_libre_(emblem).html
+  military police brigade (emblem):
+    name: 宪兵大队（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/military_police_brigade_(emblem).html
+  aoshidan (emblem):
+    name: 傲世丹（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aoshidan_(emblem).html
+  sakamoto clan (emblem):
+    name: 坂本氏（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sakamoto_clan_(emblem).html
+  garrison regiment (emblem):
+    name: 警备团（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/garrison_regiment_(emblem).html
+  japanese national police agency (emblem):
+    name: 日本警察厅（会徽）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/japanese_national_police_agency_(emblem).html
+  black bulls (emblem):
+    name: 黑公牛（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_bulls_(emblem).html
+  naranja academy (emblem):
+    name: 纳兰贾学院（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/naranja_academy_(emblem).html
+  uva academy (emblem):
+    name: 乌瓦学院（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/uva_academy_(emblem).html
+  us navy (emblem):
+    name: 美国海军（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/us_navy_(emblem).html
+  blueberry academy (emblem):
+    name: 蓝莓学院（徽章）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blueberry_academy_(emblem).html

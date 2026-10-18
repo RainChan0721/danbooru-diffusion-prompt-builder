@@ -1,6 +1,6 @@
 name: 随身用品与日常道具
 category:
-- 物品
+  - 物品
 content:
   food:
     name: 食物
@@ -9,27 +9,27 @@ content:
     name: 包
     wikiURL: https://danbooru.donmai.us/wiki_pages/bag.html
     alias:
-    - bags
+      - bags
   cup:
     name: 杯子
     wikiURL: https://danbooru.donmai.us/wiki_pages/cup.html
     alias:
-    - cups
-    - drinking cup
+      - cups
+      - drinking cup
   pillow:
     name: 枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/pillow.html
     alias:
-    - black pillow
-    - blue pillow
-    - green pillow
-    - grey pillow
-    - orange pillow
+      - black pillow
+      - blue pillow
+      - green pillow
+      - grey pillow
+      - orange pillow
   book:
     name: 书
     wikiURL: https://danbooru.donmai.us/wiki_pages/book.html
     alias:
-    - books
+      - books
   on bed:
     name: 在床上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_bed.html
@@ -40,24 +40,19 @@ content:
     name: 电话|手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/phone.html
     alias:
-    - telephone
+      - telephone
   bed sheet:
     name: 床单
     wikiURL: https://danbooru.donmai.us/wiki_pages/bed_sheet.html
     alias:
-    - bedsheet
-    - bed sheets
-    - bedsheets
-    - sheet
-    - sheets
+      - bedsheet
+      - bed sheets
+      - bedsheets
+      - sheet
+      - sheets
   white flower:
     name: 白色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_flower.html
-  ring:
-    name: 戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ring.html
-    alias:
-    - rings
   table:
     name: 桌子
     wikiURL: https://danbooru.donmai.us/wiki_pages/table.html
@@ -65,9 +60,9 @@ content:
     name: 手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/cellphone.html
     alias:
-    - cell phone
-    - keitai
-    - mobile phone
+      - cell phone
+      - keitai
+      - mobile phone
   red flower:
     name: 红色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_flower.html
@@ -75,12 +70,12 @@ content:
     name: 背带
     wikiURL: https://danbooru.donmai.us/wiki_pages/suspenders.html
     alias:
-    - suspender
+      - suspender
   bottle:
     name: 瓶子
     wikiURL: https://danbooru.donmai.us/wiki_pages/bottle.html
     alias:
-    - bottles
+      - bottles
   pink flower:
     name: 粉红色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_flower.html
@@ -88,12 +83,12 @@ content:
     name: 乐器
     wikiURL: https://danbooru.donmai.us/wiki_pages/instrument.html
     alias:
-    - instruments
+      - instruments
   box:
     name: 箱子
     wikiURL: https://danbooru.donmai.us/wiki_pages/box.html
     alias:
-    - boxes
+      - boxes
   steam:
     name: 蒸汽
     wikiURL: https://danbooru.donmai.us/wiki_pages/steam.html
@@ -101,15 +96,12 @@ content:
     name: 智能手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/smartphone.html
     alias:
-    - smart phone
+      - smart phone
   o-ring:
     name: 带O型环的衣物
     wikiURL: https://danbooru.donmai.us/wiki_pages/o-ring.html
     alias:
-    - o ring
-  covering privates:
-    name: 覆盖私人
-    wikiURL: https://danbooru.donmai.us/wiki_pages/covering_privates.html
+      - o ring
   blue flower:
     name: 蓝色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_flower.html
@@ -117,9 +109,9 @@ content:
     name: 礼物
     wikiURL: https://danbooru.donmai.us/wiki_pages/gift.html
     alias:
-    - gifts
-    - present
-    - presents
+      - gifts
+      - present
+      - presents
   yellow flower:
     name: 黄色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_flower.html
@@ -127,7 +119,7 @@ content:
     name: 书包
     wikiURL: https://danbooru.donmai.us/wiki_pages/school_bag.html
     alias:
-    - schoolbag
+      - schoolbag
   purple flower:
     name: 紫色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_flower.html
@@ -144,18 +136,13 @@ content:
     name: 手提包
     wikiURL: https://danbooru.donmai.us/wiki_pages/handbag.html
     alias:
-    - hand bag
-    - purse
+      - hand bag
+      - purse
   drawstring:
     name: 衣服的抽绳
     wikiURL: https://danbooru.donmai.us/wiki_pages/drawstring.html
     alias:
-    - drawstrings
-  covering own mouth:
-    name: 捂住自己的嘴
-    wikiURL: https://danbooru.donmai.us/wiki_pages/covering_own_mouth.html
-    alias:
-    - hands over own mouth
+      - drawstrings
   pen:
     name: 笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/pen.html
@@ -166,82 +153,74 @@ content:
     name: 时钟
     wikiURL: https://danbooru.donmai.us/wiki_pages/clock.html
     alias:
-    - clocks
+      - clocks
   bookshelf:
     name: 书架
     wikiURL: https://danbooru.donmai.us/wiki_pages/bookshelf.html
     alias:
-    - bookcase
-    - bookshelves
+      - bookcase
+      - bookshelves
   wristwatch:
     name: 手表
     wikiURL: https://danbooru.donmai.us/wiki_pages/wristwatch.html
     alias:
-    - wrist watch
+      - wrist watch
   food in mouth:
     name: 嘴里有食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_in_mouth.html
   glass:
     name: 玻璃
     wikiURL: https://danbooru.donmai.us/wiki_pages/glass.html
-  wedding ring:
-    name: 结婚戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/wedding_ring.html
-    alias:
-    - wedding band
   disposable cup:
     name: 一次性纸杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/disposable_cup.html
     alias:
-    - paper cup
-    - plastic cup
-    - soda cup
+      - paper cup
+      - plastic cup
+      - soda cup
   wine glass:
     name: 红酒杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/wine_glass.html
     alias:
-    - wineglass
+      - wineglass
   key:
     name: 钥匙
     wikiURL: https://danbooru.donmai.us/wiki_pages/key.html
     alias:
-    - keys
+      - keys
   oil-paper umbrella:
     name: 油纸伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/oil-paper_umbrella.html
     alias:
-    - japanese umbrella
-    - oriental umbrella
-    - paper umbrella
-    - wagasa
+      - japanese umbrella
+      - oriental umbrella
+      - paper umbrella
+      - wagasa
   teapot:
     name: 茶壶
     wikiURL: https://danbooru.donmai.us/wiki_pages/teapot.html
     alias:
-    - tea pot
+      - tea pot
   under covers:
     name: 盖着被子的
     wikiURL: https://danbooru.donmai.us/wiki_pages/under_covers.html
     alias:
-    - in bed
-    - under blanket
+      - in bed
+      - under blanket
   string:
     name: 绳子
     wikiURL: https://danbooru.donmai.us/wiki_pages/string.html
     alias:
-    - strings
+      - strings
   o-ring top:
     name: 带O型环的上衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/o-ring_top.html
     alias:
-    - o-ring bikini top
-    - o ring top
+      - o-ring bikini top
+      - o ring top
   pencil:
     name: 铅笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/pencil.html
-  multiple rings:
-    name: （戴着）多个戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_rings.html
   syringe:
     name: 注射器
     wikiURL: https://danbooru.donmai.us/wiki_pages/syringe.html
@@ -252,12 +231,12 @@ content:
     name: 碎边饰物|边缘装饰物
     wikiURL: https://danbooru.donmai.us/wiki_pages/fringe_trim.html
     alias:
-    - fringe
+      - fringe
   book stack:
     name: 书堆
     wikiURL: https://danbooru.donmai.us/wiki_pages/book_stack.html
     alias:
-    - stacked books
+      - stacked books
   orange flower:
     name: 橙色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_flower.html
@@ -268,13 +247,13 @@ content:
     name: 百合花
     wikiURL: https://danbooru.donmai.us/wiki_pages/lily_(flower).html
     alias:
-    - lillies
+      - lillies
   utility pole:
     name: 电线杆
     wikiURL: https://danbooru.donmai.us/wiki_pages/utility_pole.html
     alias:
-    - power pole
-    - telephone pole
+      - power pole
+      - telephone pole
   flower knot:
     name: 绳结
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_knot.html
@@ -282,10 +261,10 @@ content:
     name: 膝枕
     wikiURL: https://danbooru.donmai.us/wiki_pages/lap_pillow.html
     alias:
-    - head in lap
-    - head on lap
-    - hizamakura
-    - lappillow
+      - head in lap
+      - head on lap
+      - hizamakura
+      - lappillow
   black flower:
     name: 黑色的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_flower.html
@@ -293,17 +272,17 @@ content:
     name: 黑色包
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_bag.html
     alias:
-    - black backpack
+      - black backpack
   shopping bag:
     name: 购物袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/shopping_bag.html
     alias:
-    - shopping bags
+      - shopping bags
   penguin:
     name: 企鹅
     wikiURL: https://danbooru.donmai.us/wiki_pages/penguin.html
     alias:
-    - penguins
+      - penguins
   notebook:
     name: 笔记本
     wikiURL: https://danbooru.donmai.us/wiki_pages/notebook.html
@@ -317,13 +296,13 @@ content:
     name: 橘子
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_(fruit).html
     alias:
-    - orange (food)
-    - oranges
+      - orange (food)
+      - oranges
   money:
     name: 钱
     wikiURL: https://danbooru.donmai.us/wiki_pages/money.html
     alias:
-    - cash
+      - cash
   wine bottle:
     name: 酒瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/wine_bottle.html
@@ -349,7 +328,7 @@ content:
     name: 电脑键盘
     wikiURL: https://danbooru.donmai.us/wiki_pages/computer_keyboard.html
     alias:
-    - keyboard (computer)
+      - keyboard (computer)
   open door:
     name: 开门
     wikiURL: https://danbooru.donmai.us/wiki_pages/open_door.html
@@ -357,7 +336,7 @@ content:
     name: 怀表
     wikiURL: https://danbooru.donmai.us/wiki_pages/pocket_watch.html
     alias:
-    - pocketwatch
+      - pocketwatch
   tablet pc:
     name: 平板电脑
     wikiURL: https://danbooru.donmai.us/wiki_pages/tablet_pc.html
@@ -365,12 +344,12 @@ content:
     name: 未勃起的
     wikiURL: https://danbooru.donmai.us/wiki_pages/flaccid.html
     alias:
-    - limp penis
+      - limp penis
   tissue box:
     name: 纸巾盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tissue_box.html
     alias:
-    - tissuebox
+      - tissuebox
   rose print:
     name: 玫瑰印花
     wikiURL: https://danbooru.donmai.us/wiki_pages/rose_print.html
@@ -378,7 +357,7 @@ content:
     name: 眼罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/eye_mask.html
     alias:
-    - eyemask
+      - eyemask
   flower wreath:
     name: 花环
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_wreath.html
@@ -386,7 +365,7 @@ content:
     name: 蔬菜
     wikiURL: https://danbooru.donmai.us/wiki_pages/vegetable.html
     alias:
-    - vegetables
+      - vegetables
   violin:
     name: 小提琴
     wikiURL: https://danbooru.donmai.us/wiki_pages/violin.html
@@ -400,7 +379,7 @@ content:
     name: 教师
     wikiURL: https://danbooru.donmai.us/wiki_pages/teacher.html
     alias:
-    - sensei
+      - sensei
   frilled pillow:
     name: 褶边枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_pillow.html
@@ -411,51 +390,51 @@ content:
     name: 救生圈
     wikiURL: https://danbooru.donmai.us/wiki_pages/lifebuoy.html
     alias:
-    - life preserver (ring)
-    - lifesaver
+      - life preserver (ring)
+      - lifesaver
   stylus:
     name: 数绘笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/stylus.html
     alias:
-    - tablet pen
+      - tablet pen
   trash can:
     name: 垃圾桶
     wikiURL: https://danbooru.donmai.us/wiki_pages/trash_can.html
     alias:
-    - dustbin
-    - garbage can
-    - trashcan
-    - wastebasket
+      - dustbin
+      - garbage can
+      - trashcan
+      - wastebasket
   string of fate:
     name: 命运的红线
     wikiURL: https://danbooru.donmai.us/wiki_pages/string_of_fate.html
     alias:
-    - red string
-    - red string of fate
-    - red thread
+      - red string
+      - red string of fate
+      - red thread
   megaphone:
     name: 扩音器
     wikiURL: https://danbooru.donmai.us/wiki_pages/megaphone.html
     alias:
-    - bull horn
-    - bullhorn
+      - bull horn
+      - bullhorn
   chips (food):
     name: 薯片
     wikiURL: https://danbooru.donmai.us/wiki_pages/chips_(food).html
     alias:
-    - crisps
+      - crisps
   flower pot:
     name: 花盆
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_pot.html
     alias:
-    - flowerpot
-    - plant pot
-    - pot (plant)
+      - flowerpot
+      - plant pot
+      - pot (plant)
   o-ring bottom:
     name: 带O型环的下装
     wikiURL: https://danbooru.donmai.us/wiki_pages/o-ring_bottom.html
     alias:
-    - o ring bottom
+      - o ring bottom
   suspender shorts:
     name: 吊带短裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/suspender_shorts.html
@@ -469,7 +448,7 @@ content:
     name: 贝斯
     wikiURL: https://danbooru.donmai.us/wiki_pages/bass_guitar.html
     alias:
-    - bass
+      - bass
   food on head:
     name: 头上有食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_on_head.html
@@ -477,13 +456,13 @@ content:
     name: 在盒子里的|箱内女孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_box.html
     alias:
-    - boy in a box
-    - girl in a box
+      - boy in a box
+      - girl in a box
   profanity:
     name: 亵渎
     wikiURL: https://danbooru.donmai.us/wiki_pages/profanity.html
     alias:
-    - swearing
+      - swearing
   plastic bag:
     name: 塑料袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/plastic_bag.html
@@ -494,8 +473,8 @@ content:
     name: 粉色背包 粉色手提包
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_bag.html
     alias:
-    - pink backpack
-    - pink handbag
+      - pink backpack
+      - pink handbag
   red umbrella:
     name: 红色的伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_umbrella.html
@@ -509,12 +488,12 @@ content:
     name: 一次性咖啡杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/disposable_coffee_cup.html
     alias:
-    - coffee cup
+      - coffee cup
   red bag:
     name: 红色背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_bag.html
     alias:
-    - red backpack
+      - red backpack
   string of flags:
     name: 彩旗串
     wikiURL: https://danbooru.donmai.us/wiki_pages/string_of_flags.html
@@ -522,17 +501,17 @@ content:
     name: 白色背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_bag.html
     alias:
-    - white backpack
+      - white backpack
   cellphone photo:
     name: 手机照片
     wikiURL: https://danbooru.donmai.us/wiki_pages/cellphone_photo.html
     alias:
-    - cellphone picture
+      - cellphone picture
   plantar flexion:
     name: 足底屈曲
     wikiURL: https://danbooru.donmai.us/wiki_pages/plantar_flexion.html
     alias:
-    - toe-point down
+      - toe-point down
   purple umbrella:
     name: 紫色雨伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_umbrella.html
@@ -540,15 +519,12 @@ content:
     name: 茶碗
     wikiURL: https://danbooru.donmai.us/wiki_pages/yunomi.html
     alias:
-    - japanese teacup
-  thumb ring:
-    name: 拇指指环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/thumb_ring.html
+      - japanese teacup
   quill:
     name: 羽毛笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/quill.html
     alias:
-    - feather pen
+      - feather pen
   open shorts:
     name: 敞开的短裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/open_shorts.html
@@ -556,17 +532,17 @@ content:
     name: 行李包
     wikiURL: https://danbooru.donmai.us/wiki_pages/duffel_bag.html
     alias:
-    - gym bag
+      - gym bag
   kabedon:
     name: 壁咚
     wikiURL: https://danbooru.donmai.us/wiki_pages/kabedon.html
     alias:
-    - wall slam
+      - wall slam
   blue bag:
     name: 蓝色背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_bag.html
     alias:
-    - blue backpack
+      - blue backpack
   instrument case:
     name: 乐器盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/instrument_case.html
@@ -580,7 +556,7 @@ content:
     name: 拨片
     wikiURL: https://danbooru.donmai.us/wiki_pages/plectrum.html
     alias:
-    - guitar pick
+      - guitar pick
   egg (food):
     name: 蛋（食物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/egg_(food).html
@@ -588,7 +564,7 @@ content:
     name: 清酒瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/tokkuri.html
     alias:
-    - sake pottery bottle
+      - sake pottery bottle
   inflatable toy:
     name: 充气玩具
     wikiURL: https://danbooru.donmai.us/wiki_pages/inflatable_toy.html
@@ -602,7 +578,7 @@ content:
     name: 拳击手
     wikiURL: https://danbooru.donmai.us/wiki_pages/boxers.html
     alias:
-    - boxer shorts
+      - boxer shorts
   steering wheel:
     name: 方向盘
     wikiURL: https://danbooru.donmai.us/wiki_pages/steering_wheel.html
@@ -610,7 +586,7 @@ content:
     name: 盒装饮料
     wikiURL: https://danbooru.donmai.us/wiki_pages/juice_box.html
     alias:
-    - juicebox
+      - juicebox
   oni mask:
     name: 鬼面
     wikiURL: https://danbooru.donmai.us/wiki_pages/oni_mask.html
@@ -618,7 +594,7 @@ content:
     name: 键盘乐器
     wikiURL: https://danbooru.donmai.us/wiki_pages/keyboard_(instrument).html
     alias:
-    - electric keyboard
+      - electric keyboard
   team rocket:
     name: 火箭队
     wikiURL: https://danbooru.donmai.us/wiki_pages/team_rocket.html
@@ -632,23 +608,23 @@ content:
     name: 黄色背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_bag.html
     alias:
-    - yellow backpack
+      - yellow backpack
   teasing:
     name: 戏弄
     wikiURL: https://danbooru.donmai.us/wiki_pages/teasing.html
     alias:
-    - tease
+      - tease
   under table:
     name: 在桌子下面
     wikiURL: https://danbooru.donmai.us/wiki_pages/under_table.html
     alias:
-    - under desk
-    - under the table
+      - under desk
+      - under the table
   sketchbook:
     name: 素描本
     wikiURL: https://danbooru.donmai.us/wiki_pages/sketchbook.html
     alias:
-    - sketchpad
+      - sketchpad
   skull mask:
     name: 骷髅面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/skull_mask.html
@@ -680,17 +656,17 @@ content:
     name: 钞票
     wikiURL: https://danbooru.donmai.us/wiki_pages/banknote.html
     alias:
-    - paper money
+      - paper money
   sleep mask:
     name: 睡眠面膜
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleep_mask.html
     alias:
-    - sleeping mask
+      - sleeping mask
   choko (cup):
     name: 猪口杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/choko_(cup).html
     alias:
-    - sake cup
+      - sake cup
   green flower:
     name: 绿花
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_flower.html
@@ -701,17 +677,17 @@ content:
     name: 放大镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/magnifying_glass.html
     alias:
-    - magnifying glasses
+      - magnifying glasses
   shared umbrella:
     name: 相合伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/shared_umbrella.html
     alias:
-    - sharing umbrella
+      - sharing umbrella
   plant girl:
     name: 娘化植物
     wikiURL: https://danbooru.donmai.us/wiki_pages/plant_girl.html
     alias:
-    - plantgirl
+      - plantgirl
   opening door:
     name: 开门
     wikiURL: https://danbooru.donmai.us/wiki_pages/opening_door.html
@@ -722,24 +698,19 @@ content:
     name: 助威
     wikiURL: https://danbooru.donmai.us/wiki_pages/cheering.html
     alias:
-    - cheer
-    - cheered
-  whispering:
-    name: 讲悄悄话
-    wikiURL: https://danbooru.donmai.us/wiki_pages/whispering.html
-    alias:
-    - whisper
+      - cheer
+      - cheered
   incoming food:
     name: 递食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/incoming_food.html
     alias:
-    - feeding viewer
+      - feeding viewer
   stab:
     name: 刺
     wikiURL: https://danbooru.donmai.us/wiki_pages/stab.html
     alias:
-    - stabbed
-    - stabbing
+      - stabbed
+      - stabbing
   open window:
     name: 打开的窗户
     wikiURL: https://danbooru.donmai.us/wiki_pages/open_window.html
@@ -747,7 +718,7 @@ content:
     name: (角色)在食物里
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_food.html
     alias:
-    - girl in food
+      - girl in food
   mask around neck:
     name: 脖子上的面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/mask_around_neck.html
@@ -761,9 +732,9 @@ content:
     name: 凤笼茶时间
     wikiURL: https://danbooru.donmai.us/wiki_pages/ho-kago_tea_time.html
     alias:
-    - after-school tea time
-    - hokago tea time
-    - houkago tea time
+      - after-school tea time
+      - hokago tea time
+      - houkago tea time
   red mask:
     name: 红色面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_mask.html
@@ -774,8 +745,8 @@ content:
     name: 绿色背包 绿色手提包
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_bag.html
     alias:
-    - green backpack
-    - green handbag
+      - green backpack
+      - green handbag
   white umbrella:
     name: 白伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_umbrella.html
@@ -786,23 +757,20 @@ content:
     name: 未穿过的包
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_bag.html
     alias:
-    - bag removed
-  flower brooch:
-    name: 花胸针
-    wikiURL: https://danbooru.donmai.us/wiki_pages/flower_brooch.html
+      - bag removed
   oversized food:
     name: 巨型食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_food.html
     alias:
-    - giant food
+      - giant food
   phonograph:
     name: 留声机
     wikiURL: https://danbooru.donmai.us/wiki_pages/phonograph.html
     alias:
-    - gramophone
-    - record machine
-    - record player
-    - victrola
+      - gramophone
+      - record machine
+      - record player
+      - victrola
   vocaloid append:
     name: V家歌手的头戴设备
     wikiURL: https://danbooru.donmai.us/wiki_pages/vocaloid_append.html
@@ -813,7 +781,7 @@ content:
     name: 玩偶装
     wikiURL: https://danbooru.donmai.us/wiki_pages/kigurumi.html
     alias:
-    - masker
+      - masker
   yes-no pillow:
     name: Yes/No枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/yes-no_pillow.html
@@ -824,7 +792,7 @@ content:
     name: 尖刺光环
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_halo.html
     alias:
-    - compass rose halo
+      - compass rose halo
   teacher and student:
     name: 师生
     wikiURL: https://danbooru.donmai.us/wiki_pages/teacher_and_student.html
@@ -832,14 +800,14 @@ content:
     name: 书签
     wikiURL: https://danbooru.donmai.us/wiki_pages/bookmark.html
   trash bag:
-    name: 垃圾袋 垃圾袋 垃圾袋 垃圾袋 垃圾袋 垃圾袋 垃圾袋
+    name: 垃圾袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/trash_bag.html
     alias:
-    - garbage bag
-    - garbage bags
-    - rubbish bag
-    - rubbish bags
-    - trash bags
+      - garbage bag
+      - garbage bags
+      - rubbish bag
+      - rubbish bags
+      - trash bags
   iphone:
     name: 苹果手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/iphone.html
@@ -847,8 +815,8 @@ content:
     name: 冷藏器
     wikiURL: https://danbooru.donmai.us/wiki_pages/cooler.html
     alias:
-    - cool box
-    - ice box
+      - cool box
+      - ice box
   ninja mask:
     name: 忍者面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/ninja_mask.html
@@ -856,17 +824,17 @@ content:
     name: 食物主题的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_clothes.html
     alias:
-    - food themed clothes
+      - food themed clothes
   soda bottle:
     name: 汽水瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/soda_bottle.html
     alias:
-    - coke bottle
+      - coke bottle
   donation box:
     name: 募捐箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/donation_box.html
     alias:
-    - saisen-bako
+      - saisen-bako
   corded phone:
     name: 有线电话
     wikiURL: https://danbooru.donmai.us/wiki_pages/corded_phone.html
@@ -874,7 +842,7 @@ content:
     name: 发条钥匙
     wikiURL: https://danbooru.donmai.us/wiki_pages/winding_key.html
     alias:
-    - wind-up key
+      - wind-up key
   hospital bed:
     name: 病床
     wikiURL: https://danbooru.donmai.us/wiki_pages/hospital_bed.html
@@ -885,23 +853,20 @@ content:
     name: 蒸汽朋克
     wikiURL: https://danbooru.donmai.us/wiki_pages/steampunk.html
     alias:
-    - steam punk
+      - steam punk
   baggy clothes:
     name: 松松垮垮的衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/baggy_clothes.html
-  pouring onto self:
-    name: 倾注于自我
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pouring_onto_self.html
   box of chocolates:
     name: 巧克力盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/box_of_chocolates.html
     alias:
-    - chocolate box
+      - chocolate box
   ribbed leotard:
     name: 棱纹连身衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbed_leotard.html
     alias:
-    - leotard sweater
+      - leotard sweater
   pennant:
     name: 三角旗
     wikiURL: https://danbooru.donmai.us/wiki_pages/pennant.html
@@ -909,7 +874,7 @@ content:
     name: 墨水瓶（低）
     wikiURL: https://danbooru.donmai.us/wiki_pages/inkwell.html
     alias:
-    - ink bottle
+      - ink bottle
   bamboo steamer:
     name: 蒸笼
     wikiURL: https://danbooru.donmai.us/wiki_pages/bamboo_steamer.html
@@ -923,7 +888,7 @@ content:
     name: 下臀部
     wikiURL: https://danbooru.donmai.us/wiki_pages/underbutt.html
     alias:
-    - gluteal fold peek
+      - gluteal fold peek
   messenger bag:
     name: 邮差包
     wikiURL: https://danbooru.donmai.us/wiki_pages/messenger_bag.html
@@ -934,12 +899,7 @@ content:
     name: 褥垫
     wikiURL: https://danbooru.donmai.us/wiki_pages/zabuton.html
     alias:
-    - seiza pillow
-  covering one eye:
-    name: 遮住眼睛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/covering_one_eye.html
-    alias:
-    - covering eye
+      - seiza pillow
   gift bag:
     name: 礼品袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/gift_bag.html
@@ -962,16 +922,13 @@ content:
     name: 刀片刺网
     wikiURL: https://danbooru.donmai.us/wiki_pages/barbed_wire.html
     alias:
-    - razor wire
+      - razor wire
   wrestling ring:
     name: 摔角场
     wikiURL: https://danbooru.donmai.us/wiki_pages/wrestling_ring.html
   pencil case:
     name: 铅笔盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/pencil_case.html
-  toe ring:
-    name: 趾环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/toe_ring.html
   flower in eye:
     name: 花在眼里
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_in_eye.html
@@ -982,7 +939,7 @@ content:
     name: (角色)在杯子里
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_cup.html
     alias:
-    - girl in a cup
+      - girl in a cup
   hanging plant:
     name: 悬挂植物
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanging_plant.html
@@ -990,24 +947,19 @@ content:
     name: 厄运的食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_food.html
     alias:
-    - food of doom
+      - food of doom
   wading pool:
     name: 充气泳池
     wikiURL: https://danbooru.donmai.us/wiki_pages/wading_pool.html
     alias:
-    - inflatable pool
-    - kiddie pool
-    - wadingpool
-  nose ring:
-    name: 隔膜穿孔
-    wikiURL: https://danbooru.donmai.us/wiki_pages/nose_ring.html
-    alias:
-    - septum piercing
+      - inflatable pool
+      - kiddie pool
+      - wadingpool
   theft:
     name: 盗窃
     wikiURL: https://danbooru.donmai.us/wiki_pages/theft.html
     alias:
-    - stealing
+      - stealing
   flower over eye:
     name: 花过眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_over_eye.html
@@ -1017,12 +969,6 @@ content:
   glass bottle:
     name: 玻璃瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/glass_bottle.html
-  ornate ring:
-    name: 华丽的戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ornate_ring.html
-    alias:
-    - gem ring
-    - gemstone ring
   lute (instrument):
     name: 琵琶(乐器)
     wikiURL: https://danbooru.donmai.us/wiki_pages/lute_(instrument).html
@@ -1030,13 +976,13 @@ content:
     name: amp放大器（乐器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/amplifier.html
     alias:
-    - amp
-    - amplifier (instrument)
+      - amp
+      - amplifier (instrument)
   christmas present:
     name: 圣诞礼物
     wikiURL: https://danbooru.donmai.us/wiki_pages/christmas_present.html
     alias:
-    - christmas gift
+      - christmas gift
   noh mask:
     name: 能面
     wikiURL: https://danbooru.donmai.us/wiki_pages/noh_mask.html
@@ -1044,24 +990,21 @@ content:
     name: 未穿过的背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_backpack.html
     alias:
-    - backpack removed
+      - backpack removed
   hand on glass:
     name: 手放在玻璃上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_glass.html
     alias:
-    - hands on glass
+      - hands on glass
   opened by self:
     name: 自己开的
     wikiURL: https://danbooru.donmai.us/wiki_pages/opened_by_self.html
-  covering ass:
-    name: 遮着臀部
-    wikiURL: https://danbooru.donmai.us/wiki_pages/covering_ass.html
   conductor baton:
     name: 指挥棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/conductor_baton.html
     alias:
-    - baton (conducting)
-    - baton (instrument)
+      - baton (conducting)
+      - baton (instrument)
   string bra:
     name: 文胸
     wikiURL: https://danbooru.donmai.us/wiki_pages/string_bra.html
@@ -1072,13 +1015,13 @@ content:
     name: 血袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_bag.html
     alias:
-    - blood pack
+      - blood pack
   nib pen (object):
     name: 钢笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/nib_pen_(object).html
     alias:
-    - dip pen
-    - fountain pen
+      - dip pen
+      - fountain pen
   blue umbrella:
     name: 蓝伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_umbrella.html
@@ -1092,12 +1035,12 @@ content:
     name: 卷尺
     wikiURL: https://danbooru.donmai.us/wiki_pages/tape_measure.html
     alias:
-    - measuring tape
+      - measuring tape
   watching television:
     name: 看电视
     wikiURL: https://danbooru.donmai.us/wiki_pages/watching_television.html
     alias:
-    - watching tv
+      - watching tv
   wringing clothes:
     name: 拧干衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/wringing_clothes.html
@@ -1114,8 +1057,8 @@ content:
     name: 日清杯面
     wikiURL: https://danbooru.donmai.us/wiki_pages/nissin_cup_noodle.html
     alias:
-    - cup noodle
-    - nissin cup noodles
+      - cup noodle
+      - nissin cup noodles
   hand on table:
     name: 手放在桌子上
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_table.html
@@ -1123,21 +1066,18 @@ content:
     name: 植物根
     wikiURL: https://danbooru.donmai.us/wiki_pages/plant_roots.html
     alias:
-    - root
-    - roots
-  gold ring:
-    name: 金戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_ring.html
+      - root
+      - roots
   spoken food:
     name: 口语食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_food.html
     alias:
-    - spoken meat
+      - spoken meat
   breaking:
     name: 破碎的
     wikiURL: https://danbooru.donmai.us/wiki_pages/breaking.html
     alias:
-    - shattering
+      - shattering
   food bite:
     name: 咬食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_bite.html
@@ -1154,7 +1094,7 @@ content:
     name: 古董电话
     wikiURL: https://danbooru.donmai.us/wiki_pages/antique_phone.html
     alias:
-    - antique telephone
+      - antique telephone
   floating book:
     name: 漂浮的书
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_book.html
@@ -1168,7 +1108,7 @@ content:
     name: 四柱床
     wikiURL: https://danbooru.donmai.us/wiki_pages/canopy_bed.html
     alias:
-    - four-poster bed
+      - four-poster bed
   food art:
     name: 美食艺术
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_art.html
@@ -1176,7 +1116,7 @@ content:
     name: 香烟盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/cigarette_pack.html
     alias:
-    - cigarette box
+      - cigarette box
   lap pillow invitation:
     name: 膝盖枕头邀请
     wikiURL: https://danbooru.donmai.us/wiki_pages/lap_pillow_invitation.html
@@ -1184,7 +1124,7 @@ content:
     name: 要石
     wikiURL: https://danbooru.donmai.us/wiki_pages/kaname-ishi.html
     alias:
-    - keystone
+      - keystone
   soap bottle:
     name: 肥皂瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/soap_bottle.html
@@ -1198,8 +1138,8 @@ content:
     name: 第9队（东方）
     wikiURL: https://danbooru.donmai.us/wiki_pages/team_9_(touhou).html
     alias:
-    - baquartet
-    - team 9
+      - baquartet
+      - team 9
   stopwatch:
     name: 跑表
     wikiURL: https://danbooru.donmai.us/wiki_pages/stopwatch.html
@@ -1207,7 +1147,7 @@ content:
     name: 盒子艺术
     wikiURL: https://danbooru.donmai.us/wiki_pages/box_art.html
     alias:
-    - boxart
+      - boxart
   stuffed penguin:
     name: 毛绒企鹅
     wikiURL: https://danbooru.donmai.us/wiki_pages/stuffed_penguin.html
@@ -1233,8 +1173,8 @@ content:
     name: 糖霜袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/pastry_bag.html
     alias:
-    - frosting bag
-    - piping bag
+      - frosting bag
+      - piping bag
   monkey boy:
     name: 猴子男孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/monkey_boy.html
@@ -1248,7 +1188,7 @@ content:
     name: 垃圾
     wikiURL: https://danbooru.donmai.us/wiki_pages/trash.html
     alias:
-    - garbage
+      - garbage
   grey bag:
     name: 灰色包
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_bag.html
@@ -1256,9 +1196,9 @@ content:
     name: 赏樱赏花大花波
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanami.html
     alias:
-    - cherry blossom viewing
-    - flower viewing
-    - ohanami
+      - cherry blossom viewing
+      - flower viewing
+      - ohanami
   ketchup bottle:
     name: 番茄酱瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/ketchup_bottle.html
@@ -1277,9 +1217,6 @@ content:
   cupboard:
     name: 橱柜
     wikiURL: https://danbooru.donmai.us/wiki_pages/cupboard.html
-  z-ring:
-    name: Z手环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/z-ring.html
   coffee pot:
     name: 咖啡壶
     wikiURL: https://danbooru.donmai.us/wiki_pages/coffee_pot.html
@@ -1293,19 +1230,16 @@ content:
     name: 桌子驼峰
     wikiURL: https://danbooru.donmai.us/wiki_pages/table_humping.html
     alias:
-    - table sex
-    - tablesex
+      - table sex
+      - tablesex
   aqua flower:
     name: 水花
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_flower.html
-  pendant watch:
-    name: 挂表
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pendant_watch.html
   cracked glass:
     name: 破裂的镜头
     wikiURL: https://danbooru.donmai.us/wiki_pages/cracked_glass.html
     alias:
-    - cracked lens
+      - cracked lens
   poppy (flower):
     name: 罂粟（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/poppy_(flower).html
@@ -1324,23 +1258,15 @@ content:
   digital clock:
     name: 数码时钟
     wikiURL: https://danbooru.donmai.us/wiki_pages/digital_clock.html
-  corsage:
-    name: 胸花
-    wikiURL: https://danbooru.donmai.us/wiki_pages/corsage.html
-    alias:
-    - flower in breast pocket
   head steam:
     name: 头蒸汽
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_steam.html
-  middle ring:
-    name: 中环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/middle_ring.html
   audio jack:
     name: 耳机插孔插孔插头
     wikiURL: https://danbooru.donmai.us/wiki_pages/audio_jack.html
     alias:
-    - headphone jack
-    - jack plug
+      - headphone jack
+      - jack plug
   undersized breast cup:
     name: 罩杯过小
     wikiURL: https://danbooru.donmai.us/wiki_pages/undersized_breast_cup.html
@@ -1348,7 +1274,7 @@ content:
     name: 记住
     wikiURL: https://danbooru.donmai.us/wiki_pages/remembering.html
     alias:
-    - memory
+      - memory
   shampoo bottle:
     name: 洗发水瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/shampoo_bottle.html
@@ -1371,7 +1297,7 @@ content:
     name: 盖上毯子
     wikiURL: https://danbooru.donmai.us/wiki_pages/covering_with_blanket.html
     alias:
-    - tucking in
+      - tucking in
   throat microphone:
     name: 喉麦克风
     wikiURL: https://danbooru.donmai.us/wiki_pages/throat_microphone.html
@@ -1379,7 +1305,7 @@ content:
     name: 爱心雨伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/ai_ai_gasa.html
     alias:
-    - love umbrella
+      - love umbrella
   cerise bouquet:
     name: 樱桃花束
     wikiURL: https://danbooru.donmai.us/wiki_pages/cerise_bouquet.html
@@ -1387,9 +1313,9 @@ content:
     name: 复制粘贴复制粘贴复制粘贴
     wikiURL: https://danbooru.donmai.us/wiki_pages/recurring_image.html
     alias:
-    - copy-paste
-    - copy-pasted
-    - copy-pasting
+      - copy-paste
+      - copy-pasted
+      - copy-pasting
   mask lift:
     name: 抬起面罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/mask_lift.html
@@ -1397,7 +1323,7 @@ content:
     name: 壶（瓶）
     wikiURL: https://danbooru.donmai.us/wiki_pages/jug_(bottle).html
     alias:
-    - jug
+      - jug
   poker table:
     name: 扑克桌
     wikiURL: https://danbooru.donmai.us/wiki_pages/poker_table.html
@@ -1408,29 +1334,29 @@ content:
     name: 手指上的食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_on_hand.html
     alias:
-    - food on finger
+      - food on finger
   gesture:
     name: 打手势
     wikiURL: https://danbooru.donmai.us/wiki_pages/gesture.html
     alias:
-    - gesturing
+      - gesturing
   large syringe:
     name: 巨型注射器
     wikiURL: https://danbooru.donmai.us/wiki_pages/large_syringe.html
     alias:
-    - giant syringe
+      - giant syringe
   purple bag:
     name: 紫色背包 紫色手提包
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_bag.html
     alias:
-    - purple backpack
-    - purple handbag
+      - purple backpack
+      - purple handbag
   camera around neck:
     name: 相机挂在脖子上 相机挂在脖子上
     wikiURL: https://danbooru.donmai.us/wiki_pages/camera_around_neck.html
     alias:
-    - camera hanging from neck
-    - camera on neck
+      - camera hanging from neck
+      - camera on neck
   crescent rose:
     name: 新月玫瑰
     wikiURL: https://danbooru.donmai.us/wiki_pages/crescent_rose.html
@@ -1471,7 +1397,7 @@ content:
     name: 翻领花
     wikiURL: https://danbooru.donmai.us/wiki_pages/boutonniere.html
     alias:
-    - lapel flower
+      - lapel flower
   plague doctor mask:
     name: 瘟疫医生口罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/plague_doctor_mask.html
@@ -1482,14 +1408,14 @@ content:
     name: 玻璃门
     wikiURL: https://danbooru.donmai.us/wiki_pages/glass_door.html
   table tennis paddle:
-    name: 乒乓球拍乒乓球拍乒乓球拍乒乓球拍乒乓球拍
+    name: 乒乓球拍
     wikiURL: https://danbooru.donmai.us/wiki_pages/table_tennis_paddle.html
     alias:
-    - ping-pong paddle
-    - ping pong paddle
-    - ping-pong racket
-    - ping pong racket
-    - table tennis racket
+      - ping-pong paddle
+      - ping pong paddle
+      - ping-pong racket
+      - ping pong racket
+      - table tennis racket
   multicolored flower:
     name: 五彩花
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_flower.html
@@ -1518,13 +1444,13 @@ content:
     name: 树篱（植物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/hedge.html
     alias:
-    - hedge (plant)
+      - hedge (plant)
   mailbox (incoming mail):
     name: 信箱（对象）信箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/mailbox_(incoming_mail).html
     alias:
-    - letterbox (object)
-    - mailbox
+      - letterbox (object)
+      - mailbox
   wooden box:
     name: 木盒子
     wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_box.html
@@ -1571,10 +1497,10 @@ content:
     name: 藏钱
     wikiURL: https://danbooru.donmai.us/wiki_pages/tucked_money.html
     alias:
-    - money hold
-    - money in cleavage
-    - money in clothes
-    - money tuck
+      - money hold
+      - money in cleavage
+      - money in clothes
+      - money tuck
   pen in pocket:
     name: 口袋里的笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/pen_in_pocket.html
@@ -1587,9 +1513,6 @@ content:
   boxing:
     name: 拳击
     wikiURL: https://danbooru.donmai.us/wiki_pages/boxing.html
-  steam locomotive:
-    name: 蒸汽机车
-    wikiURL: https://danbooru.donmai.us/wiki_pages/steam_locomotive.html
   pon de ring:
     name: 庞德环
     wikiURL: https://danbooru.donmai.us/wiki_pages/pon_de_ring.html
@@ -1612,8 +1535,8 @@ content:
     name: 人物主题食品
     wikiURL: https://danbooru.donmai.us/wiki_pages/character-themed_food.html
     alias:
-    - character food
-    - character-shaped food
+      - character food
+      - character-shaped food
   boxing ring:
     name: 拳击场
     wikiURL: https://danbooru.donmai.us/wiki_pages/boxing_ring.html
@@ -1654,7 +1577,7 @@ content:
     name: 便当盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/lunchbox.html
     alias:
-    - lunch box
+      - lunch box
   falling flower:
     name: 落花
     wikiURL: https://danbooru.donmai.us/wiki_pages/falling_flower.html
@@ -1662,7 +1585,7 @@ content:
     name: 咖啡机
     wikiURL: https://danbooru.donmai.us/wiki_pages/coffee_maker.html
     alias:
-    - coffee maker (object)
+      - coffee maker (object)
   tote bag:
     name: 手提袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/tote_bag.html
@@ -1673,8 +1596,8 @@ content:
     name: 收件箱邮筒
     wikiURL: https://danbooru.donmai.us/wiki_pages/postbox_(outgoing_mail).html
     alias:
-    - mail collection box
-    - postbox
+      - mail collection box
+      - postbox
   food on clothes:
     name: 衣服上的食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_on_clothes.html
@@ -1685,7 +1608,7 @@ content:
     name: 三味线（乐器）
     wikiURL: https://danbooru.donmai.us/wiki_pages/shamisen.html
     alias:
-    - shamisen (instrument)
+      - shamisen (instrument)
   cupping glass:
     name: 火罐
     wikiURL: https://danbooru.donmai.us/wiki_pages/cupping_glass.html
@@ -1693,20 +1616,20 @@ content:
     name: 弹药箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/ammunition_box.html
     alias:
-    - ammo box
-    - box magazine
+      - ammo box
+      - box magazine
   open pajamas:
     name: 打开睡衣
     wikiURL: https://danbooru.donmai.us/wiki_pages/open_pajamas.html
   moriya's iron rings:
-    name: 守夜之铁戒 守夜之戒 守夜之戒 守夜之铁戒 守夜之铁戒
+    name: 守矢之铁环
     wikiURL: https://danbooru.donmai.us/wiki_pages/moriya's_iron_rings.html
     alias:
-    - moriya's iron ring
-    - moriyas iron ring
-    - moriyas iron rings
-    - moriya's ring
-    - moriya's rings
+      - moriya's iron ring
+      - moriyas iron ring
+      - moriyas iron rings
+      - moriya's ring
+      - moriya's rings
   bed invitation:
     name: 床上邀请
     wikiURL: https://danbooru.donmai.us/wiki_pages/bed_invitation.html
@@ -1714,18 +1637,15 @@ content:
     name: 窗口书写
     wikiURL: https://danbooru.donmai.us/wiki_pages/glass_writing.html
     alias:
-    - window writing
+      - window writing
   ring box:
     name: 戒指盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/ring_box.html
-  pinky ring:
-    name: 小指环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pinky_ring.html
   in bag:
     name: 包里的萝莉
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_bag.html
     alias:
-    - loli in a bag
+      - loli in a bag
   camera phone:
     name: 照相手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/camera_phone.html
@@ -1748,18 +1668,18 @@ content:
     name: 台球桌
     wikiURL: https://danbooru.donmai.us/wiki_pages/pool_table.html
     alias:
-    - billiards table
-    - snooker table
+      - billiards table
+      - snooker table
   food theft:
     name: 偷食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_theft.html
     alias:
-    - stealing food
+      - stealing food
   oversized flower:
     name: 超大花朵
     wikiURL: https://danbooru.donmai.us/wiki_pages/oversized_flower.html
     alias:
-    - oversized flowers
+      - oversized flowers
   camera flash:
     name: 闪光灯
     wikiURL: https://danbooru.donmai.us/wiki_pages/camera_flash.html
@@ -1773,7 +1693,7 @@ content:
     name: 打开背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/open_bag.html
     alias:
-    - open backpack
+      - open backpack
   vintage microphone:
     name: 老式麦克风
     wikiURL: https://danbooru.donmai.us/wiki_pages/vintage_microphone.html
@@ -1781,12 +1701,12 @@ content:
     name: 瓶子里的女孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/in_bottle.html
     alias:
-    - girl in a bottle
+      - girl in a bottle
   orange bag:
     name: 橙色背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_bag.html
     alias:
-    - orange backpack
+      - orange backpack
   suspenders gap:
     name: 吊带缝隙
     wikiURL: https://danbooru.donmai.us/wiki_pages/suspenders_gap.html
@@ -1803,7 +1723,7 @@ content:
     name: 充气海豚
     wikiURL: https://danbooru.donmai.us/wiki_pages/inflatable_dolphin.html
     alias:
-    - inflatabledolphin
+      - inflatabledolphin
   suspenders hanging:
     name: 吊带挂
     wikiURL: https://danbooru.donmai.us/wiki_pages/suspenders_hanging.html
@@ -1814,8 +1734,8 @@ content:
     name: 乒乓乒乓
     wikiURL: https://danbooru.donmai.us/wiki_pages/table_tennis.html
     alias:
-    - ping-pong
-    - ping pong
+      - ping-pong
+      - ping pong
   foodgasm:
     name: 胃气
     wikiURL: https://danbooru.donmai.us/wiki_pages/foodgasm.html
@@ -1829,12 +1749,12 @@ content:
     name: 拔罐手
     wikiURL: https://danbooru.donmai.us/wiki_pages/cupping_hand.html
   clothed bath:
-    name: 穿着衣服洗澡 穿着衣服洗澡 穿着衣服洗澡
+    name: 穿着衣服泡澡
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothed_bath.html
     alias:
-    - bathing with clothes on
-    - clothed shower
-    - showering with clothes on
+      - bathing with clothes on
+      - clothed shower
+      - showering with clothes on
   penguin logistics logo:
     name: 企鹅物流标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/penguin_logistics_logo.html
@@ -1866,7 +1786,7 @@ content:
     name: 巨石
     wikiURL: https://danbooru.donmai.us/wiki_pages/mega_stone.html
     alias:
-    - key stone (pokemon)
+      - key stone (pokemon)
   team galactic:
     name: 银河队
     wikiURL: https://danbooru.donmai.us/wiki_pages/team_galactic.html
@@ -1874,7 +1794,7 @@ content:
     name: 吼
     wikiURL: https://danbooru.donmai.us/wiki_pages/roaring.html
     alias:
-    - roar
+      - roar
   polka dot pillow:
     name: 圆点枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot_pillow.html
@@ -1891,7 +1811,7 @@ content:
     name: 坚果（食品）
     wikiURL: https://danbooru.donmai.us/wiki_pages/nut_(food).html
     alias:
-    - nuts (food)
+      - nuts (food)
   chabudai (table):
     name: 差布台（桌子）
     wikiURL: https://danbooru.donmai.us/wiki_pages/chabudai_(table).html
@@ -1902,7 +1822,7 @@ content:
     name: 鲑鱼子
     wikiURL: https://danbooru.donmai.us/wiki_pages/ikura_(food).html
     alias:
-    - salmon roe
+      - salmon roe
   welding mask:
     name: 电焊面罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/welding_mask.html
@@ -1910,12 +1830,12 @@ content:
     name: 彩色铅笔
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_pencil.html
     alias:
-    - coloured pencil
+      - coloured pencil
   teabag:
     name: 茶包
     wikiURL: https://danbooru.donmai.us/wiki_pages/teabag.html
     alias:
-    - tea bag
+      - tea bag
   violet (flower):
     name: 紫罗兰（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/violet_(flower).html
@@ -1923,7 +1843,7 @@ content:
     name: 可利用的
     wikiURL: https://danbooru.donmai.us/wiki_pages/template.html
     alias:
-    - exploitable
+      - exploitable
   matcha (food):
     name: 抹茶（食物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/matcha_(food).html
@@ -1943,13 +1863,13 @@ content:
     name: 梳妆台
     wikiURL: https://danbooru.donmai.us/wiki_pages/vanity_table.html
     alias:
-    - dressing table
+      - dressing table
   string phone:
     name: 杯子电话 锡罐电话
     wikiURL: https://danbooru.donmai.us/wiki_pages/string_phone.html
     alias:
-    - cup phone
-    - tin can phone
+      - cup phone
+      - tin can phone
   food as clothes:
     name: 食物如衣服
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_as_clothes.html
@@ -1969,7 +1889,7 @@ content:
     name: 乒乓球
     wikiURL: https://danbooru.donmai.us/wiki_pages/table_tennis_ball.html
     alias:
-    - ping pong ball
+      - ping pong ball
   mahjong table:
     name: 麻将桌
     wikiURL: https://danbooru.donmai.us/wiki_pages/mahjong_table.html
@@ -2004,7 +1924,7 @@ content:
     name: 食物主题装饰品
     wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_ornament.html
     alias:
-    - food themed ornament
+      - food themed ornament
   teaspoon:
     name: 茶匙
     wikiURL: https://danbooru.donmai.us/wiki_pages/teaspoon.html
@@ -2063,7 +1983,7 @@ content:
     name: 隐藏的相机
     wikiURL: https://danbooru.donmai.us/wiki_pages/hidden_camera.html
     alias:
-    - spycam
+      - spycam
   planter:
     name: 播种机
     wikiURL: https://danbooru.donmai.us/wiki_pages/planter.html
@@ -2071,7 +1991,7 @@ content:
     name: 打印枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_pillow.html
   xbox 360:
-    name: Xbox 360
+    name: Xbox 360游戏主机
     wikiURL: https://danbooru.donmai.us/wiki_pages/xbox_360.html
   open towel:
     name: 打开毛巾
@@ -2080,9 +2000,9 @@ content:
     name: 八卦八卦八卦
     wikiURL: https://danbooru.donmai.us/wiki_pages/bagua.html
     alias:
-    - ba gua
-    - eight trigrams
-    - hakke
+      - ba gua
+      - eight trigrams
+      - hakke
   kerosene heater:
     name: 煤油取暖器
     wikiURL: https://danbooru.donmai.us/wiki_pages/kerosene_heater.html
@@ -2099,9 +2019,9 @@ content:
     name: 单镜头反光相机 slr 单反相机
     wikiURL: https://danbooru.donmai.us/wiki_pages/single-lens_reflex_camera.html
     alias:
-    - single lens reflex camera
-    - slr
-    - slr camera
+      - single lens reflex camera
+      - slr
+      - slr camera
   penguins performance project (kemono friends):
     name: 企鹅表演项目（kemono friends）
     wikiURL: https://danbooru.donmai.us/wiki_pages/penguins_performance_project_(kemono_friends).html
@@ -2154,7 +2074,7 @@ content:
     name: oshiruko （食物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/shiruko_(food).html
     alias:
-    - oshiruko (food)
+      - oshiruko (food)
   kiritanpo (food):
     name: kiritanpo （食物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/kiritanpo_(food).html
@@ -2219,7 +2139,7 @@ content:
     name: 服务圆顶
     wikiURL: https://danbooru.donmai.us/wiki_pages/serving_dome.html
     alias:
-    - cloche (tableware)
+      - cloche (tableware)
   wilted flower:
     name: 枯萎的花
     wikiURL: https://danbooru.donmai.us/wiki_pages/wilted_flower.html
@@ -2233,8 +2153,8 @@ content:
     name: 监视器
     wikiURL: https://danbooru.donmai.us/wiki_pages/security_camera.html
     alias:
-    - cctv
-    - surveillance camera
+      - cctv
+      - surveillance camera
   pillow fight:
     name: 枕头大战
     wikiURL: https://danbooru.donmai.us/wiki_pages/pillow_fight.html
@@ -2245,7 +2165,7 @@ content:
     name: 效果踏板
     wikiURL: https://danbooru.donmai.us/wiki_pages/effects_pedal.html
     alias:
-    - guitar pedal
+      - guitar pedal
   japanese cylindrical postbox:
     name: 日本圆柱形邮箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/japanese_cylindrical_postbox.html
@@ -2265,7 +2185,7 @@ content:
     name: 食物主题枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_pillow.html
     alias:
-    - food themed pillow
+      - food themed pillow
   bedroll:
     name: 铺盖卷
     wikiURL: https://danbooru.donmai.us/wiki_pages/bedroll.html
@@ -2285,8 +2205,8 @@ content:
     name: 小飞象章鱼烙饼章鱼
     wikiURL: https://danbooru.donmai.us/wiki_pages/umbrella_octopus.html
     alias:
-    - dumbo octopus
-    - flapjack octopus
+      - dumbo octopus
+      - flapjack octopus
   plaid pillow:
     name: 格子枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_pillow.html
@@ -2303,7 +2223,7 @@ content:
     name: 蒟蒻（食品）
     wikiURL: https://danbooru.donmai.us/wiki_pages/konnyaku_(food).html
     alias:
-    - konjac (food)
+      - konjac (food)
   neck pillow:
     name: 颈枕
     wikiURL: https://danbooru.donmai.us/wiki_pages/neck_pillow.html
@@ -2325,9 +2245,6 @@ content:
   adjusting headphones:
     name: 调整耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/adjusting_headphones.html
-  mega ring:
-    name: 巨型戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/mega_ring.html
   digital camera:
     name: 数码相机
     wikiURL: https://danbooru.donmai.us/wiki_pages/digital_camera.html
@@ -2335,7 +2252,7 @@ content:
     name: 温泉符号
     wikiURL: https://danbooru.donmai.us/wiki_pages/onsen_symbol.html
     alias:
-    - hot springs symbol
+      - hot springs symbol
   cracked mask:
     name: 破裂的面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/cracked_mask.html
@@ -2357,9 +2274,6 @@ content:
   pectoral pillow:
     name: 胸枕
     wikiURL: https://danbooru.donmai.us/wiki_pages/pectoral_pillow.html
-  flower ring:
-    name: 花环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/flower_ring.html
   tri-stringer (splatoon):
     name: 三纵队（splatoon）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tri-stringer_(splatoon).html
@@ -2406,12 +2320,12 @@ content:
     name: 压路机
     wikiURL: https://danbooru.donmai.us/wiki_pages/steamroller.html
     alias:
-    - road roller
+      - road roller
   buttercup redraw challenge (meme):
     name: 毛茛重绘挑战
     wikiURL: https://danbooru.donmai.us/wiki_pages/buttercup_redraw_challenge_(meme).html
     alias:
-    - buttercup redraw challenge
+      - buttercup redraw challenge
   jockey:
     name: 骑师
     wikiURL: https://danbooru.donmai.us/wiki_pages/jockey.html
@@ -2431,7 +2345,7 @@ content:
     name: 盒子陷阱
     wikiURL: https://danbooru.donmai.us/wiki_pages/drop_trap.html
     alias:
-    - box trap
+      - box trap
   elden ring (object):
     name: 埃尔登戒指（物体）
     wikiURL: https://danbooru.donmai.us/wiki_pages/elden_ring_(object).html
@@ -2453,9 +2367,6 @@ content:
   azalea (flower):
     name: 杜鹃花（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/azalea_(flower).html
-  holy ring:
-    name: 圣戒
-    wikiURL: https://danbooru.donmai.us/wiki_pages/holy_ring.html
   stable:
     name: 稳定的
     wikiURL: https://danbooru.donmai.us/wiki_pages/stable.html
@@ -2463,7 +2374,7 @@ content:
     name: 印花背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_bag.html
     alias:
-    - print backpack
+      - print backpack
   xbox controller:
     name: xbox控制器
     wikiURL: https://danbooru.donmai.us/wiki_pages/xbox_controller.html
@@ -2483,8 +2394,8 @@ content:
     name: 勿见恶三智猴
     wikiURL: https://danbooru.donmai.us/wiki_pages/three_monkeys.html
     alias:
-    - see no evil
-    - three wise monkeys
+      - see no evil
+      - three wise monkeys
   cupless babydoll:
     name: 无杯娃娃装
     wikiURL: https://danbooru.donmai.us/wiki_pages/cupless_babydoll.html
@@ -2504,7 +2415,7 @@ content:
     name: 盒子里的插孔
     wikiURL: https://danbooru.donmai.us/wiki_pages/jack-in-the-box.html
     alias:
-    - jack in the box (toy)
+      - jack in the box (toy)
   on piano:
     name: 在钢琴上
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_piano.html
@@ -2542,7 +2453,7 @@ content:
     name: 南台森
     wikiURL: https://danbooru.donmai.us/wiki_pages/nantaimori.html
     alias:
-    - serving food on male
+      - serving food on male
   pumpkin mask:
     name: 南瓜面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/pumpkin_mask.html
@@ -2562,7 +2473,7 @@ content:
     name: 榻榻米椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/zaisu.html
     alias:
-    - tatami chair
+      - tatami chair
   medicine box:
     name: 药箱
     wikiURL: https://danbooru.donmai.us/wiki_pages/medicine_box.html
@@ -2594,7 +2505,7 @@ content:
     name: 七月四日
     wikiURL: https://danbooru.donmai.us/wiki_pages/fourth_of_july.html
     alias:
-    - independence day (usa)
+      - independence day (usa)
   open sign:
     name: 打开标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/open_sign.html
@@ -2602,7 +2513,7 @@ content:
     name: 红外相机
     wikiURL: https://danbooru.donmai.us/wiki_pages/twin-lens_reflex_camera.html
     alias:
-    - tlr camera
+      - tlr camera
   falling money:
     name: 掉钱
     wikiURL: https://danbooru.donmai.us/wiki_pages/falling_money.html
@@ -2612,15 +2523,9 @@ content:
   bag on lap:
     name: 放在腿上的包
     wikiURL: https://danbooru.donmai.us/wiki_pages/bag_on_lap.html
-  millennium ring:
-    name: 千年戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/millennium_ring.html
   mustard bottle:
     name: 芥末瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/mustard_bottle.html
-  snowflake pendant:
-    name: 雪花吊坠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflake_pendant.html
   soldering iron:
     name: 烙铁
     wikiURL: https://danbooru.donmai.us/wiki_pages/soldering_iron.html
@@ -2640,7 +2545,7 @@ content:
     name: 核桃（食品）
     wikiURL: https://danbooru.donmai.us/wiki_pages/walnut.html
     alias:
-    - walnut (food)
+      - walnut (food)
   snowdrop (flower):
     name: 雪花莲（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/snowdrop_(flower).html
@@ -2657,7 +2562,7 @@ content:
     name: 绞喉
     wikiURL: https://danbooru.donmai.us/wiki_pages/garrote.html
     alias:
-    - piano wire
+      - piano wire
   pop-up book:
     name: 立体书
     wikiURL: https://danbooru.donmai.us/wiki_pages/pop-up_book.html
@@ -2689,7 +2594,7 @@ content:
     name: 春鸭
     wikiURL: https://danbooru.donmai.us/wiki_pages/pringle_duck.html
     alias:
-    - pringleduck
+      - pringleduck
   shoe box:
     name: 鞋盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/shoe_box.html
@@ -2712,7 +2617,7 @@ content:
     name: 脚kabedon
     wikiURL: https://danbooru.donmai.us/wiki_pages/foot_kabedon.html
     alias:
-    - leg kabedon
+      - leg kabedon
   wringing:
     name: 绞干
     wikiURL: https://danbooru.donmai.us/wiki_pages/wringing.html
@@ -2731,9 +2636,6 @@ content:
   plant boy:
     name: 植物男孩
     wikiURL: https://danbooru.donmai.us/wiki_pages/plant_boy.html
-  suspension bridge:
-    name: 吊桥
-    wikiURL: https://danbooru.donmai.us/wiki_pages/suspension_bridge.html
   skull cup:
     name: 颅骨杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/skull_cup.html
@@ -2750,10 +2652,7 @@ content:
     name: 血淋淋的面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_mask.html
     alias:
-    - bloody mask
-  flower anklet:
-    name: 花脚链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/flower_anklet.html
+      - bloody mask
   roselia (bang dream!):
     name: roselia（好梦！）
     wikiURL: https://danbooru.donmai.us/wiki_pages/roselia_(bang_dream!).html
@@ -2761,7 +2660,7 @@ content:
     name: 水银温度计
     wikiURL: https://danbooru.donmai.us/wiki_pages/liquid-in-glass_thermometer.html
     alias:
-    - mercury thermometer
+      - mercury thermometer
   love guitar rod:
     name: 爱吉他棒
     wikiURL: https://danbooru.donmai.us/wiki_pages/love_guitar_rod.html
@@ -2778,15 +2677,12 @@ content:
     name: 命中框
     wikiURL: https://danbooru.donmai.us/wiki_pages/hitbox.html
     alias:
-    - hit box
-  skull ring:
-    name: 骷髅戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/skull_ring.html
+      - hit box
   stealth handjob:
     name: 隐藏打手枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/stealth_handjob.html
     alias:
-    - hidden handjob
+      - hidden handjob
   bagpipes:
     name: 风笛
     wikiURL: https://danbooru.donmai.us/wiki_pages/bagpipes.html
@@ -2854,7 +2750,7 @@ content:
     name: 日本猕猴
     wikiURL: https://danbooru.donmai.us/wiki_pages/japanese_macaque.html
     alias:
-    - snow monkey
+      - snow monkey
   boss coffee:
     name: 老板咖啡
     wikiURL: https://danbooru.donmai.us/wiki_pages/boss_coffee.html
@@ -2871,7 +2767,7 @@ content:
     name: 罗森堡恩格尔
     wikiURL: https://danbooru.donmai.us/wiki_pages/rosenburg_engel_(idolmaster).html
     alias:
-    - rosenburg engel
+      - rosenburg engel
   mackintosh rose:
     name: 麦金托什玫瑰
     wikiURL: https://danbooru.donmai.us/wiki_pages/mackintosh_rose.html
@@ -2954,7 +2850,7 @@ content:
     name: 万花筒写轮眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/mangekyou_sharingan.html
     alias:
-    - mangekyo sharingan
+      - mangekyo sharingan
   succulent plant:
     name: 多肉植物
     wikiURL: https://danbooru.donmai.us/wiki_pages/succulent_plant.html
@@ -2986,7 +2882,7 @@ content:
     name: 茶仙
     wikiURL: https://danbooru.donmai.us/wiki_pages/chasen.html
     alias:
-    - tea whisk
+      - tea whisk
   opening can:
     name: 开罐
     wikiURL: https://danbooru.donmai.us/wiki_pages/opening_can.html
@@ -3072,7 +2968,7 @@ content:
     name: 胸肌靠在玻璃上
     wikiURL: https://danbooru.donmai.us/wiki_pages/pectorals_on_glass.html
     alias:
-    - pectorals against glass
+      - pectorals against glass
   bouquet toss:
     name: 抛花束
     wikiURL: https://danbooru.donmai.us/wiki_pages/bouquet_toss.html
@@ -3092,13 +2988,10 @@ content:
     name: 阿尔宙斯手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/arc_phone.html
     alias:
-    - arceus phone
+      - arceus phone
   aqua umbrella:
     name: 水伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_umbrella.html
-  diamond ring:
-    name: 钻戒
-    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_ring.html
   cow mask:
     name: 牛面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/cow_mask.html
@@ -3159,9 +3052,6 @@ content:
   jasmine (flower):
     name: 茉莉花（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/jasmine_(flower).html
-  star color pendant:
-    name: 星星颜色吊坠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_color_pendant.html
   piss bottle:
     name: 尿瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/piss_bottle.html
@@ -3226,8 +3116,8 @@ content:
     name: 米尺尺码
     wikiURL: https://danbooru.donmai.us/wiki_pages/measuring_stick.html
     alias:
-    - meterstick
-    - yardstick
+      - meterstick
+      - yardstick
   thrown food:
     name: 扔食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/thrown_food.html
@@ -3301,7 +3191,7 @@ content:
     name: 鲨鱼背包
     wikiURL: https://danbooru.donmai.us/wiki_pages/shark_bag.html
     alias:
-    - shark backpack
+      - shark backpack
   pondering my orb (meme):
     name: 思考我的球体（meme）
     wikiURL: https://danbooru.donmai.us/wiki_pages/pondering_my_orb_(meme).html
@@ -3311,9 +3201,6 @@ content:
   xbox one:
     name: Xbox一号
     wikiURL: https://danbooru.donmai.us/wiki_pages/xbox_one.html
-  breast rings:
-    name: 胸环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/breast_rings.html
   food fight:
     name: 食物大战
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_fight.html
@@ -3387,10 +3274,7 @@ content:
     name: 星形枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/star-shaped_pillow.html
     alias:
-    - star pillow
-  rectangular earrings:
-    name: 长方形耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/rectangular_earrings.html
+      - star pillow
   plant focus:
     name: 植物焦点
     wikiURL: https://danbooru.donmai.us/wiki_pages/plant_focus.html
@@ -3400,14 +3284,11 @@ content:
   team star:
     name: 团队之星
     wikiURL: https://danbooru.donmai.us/wiki_pages/team_star.html
-  silver earrings:
-    name: 银耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_earrings.html
   groucho glasses:
     name: 格劳乔眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/groucho_glasses.html
     alias:
-    - funny glasses
+      - funny glasses
   cleaning & clearing (blue archive):
     name: 清洁和清理（蓝色档案）
     wikiURL: https://danbooru.donmai.us/wiki_pages/cleaning_&_clearing_(blue_archive).html
@@ -3418,8 +3299,8 @@ content:
     name: 女孩盯着男人的胸部（表情包）
     wikiURL: https://danbooru.donmai.us/wiki_pages/girl_staring_at_guy's_chest_(meme).html
     alias:
-    - girl staring at guys chest (meme)
-    - pectoral envy (meme)
+      - girl staring at guys chest (meme)
+      - pectoral envy (meme)
   whispering in ear:
     name: 在耳边低语
     wikiURL: https://danbooru.donmai.us/wiki_pages/whispering_in_ear.html
@@ -3427,13 +3308,10 @@ content:
     name: 钱袋
     wikiURL: https://danbooru.donmai.us/wiki_pages/money_bag.html
     alias:
-    - moneybag
+      - moneybag
   soy sauce bottle:
     name: 酱油瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/soy_sauce_bottle.html
-  hanafuda earrings:
-    name: 花札耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hanafuda_earrings.html
   powered wheelchair:
     name: 电动轮椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/powered_wheelchair.html
@@ -3453,7 +3331,7 @@ content:
     name: 未磨损的丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_ribbon.html
     alias:
-    - ribbon removed
+      - ribbon removed
   playing bass guitar:
     name: 弹低音吉他
     wikiURL: https://danbooru.donmai.us/wiki_pages/playing_bass_guitar.html
@@ -3461,7 +3339,7 @@ content:
     name: akg k系列耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/akg_k-series_headphones.html
     alias:
-    - k701
+      - k701
   inverted pentagram:
     name: 倒五角星
     wikiURL: https://danbooru.donmai.us/wiki_pages/inverted_pentagram.html
@@ -3490,7 +3368,7 @@ content:
     name: 日清豚贝
     wikiURL: https://danbooru.donmai.us/wiki_pages/nissin_donbei.html
     alias:
-    - donbee (food)
+      - donbee (food)
   ring (sonic):
     name: 环（声波）
     wikiURL: https://danbooru.donmai.us/wiki_pages/ring_(sonic).html
@@ -3512,17 +3390,11 @@ content:
   giving food:
     name: 给予食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/giving_food.html
-  crystal necklace:
-    name: 水晶项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/crystal_necklace.html
   pillow humping:
     name: 枕头驼峰
     wikiURL: https://danbooru.donmai.us/wiki_pages/pillow_humping.html
     alias:
-    - pillow sex
-  sun earrings:
-    name: 太阳耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/sun_earrings.html
+      - pillow sex
   food costume:
     name: 食品服装
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_costume.html
@@ -3536,24 +3408,18 @@ content:
     name: 花卉边框
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_border.html
     alias:
-    - flower border
+      - flower border
   kabedon on viewer:
     name: 观看者上的卡贝顿
     wikiURL: https://danbooru.donmai.us/wiki_pages/kabedon_on_viewer.html
-  diamond necklace:
-    name: 钻石项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond_necklace.html
   red headphones:
     name: 红色耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_headphones.html
-  crown earrings:
-    name: 皇冠耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/crown_earrings.html
   cel rendering:
     name: 细胞渲染
     wikiURL: https://danbooru.donmai.us/wiki_pages/cel_rendering.html
     alias:
-    - cel shading (3d)
+      - cel shading (3d)
   fanbox logo:
     name: 粉丝盒标志
     wikiURL: https://danbooru.donmai.us/wiki_pages/fanbox_logo.html
@@ -3561,7 +3427,7 @@ content:
     name: 新奇眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/novelty_glasses.html
     alias:
-    - fancy glasses
+      - fancy glasses
   dropped food:
     name: 掉落的食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/dropped_food.html
@@ -3572,8 +3438,8 @@ content:
     name: 花动
     wikiURL: https://danbooru.donmai.us/wiki_pages/florakinesis.html
     alias:
-    - plant magic
-    - plant manipulation
+      - plant magic
+      - plant manipulation
   gold ribbon:
     name: 金丝带
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_ribbon.html
@@ -3587,22 +3453,19 @@ content:
     name: 铅笔作为小胡子
     wikiURL: https://danbooru.donmai.us/wiki_pages/pencil_as_mustache.html
     alias:
-    - pencil on lips
-    - pen on lips
+      - pencil on lips
+      - pen on lips
   tears from one eye:
     name: 一只眼睛流泪
     wikiURL: https://danbooru.donmai.us/wiki_pages/tears_from_one_eye.html
     alias:
-    - crying with one eye
+      - crying with one eye
   food-themed hair:
     name: 以食物为主题的头发
     wikiURL: https://danbooru.donmai.us/wiki_pages/food-themed_hair.html
   crystal flower:
     name: 水晶花
     wikiURL: https://danbooru.donmai.us/wiki_pages/crystal_flower.html
-  cross pendant:
-    name: 十字架吊坠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_pendant.html
   stuck in a box:
     name: 卡在盒子里
     wikiURL: https://danbooru.donmai.us/wiki_pages/stuck_in_a_box.html
@@ -3612,9 +3475,6 @@ content:
   holding juice box:
     name: 拿着果汁盒
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_juice_box.html
-  pendant earring:
-    name: 吊坠耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pendant_earring.html
   red suspenders:
     name: 红色吊带
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_suspenders.html
@@ -3633,14 +3493,11 @@ content:
   star-shaped food:
     name: 星形食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/star-shaped_food.html
-  inverted cross earrings:
-    name: 倒十字耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/inverted_cross_earrings.html
   unworn earring:
     name: 未佩戴的耳环
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_earring.html
     alias:
-    - earring removed
+      - earring removed
   partially open jacket:
     name: 部分敞开的夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/partially_open_jacket.html
@@ -3687,7 +3544,7 @@ content:
     name: 军号（食物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/bugles_(food).html
     alias:
-    - tongari corn
+      - tongari corn
   money fan:
     name: 钱迷
     wikiURL: https://danbooru.donmai.us/wiki_pages/money_fan.html
@@ -3698,7 +3555,7 @@ content:
     name: 头上戴杯子
     wikiURL: https://danbooru.donmai.us/wiki_pages/cup_on_head.html
     alias:
-    - glass on head
+      - glass on head
   holding coffee pot:
     name: 拿着咖啡壶
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_coffee_pot.html
@@ -3715,7 +3572,7 @@ content:
     name: 妇科椅
     wikiURL: https://danbooru.donmai.us/wiki_pages/gynecology_chair.html
     alias:
-    - delivery table
+      - delivery table
   two-tone umbrella:
     name: 双色伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_umbrella.html
@@ -3731,14 +3588,11 @@ content:
   guitar strap:
     name: 吉他背带
     wikiURL: https://danbooru.donmai.us/wiki_pages/guitar_strap.html
-  silver necklace:
-    name: 银项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_necklace.html
   cleaning eyewear:
     name: 清洁眼镜
     wikiURL: https://danbooru.donmai.us/wiki_pages/cleaning_eyewear.html
     alias:
-    - cleaning glasses
+      - cleaning glasses
   waist bag:
     name: 腰包
     wikiURL: https://danbooru.donmai.us/wiki_pages/waist_bag.html
@@ -3791,7 +3645,7 @@ content:
     name: 按摩床
     wikiURL: https://danbooru.donmai.us/wiki_pages/massage_table.html
     alias:
-    - massage bed
+      - massage bed
   sumeru rose (genshin impact):
     name: 须弥玫瑰（原神冲击）
     wikiURL: https://danbooru.donmai.us/wiki_pages/sumeru_rose_(genshin_impact).html
@@ -3804,9 +3658,6 @@ content:
   blue headphones:
     name: 蓝色耳机
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_headphones.html
-  large earrings:
-    name: 大耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/large_earrings.html
   fixed-point camera:
     name: 定点相机
     wikiURL: https://danbooru.donmai.us/wiki_pages/fixed-point_camera.html
@@ -3814,7 +3665,7 @@ content:
     name: 化妆盘
     wikiURL: https://danbooru.donmai.us/wiki_pages/makeup_palette.html
     alias:
-    - eyeshadow box
+      - eyeshadow box
   flower wrapper:
     name: 花包装
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_wrapper.html
@@ -3836,12 +3687,6 @@ content:
   gigbag:
     name: 琴包
     wikiURL: https://danbooru.donmai.us/wiki_pages/gigbag.html
-  key choker:
-    name: 钥匙项圈
-    wikiURL: https://danbooru.donmai.us/wiki_pages/key_choker.html
-  ofuda earrings:
-    name: 奥夫达耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ofuda_earrings.html
   holding glass bottle:
     name: 拿着玻璃瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_glass_bottle.html
@@ -3851,9 +3696,6 @@ content:
   backpacking stove:
     name: 背包炉
     wikiURL: https://danbooru.donmai.us/wiki_pages/backpacking_stove.html
-  o-ring arm strap:
-    name: O 形环臂带
-    wikiURL: https://danbooru.donmai.us/wiki_pages/o-ring_arm_strap.html
   steaming food:
     name: 蒸食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/steaming_food.html
@@ -3872,15 +3714,9 @@ content:
   empty bottle:
     name: 空瓶
     wikiURL: https://danbooru.donmai.us/wiki_pages/empty_bottle.html
-  putting on earrings:
-    name: 戴上耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/putting_on_earrings.html
   shared improvised umbrella:
     name: 共用简易雨伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/shared_improvised_umbrella.html
-  acorn pendant:
-    name: 橡子吊坠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/acorn_pendant.html
   flower wings:
     name: 花翅膀
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_wings.html
@@ -3902,9 +3738,6 @@ content:
   shredded cabbage:
     name: 卷心菜丝
     wikiURL: https://danbooru.donmai.us/wiki_pages/shredded_cabbage.html
-  thigh ring:
-    name: 大腿环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_ring.html
   ribbon cable:
     name: 带状电缆
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon_cable.html
@@ -3944,9 +3777,6 @@ content:
   camera hold pose (han-0v0):
     name: 相机保持姿势 (han-0v0)
     wikiURL: https://danbooru.donmai.us/wiki_pages/camera_hold_pose_(han-0v0).html
-  star pendant:
-    name: 星星吊坠
-    wikiURL: https://danbooru.donmai.us/wiki_pages/star_pendant.html
   planted shovel:
     name: 种植铲
     wikiURL: https://danbooru.donmai.us/wiki_pages/planted_shovel.html
@@ -3968,9 +3798,6 @@ content:
   primrose field illusion:
     name: 报春花田错觉
     wikiURL: https://danbooru.donmai.us/wiki_pages/primrose_field_illusion.html
-  inverted cross necklace:
-    name: 倒十字项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/inverted_cross_necklace.html
   pizza box computer:
     name: 披萨盒电脑
     wikiURL: https://danbooru.donmai.us/wiki_pages/pizza_box_computer.html
@@ -4004,18 +3831,12 @@ content:
   star hairband:
     name: 星星发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/star_hairband.html
-  spiked necklace:
-    name: 尖刺项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_necklace.html
   black surgical mask:
     name: 黑色手术口罩
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_surgical_mask.html
   serpens (constellation):
     name: 蛇座（星座）
     wikiURL: https://danbooru.donmai.us/wiki_pages/serpens_(constellation).html
-  silver ring:
-    name: 银戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/silver_ring.html
   wireless microphone:
     name: 无线麦克风
     wikiURL: https://danbooru.donmai.us/wiki_pages/wireless_microphone.html
@@ -4035,13 +3856,13 @@ content:
     name: 甜甜圈形状的枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/doughnut-shaped_pillow.html
     alias:
-    - donut pillow
-    - doughnut pillow
+      - donut pillow
+      - doughnut pillow
   phone number:
     name: 电话号码
     wikiURL: https://danbooru.donmai.us/wiki_pages/phone_number.html
     alias:
-    - telephone number
+      - telephone number
   stuffed food:
     name: 夹馅食品
     wikiURL: https://danbooru.donmai.us/wiki_pages/stuffed_food.html
@@ -4052,19 +3873,13 @@ content:
     name: 流行铃声
     wikiURL: https://danbooru.donmai.us/wiki_pages/ring_pop.html
     alias:
-    - candy ring
+      - candy ring
   ribbed bandeau:
     name: 罗纹抹胸式连衣裙
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbed_bandeau.html
   phone in pocket:
     name: 口袋里的手机
     wikiURL: https://danbooru.donmai.us/wiki_pages/phone_in_pocket.html
-  necklace pull:
-    name: 项链拉力
-    wikiURL: https://danbooru.donmai.us/wiki_pages/necklace_pull.html
-  lock necklace:
-    name: 锁项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lock_necklace.html
   team sonic (sonic):
     name: 索尼克团队（索尼克）
     wikiURL: https://danbooru.donmai.us/wiki_pages/team_sonic_(sonic).html
@@ -4083,9 +3898,6 @@ content:
   chain hairband:
     name: 链条发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/chain_hairband.html
-  pendant removed:
-    name: 吊坠已移除
-    wikiURL: https://danbooru.donmai.us/wiki_pages/pendant_removed.html
   picnic table:
     name: 野餐桌
     wikiURL: https://danbooru.donmai.us/wiki_pages/picnic_table.html
@@ -4102,8 +3914,8 @@ content:
     name: 倒伞
     wikiURL: https://danbooru.donmai.us/wiki_pages/inverted_umbrella.html
     alias:
-    - inside-out umbrella
-    - upturned umbrella
+      - inside-out umbrella
+      - upturned umbrella
   food with face:
     name: 带脸的食物
     wikiURL: https://danbooru.donmai.us/wiki_pages/food_with_face.html
@@ -4128,9 +3940,6 @@ content:
   reflective table:
     name: 反光桌
     wikiURL: https://danbooru.donmai.us/wiki_pages/reflective_table.html
-  ankh earrings:
-    name: 安卡耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ankh_earrings.html
   mexico ufo alien bodies hearing (meme):
     name: 墨西哥 ufo 外星人尸体听证会 (meme)
     wikiURL: https://danbooru.donmai.us/wiki_pages/mexico_ufo_alien_bodies_hearing_(meme).html
@@ -4150,7 +3959,7 @@ content:
     name: 布朗尼（食物）
     wikiURL: https://danbooru.donmai.us/wiki_pages/brownie_(food).html
     alias:
-    - chocolate brownie
+      - chocolate brownie
   goblin mask:
     name: 妖精面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/goblin_mask.html
@@ -4163,14 +3972,11 @@ content:
   offering hand to another:
     name: 向另一个人伸出援助之手
     wikiURL: https://danbooru.donmai.us/wiki_pages/offering_hand_to_another.html
-  nokotan entering a classroom (meme):
-    name: 诺科坦进入教室（表情包）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/nokotan_entering_a_classroom_(meme).html
   camouflage bag:
     name: 迷彩包
     wikiURL: https://danbooru.donmai.us/wiki_pages/camouflage_bag.html
     alias:
-    - camouflage backpack
+      - camouflage backpack
   buttercup (flower):
     name: 毛茛（花）
     wikiURL: https://danbooru.donmai.us/wiki_pages/buttercup_(flower).html
@@ -4181,13 +3987,10 @@ content:
     name: 未佩戴的戒指
     wikiURL: https://danbooru.donmai.us/wiki_pages/unworn_ring.html
     alias:
-    - ring removed
+      - ring removed
   instrument hair ornament:
     name: 乐器发饰
     wikiURL: https://danbooru.donmai.us/wiki_pages/instrument_hair_ornament.html
-  emblem ring:
-    name: 徽章戒指
-    wikiURL: https://danbooru.donmai.us/wiki_pages/emblem_ring.html
   fifa world cup trophy:
     name: 国际足联世界杯奖杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/fifa_world_cup_trophy.html
@@ -4209,12 +4012,6 @@ content:
   gold mask:
     name: 黄金面具
     wikiURL: https://danbooru.donmai.us/wiki_pages/gold_mask.html
-  soyombo earrings:
-    name: 索永博耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/soyombo_earrings.html
-  apple earrings:
-    name: 苹果耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/apple_earrings.html
   tumbler glass:
     name: 玻璃杯
     wikiURL: https://danbooru.donmai.us/wiki_pages/tumbler_glass.html
@@ -4227,9 +4024,6 @@ content:
   red pillow:
     name: 红色枕头
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_pillow.html
-  necklace in mouth:
-    name: 嘴里的项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/necklace_in_mouth.html
   fur hairband:
     name: 毛皮发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur_hairband.html
@@ -4260,9 +4054,6 @@ content:
   crafting table (minecraft):
     name: 工作台（我的世界）
     wikiURL: https://danbooru.donmai.us/wiki_pages/crafting_table_(minecraft).html
-  hourglass earrings:
-    name: 沙漏耳环
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hourglass_earrings.html
   steam from nose:
     name: 鼻子里冒出蒸汽
     wikiURL: https://danbooru.donmai.us/wiki_pages/steam_from_nose.html
@@ -4275,21 +4066,15 @@ content:
   drawstring pull:
     name: 抽绳拉力
     wikiURL: https://danbooru.donmai.us/wiki_pages/drawstring_pull.html
-  rose (blackpink) (cosplay):
-    name: 玫瑰 (blackpink) (cosplay)
-    wikiURL: https://danbooru.donmai.us/wiki_pages/rose_(blackpink)_(cosplay).html
   heart hairband:
     name: 心形发带
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_hairband.html
   soshite ima ribbon wo musunde (project sekai):
-    name: soshite ima ribbon wo musunde (project sekai)
+    name: Soshite ima Ribbon wo musunde (Project Sekai)
     wikiURL: https://danbooru.donmai.us/wiki_pages/soshite_ima_ribbon_wo_musunde_(project_sekai).html
     alias:
-    - and now i wear this ribbon (project sekai)
-    - and now the ribbon is tied (project sekai)
-  bat necklace:
-    name: 蝙蝠项链
-    wikiURL: https://danbooru.donmai.us/wiki_pages/bat_necklace.html
+      - and now i wear this ribbon (project sekai)
+      - and now the ribbon is tied (project sekai)
   king penguin:
     name: 王企鹅
     wikiURL: https://danbooru.donmai.us/wiki_pages/king_penguin.html
@@ -4308,3 +4093,620 @@ content:
   hearing aid:
     name: 助听器
     wikiURL: https://danbooru.donmai.us/wiki_pages/hearing_aid.html
+  school desk:
+    name: 课桌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_desk.html
+  pool ladder:
+    name: 泳池扶梯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pool_ladder.html
+  barrel:
+    name: 桶子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barrel.html
+  electrokinesis:
+    name: 动电
+    wikiURL: https://danbooru.donmai.us/wiki_pages/electrokinesis.html
+    alias:
+      - electricity manipulation
+  school briefcase:
+    name: 学校公文包
+    wikiURL: https://danbooru.donmai.us/wiki_pages/school_briefcase.html
+  bar stool:
+    name: 酒吧椅子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bar_stool.html
+  traffic cone:
+    name: 路障
+    wikiURL: https://danbooru.donmai.us/wiki_pages/traffic_cone.html
+    alias:
+      - pylon (traffic)
+      - road cone
+      - traffic cones
+  pool of blood:
+    name: 血池
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pool_of_blood.html
+    alias:
+      - blood pool
+      - puddle of blood
+  drum (container):
+    name: 桶(容器)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/drum_(container).html
+    alias:
+      - metal drum
+      - oil barrel
+      - oil drum
+  grill:
+    name: 烤架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grill.html
+    alias:
+      - barbecue (object)
+      - bbq (object)
+  bishop (chess):
+    name: 主教(国际象棋)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bishop_(chess).html
+  crowbar:
+    name: 撬棍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crowbar.html
+  doorknob:
+    name: 门把手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doorknob.html
+  barbell:
+    name: 杠铃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barbell.html
+  barcode scanner:
+    name: 扫码机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barcode_scanner.html
+  cue stick:
+    name: 台球杆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cue_stick.html
+    alias:
+      - pool cue
+  shopping basket:
+    name: 购物篮
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shopping_basket.html
+  board eraser:
+    name: 黑板擦教室橡皮擦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/board_eraser.html
+    alias:
+      - chalkboard eraser
+      - classroom eraser
+  boom barrier:
+    name: 围栏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/boom_barrier.html
+  billiard ball:
+    name: 母球台球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/billiard_ball.html
+    alias:
+      - cue ball
+      - pool ball
+      - snooker ball
+  door handle:
+    name: 门把手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/door_handle.html
+  handlebar:
+    name: 车把
+    wikiURL: https://danbooru.donmai.us/wiki_pages/handlebar.html
+  spool:
+    name: 线轴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spool.html
+  computer tower:
+    name: 电脑塔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/computer_tower.html
+  stage curtains:
+    name: 舞台幕布
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stage_curtains.html
+  postage stamp:
+    name: 邮票
+    wikiURL: https://danbooru.donmai.us/wiki_pages/postage_stamp.html
+  traffic barrier:
+    name: 交通障碍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/traffic_barrier.html
+  billiards:
+    name: 台球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/billiards.html
+    alias:
+      - pool (sport)
+      - snooker
+  horizontal bar:
+    name: 引体向上杆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horizontal_bar.html
+    alias:
+      - chin-up bar
+  shrine bell:
+    name: 神社钟
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shrine_bell.html
+  ice cream bar:
+    name: 冰淇淋吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ice_cream_bar.html
+  stationery:
+    name: 静止的
+    wikiURL: https://danbooru.donmai.us/wiki_pages/stationery.html
+  bar soap:
+    name: 条皂
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bar_soap.html
+  candy bar:
+    name: 糖果条
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candy_bar.html
+  gold bar:
+    name: 金条 金砖 金条 金锭
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gold_bar.html
+    alias:
+      - gold bars
+      - gold brick
+      - gold bullion
+      - gold ingot
+  barre:
+    name: 芭蕾吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barre.html
+    alias:
+      - ballet bar
+  rebar:
+    name: 钢筋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rebar.html
+  doormat:
+    name: 擦鞋垫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doormat.html
+  doorbell:
+    name: 门铃
+    wikiURL: https://danbooru.donmai.us/wiki_pages/doorbell.html
+  kitchen hood:
+    name: 厨房抽油烟机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen_hood.html
+    alias:
+      - exhaust hood
+  whammy bar:
+    name: 摇摇欲坠的酒吧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/whammy_bar.html
+  barber pole:
+    name: 理发店招牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barber_pole.html
+  barricade:
+    name: 路障
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barricade.html
+  model building:
+    name: 建筑模型
+    wikiURL: https://danbooru.donmai.us/wiki_pages/model_building.html
+  sake barrel:
+    name: 清酒桶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sake_barrel.html
+  church bell:
+    name: 教堂的钟声
+    wikiURL: https://danbooru.donmai.us/wiki_pages/church_bell.html
+  saliva pool:
+    name: 唾液池
+    wikiURL: https://danbooru.donmai.us/wiki_pages/saliva_pool.html
+  barre chord:
+    name: 巴利和弦
+    wikiURL: https://danbooru.donmai.us/wiki_pages/barre_chord.html
+  roadblock:
+    name: 路障
+    wikiURL: https://danbooru.donmai.us/wiki_pages/roadblock.html
+  door chain:
+    name: 门链
+    wikiURL: https://danbooru.donmai.us/wiki_pages/door_chain.html
+  kitchen range:
+    name: 厨房范围
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen_range.html
+  heterochromatic eyewear:
+    name: 异色眼镜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heterochromatic_eyewear.html
+  yaoi (object):
+    name: 矢追（物体）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yaoi_(object).html
+  humpty lock (shugo chara!):
+    name: 矮小的锁（守护甜心！）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/humpty_lock_(shugo_chara!).html
+  yuri (object):
+    name: 尤里（物体）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yuri_(object).html
+  cross:
+    name: 十字
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross.html
+  swim ring:
+    name: 游泳圈
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swim_ring.html
+  holding microphone:
+    name: 拿着麦克风
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_microphone.html
+  playing card:
+    name: 扑克牌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playing_card.html
+    alias:
+      - playing cards
+  cross-shaped pupils:
+    name: 十字形瞳孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-shaped_pupils.html
+  holding card:
+    name: 手持卡片
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_card.html
+    alias:
+      - holding cards
+      - holding playing card
+  iron cross:
+    name: 铁十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iron_cross.html
+  microphone stand:
+    name: 麦克风杆
+    wikiURL: https://danbooru.donmai.us/wiki_pages/microphone_stand.html
+  cross scar:
+    name: x疤痕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_scar.html
+    alias:
+      - x scar
+  latin cross:
+    name: 拉丁式十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/latin_cross.html
+    alias:
+      - christian cross
+  digital media player:
+    name: 随身听
+    wikiURL: https://danbooru.donmai.us/wiki_pages/digital_media_player.html
+    alias:
+      - mp3 player
+  head-mounted display:
+    name: 戴在头上的（VR）显示器
+    wikiURL: https://danbooru.donmai.us/wiki_pages/head-mounted_display.html
+    alias:
+      - vr goggles
+      - vr headset
+      - vr visor
+  skull and crossbones:
+    name: 头骨和交叉的骨头
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skull_and_crossbones.html
+  candlestand:
+    name: 烛台
+    wikiURL: https://danbooru.donmai.us/wiki_pages/candlestand.html
+    alias:
+      - candlestick
+  crossed bandaids:
+    name: 交叉的创可贴
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossed_bandaids.html
+    alias:
+      - x bandaids
+  ace (playing card):
+    name: A（扑克牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ace_(playing_card).html
+    alias:
+      - ace
+  standing on liquid:
+    name: 站在水上或液体上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_liquid.html
+    alias:
+      - standing on water
+  chandelier:
+    name: 吊灯
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chandelier.html
+  walkie-talkie:
+    name: 对讲机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/walkie-talkie.html
+    alias:
+      - walkie talkie
+  holding helmet:
+    name: 拿着头盔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_helmet.html
+  combat helmet:
+    name: 战斗头盔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/combat_helmet.html
+    alias:
+      - military helmet
+  red cross:
+    name: 红十字
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_cross.html
+  inverted cross:
+    name: 圣彼得十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/inverted_cross.html
+    alias:
+      - antichrist cross
+      - cross of saint peter
+      - upside-down cross
+  cross print:
+    name: 十字架元素图案
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_print.html
+  crossbow:
+    name: 弩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossbow.html
+  food stand:
+    name: 食品摊
+    wikiURL: https://danbooru.donmai.us/wiki_pages/food_stand.html
+  cross pasties:
+    name: 馅饼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_pasties.html
+    alias:
+      - x pasties
+  cross choker:
+    name: 交叉项圈
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_choker.html
+  cross-laced top:
+    name: 交叉系带上衣
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_top.html
+    alias:
+      - cross-laced shirt
+  cross-laced slit:
+    name: 交叉系带开衩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_slit.html
+  holding microphone stand:
+    name: 拿着话筒架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_microphone_stand.html
+  heads-up display:
+    name: 状态条(游戏和科幻风格)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heads-up_display.html
+    alias:
+      - heads-up-display
+      - heads up display
+      - hud
+  misunderstanding:
+    name: 误会
+    wikiURL: https://danbooru.donmai.us/wiki_pages/misunderstanding.html
+  cross-laced legwear:
+    name: 交叉系带裤袜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_legwear.html
+  holding cross:
+    name: 拿着十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_cross.html
+  pov across table:
+    name: 越桌第一人称视角
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pov_across_table.html
+  standard bearer:
+    name: 旗手
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standard_bearer.html
+  arm across waist:
+    name: 手臂交叉在腰间
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_across_waist.html
+  holding crossbow:
+    name: 拿着弩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_crossbow.html
+  cross-laced cutout:
+    name: 交叉系带镂空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_cutout.html
+  cross-body stretch:
+    name: 交叉拉伸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-body_stretch.html
+  joker (playing card):
+    name: 小丑（扑克牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/joker_(playing_card).html
+    alias:
+      - joker (card)
+      - joker card
+  pov across bed:
+    name: 床对面视角
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pov_across_bed.html
+  nightstand:
+    name: 床头柜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nightstand.html
+    alias:
+      - bedside table
+      - night table
+  greek cross:
+    name: 希腊十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/greek_cross.html
+  crosshair:
+    name: 十字线
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crosshair.html
+    alias:
+      - crosshairs
+  iv stand:
+    name: 静脉注射架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/iv_stand.html
+  one arm handstand:
+    name: 单臂倒立
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_arm_handstand.html
+    alias:
+      - single handstand
+      - standing on one hand
+  queen (playing card):
+    name: 皇后（扑克牌）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/queen_(playing_card).html
+  standing missionary:
+    name: 常设传教士
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_missionary.html
+  playing card theme:
+    name: 扑克牌主题
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playing_card_theme.html
+  cassette player:
+    name: 卡带机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cassette_player.html
+  standing on object:
+    name: 站在物体上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_object.html
+  crossed wrists:
+    name: 交叉手腕
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossed_wrists.html
+  crossed belts:
+    name: 交叉带
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossed_belts.html
+  crosshair pupils:
+    name: 准星瞳孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crosshair_pupils.html
+  standing on person:
+    name: 站在人身上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_person.html
+  display case:
+    name: 陈列柜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/display_case.html
+  arm across chest:
+    name: 手臂交叉在胸前
+    wikiURL: https://danbooru.donmai.us/wiki_pages/arm_across_chest.html
+  cross tattoo:
+    name: 十字架纹身
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_tattoo.html
+  crossed swords:
+    name: 刀剑相向
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossed_swords.html
+    alias:
+      - swords crossed
+  cross-laced shorts:
+    name: 交叉系带短裤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_shorts.html
+  cross-laced sandals:
+    name: 交叉系带凉鞋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-laced_sandals.html
+  celtic cross:
+    name: 凯尔特十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/celtic_cross.html
+  music stand:
+    name: 乐谱架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/music_stand.html
+  holding walkie-talkie:
+    name: 拿着对讲机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_walkie-talkie.html
+  display:
+    name: 展示
+    wikiURL: https://danbooru.donmai.us/wiki_pages/display.html
+  battle standard:
+    name: 战旗
+    wikiURL: https://danbooru.donmai.us/wiki_pages/battle_standard.html
+  crossed out:
+    name: 划掉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossed_out.html
+  walkure (macross delta):
+    name: 沃库尔（超时空要塞三角洲）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/walkure_(macross_delta).html
+  cake stand:
+    name: 蛋糕架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cake_stand.html
+  cross-species cosplay:
+    name: 跨物种角色扮演
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-species_cosplay.html
+  cd player:
+    name: 激光唱机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cd_player.html
+  mexican standoff:
+    name: 墨西哥对峙
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mexican_standoff.html
+  navy cross:
+    name: 海军十字
+    wikiURL: https://danbooru.donmai.us/wiki_pages/navy_cross.html
+  crosscounter:
+    name: 交叉柜台
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crosscounter.html
+  segment display:
+    name: 分段显示
+    wikiURL: https://danbooru.donmai.us/wiki_pages/segment_display.html
+  skull and crossed swords:
+    name: 头骨和交叉的剑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/skull_and_crossed_swords.html
+  cross (weapon):
+    name: 十字架（武器）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_(weapon).html
+  standing on three legs:
+    name: 三足站立
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_three_legs.html
+  standing on chair:
+    name: 站在椅子上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_chair.html
+  umbrella stand:
+    name: 伞架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/umbrella_stand.html
+  standing on another's head:
+    name: 站在别人头上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_another's_head.html
+  standing restraints:
+    name: 站立约束
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_restraints.html
+  cross cutout:
+    name: 十字切口
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_cutout.html
+  standing leg lock:
+    name: 站立腿锁
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_leg_lock.html
+  large cross:
+    name: 大十字架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/large_cross.html
+  cross patty:
+    name: 交叉馅饼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_patty.html
+  lacrosse stick:
+    name: 曲棍球棒
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lacrosse_stick.html
+  standard manufacturing dp-12:
+    name: 标准制造DP-12
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standard_manufacturing_dp-12.html
+  nonstandard furigana:
+    name: 非标准注音假名
+    wikiURL: https://danbooru.donmai.us/wiki_pages/nonstandard_furigana.html
+  lacrosse:
+    name: 长曲棍球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lacrosse.html
+  standing on shoulder:
+    name: 站在肩膀上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_shoulder.html
+  operation crossroads:
+    name: 运营十字路口
+    wikiURL: https://danbooru.donmai.us/wiki_pages/operation_crossroads.html
+  standing on branch:
+    name: 站在树枝上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_branch.html
+  across the stars (idolmaster):
+    name: 穿越星空
+    wikiURL: https://danbooru.donmai.us/wiki_pages/across_the_stars_(idolmaster).html
+    alias:
+      - across the stars
+  cross piercing:
+    name: 十字穿孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_piercing.html
+  figure stand:
+    name: 人物架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/figure_stand.html
+  cross punisher:
+    name: 交叉惩罚者
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross_punisher.html
+  standing on box:
+    name: 站在盒子上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_box.html
+  standing on torii:
+    name: 站在牌坊上
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_on_torii.html
+  book stand:
+    name: 书架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/book_stand.html
+  pedestrian crossing sign:
+    name: 人行横道标志
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pedestrian_crossing_sign.html
+  standing at attention:
+    name: 立正
+    wikiURL: https://danbooru.donmai.us/wiki_pages/standing_at_attention.html
+  crossdraw holster:
+    name: 交叉拉枪套
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crossdraw_holster.html
+  maltese cross:
+    name: 马耳他十字
+    wikiURL: https://danbooru.donmai.us/wiki_pages/maltese_cross.html
+  lion (macross frontier):
+    name: 狮子（穿越边境）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lion_(macross_frontier).html
+  playing card print:
+    name: 扑克牌打印
+    wikiURL: https://danbooru.donmai.us/wiki_pages/playing_card_print.html
+  tail stand:
+    name: 尾架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tail_stand.html
+  dvd player:
+    name: DVD播放机
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dvd_player.html
+  cellphone display:
+    name: 手机显示屏
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cellphone_display.html
+  weapon stand:
+    name: 武器架
+    wikiURL: https://danbooru.donmai.us/wiki_pages/weapon_stand.html
+  fruit stand:
+    name: 水果摊
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fruit_stand.html
+  hajime x cross:
+    name: hajime x 交叉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hajime_x_cross.html
+  mayan (macross):
+    name: 玛雅（超时空要塞）
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mayan_(macross).html
+  cleaning rag:
+    name: 清洁抹布
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cleaning_rag.html
+    alias:
+      - dustcloth
+      - rag
+  broom:
+    name: 扫帚
+    wikiURL: https://danbooru.donmai.us/wiki_pages/broom.html
+    alias:
+      - broomstick
+  water bottle:
+    name: 水瓶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/water_bottle.html

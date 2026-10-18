@@ -161,10 +161,6 @@ content:
     name: 条纹夹克
     wikiURL: https://danbooru.donmai.us/wiki_pages/striped_jacket.html
     restricted: true
-  striped scarf:
-    name: 条纹围巾
-    wikiURL: https://danbooru.donmai.us/wiki_pages/striped_scarf.html
-    restricted: true
   grabbing own ass:
     name: 抓着自己的屁股
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_own_ass.html
@@ -690,10 +686,6 @@ content:
     name: 红色条纹
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_stripes.html
     restricted: true
-  vertical-striped scarf:
-    name: 竖条纹围巾
-    wikiURL: https://danbooru.donmai.us/wiki_pages/vertical-striped_scarf.html
-    restricted: true
   striped camisole:
     name: 条纹吊带背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/striped_camisole.html
@@ -881,7 +873,7 @@ content:
     - teabagging (sexual)
     restricted: true
   sanallite (tsukumo sana):
-    name: sanallite（tsukumo sana）
+    name: Sanallite（tsukumo sana）
     wikiURL: https://danbooru.donmai.us/wiki_pages/sanallite_(tsukumo_sana).html
     restricted: true
   triple horizontal stripe:
@@ -899,10 +891,6 @@ content:
   pinstripe camisole:
     name: 细条纹背心
     wikiURL: https://danbooru.donmai.us/wiki_pages/pinstripe_camisole.html
-    restricted: true
-  striped cardigan:
-    name: 条纹开衫
-    wikiURL: https://danbooru.donmai.us/wiki_pages/striped_cardigan.html
     restricted: true
   assisted masturbation:
     name: 辅助手淫
@@ -1625,3 +1613,8 @@ content:
     name: 运河图书1125
     wikiURL: https://danbooru.donmai.us/wiki_pages/canalbooks1125.html
     restricted: true
+  looking at penis:
+    restricted: true
+    name: 看着阴茎
+    image: 12f414e3fe8d3c38624557da3d97c7caceb57d3704d11509c0aca4a3b6674e82
+    wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_penis.html

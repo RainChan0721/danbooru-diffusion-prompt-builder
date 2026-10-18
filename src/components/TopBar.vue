@@ -104,14 +104,12 @@ function onClear() {
                         @change="onCategoryChange">
                         <ElOption label="全部分类" value="" />
                         <ElOption label="🔞 限制级" value="限制级" />
-                        <ElOption label="动作姿态" value="姿势" />
+                        <ElOption label="画面构图" value="画面构图" />
                         <ElOption label="服饰装扮" value="服饰" />
-                        <ElOption label="身体部位" value="人类" />
+                        <ElOption label="人物特征" value="人物" />
                         <ElOption label="物品道具" value="物品" />
                         <ElOption label="自然环境" value="自然" />
                         <ElOption label="人文建筑" value="人文" />
-                        <ElOption label="角色" value="角色" />
-                        <ElOption label="作品版权" value="作品" />
                         <ElOption label="热门画师" value="画师" />
                         <ElOption label="负向/质量" value="元标签" />
                     </ElSelect>

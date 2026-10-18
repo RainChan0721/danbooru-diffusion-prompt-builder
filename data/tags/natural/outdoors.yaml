@@ -1,7 +1,7 @@
 name: 室外
 category:
-- 自然
-- 位置
+  - 自然
+  - 位置
 content:
   beach:
     name: 海滩
@@ -11,8 +11,8 @@ content:
     name: 海边
     wikiURL: https://danbooru.donmai.us/wiki_pages/shore.html
     alias:
-    - coast
-    - shoreline
+      - coast
+      - shoreline
   canyon:
     name: 峡谷
     wikiURL: https://danbooru.donmai.us/wiki_pages/canyon.html
@@ -20,7 +20,7 @@ content:
     name: 洞穴
     wikiURL: https://danbooru.donmai.us/wiki_pages/cave.html
     alias:
-    - caves
+      - caves
     image: 67af08f04a55aa240c7ae9edf80a7ad8c54c832892e799c04d1eae19ac3fd2d7
   cliff:
     name: 悬崖
@@ -37,7 +37,7 @@ content:
     image: 4fd9949b27f320803b117777ffbeef778c98b0b7d259bf57cce9c4a88ab1180f
     wikiURL: https://danbooru.donmai.us/wiki_pages/forest.html
     alias:
-    - woods
+      - woods
   bamboo forest:
     name: 竹林
     wikiURL: https://danbooru.donmai.us/wiki_pages/bamboo_forest.html
@@ -49,7 +49,7 @@ content:
     name: 山丘
     wikiURL: https://danbooru.donmai.us/wiki_pages/hill.html
     alias:
-    - hills
+      - hills
   island:
     name: 岛
     wikiURL: https://danbooru.donmai.us/wiki_pages/island.html
@@ -68,7 +68,7 @@ content:
     name: 山
     wikiURL: https://danbooru.donmai.us/wiki_pages/mountain.html
     alias:
-    - mountains
+      - mountains
     image: 65d1f617b8a9fbd50aaf900208ff3412d1690888ce18ecaac429bd1fc5eaacf8
   volcano:
     name: 火山
@@ -98,8 +98,8 @@ content:
     name: 湿地
     wikiURL: https://danbooru.donmai.us/wiki_pages/wetland.html
     alias:
-    - swamp
-    - marsh
+      - swamp
+      - marsh
     image: b33a9f2f658604fcb1be47e4b3994336e814b698f91dfa368d75b9c23da0de3e
   water:
     name: 水
@@ -116,7 +116,7 @@ content:
     image: e7e528cb9cf6fe96737560a340c38dd7fb1607d2231d55ece277700363e9ee6f
     wikiURL: https://danbooru.donmai.us/wiki_pages/ocean.html
     alias:
-    - sea
+      - sea
   ocean bottom:
     name: 海底
     wikiURL: https://danbooru.donmai.us/wiki_pages/ocean_bottom.html
@@ -132,7 +132,7 @@ content:
     name: 溪流
     wikiURL: https://danbooru.donmai.us/wiki_pages/stream.html
     alias:
-    - creek
+      - creek
     image: c1684c7c3258bbd2b44b36c60eaedb24a3a4b6f17feb4dc917b4366f94d8387e
   waterfall:
     name: 瀑布

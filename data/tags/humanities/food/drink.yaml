@@ -74,7 +74,7 @@ content:
     name: 蒲公英咖啡
     wikiURL: https://danbooru.donmai.us/wiki_pages/dandelion_coffee.html
   georgia max coffee:
-    name: Georgia MAX Coffee
+    name: 乔治亚最大咖啡
     wikiURL: https://danbooru.donmai.us/wiki_pages/georgia_max_coffee.html
   latte art:
     name: 咖啡拉花
@@ -103,17 +103,17 @@ content:
     alias:
     - soft drink
   7up:
-    name: 7up
+    name: 7向上
     wikiURL: https://danbooru.donmai.us/wiki_pages/7up.html
   calpis:
-    name: Calpis
+    name: 可尔必思
     wikiURL: https://danbooru.donmai.us/wiki_pages/calpis.html
   coca-cola:
     name: 可口可乐
     wikiURL: https://danbooru.donmai.us/wiki_pages/coca-cola.html
     image: f42e29f6752e93b73bc0b702d523f5fff885a5cc773e2a45087ad68943c72412
   dr pepper:
-    name: Dr Pepper
+    name: 胡椒博士
     wikiURL: https://danbooru.donmai.us/wiki_pages/dr_pepper.html
     alias:
     - dr. pepper

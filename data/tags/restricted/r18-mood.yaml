@@ -862,10 +862,6 @@ content:
     name: 尾带
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_strap.html
     restricted: true
-  scathach (fate) (cosplay):
-    name: 斯卡哈（命运）（角色扮演）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/scathach_(fate)_(cosplay).html
-    restricted: true
   torture instruments:
     name: 刑具
     wikiURL: https://danbooru.donmai.us/wiki_pages/torture_instruments.html
@@ -932,10 +928,6 @@ content:
   parabora (nipplemokuba):
     name: 抛物线（nipplemokuba）
     wikiURL: https://danbooru.donmai.us/wiki_pages/parabora_(nipplemokuba).html
-    restricted: true
-  panty (psg) (cosplay):
-    name: 内裤 （psg） （cosplay）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/panty_(psg)_(cosplay).html
     restricted: true
   puffer fish vomiting water (meme):
     name: 河豚鱼吐水
@@ -1283,7 +1275,7 @@ content:
     - trickster
     restricted: true
   ncontrail (mgax7527):
-    name: ncontrail（mgax7527）
+    name: ncontrail (mgax7527)
     wikiURL: https://danbooru.donmai.us/wiki_pages/ncontrail_(mgax7527).html
     restricted: true
   tenochtitlan (second ascension) (fate):
@@ -1556,10 +1548,6 @@ content:
     name: 特诺奇蒂特兰（泳装月癌）（第一次扬升）（命运）
     wikiURL: https://danbooru.donmai.us/wiki_pages/tenochtitlan_(swimsuit_mooncancer)_(first_ascension)_(fate).html
     restricted: true
-  titan shifter scars:
-    name: 泰坦移位者伤痕
-    wikiURL: https://danbooru.donmai.us/wiki_pages/titan_shifter_scars.html
-    restricted: true
   grape (grapedraws):
     name: 葡萄（葡萄）
     wikiURL: https://danbooru.donmai.us/wiki_pages/grape_(grapedraws).html
@@ -1831,7 +1819,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/water_enchantress_of_the_temple.html
     restricted: true
   shijukara (great tit):
-    name: shijukara（大山雀）
+    name: 大山雀（鸟类）
     wikiURL: https://danbooru.donmai.us/wiki_pages/shijukara_(great_tit).html
     restricted: true
   scathach skadi (swimsuit ruler) (final ascension) (fate):
@@ -2440,10 +2428,6 @@ content:
     name: 触手臂
     wikiURL: https://danbooru.donmai.us/wiki_pages/tentacle_arm.html
     restricted: true
-  cart titan:
-    name: 购物车泰坦
-    wikiURL: https://danbooru.donmai.us/wiki_pages/cart_titan.html
-    restricted: true
   stitched pants:
     name: 缝合裤
     wikiURL: https://danbooru.donmai.us/wiki_pages/stitched_pants.html
@@ -2596,7 +2580,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/remote_controller_4.html
     restricted: true
   momoyama tits:
-    name: 桃山山雀
+    name: 桃山（胸部本）
     wikiURL: https://danbooru.donmai.us/wiki_pages/momoyama_tits.html
     restricted: true
   implied threesome:
@@ -2646,10 +2630,6 @@ content:
   redpostit:
     name: 雷德邮报
     wikiURL: https://danbooru.donmai.us/wiki_pages/redpostit.html
-    restricted: true
-  ash (titanfall 2) (cosplay):
-    name: 艾什（泰坦天降 2）（角色扮演）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/ash_(titanfall_2)_(cosplay).html
     restricted: true
   khentaiu:
     name: 肯塔尤

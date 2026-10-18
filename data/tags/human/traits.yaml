@@ -1442,7 +1442,7 @@ content:
     name: 菱形鞋类
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_footwear.html
   tail around another's leg:
-    name: tail around another's leg
+    name: 尾巴绕着别人的腿
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_around_another's_leg.html
   holding with chopsticks:
     name: 用筷子夹着
@@ -1510,7 +1510,7 @@ content:
     name: 手臂上的纱布
     wikiURL: https://danbooru.donmai.us/wiki_pages/gauze_on_arm.html
   exposed internal machinery:
-    name: exposed internal machinery
+    name: 暴露的内部机械
     wikiURL: https://danbooru.donmai.us/wiki_pages/exposed_internal_machinery.html
   trimmed tail:
     name: 修剪尾巴
@@ -1563,7 +1563,7 @@ content:
     name: 拿着簸箕
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_dustpan.html
   family guy death pose (meme):
-    name: family guy death pose (meme)
+    name: 家庭成员死亡姿势（模因）
     wikiURL: https://danbooru.donmai.us/wiki_pages/family_guy_death_pose_(meme).html
   claw hair clip:
     name: 爪形发夹
@@ -1572,7 +1572,7 @@ content:
     name: 透过手指看
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_through_fingers.html
   holding digital media player:
-    name: holding digital media player
+    name: 拿着数字媒体播放器
     wikiURL: https://danbooru.donmai.us/wiki_pages/holding_digital_media_player.html
   hands on own feet:
     name: 双手放在自己的脚上
@@ -1736,7 +1736,7 @@ content:
     name: 腋毛不匹配
     wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_armpit_hair.html
   leg on another's shoulder:
-    name: leg on another's shoulder
+    name: 腿搭在别人的肩膀上
     wikiURL: https://danbooru.donmai.us/wiki_pages/leg_on_another's_shoulder.html
   holding lyre:
     name: 拿着七弦琴
@@ -1825,9 +1825,6 @@ content:
   thigh marking:
     name: 大腿标记
     wikiURL: https://danbooru.donmai.us/wiki_pages/thigh_marking.html
-  dorothea arnault (plegian) (cosplay):
-    name: 多萝西娅·阿尔诺（普莱吉亚）（角色扮演）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/dorothea_arnault_(plegian)_(cosplay).html
   mutual handjob:
     name: 互相打手枪
     wikiURL: https://danbooru.donmai.us/wiki_pages/mutual_handjob.html
@@ -2412,7 +2409,7 @@ content:
     name: 有色舌头（非正常粉色的）
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_tongue.html
   very sweaty:
-    name: very sweaty
+    name: 非常出汗
     wikiURL: https://danbooru.donmai.us/wiki_pages/very_sweaty.html
   stomach cutout:
     name: 腹部镂空
@@ -2426,7 +2423,7 @@ content:
     name: 被覆盖（但能看见纹路）的腹肌
     wikiURL: https://danbooru.donmai.us/wiki_pages/covered_abs.html
   mole under each eye:
-    name: mole under each eye
+    name: 每只眼睛下面有一颗痣
     wikiURL: https://danbooru.donmai.us/wiki_pages/mole_under_each_eye.html
   sweatband:
     name: 吸汗带
@@ -2439,7 +2436,7 @@ content:
     name: 表(流汗)无语的会话气泡
     wikiURL: https://danbooru.donmai.us/wiki_pages/spoken_sweatdrop.html
   small sweatdrop:
-    name: small sweatdrop
+    name: 小汗滴
     wikiURL: https://danbooru.donmai.us/wiki_pages/small_sweatdrop.html
   blue tongue:
     name: 蓝舌头
@@ -2522,7 +2519,7 @@ content:
     name: 舔肚子
     wikiURL: https://danbooru.donmai.us/wiki_pages/licking_stomach.html
   muscular child:
-    name: 肌肉发达的女性儿童肌肉萝莉肌肉发达的男性儿童肌肉发达的shota
+    name: 肌肉儿童/肌肉萝莉
     wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_child.html
     alias:
     - muscular female child
@@ -2590,81 +2587,146 @@ content:
     name: 荒谬的肥胖怪物
     wikiURL: https://danbooru.donmai.us/wiki_pages/absurdly_fat_mons.html
   muscular uke:
-    name: muscular uke
+    name: 肌肉尤克
     wikiURL: https://danbooru.donmai.us/wiki_pages/muscular_uke.html
   tickling stomach:
-    name: tickling stomach
+    name: 胃发痒
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_stomach.html
   comedic sweatdrop:
-    name: comedic sweatdrop
+    name: 喜剧汗滴
     wikiURL: https://danbooru.donmai.us/wiki_pages/comedic_sweatdrop.html
   poking belly:
-    name: poking belly
+    name: 戳肚子
     wikiURL: https://danbooru.donmai.us/wiki_pages/poking_belly.html
     alias:
     - belly poke
   sweat stain:
-    name: sweat stain
+    name: 汗渍
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweat_stain.html
   mole on chest:
-    name: mole on chest
+    name: 胸口有痣
     wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_chest.html
   sparkling sweat:
-    name: sparkling sweat
+    name: 闪闪发光的汗水
     wikiURL: https://danbooru.donmai.us/wiki_pages/sparkling_sweat.html
   mole on forehead:
-    name: mole on forehead
+    name: 额头上有痣
     wikiURL: https://danbooru.donmai.us/wiki_pages/mole_on_forehead.html
   grabbing another's stomach:
-    name: grabbing another's stomach
+    name: 抓住别人的肚子
     wikiURL: https://danbooru.donmai.us/wiki_pages/grabbing_another's_stomach.html
     alias:
     - grabbing another's belly
   neck blush:
-    name: neck blush
+    name: 脖子腮红
     wikiURL: https://danbooru.donmai.us/wiki_pages/neck_blush.html
   navel peek:
-    name: navel peek
+    name: 肚脐眼
     wikiURL: https://danbooru.donmai.us/wiki_pages/navel_peek.html
   stomach jewel:
-    name: stomach jewel
+    name: 胃宝石
     wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_jewel.html
   saliva trail between teeth:
-    name: saliva trail between teeth
+    name: 牙齿之间有唾液痕迹
     wikiURL: https://danbooru.donmai.us/wiki_pages/saliva_trail_between_teeth.html
   tickling navel:
-    name: tickling navel
+    name: 挠肚脐
     wikiURL: https://danbooru.donmai.us/wiki_pages/tickling_navel.html
   stomach mouth:
-    name: stomach mouth
+    name: 胃口
     wikiURL: https://danbooru.donmai.us/wiki_pages/stomach_mouth.html
   absolution (genshin impact):
-    name: absolution (genshin impact)
+    name: 赦免（原神冲击）
     wikiURL: https://danbooru.donmai.us/wiki_pages/absolution_(genshin_impact).html
   mole beside mouth:
-    name: mole beside mouth
+    name: 嘴巴旁边有颗痣
     wikiURL: https://danbooru.donmai.us/wiki_pages/mole_beside_mouth.html
   forehead blush:
-    name: forehead blush
+    name: 额头泛红
     wikiURL: https://danbooru.donmai.us/wiki_pages/forehead_blush.html
   blush visible through clothes:
-    name: blush visible through clothes
+    name: 透过衣服可以看到红晕
     wikiURL: https://danbooru.donmai.us/wiki_pages/blush_visible_through_clothes.html
   crooked teeth:
-    name: crooked teeth
+    name: 牙齿不齐
     wikiURL: https://danbooru.donmai.us/wiki_pages/crooked_teeth.html
   veiny belly:
-    name: veiny belly
+    name: 腹部有静脉
     wikiURL: https://danbooru.donmai.us/wiki_pages/veiny_belly.html
   hole in stomach:
-    name: hole in stomach
+    name: 胃里有个洞
     wikiURL: https://danbooru.donmai.us/wiki_pages/hole_in_stomach.html
   blood on tongue:
-    name: blood on tongue
+    name: 舌头上有血
     wikiURL: https://danbooru.donmai.us/wiki_pages/blood_on_tongue.html
   ass blush:
-    name: ass blush
+    name: 屁股脸红
     wikiURL: https://danbooru.donmai.us/wiki_pages/ass_blush.html
   white tongue:
-    name: white tongue
+    name: 白舌头
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_tongue.html
+  bare back:
+    name: 裸背
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bare_back.html
+  single bare leg:
+    name: 单光腿
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_bare_leg.html
+  single bare foot:
+    name: 单脚赤脚
+    wikiURL: https://danbooru.donmai.us/wiki_pages/single_bare_foot.html
+    alias:
+    - single barefoot
+  handlebar mustache:
+    name: 车把小胡子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/handlebar_mustache.html
+  capybara ears:
+    name: 水豚耳朵
+    wikiURL: https://danbooru.donmai.us/wiki_pages/capybara_ears.html
+  huge claws:
+    name: 巨大的爪子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/huge_claws.html
+  toe scrunch:
+    name: 蜷着脚趾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/toe_scrunch.html
+    alias:
+    - clenched toes
+    - curled toes
+    - toe curl
+    - toe-scrunch
+  false smile:
+    name: 假笑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/false_smile.html
+    alias:
+    - fake smile
+  smiley face:
+    name: 笑脸
+    wikiURL: https://danbooru.donmai.us/wiki_pages/smiley_face.html
+  butterfly-shaped pupils:
+    name: 蝴蝶形瞳孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly-shaped_pupils.html
+  huge eyebrows:
+    name: 巨大的眉毛
+    wikiURL: https://danbooru.donmai.us/wiki_pages/huge_eyebrows.html
+  huge pectorals:
+    name: 巨大的胸肌
+    wikiURL: https://danbooru.donmai.us/wiki_pages/huge_pectorals.html
+  brain:
+    name: 脑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brain.html
+  brain freeze:
+    name: 大脑冻结
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brain_freeze.html
+    alias:
+    - brainfreeze
+  brain injection:
+    name: 脑部注射
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brain_injection.html
+  starry skin:
+    name: 星空皮肤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/starry_skin.html
+    alias:
+    - cosmic skin
+  cart titan:
+    name: 车力巨人（特征）
+  titan shifter scars:
+    name: 巨人化面部伤痕
